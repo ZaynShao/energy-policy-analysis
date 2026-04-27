@@ -1,0 +1,10 @@
+{
+  "url": "https://sndrc.shaanxi.gov.cn/zfxxgk/zc/fgwj/sfzggwwj/2021/202304/P020241106545906245718.docx",
+  "title": "[DOC] 陕西省电动汽车充电基础设施“十四五”发展规划",
+  "source_type": "A",
+  "source_domain": "sndrc.shaanxi.gov.cn",
+  "fetched_at": "2026-04-25T01:18:07.114528",
+  "hash": "0d179cfebdf8",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

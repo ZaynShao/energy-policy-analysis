@@ -1,0 +1,18 @@
+{
+  "hash": "b631fb4033e0",
+  "url": "https://www.bypc.gov.cn/zfxxgk/bmdwxzjd/bmdw/qswjn/fdzdgknr/lzyj/bmwj/art/2025/art_b08aeff23c89479a925f8d14ba6a0e1b.html",
+  "title_raw": "关于开展2025年全区成品油流通市场集中整治的通知 - 平川区人民政府",
+  "content_len": 3539,
+  "文号": "市商发〔2025〕24号",
+  "发布日期": "2025-06-18",
+  "业务标签_粗筛": [
+    "加油站"
+  ],
+  "need_llm_fields": [
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

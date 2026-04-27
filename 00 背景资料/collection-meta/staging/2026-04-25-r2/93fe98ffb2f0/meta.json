@@ -1,0 +1,10 @@
+{
+  "url": "https://fgw.hubei.gov.cn/fbjd/xxgkml/jgzn/wgdw/nyj/nyfzzlc/tzgg/201609/P020160913591478585994.pdf",
+  "title": "[PDF] 国家能源局综合司关于申报多能互补集成优化",
+  "source_type": "D",
+  "source_domain": "fgw.hubei.gov.cn",
+  "fetched_at": "2026-04-25T10:31:18.745068",
+  "hash": "93fe98ffb2f0",
+  "status": "fail",
+  "error": "HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Max retries exceeded with url: /v1/scrape (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+}

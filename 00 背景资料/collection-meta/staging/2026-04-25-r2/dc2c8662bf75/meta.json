@@ -1,0 +1,10 @@
+{
+  "url": "http://jtysj.rizhao.gov.cn/art/2025/11/21/art_31783_10319896.html",
+  "title": "关于拟分配2024年度城市交通发展奖励资金（部分涨价补贴）出租 ...",
+  "source_type": "A",
+  "source_domain": "jtysj.rizhao.gov.cn",
+  "fetched_at": "2026-04-25T10:32:27.989879",
+  "hash": "dc2c8662bf75",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

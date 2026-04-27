@@ -1,0 +1,10 @@
+{
+  "url": "https://scjgj.xinjiang.gov.cn/xjaic/tzgg/202401/98360fe2be8544fbbeeac2fbf9592eff/files/%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%B1%95%E6%94%B9%E9%9D%A9%E5%A7%94%E7%AD%89%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8E%E7%94%B5%E7%BD%91%E8%9E%8D%E5%90%88%E4%BA%92%E5%8A%A8%E7%9A%84%E5%AE%9E%E6%96%BD%E6%84%8F%E8%A7%81.pdf",
+  "title": "[PDF] 国家发展改革委等部门关于加强新能源汽车与电网融合互动的实施意见",
+  "source_type": "D",
+  "source_domain": "scjgj.xinjiang.gov.cn",
+  "fetched_at": "2026-04-25T10:29:23.168365",
+  "hash": "8c93e8a3b27b",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

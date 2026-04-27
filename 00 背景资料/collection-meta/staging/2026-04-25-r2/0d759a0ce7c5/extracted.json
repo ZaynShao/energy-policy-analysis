@@ -1,0 +1,23 @@
+{
+  "hash": "0d759a0ce7c5",
+  "url": "https://www.yandu.gov.cn/module/download/downfile.jsp?classid=0&filename=70230bca5b944915b02eb6cf3f1b93a6.pdf",
+  "title_raw": "[PDF] 推动大规模设备更新和消费品以旧换新盐都行动方案",
+  "content_len": 22807,
+  "发布日期": "2023-06-19",
+  "业务标签_粗筛": [
+    "充电基础设施",
+    "碳达峰",
+    "节能降碳",
+    "新能源汽车",
+    "氢能",
+    "设备更新"
+  ],
+  "need_llm_fields": [
+    "文号",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

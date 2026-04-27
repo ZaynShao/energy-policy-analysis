@@ -1,0 +1,10 @@
+{
+  "url": "https://www.wuhan.gov.cn/zwgk/xxgk/zcjd/bmjd/202511/t20251118_2679664.shtml",
+  "title": "【部门】《市人民政府关于印发武汉市氢能产业发展三年行动方案 ...",
+  "source_type": "A",
+  "source_domain": "www.wuhan.gov.cn",
+  "fetched_at": "2026-04-25T10:31:13.736108",
+  "hash": "83d4bea67b6b",
+  "status": "fail",
+  "error": "HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Max retries exceeded with url: /v1/scrape (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+}

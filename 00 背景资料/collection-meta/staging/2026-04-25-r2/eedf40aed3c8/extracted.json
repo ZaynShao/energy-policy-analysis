@@ -1,0 +1,20 @@
+{
+  "hash": "eedf40aed3c8",
+  "url": "http://www.huichang.gov.cn/hcxxxgk/qdglhc35/202602/7c1f57b0f1d74464916b80ffbd4f77f7/files/1e926748004845e39e3a72c191b7f66f.pdf",
+  "title_raw": "[PDF] 关于开展2025年度全市成品油零售经营企业年检工作的通知",
+  "content_len": 5096,
+  "业务标签_粗筛": [
+    "充电基础设施",
+    "加油站",
+    "新能源汽车"
+  ],
+  "need_llm_fields": [
+    "文号",
+    "发布日期",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

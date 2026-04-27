@@ -1,0 +1,549 @@
+![](https://www.beijing.gov.cn/gongkai/guihua/wngh/qtgh/202011/t20201102_2127304.html)
+
+[![首都之窗-北京市人民政府](https://www.beijing.gov.cn/images/logo_ch_20191009.png)](https://www.beijing.gov.cn/)
+
+[**用户登录** **登录**](https://www.beijing.gov.cn/hudong/yonghu/uSpace "用户登录")
+
+[**进入我的** 专属空间](https://bjt.beijing.gov.cn/renzheng/open/login/goUserLogin?client_id=100100001058&redirect_uri=https://banshi.beijing.gov.cn/bjspacenew/web/login/sso/person/in&response_type=code&scope=user_info&state= "") \> 退出
+
+无障碍 [搜索](https://www.beijing.gov.cn/so/?siteCode=1100000088&tab=all) [繁体](https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/index.html "繁体版")/[简体](https://www.beijing.gov.cn/ "简体版")
+
+[ENGLISH](http://english.beijing.gov.cn/ "English Version")
+
+- 한국어 [韩语版](http://korean.beijing.gov.cn/ "韩语版")
+- 日本語 [日语版](http://japanese.beijing.gov.cn/ "日语版")
+- DEUTSCH [德语版](http://german.beijing.gov.cn/ "德语版")
+- FRANÇAIS [法语版](http://french.beijing.gov.cn/ "法语版")
+- РУССКИЙ ЯЗЫК [俄语版](http://russian.beijing.gov.cn/ "俄语版")
+- ESPAÑOL [西班牙语版](http://spanish.beijing.gov.cn/ "西班牙语版")
+- العربية [ا阿拉伯语版](http://arabic.beijing.gov.cn/ "阿拉伯语版")
+- PORTUGUÊS [葡萄牙语版](https://portuguese.beijing.gov.cn/ "葡萄牙语版")
+- ITALIANO [意大利语版](https://italian.beijing.gov.cn/ "意大利语版")
+
+[智能问答](https://www.beijing.gov.cn/jj/ "智能问答")
+
+- [要闻动态](https://www.beijing.gov.cn/ywdt/ "要闻动态")
+- [政务公开](https://www.beijing.gov.cn/gongkai/ "政务公开")
+- [政务服务](https://banshi.beijing.gov.cn/ "政务服务")
+- [政策服务](https://www.beijing.gov.cn/zhengce/ "政策服务")
+- [政民互动](https://www.beijing.gov.cn/hudong/ "政民互动")
+- [人文北京](https://www.beijing.gov.cn/renwen/ "人文北京")
+
+![](https://www.beijing.gov.cn/images/common_more_20250609.png)
+
+![](https://www.beijing.gov.cn/images/common_close_20250609.png)
+
+### 网站地图
+
+要闻动态
+
+- [党中央精神](https://www.beijing.gov.cn/ywdt/dzyjs/)
+- [国务院信息](http://www.gov.cn/pushinfo/v150203/index.htm)
+- [中央部委动态](https://www.beijing.gov.cn/ywdt/zybwdt/)
+- [北京要闻](https://www.beijing.gov.cn/ywdt/yaowen/)
+- [会议信息](https://www.beijing.gov.cn/ywdt/hyxx/)
+- [部门动态](https://www.beijing.gov.cn/ywdt/gzdt/)
+- [各区热点](https://www.beijing.gov.cn/ywdt/gqrd/)
+
+政务公开
+
+- [市领导](https://www.beijing.gov.cn/gongkai/sld/)
+- [机构职能](https://www.beijing.gov.cn/gongkai/zfxxgk/fdzdgknr/jgzn/)
+- [政策服务](https://www.beijing.gov.cn/zhengce/)
+- [政策兑现](https://zhengce.beijing.gov.cn/)
+- [政策解读](https://www.beijing.gov.cn/so/zcdh/zcjd)
+- [回应关切](https://www.beijing.gov.cn/gongkai/hygq/)
+- [决策公开](https://www.beijing.gov.cn/ywdt/bjszfcwhy/)
+- [专题公开](https://www.beijing.gov.cn/gongkai/gkzt/)
+
+政务服务
+
+- [个人服务](https://banshi.beijing.gov.cn/bjzw/grfw.html?serviceObject=1001&servicePlaceId=110000000000)
+- [法人服务](https://banshi.beijing.gov.cn/bjzw/frfw.html?serviceObject=1002&servicePlaceId=110000000000)
+- [部门服务](https://banshi.beijing.gov.cn/bjzw/bmfw.html?serviceObject=1003&servicePlaceId=110000000000)
+- [便民服务](https://www.beijing.gov.cn/fuwu/bmfw/)
+- [利企服务](https://www.beijing.gov.cn/fuwu/lqfw/)
+- [投资项目](http://tzxm.beijing.gov.cn/)
+- [中介服务](http://zjfw.beijing.gov.cn/?servicePlaceId=18)
+- [阳光政务](https://banshi.beijing.gov.cn/bjzw/ygzw.html?servicePlaceId=110000000000)
+
+政民互动
+
+- [12345网上接诉即办](https://www.beijing.gov.cn/hudong/hdjl/sindex/hdjl-yhxz-ts.html)
+- [我要咨询](https://www.beijing.gov.cn/jj/)
+- [我要建议](https://www.beijing.gov.cn/hudong/hdjl/sindex/hdjl-yhxz-jy.html)
+- [参与调查](https://www.beijing.gov.cn/hudong/wsdc/)
+- [在线访谈](https://www.beijing.gov.cn/shipin/)
+- [图说互动](https://www.beijing.gov.cn/hudong/tushuo/)
+
+人文北京
+
+- [北京概况](https://www.beijing.gov.cn/renwen/bjgk/)
+- [十六区概览](https://www.beijing.gov.cn/renwen/bjgk/xzqh/)
+- [文化活动](https://www.beijing.gov.cn/so/zcdh/cshd)
+- [设施场所](https://www.beijing.gov.cn/so/zcdh/rwdw)
+- [绿色北京](https://www.beijing.gov.cn/renwen/zt/stbj/)
+- [图说北京](https://www.beijing.gov.cn/tsbj/)
+
+多语种
+
+- [ENGLISH](http://english.beijing.gov.cn/)
+- [한국어](http://korean.beijing.gov.cn/)
+- [日本語](http://japanese.beijing.gov.cn/)
+- [DEUTSCH](http://german.beijing.gov.cn/)
+- [FRANÇAIS](http://french.beijing.gov.cn/)
+- [РУССКИЙ ЯЗЫК](http://russian.beijing.gov.cn/)
+- [ESPAÑOL](http://spanish.beijing.gov.cn/)
+- [العربية](http://arabic.beijing.gov.cn/)
+- [PORTUGUÊS](https://portuguese.beijing.gov.cn/)
+- [ITALIANO](https://italian.beijing.gov.cn/)
+
+![](https://www.beijing.gov.cn/images/common_gotop_20250609.png)
+
+回到顶部
+
+我在听，请说话(10s)
+
+抱歉，没听清，请再说一遍吧
+
+[政务公开](https://www.beijing.gov.cn/gongkai/ "政务公开")　>　[其他规划](https://www.beijing.gov.cn/gongkai/guihua/wngh/qtgh/ "其他规划")
+
+1. \[主题分类\] \-\-\--经济、交通/机械制造
+2. \[规划分类\] 其他规划
+3. \[发文单位\] \-\-\--国务院办公厅
+4. \[发布日期\] 2020-11-02 17:21
+
+国办发〔2020〕39号
+
+各省、自治区、直辖市人民政府，国务院各部委、各直属机构：
+
+《新能源汽车产业发展规划(2021—2035年)》已经国务院同意，现印发给你们，请认真贯彻执行。
+
+国务院办公厅
+
+2020年10月20日
+
+**新能源汽车产业发展规划(2021—2035年)**
+
+发展新能源汽车是我国从汽车大国迈向汽车强国的必由之路，是应对气候变化、推动绿色发展的战略举措。2012年国务院发布《节能与新能源汽车产业发展规划(2012—2020年)》以来，我国坚持纯电驱动战略取向，新能源汽车产业发展取得了巨大成就，成为世界汽车产业发展转型的重要力量之一。与此同时，我国新能源汽车发展也面临核心技术创新能力不强、质量保障体系有待完善、基础设施建设仍显滞后、产业生态尚不健全、市场竞争日益加剧等问题。为推动新能源汽车产业高质量发展，加快建设汽车强国，制定本规划。
+
+**第一章　发展趋势**
+
+第一节　新能源汽车为世界经济发展注入新动能
+
+当前，全球新一轮科技革命和产业变革蓬勃发展，汽车与能源、交通、信息通信等领域有关技术加速融合，电动化、网联化、智能化成为汽车产业的发展潮流和趋势。新能源汽车融汇新能源、新材料和互联网、大数据、人工智能等多种变革性技术，推动汽车从单纯交通工具向移动智能终端、储能单元和数字空间转变，带动能源、交通、信息通信基础设施改造升级，促进能源消费结构优化、交通体系和城市运行智能化水平提升，对建设清洁美丽世界、构建人类命运共同体具有重要意义。近年来，世界主要汽车大国纷纷加强战略谋划、强化政策支持，跨国汽车企业加大研发投入、完善产业布局，新能源汽车已成为全球汽车产业转型发展的主要方向和促进世界经济持续增长的重要引擎。
+
+第二节　我国新能源汽车进入加速发展新阶段
+
+汽车产品形态、交通出行模式、能源消费结构和社会运行方式正在发生深刻变革，为新能源汽车产业提供了前所未有的发展机遇。经过多年持续努力，我国新能源汽车产业技术水平显著提升、产业体系日趋完善、企业竞争力大幅增强，2015年以来产销量、保有量连续五年居世界首位，产业进入叠加交汇、融合发展新阶段。必须抢抓战略机遇，巩固良好势头，充分发挥基础设施、信息通信等领域优势，不断提升产业核心竞争力，推动新能源汽车产业高质量可持续发展。
+
+第三节　融合开放成为新能源汽车发展的新特征
+
+随着汽车动力来源、生产运行方式、消费使用模式全面变革，新能源汽车产业生态正由零部件、整车研发生产及营销服务企业之间的“链式关系”，逐步演变成汽车、能源、交通、信息通信等多领域多主体参与的“网状生态”。相互赋能、协同发展成为各类市场主体发展壮大的内在需求，跨行业、跨领域融合创新和更加开放包容的国际合作成为新能源汽车产业发展的时代特征，极大地增强了产业发展动力，激发了市场活力，推动形成互融共生、合作共赢的产业发展新格局。
+
+**第二章　总体部署**
+
+第一节　总体思路
+
+以习近平新时代中国特色社会主义思想为指引，坚持创新、协调、绿色、开放、共享的发展理念，以深化供给侧结构性改革为主线，坚持电动化、网联化、智能化发展方向，深入实施发展新能源汽车国家战略，以融合创新为重点，突破关键核心技术，提升产业基础能力，构建新型产业生态，完善基础设施体系，优化产业发展环境，推动我国新能源汽车产业高质量可持续发展，加快建设汽车强国。
+
+第二节　基本原则
+
+市场主导。充分发挥市场在资源配置中的决定性作用，强化企业在技术路线选择、生产服务体系建设等方面的主体地位；更好发挥政府在战略规划引导、标准法规制定、质量安全监管、市场秩序维护、绿色消费引导等方面作用，为产业发展营造良好环境。
+
+创新驱动。深入实施创新驱动发展战略，建立以企业为主体、市场为导向、产学研用协同的技术创新体系，完善激励和保护创新的制度环境，鼓励多种技术路线并行发展，支持各类主体合力攻克关键核心技术、加大商业模式创新力度，形成新型产业创新生态。
+
+协调推进。完善横向协同、纵向贯通的协调推进机制，促进新能源汽车与能源、交通、信息通信深度融合，统筹推进技术研发、标准制定、推广应用和基础设施建设，把超大规模市场优势转化为产业优势。
+
+开放发展。践行开放融通、互利共赢的合作观，扩大高水平对外开放，以开放促改革、促发展、促创新；坚持“引进来”与“走出去”相结合，加强国际合作，积极参与国际竞争，培育新能源汽车产业新优势，深度融入全球产业链和价值链体系。
+
+第三节　发展愿景
+
+到2025年，我国新能源汽车市场竞争力明显增强，动力电池、驱动电机、车用操作系统等关键技术取得重大突破，安全水平全面提升。纯电动乘用车新车平均电耗降至12.0千瓦时/百公里，新能源汽车新车销售量达到汽车新车销售总量的20%左右，高度自动驾驶汽车实现限定区域和特定场景商业化应用，充换电服务便利性显著提高。
+
+力争经过15年的持续努力，我国新能源汽车核心技术达到国际先进水平，质量品牌具备较强国际竞争力。纯电动汽车成为新销售车辆的主流，公共领域用车全面电动化，燃料电池汽车实现商业化应用，高度自动驾驶汽车实现规模化应用，充换电服务网络便捷高效，氢燃料供给体系建设稳步推进，有效促进节能减排水平和社会运行效率的提升。
+
+**第三章　提高技术创新能力**
+
+第一节　深化“三纵三横”研发布局
+
+强化整车集成技术创新。以纯电动汽车、插电式混合动力(含增程式)汽车、燃料电池汽车为“三纵”，布局整车技术创新链。研发新一代模块化高性能整车平台，攻关纯电动汽车底盘一体化设计、多能源动力系统集成技术，突破整车智能能量管理控制、轻量化、低摩阻等共性节能技术，提升电池管理、充电连接、结构设计等安全技术水平，提高新能源汽车整车综合性能。
+
+提升产业基础能力。以动力电池与管理系统、驱动电机与电力电子、网联化与智能化技术为“三横”，构建关键零部件技术供给体系。开展先进模块化动力电池与燃料电池系统技术攻关，探索新一代车用电机驱动系统解决方案，加强智能网联汽车关键零部件及系统开发，突破计算和控制基础平台技术、氢燃料电池汽车应用支撑技术等瓶颈，提升基础关键技术、先进基础工艺、基础核心零部件、关键基础材料等研发能力。
+
+![专栏1.jpg](https://www.beijing.gov.cn/gongkai/guihua/wngh/qtgh/202011/W020201102630829378403.jpg)
+
+第二节　加快建设共性技术创新平台
+
+建立健全龙头企业、国家重点实验室、国家制造业创新中心联合研发攻关机制，聚焦核心工艺、专用材料、关键零部件、制造装备等短板弱项，从不同技术路径积极探索，提高关键共性技术供给能力。引导汽车、能源、交通、信息通信等跨领域合作，建立面向未来出行的新能源汽车与智慧能源、智能交通融合创新平台，联合攻关基础交叉关键技术，提升新能源汽车及关联产业融合创新能力。
+
+第三节　提升行业公共服务能力
+
+依托行业协会、创新中心等机构统筹推进各类创新服务平台共建共享，提高技术转移、信息服务、人才培训、项目融资、国际交流等公共服务支撑能力。应用虚拟现实、大数据、人工智能等技术，建立汽车电动化、网联化、智能化虚拟仿真和测试验证平台，提升整车、关键零部件的计量测试、性能评价与检测认证能力。
+
+**第四章　构建新型产业生态**
+
+第一节　支持生态主导型企业发展
+
+鼓励新能源汽车、能源、交通、信息通信等领域企业跨界协同，围绕多元化生产与多样化应用需求，通过开放合作和利益共享，打造涵盖解决方案、研发生产、使用保障、运营服务等产业链关键环节的生态主导型企业。在产业基础好、创新要素集聚的地区，发挥龙头企业带动作用，培育若干上下游协同创新、大中小企业融通发展、具有国际影响力和竞争力的新能源汽车产业集群，提升产业链现代化水平。
+
+第二节　促进关键系统创新应用
+
+加快车用操作系统开发应用。以整车企业需求为牵引，发挥龙头企业、国家制造业创新中心等创新平台作用，坚持软硬协同攻关，集中开发车用操作系统。围绕车用操作系统，构建整车、关键零部件、基础数据与软件等领域市场主体深度合作的开发与应用生态。通过产品快速迭代，扩大用户规模，加快车用操作系统产业化应用。
+
+![专栏2.jpg](https://www.beijing.gov.cn/gongkai/guihua/wngh/qtgh/202011/W020201102630829446392.jpg)
+
+推动动力电池全价值链发展。鼓励企业提高锂、镍、钴、铂等关键资源保障能力。建立健全动力电池模块化标准体系，加快突破关键制造装备，提高工艺水平和生产效率。完善动力电池回收、梯级利用和再资源化的循环利用体系，鼓励共建共用回收渠道。建立健全动力电池运输仓储、维修保养、安全检验、退役退出、回收利用等环节管理制度，加强全生命周期监管。
+
+![专栏3.jpg](https://www.beijing.gov.cn/gongkai/guihua/wngh/qtgh/202011/W020201102630829497628.jpg)
+
+第三节　提升智能制造水平
+
+推进智能化技术在新能源汽车研发设计、生产制造、仓储物流、经营管理、售后服务等关键环节的深度应用。加快新能源汽车智能制造仿真、管理、控制等核心工业软件开发和集成，开展智能工厂、数字化车间应用示范。加快产品全生命周期协同管理系统推广应用，支持设计、制造、服务一体化示范平台建设，提升新能源汽车全产业链智能化水平。
+
+第四节　强化质量安全保障
+
+推进质量品牌建设。开展新能源汽车产品质量提升行动，引导企业加强设计、制造、测试验证等全过程可靠性技术开发应用，充分利用互联网、大数据、区块链等先进技术，健全产品全生命周期质量控制和追溯机制。引导企业强化品牌发展战略，以提升质量和服务水平为重点加强品牌建设。
+
+健全安全保障体系。落实企业负责、政府监管、行业自律、社会监督相结合的安全生产机制。强化企业对产品安全的主体责任，落实生产者责任延伸制度，加强对整车及动力电池、电控等关键系统的质量安全管理、安全状态监测和维修保养检测。健全新能源汽车整车、零部件以及维修保养检测、充换电等安全标准和法规制度，加强安全生产监督管理和新能源汽车安全召回管理。鼓励行业组织加强技术交流，梳理总结经验，指导企业不断提升安全水平。
+
+**第五章　推动产业融合发展**
+
+第一节　推动新能源汽车与能源融合发展
+
+加强新能源汽车与电网(V2G)能量互动。加强高循环寿命动力电池技术攻关，推动小功率直流化技术应用。鼓励地方开展V2G示范应用，统筹新能源汽车充放电、电力调度需求，综合运用峰谷电价、新能源汽车充电优惠等政策，实现新能源汽车与电网能量高效互动，降低新能源汽车用电成本，提高电网调峰调频、安全应急等响应能力。
+
+促进新能源汽车与可再生能源高效协同。推动新能源汽车与气象、可再生能源电力预测预报系统信息共享与融合，统筹新能源汽车能源利用与风力发电、光伏发电协同调度，提升可再生能源应用比例。鼓励“光储充放”(分布式光伏发电—储能系统—充放电)多功能综合一体站建设。支持有条件的地区开展燃料电池汽车商业化示范运行。
+
+第二节　推动新能源汽车与交通融合发展
+
+发展一体化智慧出行服务。加快建设涵盖前端信息采集、边缘分布式计算、云端协同控制的新型智能交通管控系统。加快新能源汽车在分时租赁、城市公交、出租汽车、场地用车等领域的应用，优化公共服务领域新能源汽车使用环境。引导汽车生产企业和出行服务企业共建“一站式”服务平台，推进自动代客泊车技术发展及应用。
+
+构建智能绿色物流运输体系。推动新能源汽车在城市配送、港口作业等领域应用，为新能源货车通行提供便利。发展“互联网+”高效物流，创新智慧物流营运模式，推广网络货运、挂车共享等新模式应用，打造安全高效的物流运输服务新业态。
+
+第三节　推动新能源汽车与信息通信融合发展
+
+推进以数据为纽带的“人—车—路—云”高效协同。基于汽车感知、交通管控、城市管理等信息，构建“人—车—路—云”多层数据融合与计算处理平台，开展特定场景、区域及道路的示范应用，促进新能源汽车与信息通信融合应用服务创新。
+
+打造网络安全保障体系。健全新能源汽车网络安全管理制度，构建统一的汽车身份认证和安全信任体系，推动密码技术深入应用，加强车载信息系统、服务平台及关键电子零部件安全检测，强化新能源汽车数据分级分类和合规应用管理，完善风险评估、预警监测、应急响应机制，保障“车端—传输管网—云端”各环节信息安全。
+
+第四节　加强标准对接与数据共享
+
+建立新能源汽车与相关产业融合发展的综合标准体系，明确车用操作系统、车用基础地图、车桩信息共享、云控基础平台等技术接口标准。建立跨行业、跨领域的综合大数据平台，促进各类数据共建共享与互联互通。
+
+![专栏4.jpg](https://www.beijing.gov.cn/gongkai/guihua/wngh/qtgh/202011/W020201102630829532469.jpg)
+
+**第六章　完善基础设施体系**
+
+第一节　大力推动充换电网络建设
+
+加快充换电基础设施建设。科学布局充换电基础设施，加强与城乡建设规划、电网规划及物业管理、城市停车等的统筹协调。依托“互联网+”智慧能源，提升智能化水平，积极推广智能有序慢充为主、应急快充为辅的居民区充电服务模式，加快形成适度超前、快充为主、慢充为辅的高速公路和城乡公共充电网络，鼓励开展换电模式应用，加强智能有序充电、大功率充电、无线充电等新型充电技术研发，提高充电便利性和产品可靠性。
+
+提升充电基础设施服务水平。引导企业联合建立充电设施运营服务平台，实现互联互通、信息共享与统一结算。加强充电设备与配电系统安全监测预警等技术研发，规范无线充电设施电磁频谱使用，提高充电设施安全性、一致性、可靠性，提升服务保障水平。
+
+鼓励商业模式创新。结合老旧小区改造、城市更新等工作，引导多方联合开展充电设施建设运营，支持居民区多车一桩、临近车位共享等合作模式发展。鼓励充电场站与商业地产相结合，建设停车充电一体化服务设施，提升公共场所充电服务能力，拓展增值服务。完善充电设施保险制度，降低企业运营和用户使用风险。
+
+第二节　协调推动智能路网设施建设
+
+推进新一代无线通信网络建设，加快基于蜂窝通信技术的车辆与车外其他设备间的无线通信(C—V2X)标准制定和技术升级。推进交通标志标识等道路基础设施数字化改造升级，加强交通信号灯、交通标志标线、通信设施、智能路侧设备、车载终端之间的智能互联，推进城市道路基础设施智能化建设改造相关标准制定和管理平台建设。加快差分基站建设，推动北斗等卫星导航系统在高精度定位领域应用。
+
+第三节　有序推进氢燃料供给体系建设
+
+提高氢燃料制储运经济性。因地制宜开展工业副产氢及可再生能源制氢技术应用，加快推进先进适用储氢材料产业化。开展高压气态、深冷气态、低温液态及固态等多种形式储运技术示范应用，探索建设氢燃料运输管道，逐步降低氢燃料储运成本。健全氢燃料制储运、加注等标准体系。加强氢燃料安全研究，强化全链条安全监管。
+
+推进加氢基础设施建设。建立完善加氢基础设施的管理规范。引导企业根据氢燃料供给、消费需求等合理布局加氢基础设施，提升安全运行水平。支持利用现有场地和设施，开展油、气、氢、电综合供给服务。
+
+![专栏5.jpg](https://www.beijing.gov.cn/gongkai/guihua/wngh/qtgh/202011/W020201102630829582949.jpg)
+
+**第七章　深化开放合作**
+
+第一节　扩大开放和交流合作
+
+加强与国际通行经贸规则对接，全面实行准入前国民待遇加负面清单管理制度，对新能源市场主体一视同仁，建设市场化、法治化、国际化营商环境。发挥多双边合作机制、高层对话机制作用，支持国内外企业、科研院所、行业机构开展研发设计、贸易投资、基础设施、技术标准、人才培训等领域的交流合作。积极参与国际规则和标准制定，促进形成开放、透明、包容的新能源汽车国际化市场环境，打造国际合作新平台，增添共同发展新动力。
+
+第二节　加快融入全球价值链
+
+引导企业制定国际化发展战略，不断提高国际竞争能力，加大国际市场开拓力度，推动产业合作由生产制造环节向技术研发、市场营销等全链条延伸。鼓励企业充分利用境内外资金，建立国际化消费信贷体系。支持企业建立国际营销服务网络，在重点市场共建海外仓储和售后服务中心等服务平台。健全法律咨询、检测认证、人才培训等服务保障体系，引导企业规范海外经营行为，提升合规管理水平。
+
+**第八章　保障措施**
+
+第一节　深化行业管理改革
+
+深入推进“放管服”改革，进一步放宽市场准入，实施包容审慎监管，促进新业态、新模式健康有序发展。完善企业平均燃料消耗量与新能源汽车积分并行管理办法，有效承接财政补贴政策，研究建立与碳交易市场衔接机制。加强事中事后监管，夯实地方主体责任，遏制盲目上马新能源汽车整车制造项目等乱象。推动完善道路机动车辆生产管理相关法规，建立健全僵尸企业退出机制，加强企业准入条件保持情况监督检查，促进优胜劣汰。充分发挥市场机制作用，支持优势企业兼并重组、做大做强，进一步提高产业集中度。
+
+第二节　健全政策法规体系
+
+落实新能源汽车相关税收优惠政策，优化分类交通管理及金融服务等措施。推动充换电、加氢等基础设施科学布局、加快建设，对作为公共设施的充电桩建设给予财政支持。破除地方保护，建立统一开放公平市场体系。鼓励地方政府加大对公共服务、共享出行等领域车辆运营的支持力度，给予新能源汽车停车、充电等优惠政策。2021年起，国家生态文明试验区、大气污染防治重点区域的公共领域新增或更新公交、出租、物流配送等车辆中新能源汽车比例不低于80%。制定将新能源汽车研发投入纳入国有企业考核体系的具体办法。加快完善适应智能网联汽车发展要求的道路交通、事故责任、数据使用等政策法规。加快推动动力电池回收利用立法。
+
+第三节　加强人才队伍建设
+
+加快建立适应新能源汽车与相关产业融合发展需要的人才培养机制，编制行业紧缺人才目录，优化汽车电动化、网联化、智能化领域学科布局，引导高等院校、科研院所、企业加大国际化人才引进和培养力度。弘扬企业家精神与工匠精神，树立正向激励导向，实行股权、期权等多元化激励措施。
+
+第四节　强化知识产权保护
+
+深入实施国家知识产权战略，鼓励科研人员开发新能源汽车领域高价值核心知识产权成果。严格执行知识产权保护制度，加大对侵权行为的执法力度。构建新能源汽车知识产权运营服务体系，加强专利运用转化平台建设，建立互利共享、合作共赢的专利运营模式。
+
+第五节　加强组织协同
+
+充分发挥节能与新能源汽车产业发展部际联席会议制度和地方协调机制作用，强化部门协同和上下联动，制定年度工作计划和部门任务分工，加强新能源汽车与能源、交通、信息通信等行业在政策规划、标准法规等方面的统筹，抓紧抓实抓细规划确定的重大任务和重点工作。各有关部门要围绕规划目标任务，根据职能分工制定本部门工作计划和配套政策措施。各地区要结合本地实际切实抓好落实，优化产业布局，避免重复建设。行业组织要充分发挥连接企业与政府的桥梁作用，协调组建行业跨界交流协作平台。工业和信息化部要会同有关部门深入调查研究，加强跟踪指导，推动规划顺利实施。
+
+分享：
+
+相关解读
+
+- [国办印发《新能源汽车产业发展规划(2021-2035年)》 到2035年纯电动汽车成新销售车辆主流](https://www.beijing.gov.cn/zhengce/zcjd/202011/t20201103_2127440.html "国办印发《新能源汽车产业发展规划(2021-2035年)》 到2035年纯电动汽车成新销售车辆主流")
+
+相关政策
+
+中国政府网及国务院部门网站 _\|_
+
+- [中国政府网](http://www.gov.cn/ "中国政府网")
+- [外交部](http://www.fmprc.gov.cn/web/ "外交部")
+- [国防部](http://www.mod.gov.cn/ "国防部")
+- [国家发展和改革委员会](http://www.ndrc.gov.cn/ "国家发展和改革委员会")
+- [教育部](http://www.moe.gov.cn/ "教育部")
+- [科学技术部](http://www.most.gov.cn/ "科学技术部")
+- [工业和信息化部](http://www.miit.gov.cn/ "工业和信息化部")
+- [国家民族事务委员会](https://www.neac.gov.cn/ "国家民族事务委员会")
+- [公安部](http://www.mps.gov.cn/ "公安部")
+- 国家安全部
+- [民政部](http://www.mca.gov.cn/ "民政部")
+- [司法部](http://www.moj.gov.cn/ "司法部")
+- [财政部](http://www.mof.gov.cn/index.htm "财政部")
+- [人力资源和社会保障部](http://www.mohrss.gov.cn/ "人力资源和社会保障部")
+- [自然资源部](http://www.mnr.gov.cn/ "自然资源部")
+- [生态环境部](http://www.mee.gov.cn/ "生态环境部")
+- [住房和城乡建设部](http://www.mohurd.gov.cn/ "住房和城乡建设部")
+- [交通运输部](http://www.mot.gov.cn/ "交通运输部")
+- [水利部](http://www.mwr.gov.cn/ "水利部")
+- [农业农村部](http://www.moa.gov.cn/ "农业农村部")
+- [商务部](http://www.mofcom.gov.cn/ "商务部")
+- [文化和旅游部](http://www.mct.gov.cn/ "文化和旅游部")
+- [国家卫生健康委员会](http://www.nhc.gov.cn/ "国家卫生健康委员会")
+- [退役军人事务部](http://www.mva.gov.cn/ "退役军人事务部")
+- [应急管理部](http://www.mem.gov.cn/ "应急管理部")
+- [中国人民银行](http://www.pbc.gov.cn/ "中国人民银行")
+- [审计署](http://www.audit.gov.cn/ "审计署")
+- [国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language/ "国家语言文字工作委员会")
+- [国家航天局](http://www.cnsa.gov.cn/ "国家航天局")
+- [国家原子能机构](http://www.caea.gov.cn/ "国家原子能机构")
+- 国家外国专家局
+- 国家海洋局
+- [国家核安全局](http://nnsa.mee.gov.cn/ "国家核安全局")
+- 国家乡村振兴局
+- [国务院国有资产监督管理委员会](http://www.sasac.gov.cn/ "国务院国有资产监督管理委员会")
+- [海关总署](http://www.customs.gov.cn/ "海关总署")
+- [国家税务总局](http://www.chinatax.gov.cn/ "国家税务总局")
+- [国家市场监督管理总局](http://www.samr.gov.cn/ "国家市场监督管理总局")
+- [国家金融监督管理总局](https://www.nfra.gov.cn/cn/view/pages/index/index.html "国家金融监督管理总局")
+- [中国证券监督管理委员会](http://www.csrc.gov.cn/ "中国证券监督管理委员会")
+- [国家广播电视总局](http://www.nrta.gov.cn/ "国家广播电视总局")
+- [国家体育总局](http://www.sport.gov.cn/ "国家体育总局")
+- [国家信访局](https://www.gjxfj.gov.cn/gjxfj/index.htm "国家信访局")
+- [国家统计局](http://www.stats.gov.cn/ "国家统计局")
+- [国家知识产权局](https://www.cnipa.gov.cn/ "国家知识产权局")
+- [国家国际发展合作署](http://www.cidca.gov.cn/ "国家国际发展合作署")
+- [国家医疗保障局](http://www.nhsa.gov.cn/ "国家医疗保障局")
+- [国务院参事室](http://www.counsellor.gov.cn/ "国务院参事室")
+- [国家机关事务管理局](http://www.ggj.gov.cn/ "国家机关事务管理局")
+- 国家反垄断局
+- [国家认证认可监督管理委员会](http://www.cnca.gov.cn/ "国家认证认可监督管理委员会")
+- [国家标准化管理委员会](http://www.sac.gov.cn/ "国家标准化管理委员会")
+- [国家新闻出版署（国家版权局）](http://www.ncac.gov.cn/ "国家新闻出版署（国家版权局）")
+- [国家宗教事务局](https://www.sara.gov.cn/ "国家宗教事务局")
+- [国务院研究室](http://www.gov.cn/guoqing/2018-06/22/content_5300522.htm "国务院研究室")
+- [国务院侨务办公室](http://www.gqb.gov.cn/ "国务院侨务办公室")
+- [国务院港澳事务办公室](http://www.hmo.gov.cn/ "国务院港澳事务办公室")
+- [国务院台湾事务办公室](http://www.gwytb.gov.cn/ "国务院台湾事务办公室")
+- [国家互联网信息办公室](http://www.cac.gov.cn/ "国家互联网信息办公室")
+- [国务院新闻办公室](http://www.scio.gov.cn/index.htm "国务院新闻办公室")
+- [新华通讯社](http://203.192.6.89/xhs/ "新华通讯社")
+- [中国科学院](http://www.cas.cn/ "中国科学院")
+- [中国社会科学院](http://www.cass.cn/ "中国社会科学院")
+- [中国工程院](http://www.cae.cn/ "中国工程院")
+- [国务院发展研究中心](http://www.drc.gov.cn/ "国务院发展研究中心")
+- 中央广播电视总台
+- [中国气象局](http://www.cma.gov.cn/ "中国气象局")
+- [国家行政学院](http://www.ccps.gov.cn/ "国家行政学院")
+- [国家粮食和物资储备局](http://www.lswz.gov.cn/ "国家粮食和物资储备局")
+- [国家能源局](http://www.nea.gov.cn/ "国家能源局")
+- [国家数据局](https://www.nda.gov.cn/sjj/index_pc.html "国家数据局")
+- [国家国防科技工业局](http://www.sastind.gov.cn/ "国家国防科技工业局")
+- [国家烟草专卖局](http://www.tobacco.gov.cn/html/ "国家烟草专卖局")
+- [国家移民管理局](https://www.nia.gov.cn/ "国家移民管理局")
+- [国家林业和草原局](http://www.forestry.gov.cn/ "国家林业和草原局")
+- [国家铁路局](http://www.nra.gov.cn/ "国家铁路局")
+- [中国民用航空局](http://www.caac.gov.cn/index.html "中国民用航空局")
+- [国家邮政局](http://www.spb.gov.cn/ "国家邮政局")
+- [国家文物局](http://www.ncha.gov.cn/ "国家文物局")
+- [国家中医药管理局](http://www.natcm.gov.cn/ "国家中医药管理局")
+- [国家疾病预防控制局](https://www.ndcpa.gov.cn/ "国家疾病预防控制局")
+- [国家矿山安全监察局](https://www.chinamine-safety.gov.cn/ "国家矿山安全监察局")
+- [国家消防救援局](https://www.119.gov.cn/ "国家消防救援局")
+- [国家外汇管理局](http://www.safe.gov.cn/ "国家外汇管理局")
+- [国家药品监督管理局](https://www.nmpa.gov.cn/ "国家药品监督管理局")
+
+省（区市）政府网站 _\|_
+
+- [天津](http://www.tj.gov.cn/ "天津")
+- [河北](http://www.hebei.gov.cn/ "河北")
+- [山西](http://www.shanxi.gov.cn/ "山西")
+- [内蒙古](http://www.nmg.gov.cn/ "内蒙古")
+- [辽宁](http://www.ln.gov.cn/ "辽宁")
+- [吉林](http://www.jl.gov.cn/ "吉林")
+- [黑龙江](http://www.hlj.gov.cn/ "黑龙江")
+- [上海](http://www.shanghai.gov.cn/ "上海")
+- [江苏](http://www.jiangsu.gov.cn/ "江苏")
+- [浙江](http://www.zj.gov.cn/ "浙江")
+- [安徽](http://www.ah.gov.cn/ "安徽")
+- [福建](http://www.fujian.gov.cn/ "福建")
+- [江西](http://www.jiangxi.gov.cn/ "江西")
+- [山东](http://www.shandong.gov.cn/ "山东")
+- [河南](http://www.henan.gov.cn/ "河南")
+- [湖北](http://www.hubei.gov.cn/ "湖北")
+- [湖南](http://www.hunan.gov.cn/ "湖南")
+- [广东](http://www.gd.gov.cn/ "广东")
+- [广西](http://www.gxzf.gov.cn/ "广西")
+- [海南](https://www.hainan.gov.cn/ "海南")
+- [重庆](http://www.cq.gov.cn/ "重庆")
+- [四川](http://www.sc.gov.cn/ "四川")
+- [贵州](http://www.guizhou.gov.cn/ "贵州")
+- [云南](http://www.yn.gov.cn/ "云南")
+- [西藏](http://www.xizang.gov.cn/ "西藏")
+- [陕西](http://www.shaanxi.gov.cn/ "陕西")
+- [甘肃](http://www.gansu.gov.cn/ "甘肃")
+- [青海](http://www.qinghai.gov.cn/ "青海")
+- [宁夏](http://www.nx.gov.cn/ "宁夏")
+- [新疆](http://www.xinjiang.gov.cn/ "新疆")
+- [香港](http://www.gov.hk/ "香港")
+- [澳门](http://www.gov.mo/ "澳门")
+- 台湾
+- [新疆生产建设兵团](http://www.xjbt.gov.cn/ "新疆生产建设兵团")
+
+市级政府部门网站 _\|_
+
+- [市政府办公厅](https://www.beijing.gov.cn/gongkai/zfxxgk/szfbgt/ "市政府办公厅")
+- [市发展改革委](http://fgw.beijing.gov.cn/ "市发展改革委")
+- [市教委](http://jw.beijing.gov.cn/ "市教委")
+- [市科委、中关村管委会](http://kw.beijing.gov.cn/ "市科委、中关村管委会")
+- [市经济和信息化局](http://jxj.beijing.gov.cn/ "市经济和信息化局")
+- [市民族宗教委](http://mzzjw.beijing.gov.cn/ "市民族宗教委")
+- [市公安局](http://gaj.beijing.gov.cn/ "市公安局")
+- [市民政局](http://mzj.beijing.gov.cn/ "市民政局")
+- [市司法局](http://sfj.beijing.gov.cn/ "市司法局")
+- [市财政局](http://czj.beijing.gov.cn/ "市财政局")
+- [市人力资源社会保障局](http://rsj.beijing.gov.cn/ "市人力资源社会保障局")
+- [市规划自然资源委](http://ghzrzyw.beijing.gov.cn/ "市规划自然资源委")
+- [市生态环境局](http://sthjj.beijing.gov.cn/ "市生态环境局")
+- [市住房城乡建设委](http://zjw.beijing.gov.cn/ "市住房城乡建设委")
+- [市城市管理委](http://csglw.beijing.gov.cn/ "市城市管理委")
+- [市交通委](http://jtw.beijing.gov.cn/ "市交通委")
+- [市水务局](http://swj.beijing.gov.cn/ "市水务局")
+- [市农业农村局](http://nyncj.beijing.gov.cn/ "市农业农村局")
+- [市商务局](http://sw.beijing.gov.cn/ "市商务局")
+- [市文化和旅游局](http://whlyj.beijing.gov.cn/ "市文化和旅游局")
+- [市卫生健康委](http://wjw.beijing.gov.cn/ "市卫生健康委")
+- [市退役军人局](http://tyjrswj.beijing.gov.cn/ "市退役军人局")
+- [市应急局](http://yjglj.beijing.gov.cn/ "市应急局")
+- [市市场监管局](http://scjgj.beijing.gov.cn/ "市市场监管局")
+- [市审计局](http://sjj.beijing.gov.cn/ "市审计局")
+- [市政府外办](http://wb.beijing.gov.cn/ "市政府外办")
+- [市国资委](http://gzw.beijing.gov.cn/ "市国资委")
+- [市广电局](http://gdj.beijing.gov.cn/ "市广电局")
+- [市文物局](http://wwj.beijing.gov.cn/ "市文物局")
+- [市体育局](http://tyj.beijing.gov.cn/ "市体育局")
+- [市统计局](http://tjj.beijing.gov.cn/ "市统计局")
+- [市园林绿化局](http://yllhj.beijing.gov.cn/ "市园林绿化局")
+- [市政务和数据局](http://zwfwj.beijing.gov.cn/ "市政务和数据局")
+- [市机关事务局](http://jgj.beijing.gov.cn/ "市机关事务局")
+- [市国动办](http://gdb.beijing.gov.cn/ "市国动办")
+- [市信访办](http://xfb.beijing.gov.cn/ "市信访办")
+- [市知识产权局](https://zscqj.beijing.gov.cn/ "市知识产权局")
+- [市医保局](https://ybj.beijing.gov.cn/ "市医保局")
+- [市政府参事室](https://www.beijing.gov.cn/gongkai/zfxxgk/szfcss/jgjj/202104/t20210425_2368771.html "市政府参事室")
+- [天安门地区管委会](https://tamgw.beijing.gov.cn/ "天安门地区管委会")
+- [重点站区管委会](https://zdzqgw.beijing.gov.cn/ "重点站区管委会")
+- [北京经开区管委会](https://kfqgw.beijing.gov.cn/ "北京经开区管委会")
+- [城市副中心管委会](https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ "城市副中心管委会")
+- [市城管执法局](https://cgj.beijing.gov.cn/ "市城管执法局")
+- [市监狱局](https://jyj.beijing.gov.cn/ "市监狱局")
+- [市粮食和储备局](https://lsj.beijing.gov.cn/ "市粮食和储备局")
+- [市中医药局](https://zyj.beijing.gov.cn/ "市中医药局")
+- [市药监局](https://yjj.beijing.gov.cn/ "市药监局")
+- [市疾控局](https://jkj.beijing.gov.cn/ "市疾控局")
+- [市重大项目办](https://zdb.beijing.gov.cn/ "市重大项目办")
+- [市文化市场执法总队](https://whsczfzd.beijing.gov.cn/ "市文化市场执法总队")
+- [市投资促进中心](https://invest.beijing.gov.cn/ "市投资促进中心")
+- [住房公积金管理中心](https://gjj.beijing.gov.cn/ "住房公积金管理中心")
+- [市地震局](https://www.bjdzj.gov.cn/ "市地震局")
+
+各区政府网站 _\|_
+
+- [东城区](http://www.bjdch.gov.cn/ "东城区")
+- [西城区](http://www.bjxch.gov.cn/ "西城区")
+- [朝阳区](http://www.bjchy.gov.cn/ "朝阳区")
+- [海淀区](https://www.bjhd.gov.cn/ "海淀区")
+- [丰台区](http://www.bjft.gov.cn/ "丰台区")
+- [石景山区](http://www.bjsjs.gov.cn/ "石景山区")
+- [门头沟区](http://www.bjmtg.gov.cn/ "门头沟区")
+- [房山区](http://www.bjfsh.gov.cn/ "房山区")
+- [通州区](http://www.bjtzh.gov.cn/ "通州区")
+- [顺义区](https://www.bjshy.gov.cn/ "顺义区")
+- [昌平区](http://www.bjchp.gov.cn/ "昌平区")
+- [大兴区](http://www.bjdx.gov.cn/ "大兴区")
+- [怀柔区](http://www.bjhr.gov.cn/ "怀柔区")
+- [平谷区](http://www.bjpg.gov.cn/ "平谷区")
+- [密云区](http://www.bjmy.gov.cn/ "密云区")
+- [延庆区](http://www.bjyq.gov.cn/ "延庆区")
+
+新闻媒体网站 _\|_
+
+- [新华网](http://www.news.cn/ "新华网")
+- [人民网](http://www.people.com.cn/ "人民网")
+- [央视国际](http://www.cctv.com/ "央视国际")
+- [中央人民广播电台](http://www.cnr.cn/ "中央人民广播电台")
+- [中国日报](http://www.chinadaily.com.cn/ "中国日报")
+- [中国国际广播电台](http://www.cri.cn/index.html "中国国际广播电台")
+- [光明网](http://www.gmw.cn/ "光明网")
+- [经济日报](http://paper.ce.cn/ "经济日报")
+- [京报网](http://www.bjd.com.cn/ "京报网")
+- [北京电视台](http://www.brtn.cn/ "北京电视台")
+- [北京人民广播电台](http://www.rbc.cn/ "北京人民广播电台")
+- [千龙网](http://www.qianlong.com/ "千龙网")
+
+[微信](https://www.beijing.gov.cn/shouye/zdxx/ydb/) \| [政务新媒体发布厅](https://www.u-mei.com/staticweb/#/area/beijing) \| [邮箱](https://mail.beijing.gov.cn/coremail/login.jsp)
+
+[![党政机关](https://www.beijing.gov.cn/images/ico_dzjg_ch_20190924.png)](http://bszs.conac.cn/sitename?method=show&id=17086746D1C42C2CE053022819ACAD54)
+
+移动版
+
+![](https://zfwzgl.www.gov.cn/exposure/images/jiucuo.png?v=1100000088)
+
+- [![首都之窗](https://www.beijing.gov.cn/images/shouchuanglogo68_20251110.png)](https://www.beijing.gov.cn/)
+[关于我们](https://www.beijing.gov.cn/shouye/zdxx/201604/t20160406_1814143.html "关于我们") [站点地图](https://www.beijing.gov.cn/shouye/zdxx/zddt/index.html "站点地图") [网站建议](https://www.beijing.gov.cn/hudong/yonghu/static/sdzc/wzjy/add.html?anonymous=1 "网站建议") [网站声明](https://www.beijing.gov.cn/shouye/zdxx/202512/t20251226_4365275.html "网站声明")
+- 市民服务热线：12345
+
+- ![微信公众号](https://www.beijing.gov.cn/images/img_wx_ch_20190924.jpg)
+
+微信公众号
+
+![政务新媒体发布厅](https://www.beijing.gov.cn/images/zwxmtfbt_qrcode_20251201.png)
+
+政务新媒体
+
+发布厅
+
+
+主办：北京市人民政府办公厅
+
+承办：北京市政务服务和数据管理局
+
+版权所有：北京市人民政府网站 [京ICP备05060933号](https://beian.miit.gov.cn/)
+
+政府网站标识码：1100000088 [京公网安备 11010502039640](http://www.beian.gov.cn/portal/index.do) [京ICP备05060933号](https://beian.miit.gov.cn/)
+
+运行管理：首都之窗运行管理中心
+
+您访问的链接即将离开“首都之窗”门户网站 是否继续？
+
+放弃

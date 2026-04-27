@@ -1,0 +1,15 @@
+{
+  "hash": "8db6426f0451",
+  "url": "http://nyj.nmg.gov.cn/openApi/downloadPdf?docid=2048537",
+  "title_raw": "[PDF] 《蒙西新型电力系统建设行动方案（1.0版）》解读",
+  "content_len": 2903,
+  "need_llm_fields": [
+    "文号",
+    "发布日期",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

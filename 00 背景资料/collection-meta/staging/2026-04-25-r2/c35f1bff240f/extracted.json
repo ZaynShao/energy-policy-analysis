@@ -1,0 +1,15 @@
+{
+  "hash": "c35f1bff240f",
+  "url": "https://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/ysjs/sjyjsqk/ys/202502/t20250211_14291072.html",
+  "title_raw": "关于重庆市2024年预算执行情况和2025年预算草案的报告_重庆市人民政府网",
+  "content_len": 36041,
+  "发布日期": "2025-01-26",
+  "need_llm_fields": [
+    "文号",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

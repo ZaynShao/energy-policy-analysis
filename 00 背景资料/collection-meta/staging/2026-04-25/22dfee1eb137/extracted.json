@@ -1,0 +1,19 @@
+{
+  "hash": "22dfee1eb137",
+  "url": "https://sf.sz.gov.cn/gfxwjcx/qjgfxwj/gmq/qzfbmgfxwj/qzbm/qfzggj/content/post_12005748.html",
+  "title_raw": "深圳市光明区发展和改革局关于印发《深圳市光明区支持新型储能 ...",
+  "content_len": 16237,
+  "文号": "深光发改规〔2025〕1 号",
+  "发布日期": "2026-04-24",
+  "业务标签_粗筛": [
+    "新型储能",
+    "氢能"
+  ],
+  "need_llm_fields": [
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

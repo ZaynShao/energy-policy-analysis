@@ -1,0 +1,19 @@
+{
+  "hash": "e2a37c812e89",
+  "url": "https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_7b528bbb8f0e4efda86478a1bccc6233.html",
+  "title_raw": "成品油流通管理办法专题页面",
+  "content_len": 2121,
+  "发布日期": "2025-09-01",
+  "发文机构_来自URL": "商务部",
+  "业务标签_粗筛": [
+    "加油站"
+  ],
+  "need_llm_fields": [
+    "文号",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

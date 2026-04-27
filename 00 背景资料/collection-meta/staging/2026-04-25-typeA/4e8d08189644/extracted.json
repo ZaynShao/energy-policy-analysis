@@ -1,0 +1,18 @@
+{
+  "hash": "4e8d08189644",
+  "url": "http://nyj.shandong.gov.cn/jact/front/mailpubdetail.do?transactId=713563&sysid=222",
+  "title_raw": "关于绿证有关问题的提问 - 山东省能源局",
+  "content_len": 1773,
+  "文号": "发改能源〔2023〕1044号",
+  "发布日期": "2023-01-01",
+  "业务标签_粗筛": [
+    "绿电交易"
+  ],
+  "need_llm_fields": [
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "http://www.jiangmen.gov.cn/home/bmdt/content/post_3278368.html",
+  "title": "我市印发2025年大规模设备更新和消费品以旧换新工作方案",
+  "source_type": "A",
+  "source_domain": "www.jiangmen.gov.cn",
+  "fetched_at": "2026-04-25T01:20:04.859624",
+  "hash": "be40eeb08ee2",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

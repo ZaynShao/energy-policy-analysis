@@ -1,0 +1,15 @@
+{
+  "hash": "264adec0aa86",
+  "url": "https://www.shanghai.gov.cn/gwk/search/content/ef16aa6e66c24f099929b40d6d417afe",
+  "title_raw": "上海市松江区人民政府关于印发《上海市松江区国民经济和社会发展 ...",
+  "content_len": 51536,
+  "文号": "沪松府〔2026〕18   号",
+  "发布日期": "2026-01-21",
+  "need_llm_fields": [
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

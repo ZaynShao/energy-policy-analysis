@@ -1,0 +1,10 @@
+{
+  "url": "https://jxw.putian.gov.cn/xxgk/tzgg/202412/P020241218643932586362.pdf",
+  "title": "[PDF] 莆田市新能源汽车充电设施专项规划（修编） （2023-2030 年）",
+  "source_type": "D",
+  "source_domain": "jxw.putian.gov.cn",
+  "fetched_at": "2026-04-25T10:41:12.805972",
+  "hash": "bd9b9c32f8ae",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

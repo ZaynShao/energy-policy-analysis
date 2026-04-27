@@ -1,0 +1,77 @@
+[![](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2757/site/picture/0/1710231712125289728.png)](http://zcom.zj.gov.cn/)
+
+- 网站无障碍
+- 关怀版
+- [English](https://zcom.zj.gov.cn/col/col1389835/index.html)
+- 登录
+
+
+[![](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2757/site/picture/0/1710231715427571623.png)](https://zcom.zj.gov.cn/)
+
+- [首页](https://zcom.zj.gov.cn/)
+- [新闻资讯](https://zcom.zj.gov.cn/col/col1384586/index.html)
+- [政府信息公开](https://zcom.zj.gov.cn/col/col1391112/index.html)
+- [在线办事](http://www.zjzwfw.gov.cn/zjservice/dept/deptQuery.do?deptId=001003022&webId=1)
+- [互动交流](https://zcom.zj.gov.cn/col/col1384705/index.html)
+- [党的建设](https://zcom.zj.gov.cn/col/col1415798/index.html)
+- [派驻监督](https://zcom.zj.gov.cn/col/col1228964429/index.html)
+
+- [通知公告](https://zcom.zj.gov.cn/col/col1384587/index.html)
+- [商务部文告](https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/index.html)
+- [图片新闻](https://zcom.zj.gov.cn/col/col1384590/index.html)
+- [工作动态](https://zcom.zj.gov.cn/col/col1384591/index.html)
+- [市县动态](https://zcom.zj.gov.cn/col/col1384592/index.html)
+- [省政府](https://www.zj.gov.cn/col/col1554467/index.html)
+- [国务院](http://www.gov.cn/pushinfo/v150203/index.htm)
+- [展会信息](https://zcom.zj.gov.cn/col/col1450436/index.html)
+
+- [信息公开指南](https://zcom.zj.gov.cn/col/col1229272668/index.html)
+- [信息公开制度](https://zcom.zj.gov.cn/col/col1391108/index.html)
+- [信息公开目录](https://zcom.zj.gov.cn/col/col1391112/index.html)
+- [信息公开年报](https://zcom.zj.gov.cn/col/col1229103890/index.html)
+- [依申请公开](https://zcom.zj.gov.cn/col/col1391140/index.html)
+- [部门预决算](https://zcom.zj.gov.cn/col/col1229287150/index.html)
+
+- [民呼我为首页](https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index?areacode=330000&lybj=pc_cgm_GO_8cf946238c68443d887eed13e92a3da5_959885_06&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%95%86%E5%8A%A1%E5%8E%85&orgId=1534959074062389250)
+- [我要咨询](https://zxts.zjzwfw.gov.cn/zwmhww/#/advice?areacode=330000&lybj=pc_cgm_GO_8cf946238c68443d887eed13e92a3da5_959885_02&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%95%86%E5%8A%A1%E5%8E%85&orgId=1534959074062389250)
+- [我要反映](https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/appeal?areacode=330000&lybj=pc_cgm_GO_8cf946238c68443d887eed13e92a3da5_959885_01&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%95%86%E5%8A%A1%E5%8E%85&orgId=1534959074062389250)
+- [我要建议](https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/suggest?areacode=330000&lybj=pc_cgm_GO_8cf946238c68443d887eed13e92a3da5_959885_03&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%95%86%E5%8A%A1%E5%8E%85&orgId=1534959074062389250)
+- [我要信访](https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/petition?areacode=330000&lybj=pc_cgm_GO_8cf946238c68443d887eed13e92a3da5_959885_01&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%95%86%E5%8A%A1%E5%8E%85&orgId=1534959074062389250)
+- [领导信箱](https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/leader?areacode=330000&lybj=pc_cgm_GO_8cf946238c68443d887eed13e92a3da5_959885_04&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%95%86%E5%8A%A1%E5%8E%85&orgId=1534959074062389250)
+- [查询评价](https://zxts.zjzwfw.gov.cn/zwmhww/#/home/index/search?areacode=330000&lybj=pc_cgm_GO_8cf946238c68443d887eed13e92a3da5_959885_05&orgName=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%95%86%E5%8A%A1%E5%8E%85&orgId=1534959074062389250)
+- [意见征集](https://zcom.zj.gov.cn/col/col1384709/index.html)
+- [网上调查](https://zcom.zj.gov.cn/col/col1229271828/index.html)
+- [在线访谈](https://zcom.zj.gov.cn/col/col1229271826/index.html)
+- [新闻发布会](https://zcom.zj.gov.cn/col/col1229352673/index.html)
+- [智能问答](https://www.zjzwfw.gov.cn/jfaqfront_robot/index.html?webid=3387#/)
+
+- [通知公告](https://zcom.zj.gov.cn/col/col1415799/index.html)
+- [工作动态](https://zcom.zj.gov.cn/col/col1415800/index.html)
+- [图片新闻](https://zcom.zj.gov.cn/col/col1415810/index.html)
+- [党的要闻](https://zcom.zj.gov.cn/col/col1415811/index.html)
+- [理论学习](https://zcom.zj.gov.cn/col/col1404931/index.html)
+- [制度规定](https://zcom.zj.gov.cn/col/col1404930/index.html)
+
+- [省纪委省监委驻省经信厅纪检监察组](https://zcom.zj.gov.cn/col/col1228964431/index.html)
+- [机构职能](https://zcom.zj.gov.cn/col/col1228964430/index.html)
+- [我要举报](http://zhejiang.12388.gov.cn/pzjg/sjxw/)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| [首页](https://zcom.zj.gov.cn/index.html) | |     |     |     |     |
+| --- | --- | --- | --- |
+| \> [政府信息公开](https://zcom.zj.gov.cn/col/col1384597/index.html) | \> [信息公开目录](https://zcom.zj.gov.cn/col/col1391112/index.html) | \> [政策文件及解读](https://zcom.zj.gov.cn/col/col1229268063/index.html) | \> [行政规范性文件](https://zcom.zj.gov.cn/col/col1229268085/index.html?vc_xxgkarea=11330000002482322Q&number=A021) | |
+
+|     |     |     |
+| --- | --- | --- |
+| 索引号:<br> 11330000002482322Q/2025-00003 | 文件编号:<br> 浙商务联发〔2025〕2号 | 发布机构:<br> 省商务厅 |
+| 生成日期:<br> 2025-01-26 | 主题分类:<br> 商贸、海关、旅游/国内贸易（含供销） | 组配分类: 行政规范性文件 |
+| 公开形式：网站 | 公开方式:<br> 主动公开 | 公开范围: 面向全社会 |
+| 体裁分类:<br> 通知 | 有效性:<br> 废止 | 统一编号：<br> ZJSP21-2025-001 |
+
+|     |
+| --- |
+| 【废止】浙江省商务厅等6部门关于印发《2025年浙江省消费品以旧换新补贴实施细则》的通知<br>* * * |
+| |     |
+| --- |
+| 发布日期：2025-01-26 17:27浏览次数: | |

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.shanghai.gov.cn/cmsres/12/12e1f3035cc94f898cef4b9bf3ea6ea1/a85ba8da4d6abe0e6e7ba4daed4f51f2.pdf",
+  "title": "[PDF] 关于印发《上海市2025年碳达峰碳中和及节能减排重点工作安排》的 ...",
+  "source_type": "D",
+  "source_domain": "www.shanghai.gov.cn",
+  "fetched_at": "2026-04-25T10:40:03.580611",
+  "hash": "bf8f026b5b42",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1902/site/attach/0/5bc3175dc6434ded8cf561fecd3cd33b.pdf",
+  "title": "[PDF] 温州市电动汽车充电基础设施布局规划（2023-2025 年）",
+  "source_type": "D",
+  "source_domain": "zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn",
+  "fetched_at": "2026-04-25T10:41:13.957858",
+  "hash": "619f87674ae0",
+  "status": "fail",
+  "error": "500 Server Error: Internal Server Error for url: https://api.firecrawl.dev/v1/scrape"
+}

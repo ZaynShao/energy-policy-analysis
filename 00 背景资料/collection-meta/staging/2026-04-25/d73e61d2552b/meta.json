@@ -1,0 +1,10 @@
+{
+  "url": "https://qzbofcom.quanzhou.gov.cn/zwgk/zfxxgk/fdzdgknr/qtyzdgkdxx/202601/P020260112390558380019.pdf",
+  "title": "[PDF] 泉州市商务局关于印发泉州市成品油零售体系发展规划(2025-2035年 ...",
+  "source_type": "D",
+  "source_domain": "qzbofcom.quanzhou.gov.cn",
+  "fetched_at": "2026-04-25T01:18:19.799270",
+  "hash": "d73e61d2552b",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

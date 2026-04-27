@@ -1,0 +1,306 @@
+![](https://fgk.chinatax.gov.cn/zcfgk/c100013/c5234614/content.html)
+
+![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/fgk.png)
+
+全部
+
+文件
+
+解读
+
+搜索 [高级搜索](https://fgk.chinatax.gov.cn/zcfgk/c100028/search.html)
+
+搜索方式：
+
+精准
+
+模糊
+
+热门关键词：
+
+当前位置： [首页](http://www.chinatax.gov.cn/chinatax/index.html) > [政策法规](https://fgk.chinatax.gov.cn/zcfgk/index.html) > [其他文件](https://fgk.chinatax.gov.cn/zcfgk/c100013/listflfg.html)
+
+### 商务部等7部门关于进一步做好汽车以旧换新有关工作的通知
+
+##### 商消费函〔2024〕392号
+
+##### （）
+
+字体：【大】【中】【小】
+
+收藏订阅 [已推送，请在“个人中心-我的订阅”中查看](https://fgk.chinatax.gov.cn/gsgrzx/wddy.html) [此稿件无标签，进入“订阅设置”中订阅更多](https://fgk.chinatax.gov.cn/gsgrzx/wddy.html)
+
+成文日期：2024-08-15
+
+收藏
+
+分享
+
+订阅
+
+语音播报：
+
+扫一扫在手机打开当前页
+
+注释
+
+各省、自治区、直辖市、新疆生产建设兵团商务、发展改革、工业和信息化、公安、生态环境、税务主管部门，各省、自治区、直辖市财政厅（局），新疆生产建设兵团财政局，财政部各地监管局：
+
+根据《国家发展改革委 财政部印发〈关于加力支持大规模设备更新和消费品以旧换新的若干措施〉的通知》（发改环资〔2024〕1104号，以下简称《若干措施》）要求，为进一步做好汽车以旧换新工作，着力稳定和扩大汽车消费，现就有关事项通知如下：
+
+**一、提高报废更新补贴标准**
+
+对符合 [商务部、财政部等7部门《关于印发〈汽车以旧换新补贴实施细则〉的通知》](https://fgk.chinatax.gov.cn/zcfgk/c100013/c5223351/content.html)（商消费函〔2024〕75号，以下简称《补贴实施细则》）规定，个人消费者于2024年4月24日（含当日，下同）至2024年12月31日期间，报废国三及以下排放标准燃油乘用车或2018年4月30日前注册登记的新能源乘用车，并购买纳入工业和信息化部《减免车辆购置税的新能源汽车车型目录》的新能源乘用车或2.0升及以下排量燃油乘用车的，调整补贴标准，具体如下：
+
+对报废上述两类旧车并购买新能源乘用车的，补贴2万元；对报废国三及以下排放标准燃油乘用车并购买2.0升及以下排量燃油乘用车的，补贴1.5万元。
+
+对2024年4月24日至2025年1月10日前提交的符合条件的补贴申请（含完成补贴发放的申请），均按本通知明确的标准予以补贴。其中，对已按此前标准发放的补贴申请，各地按本通知明确的标准补齐差额。
+
+参加申请补贴的报废汽车所有人和新购置汽车所有人应为同一个人消费者，其所报废的国三及以下排放标准燃油乘用车或2018年4月30日前注册登记的新能源乘用车，应当按《若干措施》规定要求于2024年7月25日前登记在申请人名下；自本通知发布之日起，在补贴申请审核期间，其所新购置的汽车应登记在申请人名下。
+
+**二、加大中央资金支持力度**
+
+根据《若干措施》要求，国家发展改革委安排超长期特别国债资金用于支持地方提升消费品以旧换新能力，推动汽车报废更新和个人消费者乘用车置换更新。
+
+汽车报废更新补贴资金按照总体9:1的原则实行央地共担，并分地区确定具体分担比例。其中，对东部省份按8.5:1.5比例分担，对中部省份按9:1比例分担，对西部省份按9.5:0.5比例分担。地方分担的部分，由各省级财政根据中央资金分配情况按比例安排。
+
+**三、优化汽车报废更新审核、拨付监管流程**
+
+各地商务主管部门收到汽车报废更新补贴申请材料后，会同财政、公安、工业和信息化等部门按照职能职责进行审核，通过全国汽车以旧换新平台反馈审核结果，税务部门做好配合工作。商务部、公安部、工业和信息化部等部门提供报废机动车回收和注销、新车注册登记、新能源新车车型等信息核查比对服务，支持地方高效开展审核工作。
+
+各省级商务主管部门会同有关部门统筹确定对本辖区内补贴申请的审核层级、审核部门。各地商务主管部门及时汇总符合补贴条件的申请人信息，确定补贴金额，并向财政部门提出资金申请。各地财政部门根据商务主管部门提出的资金安排意见，按程序将补贴资金拨付至申请人提供的银行账户。各地商务主管部门向同级财政部门报送资金申请时，需将资金安排意见一并报财政部各地监管局和同级发展改革部门。
+
+政策实施期结束后，各省级商务主管部门、发展改革部门、财政部门应于2025年2月10日前将补贴资金发放情况报送商务部、国家发展改革委、财政部，商务部对各地上报的补贴资金发放情况进行汇总审核。按照《若干措施》有关要求、商务部审核意见和财政部各地监管局前期审核结果，中央与地方进行清算。
+
+**四、加强监督管理**
+
+各地、各相关部门按照《若干措施》《补贴实施细则》等规定对汽车以旧换新资金补贴工作实施监督管理，在执行中做好相关政策衔接，确保政策平稳过渡，提高资金使用效益，强化宣传引导，切实便企利民，并有效保障补贴资金安全。各地要一视同仁支持不同所有制、不同注册地企业参与汽车以旧换新。各地要加快制定汽车置换更新实施方案，合理确定补贴标准、补贴条件和实施方式，细化操作流程，压实各方责任。鼓励有条件的地方，建设完善汽车置换更新信息系统，加强跨部门信息共享和核查比对，协同高效开展审核工作。已建有汽车置换更新信息系统的地方，应与全国汽车以旧换新平台对接，通过数据接口及时推送补贴发放相关数据；暂无信息系统的地方，要及时汇总本地区置换更新数据，并通过“全国汽车流通信息管理”系统推送商务部。
+
+本通知自发布之日起执行，《补贴实施细则》与本通知规定不一致的，以本通知为准。
+
+商务部
+
+国家发展改革委
+
+工业和信息化部
+
+公安部
+
+财政部
+
+生态环境部
+
+税务总局
+
+2024年8月15日
+
+![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/print.jpg)【打印】
+
+[![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/downlod.png)\\
+【下载】](https://fgk.chinatax.gov.cn/zcfgk/c100013/c5234614/content.html)
+
+[纠错或建议](http://hd.chinatax.gov.cn/fuwu/jiucuo.html)
+
+关联解读
+
+关联文件
+
+关联问答
+
+### 用户登录
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha?a=0.3393820317442311)
+
+[忘记密码](https://fgk.chinatax.gov.cn/jzxx2023/forgetpw2023.html)
+
+登　录
+
+没有账号？ [立即注册账号](https://fgk.chinatax.gov.cn/jzxx2023/register2023.html)
+
+注册
+
+
+### 我要注册
+
+请填写您的注册信息
+
+姓名\*
+
+性别
+
+__
+
+男
+
+__
+
+女
+
+登录名\*
+
+6-18位字符(请使用字母开头,与数字组合)
+
+密码\*
+
+密码强度
+
+8-20位字符(从大、小写字母、数字、其他字符中选三种组合)
+
+确认密码\*
+
+请再次输入密码
+
+省份\*
+
+选省份北京市天津市上海市重庆市河北省山西省内蒙古辽宁省吉林省黑龙江省江苏省浙江省安徽省福建省江西省山东省河南省湖北省湖南省广东省广西海南省四川省贵州省云南省西藏陕西省甘肃省青海省宁夏新疆香港澳门台湾省
+
+选省份北京市天津市上海市重庆市河北省山西省内蒙古辽宁省吉林省黑龙江省江苏省浙江省安徽省福建省江西省山东省河南省湖北省湖南省广东省广西海南省四川省贵州省云南省西藏陕西省甘肃省青海省宁夏新疆香港澳门台湾省
+
+选城市
+
+选城市
+
+选区县
+
+选区县
+
+请如实选择
+
+手机号\*
+
+当您的密码丢失,可以通过手机接收短信找回
+
+短信验证码
+
+获取验证码1秒后重发
+
+邮箱
+
+验证码
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha?a=0.8545360570944848)
+
+提　交重　置
+
+X
+
+您即将访问非政府网站链接，是否继续？
+
+继续访问放弃
+
+找回密码
+
+
+### 安全验证
+
+_1_
+
+安全验证
+
+_2_
+
+密码重置
+
+_3_
+
+设置成功
+
+手机号码\*
+
+短信验证码\*
+
+获取验证码60
+
+验证码\*
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha?a=0.5853054227822738)
+
+下一步取　消
+
+新密码\*
+
+新密码确认\*
+
+密码强度
+
+验证码
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha)
+
+修　改取　消
+
+![](https://fgk.chinatax.gov.cn/static/2023/images/hdjl/forgetpw_success_bg.png)
+
+设置成功！
+
+X
+
+您即将访问非政府网站链接，是否继续？
+
+继续访问放弃
+
+### 网站纠错
+
+车辆购置税
+
+文件
+
+![回到顶部](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/easybtn_icon0403.png)
+
+[_![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/gh.png)_ 中国政府网](https://www.gov.cn/ "")
+
+- [北京](http://beijing.chinatax.gov.cn/)
+- [天津](http://tianjin.chinatax.gov.cn/)
+- [河北](http://hebei.chinatax.gov.cn/)
+- [山西](http://shanxi.chinatax.gov.cn/)
+- [内蒙古](http://neimenggu.chinatax.gov.cn/)
+- [辽宁](http://liaoning.chinatax.gov.cn/)
+- [吉林](http://jilin.chinatax.gov.cn/)
+- [黑龙江](http://heilongjiang.chinatax.gov.cn/)
+- [上海](http://shanghai.chinatax.gov.cn/)
+- [江苏](http://jiangsu.chinatax.gov.cn/)
+- [浙江](http://zhejiang.chinatax.gov.cn/)
+- [安徽](http://anhui.chinatax.gov.cn/)
+- [福建](http://fujian.chinatax.gov.cn/)
+- [江西](http://jiangxi.chinatax.gov.cn/)
+- [山东](http://shandong.chinatax.gov.cn/)
+- [河南](https://henan.chinatax.gov.cn/)
+- [湖北](http://hubei.chinatax.gov.cn/)
+- [湖南](http://hunan.chinatax.gov.cn/)
+- [广东](http://guangdong.chinatax.gov.cn/)
+- [广西](https://guangxi.chinatax.gov.cn/)
+- [海南](http://hainan.chinatax.gov.cn/)
+- [重庆](http://chongqing.chinatax.gov.cn/)
+- [四川](http://sichuan.chinatax.gov.cn/)
+- [贵州](http://guizhou.chinatax.gov.cn/)
+- [云南](http://yunnan.chinatax.gov.cn/)
+- [西藏](https://xizang.chinatax.gov.cn/)
+- [陕西](https://shaanxi.chinatax.gov.cn/)
+- [甘肃](http://gansu.chinatax.gov.cn/)
+- [青海](http://qinghai.chinatax.gov.cn/)
+- [宁夏](http://ningxia.chinatax.gov.cn/)
+- [新疆](https://xinjiang.chinatax.gov.cn/)
+- [大连](http://dalian.chinatax.gov.cn/)
+- [宁波](http://ningbo.chinatax.gov.cn/)
+- [厦门](http://xiamen.chinatax.gov.cn/)
+- [青岛](http://qingdao.chinatax.gov.cn/)
+- [深圳](https://shenzhen.chinatax.gov.cn/)
+
+- [国家税务总局税务干部学院](http://www.tax-edu.net/)
+- [中国税务杂志社](http://www.ctax.org.cn/)
+- [中国税务报社](http://www.ctaxnews.com.cn/)
+- [中国税务出版社](https://www.taxation.cn/)
+
+- [中国税务学会](http://cti.ctax.org.cn/)
+- [中国国际税收研究会](http://www.citri.org.cn/)
+- [中国注册税务师协会](http://www.cctaa.cn/)
+- ["一带一路"税收征管合作机制](http://www.britacom.org/)
+
+- [国家发展和改革委员会](http://www.ndrc.gov.cn/)
+- [财政部](http://www.mof.gov.cn/index.htm)
+- [商务部](http://www.mofcom.gov.cn/)
+- [人民银行](http://www.pbc.gov.cn/)
+- [审计署](http://www.audit.gov.cn/)
+- [海关总署](http://www.customs.gov.cn/)
+- [国家市场监督管理总局](http://www.samr.gov.cn/)
+- [国家医疗保障局](http://www.nhsa.gov.cn/)

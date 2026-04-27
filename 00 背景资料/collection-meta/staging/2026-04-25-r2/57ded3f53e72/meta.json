@@ -1,0 +1,10 @@
+{
+  "url": "http://zfxxgk.nea.gov.cn/auto82/201702/t20170206_2500.htm",
+  "title": "政府信息公开目录---国家能源局---国家能源局关于公布首批多能互补集成优化示范工程的通知 国能规划[2017]37号",
+  "source_type": "A",
+  "source_domain": "zfxxgk.nea.gov.cn",
+  "fetched_at": "2026-04-25T10:31:17.686078",
+  "hash": "57ded3f53e72",
+  "status": "fail",
+  "error": "HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Max retries exceeded with url: /v1/scrape (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+}

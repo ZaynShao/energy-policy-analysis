@@ -1,0 +1,15 @@
+{
+  "hash": "8c09b952832d",
+  "url": "https://yyglxxbs.ndrc.gov.cn/file-submission/20230519102727235060.pdf",
+  "title_raw": "[PDF] 电力需求侧管理办法 - 中华人民共和国国家发展和改革委员会",
+  "content_len": 240133,
+  "need_llm_fields": [
+    "文号",
+    "发布日期",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

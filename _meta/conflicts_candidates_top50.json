@@ -1,0 +1,1676 @@
+{
+  "candidate_count": 50,
+  "candidates": [
+    {
+      "p1": "P_2024_BJ_0427ca25",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council",
+        "v2g"
+      ],
+      "months_apart": 9,
+      "p1_filename": "【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-6363.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "北京市积极推动设备更新和消费品以旧换新行动方案",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "北京市人民政府"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_BJ_082685cd",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 5,
+      "p1_filename": "【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "北京市加力支持设备更新和消费品以旧换新实施方案",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "北京市发展改革委、北京市财政局"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_BJ_082685cd",
+      "p2": "P_2025_CQ_388",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 16,
+      "p1_filename": "【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md",
+      "p2_filename": "【重庆市2026年汽车置换更新补贴政策(渝商务〔2025〕388号)】-重庆市商务委员会-23f9.md",
+      "p1_title": "北京市加力支持设备更新和消费品以旧换新实施方案",
+      "p2_title": "重庆市2026年汽车置换更新补贴政策",
+      "p1_issuer": [
+        "北京市发展改革委、北京市财政局"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_BJ_08290099",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council",
+        "v2g"
+      ],
+      "months_apart": 5,
+      "p1_filename": "【北京市加力支持汽车以旧换新补贴实施细则】-北京市商务局等8部门-89b7.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "北京市加力支持汽车以旧换新补贴实施细则",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_MOFCOM_392",
+      "p2": "P_2024_MOFCOM_75_b",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "miit",
+        "mof",
+        "mofcom",
+        "ndrc",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 4,
+      "p1_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p2_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p1_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p2_title": "汽车以旧换新补贴实施细则",
+      "p1_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p2_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_75_b",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "recycler",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 9,
+      "p1_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "汽车以旧换新补贴实施细则",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "全国",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2025_BJ_012461bd_b",
+      "p2": "P_2025_CQ_388",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 11,
+      "p1_filename": "【2025年北京市进一步推动汽车以旧换新实施方案】-北京市商务局等8部门-768f.md",
+      "p2_filename": "【重庆市2026年汽车置换更新补贴政策(渝商务〔2025〕388号)】-重庆市商务委员会-23f9.md",
+      "p1_title": "2025年北京市进一步推动汽车以旧换新实施方案",
+      "p2_title": "重庆市2026年汽车置换更新补贴政策",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_BJ_082685cd",
+      "p2": "P_2024_MOFCOM_75_b",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 4,
+      "p1_filename": "【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md",
+      "p2_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p1_title": "北京市加力支持设备更新和消费品以旧换新实施方案",
+      "p2_title": "汽车以旧换新补贴实施细则",
+      "p1_issuer": [
+        "北京市发展改革委、北京市财政局"
+      ],
+      "p2_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_BJ_08290099",
+      "p2": "P_2025_CQ_388",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 16,
+      "p1_filename": "【北京市加力支持汽车以旧换新补贴实施细则】-北京市商务局等8部门-89b7.md",
+      "p2_filename": "【重庆市2026年汽车置换更新补贴政策(渝商务〔2025〕388号)】-重庆市商务委员会-23f9.md",
+      "p1_title": "北京市加力支持汽车以旧换新补贴实施细则",
+      "p2_title": "重庆市2026年汽车置换更新补贴政策",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_MOFCOM_75_b",
+      "p2": "P_2025_BJ_012461bd_b",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 9,
+      "p1_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p2_filename": "【2025年北京市进一步推动汽车以旧换新实施方案】-北京市商务局等8部门-768f.md",
+      "p1_title": "汽车以旧换新补贴实施细则",
+      "p2_title": "2025年北京市进一步推动汽车以旧换新实施方案",
+      "p1_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p2_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p1_region": "全国",
+      "p2_region": "北京市"
+    },
+    {
+      "p1": "P_2025_CQ_122582ad",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "china_central_gov",
+        "local_gov",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 11,
+      "p1_filename": "【南川区综合能源站暨充电基础设施专项规划】-重庆市南川区人民政府办公室-8c55.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "南川区综合能源站暨充电基础设施专项规划",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "重庆市南川区人民政府办公室"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "重庆市南川区",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_BJ_0427ca25",
+      "p2": "P_2024_MOFCOM_392",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 4,
+      "p1_filename": "【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-6363.md",
+      "p2_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p1_title": "北京市积极推动设备更新和消费品以旧换新行动方案",
+      "p2_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p1_issuer": [
+        "北京市人民政府"
+      ],
+      "p2_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_BJ_082685cd",
+      "p2": "P_2025_CQ_122582ad",
+      "shared_entities": [
+        "china_central_gov",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 16,
+      "p1_filename": "【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md",
+      "p2_filename": "【南川区综合能源站暨充电基础设施专项规划】-重庆市南川区人民政府办公室-8c55.md",
+      "p1_title": "北京市加力支持设备更新和消费品以旧换新实施方案",
+      "p2_title": "南川区综合能源站暨充电基础设施专项规划",
+      "p1_issuer": [
+        "北京市发展改革委、北京市财政局"
+      ],
+      "p2_issuer": [
+        "重庆市南川区人民政府办公室"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市南川区"
+    },
+    {
+      "p1": "P_2024_BJ_08290099",
+      "p2": "P_2024_MOFCOM_75_b",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 4,
+      "p1_filename": "【北京市加力支持汽车以旧换新补贴实施细则】-北京市商务局等8部门-89b7.md",
+      "p2_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p1_title": "北京市加力支持汽车以旧换新补贴实施细则",
+      "p2_title": "汽车以旧换新补贴实施细则",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_392",
+      "p2": "P_2025_BJ_012461bd_b",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 5,
+      "p1_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p2_filename": "【2025年北京市进一步推动汽车以旧换新实施方案】-北京市商务局等8部门-768f.md",
+      "p1_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p2_title": "2025年北京市进一步推动汽车以旧换新实施方案",
+      "p1_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p2_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p1_region": "全国",
+      "p2_region": "北京市"
+    },
+    {
+      "p1": "P_2024_MOFCOM_392",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 5,
+      "p1_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "全国",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_MOFCOM_392",
+      "p2": "P_2025_CQ_388",
+      "shared_entities": [
+        "china_central_gov",
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 16,
+      "p1_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p2_filename": "【重庆市2026年汽车置换更新补贴政策(渝商务〔2025〕388号)】-重庆市商务委员会-23f9.md",
+      "p1_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p2_title": "重庆市2026年汽车置换更新补贴政策",
+      "p1_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "全国",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2025_BJ_012461bd_b",
+      "p2": "P_2025_CQ_122582ad",
+      "shared_entities": [
+        "china_central_gov",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 11,
+      "p1_filename": "【2025年北京市进一步推动汽车以旧换新实施方案】-北京市商务局等8部门-768f.md",
+      "p2_filename": "【南川区综合能源站暨充电基础设施专项规划】-重庆市南川区人民政府办公室-8c55.md",
+      "p1_title": "2025年北京市进一步推动汽车以旧换新实施方案",
+      "p2_title": "南川区综合能源站暨充电基础设施专项规划",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "重庆市南川区人民政府办公室"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市南川区"
+    },
+    {
+      "p1": "P_2024_BJ_08290099",
+      "p2": "P_2025_CQ_122582ad",
+      "shared_entities": [
+        "china_central_gov",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 16,
+      "p1_filename": "【北京市加力支持汽车以旧换新补贴实施细则】-北京市商务局等8部门-89b7.md",
+      "p2_filename": "【南川区综合能源站暨充电基础设施专项规划】-重庆市南川区人民政府办公室-8c55.md",
+      "p1_title": "北京市加力支持汽车以旧换新补贴实施细则",
+      "p2_title": "南川区综合能源站暨充电基础设施专项规划",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "重庆市南川区人民政府办公室"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "重庆市南川区"
+    },
+    {
+      "p1": "P_2024_NEA_76",
+      "p2": "P_2025_NDRC_1656_a",
+      "shared_entities": [
+        "ci_power_user",
+        "grid_company",
+        "nea",
+        "power_exchange_center",
+        "power_generator",
+        "power_market",
+        "power_user",
+        "region_beijing",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "retail_electricity_company",
+        "state_council",
+        "vpp"
+      ],
+      "months_apart": 15,
+      "p1_filename": "【电力市场注册基本规则(国能发监管规〔2024〕76号)】-国家能源局-7b68.md",
+      "p2_filename": "【电力中长期市场基本规则(发改能源规〔2025〕1656号)】-国家发展和改革委员会、国家能源局-6fc7.md",
+      "p1_title": "电力市场注册基本规则",
+      "p2_title": "电力中长期市场基本规则",
+      "p1_issuer": [
+        "国家能源局"
+      ],
+      "p2_issuer": [
+        "国家发展和改革委员会、国家能源局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2023_MOF_10",
+      "p2": "P_2024_BJ_0427ca25",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 10,
+      "p1_filename": "【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf.md",
+      "p2_filename": "【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-6363.md",
+      "p1_title": "财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告",
+      "p2_title": "北京市积极推动设备更新和消费品以旧换新行动方案",
+      "p1_issuer": [
+        "财政部、税务总局、工业和信息化部"
+      ],
+      "p2_issuer": [
+        "北京市人民政府"
+      ],
+      "p1_region": "全国",
+      "p2_region": "北京市"
+    },
+    {
+      "p1": "P_2024_BJ_0427ca25",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 17,
+      "p1_filename": "【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-6363.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "北京市积极推动设备更新和消费品以旧换新行动方案",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "北京市人民政府"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_392",
+      "p2": "P_2025_CQ_122582ad",
+      "shared_entities": [
+        "china_central_gov",
+        "mee",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 16,
+      "p1_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p2_filename": "【南川区综合能源站暨充电基础设施专项规划】-重庆市南川区人民政府办公室-8c55.md",
+      "p1_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p2_title": "南川区综合能源站暨充电基础设施专项规划",
+      "p1_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p2_issuer": [
+        "重庆市南川区人民政府办公室"
+      ],
+      "p1_region": "全国",
+      "p2_region": "重庆市南川区"
+    },
+    {
+      "p1": "P_2024_MOF_129",
+      "p2": "P_2025_BJ_012461bd_b",
+      "shared_entities": [
+        "equipment_renewal",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 8,
+      "p1_filename": "【2024年汽车以旧换新补贴中央财政预拨资金预算(财建〔2024〕129号)】-财政部-7573.md",
+      "p2_filename": "【2025年北京市进一步推动汽车以旧换新实施方案】-北京市商务局等8部门-768f.md",
+      "p1_title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "p2_title": "2025年北京市进一步推动汽车以旧换新实施方案",
+      "p1_issuer": [
+        "财政部"
+      ],
+      "p2_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p1_region": "全国",
+      "p2_region": "北京市"
+    },
+    {
+      "p1": "P_2024_MOF_129",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "equipment_renewal",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 8,
+      "p1_filename": "【2024年汽车以旧换新补贴中央财政预拨资金预算(财建〔2024〕129号)】-财政部-7573.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "财政部"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "全国",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2025_BJ_012461bd_b",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 8,
+      "p1_filename": "【2025年北京市进一步推动汽车以旧换新实施方案】-北京市商务局等8部门-768f.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "2025年北京市进一步推动汽车以旧换新实施方案",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2025_CQ_22_c",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 8,
+      "p1_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "重庆市2025年汽车报废更新补贴政策",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "重庆市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2023_MOF_10",
+      "p2": "P_2024_BJ_082685cd",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 14,
+      "p1_filename": "【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf.md",
+      "p2_filename": "【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md",
+      "p1_title": "财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告",
+      "p2_title": "北京市加力支持设备更新和消费品以旧换新实施方案",
+      "p1_issuer": [
+        "财政部、税务总局、工业和信息化部"
+      ],
+      "p2_issuer": [
+        "北京市发展改革委、北京市财政局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "北京市"
+    },
+    {
+      "p1": "P_2023_MOF_10",
+      "p2": "P_2024_BJ_08290099",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 14,
+      "p1_filename": "【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf.md",
+      "p2_filename": "【北京市加力支持汽车以旧换新补贴实施细则】-北京市商务局等8部门-89b7.md",
+      "p1_title": "财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告",
+      "p2_title": "北京市加力支持汽车以旧换新补贴实施细则",
+      "p1_issuer": [
+        "财政部、税务总局、工业和信息化部"
+      ],
+      "p2_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p1_region": "全国",
+      "p2_region": "北京市"
+    },
+    {
+      "p1": "P_2023_MOF_10",
+      "p2": "P_2024_MOFCOM_392",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 14,
+      "p1_filename": "【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf.md",
+      "p2_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p1_title": "财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告",
+      "p2_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p1_issuer": [
+        "财政部、税务总局、工业和信息化部"
+      ],
+      "p2_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2023_MOF_10",
+      "p2": "P_2024_MOFCOM_75_b",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 10,
+      "p1_filename": "【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf.md",
+      "p2_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p1_title": "财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告",
+      "p2_title": "汽车以旧换新补贴实施细则",
+      "p1_issuer": [
+        "财政部、税务总局、工业和信息化部"
+      ],
+      "p2_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2023_MOF_10",
+      "p2": "P_2024_MOF_129",
+      "shared_entities": [
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 11,
+      "p1_filename": "【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf.md",
+      "p2_filename": "【2024年汽车以旧换新补贴中央财政预拨资金预算(财建〔2024〕129号)】-财政部-7573.md",
+      "p1_title": "财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告",
+      "p2_title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "p1_issuer": [
+        "财政部、税务总局、工业和信息化部"
+      ],
+      "p2_issuer": [
+        "财政部"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2023_NDRC_1294_b",
+      "p2": "P_2024_NEA_76",
+      "shared_entities": [
+        "grid_company",
+        "nea",
+        "new_ess",
+        "power_generator",
+        "power_market",
+        "power_user",
+        "region_beijing",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council",
+        "vpp"
+      ],
+      "months_apart": 11,
+      "p1_filename": "【国家发展改革委 国家能源局关于加强新形势下电力系统稳定工作的指导意见(发改能源〔2023〕1294号)】-国家发展改革委、国家能源局-49f1.md",
+      "p2_filename": "【电力市场注册基本规则(国能发监管规〔2024〕76号)】-国家能源局-7b68.md",
+      "p1_title": "国家发展改革委 国家能源局关于加强新形势下电力系统稳定工作的指导意见",
+      "p2_title": "电力市场注册基本规则",
+      "p1_issuer": [
+        "国家发展改革委、国家能源局"
+      ],
+      "p2_issuer": [
+        "国家能源局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_BJ_082685cd",
+      "p2": "P_2024_MOF_129",
+      "shared_entities": [
+        "equipment_renewal",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 3,
+      "p1_filename": "【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md",
+      "p2_filename": "【2024年汽车以旧换新补贴中央财政预拨资金预算(财建〔2024〕129号)】-财政部-7573.md",
+      "p1_title": "北京市加力支持设备更新和消费品以旧换新实施方案",
+      "p2_title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "p1_issuer": [
+        "北京市发展改革委、北京市财政局"
+      ],
+      "p2_issuer": [
+        "财政部"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_BJ_082685cd",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 13,
+      "p1_filename": "【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "北京市加力支持设备更新和消费品以旧换新实施方案",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "北京市发展改革委、北京市财政局"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_BJ_08290099",
+      "p2": "P_2024_MOF_129",
+      "shared_entities": [
+        "equipment_renewal",
+        "mof",
+        "mofcom",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 3,
+      "p1_filename": "【北京市加力支持汽车以旧换新补贴实施细则】-北京市商务局等8部门-89b7.md",
+      "p2_filename": "【2024年汽车以旧换新补贴中央财政预拨资金预算(财建〔2024〕129号)】-财政部-7573.md",
+      "p1_title": "北京市加力支持汽车以旧换新补贴实施细则",
+      "p2_title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "财政部"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_BJ_08290099",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 13,
+      "p1_filename": "【北京市加力支持汽车以旧换新补贴实施细则】-北京市商务局等8部门-89b7.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "北京市加力支持汽车以旧换新补贴实施细则",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "北京市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_392",
+      "p2": "P_2024_MOF_129",
+      "shared_entities": [
+        "equipment_renewal",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 3,
+      "p1_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p2_filename": "【2024年汽车以旧换新补贴中央财政预拨资金预算(财建〔2024〕129号)】-财政部-7573.md",
+      "p1_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p2_title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "p1_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p2_issuer": [
+        "财政部"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_392",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 13,
+      "p1_filename": "【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_75_b",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 17,
+      "p1_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "汽车以旧换新补贴实施细则",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOF_129",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang",
+        "v2g"
+      ],
+      "months_apart": 16,
+      "p1_filename": "【2024年汽车以旧换新补贴中央财政预拨资金预算(财建〔2024〕129号)】-财政部-7573.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "财政部"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2025_CQ_122582ad",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 3,
+      "p1_filename": "【南川区综合能源站暨充电基础设施专项规划】-重庆市南川区人民政府办公室-8c55.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "南川区综合能源站暨充电基础设施专项规划",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "重庆市南川区人民政府办公室"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "重庆市南川区",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2025_CQ_388",
+      "p2": "P_2025_MIIT_24_a",
+      "shared_entities": [
+        "china_central_gov",
+        "mof",
+        "mofcom",
+        "nev",
+        "region_beijing",
+        "region_fujian",
+        "region_henan",
+        "region_hunan",
+        "region_jilin",
+        "region_liaoning",
+        "region_shanghai",
+        "region_tianjin",
+        "region_xinjiang"
+      ],
+      "months_apart": 3,
+      "p1_filename": "【重庆市2026年汽车置换更新补贴政策(渝商务〔2025〕388号)】-重庆市商务委员会-23f9.md",
+      "p2_filename": "【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc.md",
+      "p1_title": "重庆市2026年汽车置换更新补贴政策",
+      "p2_title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "p1_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p2_issuer": [
+        "工业和信息化部 财政部 税务总局"
+      ],
+      "p1_region": "重庆市",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_NEA_76",
+      "p2": "P_2025_NDRC_136",
+      "shared_entities": [
+        "ci_power_user",
+        "grid_company",
+        "nea",
+        "power_exchange_center",
+        "power_market",
+        "power_user",
+        "region_beijing",
+        "region_liaoning",
+        "region_tianjin",
+        "region_xinjiang",
+        "state_council",
+        "vpp"
+      ],
+      "months_apart": 5,
+      "p1_filename": "【电力市场注册基本规则(国能发监管规〔2024〕76号)】-国家能源局-7b68.md",
+      "p2_filename": "【关于深化新能源上网电价市场化改革促进新能源高质量发展的通知(发改价格〔2025〕136号)】-国家发展和改革委员会、国家能源局-b26b.md",
+      "p1_title": "电力市场注册基本规则",
+      "p2_title": "关于深化新能源上网电价市场化改革促进新能源高质量发展的通知",
+      "p1_issuer": [
+        "国家能源局"
+      ],
+      "p2_issuer": [
+        "国家发展和改革委员会、国家能源局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2023_NDRC_0519d62b",
+      "p2": "P_2023_NDRC_092751f2_b",
+      "shared_entities": [
+        "grid_company",
+        "high_energy_user",
+        "new_ess",
+        "power_exchange_center",
+        "power_market",
+        "power_user",
+        "retail_electricity_company",
+        "state_council",
+        "v2g",
+        "vpp",
+        "vpp_operator"
+      ],
+      "months_apart": 4,
+      "p1_filename": "【电力需求侧管理办法(征求意见稿)】-国家发展改革委-0421.md",
+      "p2_filename": "【电力需求侧管理办法(2023年版)】-国家发展改革委等六部门-bc54.md",
+      "p1_title": "电力需求侧管理办法(征求意见稿)",
+      "p2_title": "电力需求侧管理办法(2023年版)",
+      "p1_issuer": [
+        "国家发展改革委"
+      ],
+      "p2_issuer": [
+        "国家发展改革委等六部门"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_58_a",
+      "p2": "P_2025_CQ_22_c",
+      "shared_entities": [
+        "consumer",
+        "equipment_renewal",
+        "local_gov",
+        "mee",
+        "mof",
+        "mofcom",
+        "mot",
+        "nev",
+        "recycler",
+        "region_xinjiang",
+        "state_council"
+      ],
+      "months_apart": 10,
+      "p1_filename": "【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0.md",
+      "p2_filename": "【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md",
+      "p1_title": "推动消费品以旧换新行动方案",
+      "p2_title": "重庆市2025年汽车报废更新补贴政策",
+      "p1_issuer": [
+        "商务部、国家发展改革委、工信部、公安部等14部门"
+      ],
+      "p2_issuer": [
+        "重庆市商务委员会"
+      ],
+      "p1_region": "全国",
+      "p2_region": "重庆市"
+    },
+    {
+      "p1": "P_2024_MOFCOM_58_a",
+      "p2": "P_2025_MOFCOM_8_a",
+      "shared_entities": [
+        "consumer",
+        "equipment_renewal",
+        "mee",
+        "miit",
+        "mof",
+        "mofcom",
+        "nev",
+        "recycler",
+        "region_xinjiang",
+        "samr",
+        "state_council"
+      ],
+      "months_apart": 10,
+      "p1_filename": "【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0.md",
+      "p2_filename": "【做好2025年汽车以旧换新工作的通知(商办消费函〔2025〕8号)】-商务部、发改委、工信部、公安部、生态环境部、财政部、税务总局、市场监管总局-91ee.md",
+      "p1_title": "推动消费品以旧换新行动方案",
+      "p2_title": "做好2025年汽车以旧换新工作的通知",
+      "p1_issuer": [
+        "商务部、国家发展改革委、工信部、公安部等14部门"
+      ],
+      "p2_issuer": [
+        "商务部、发改委、工信部、公安部、生态环境部、财政部、税务总局、市场监管总局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_MOFCOM_75_b",
+      "p2": "P_2025_BJ_2",
+      "shared_entities": [
+        "consumer",
+        "equipment_renewal",
+        "miit",
+        "mof",
+        "mofcom",
+        "ndrc",
+        "nev",
+        "region_beijing",
+        "region_shanghai",
+        "region_tianjin",
+        "state_council"
+      ],
+      "months_apart": 9,
+      "p1_filename": "【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md",
+      "p2_filename": "【2025年北京市进一步推动汽车以旧换新实施方案(京商流通字〔2025〕2号)】-北京市商务局等8部门-4b6f.md",
+      "p1_title": "汽车以旧换新补贴实施细则",
+      "p2_title": "2025年北京市进一步推动汽车以旧换新实施方案",
+      "p1_issuer": [
+        "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局"
+      ],
+      "p2_issuer": [
+        "北京市商务局等8部门"
+      ],
+      "p1_region": "全国",
+      "p2_region": "北京市"
+    },
+    {
+      "p1": "P_2024_NDRC_1721",
+      "p2": "P_2024_NDRC_718",
+      "shared_entities": [
+        "charging_infra",
+        "grid_company",
+        "nea",
+        "nev",
+        "power_market",
+        "region_beijing",
+        "region_shanghai",
+        "region_xinjiang",
+        "samr",
+        "state_council_office",
+        "v2g"
+      ],
+      "months_apart": 8,
+      "p1_filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md",
+      "p2_filename": "【推动车网互动规模化应用试点工作的通知(发改办能源〔2024〕718号)】-国家发展改革委办公厅 国家能源局 工业和信息化部 市场监管总局-2ed7.md",
+      "p1_title": "加强新能源汽车与电网融合互动的实施意见",
+      "p2_title": "推动车网互动规模化应用试点工作的通知",
+      "p1_issuer": [
+        "国家发展改革委等部门"
+      ],
+      "p2_issuer": [
+        "国家发展改革委办公厅 国家能源局 工业和信息化部 市场监管总局"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    },
+    {
+      "p1": "P_2024_NDRC_1721",
+      "p2": "P_2025_NDRC_632_c",
+      "shared_entities": [
+        "charging_infra",
+        "charging_operator",
+        "grid_company",
+        "local_gov",
+        "nea",
+        "nev",
+        "nev_industry",
+        "power_market",
+        "region_beijing",
+        "region_xinjiang",
+        "state_council_office"
+      ],
+      "months_apart": 18,
+      "p1_filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md",
+      "p2_filename": "【国家发展改革委办公厅等关于促进大功率充电设施科学规划建设的通知(发改办能源〔2025〕632号)】-国家发展改革委办公厅、国家能源局、工信部、交通部等-3c6a.md",
+      "p1_title": "加强新能源汽车与电网融合互动的实施意见",
+      "p2_title": "国家发展改革委办公厅等关于促进大功率充电设施科学规划建设的通知",
+      "p1_issuer": [
+        "国家发展改革委等部门"
+      ],
+      "p2_issuer": [
+        "国家发展改革委办公厅、国家能源局、工信部、交通部等"
+      ],
+      "p1_region": "全国",
+      "p2_region": "全国"
+    }
+  ]
+}

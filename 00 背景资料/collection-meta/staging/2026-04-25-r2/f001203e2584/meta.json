@@ -1,0 +1,10 @@
+{
+  "url": "https://fgw.sz.gov.cn/attachment/1/1441/1441507/11263772.pdf",
+  "title": "[PDF] 深圳市2024 年电力负荷管理实施方案",
+  "source_type": "D",
+  "source_domain": "fgw.sz.gov.cn",
+  "fetched_at": "2026-04-25T10:29:20.149007",
+  "hash": "f001203e2584",
+  "status": "fail",
+  "error": "500 Server Error: Internal Server Error for url: https://api.firecrawl.dev/v1/scrape"
+}

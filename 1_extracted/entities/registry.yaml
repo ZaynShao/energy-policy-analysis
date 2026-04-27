@@ -1,0 +1,1121 @@
+---
+title: Canonical Entity Registry v0
+generated_at: 2026-04-25
+source: backup 04 实体节点 + 05 概念节点
+total_canonical: 88
+total_aliases: 264
+total_candidates_in: 264
+schema_version: 3.0
+note: |
+  v0 init,聚类自 264 个候选词。后续由 weekly lint 跑相似度 review 增量 refine。
+  - id 全部 snake_case,中国机构常用拼音/英文缩写
+  - 具体公司不单独建 entity,落到对应 stakeholder 的 examples
+  - 直辖市/省份单独的地名 → region(纠正 backup 把"上海"放在"机构"目录的错误)
+  - 264 候选每个都进了某个 canonical 的 aliases;canonical_name 也算一个 alias
+---
+
+# === ORGS ===
+
+- id: state_council
+  canonical_name: 国务院
+  type: [org]
+  aliases:
+    - 国务院
+  desc: 中华人民共和国中央政府
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: state_council_office
+  canonical_name: 国务院办公厅
+  type: [org]
+  parent: state_council
+  aliases:
+    - 国务院办公厅
+  desc: 国务院办事机构,简称国办
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: ndrc
+  canonical_name: 国家发展改革委
+  type: [org]
+  aliases:
+    - 国家发改委
+    - 各地方发改委、能源局
+  desc: 国家发展和改革委员会(简称发改委),宏观调控部委
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+  note: "各地方发改委、能源局 是聚合表述,姑且并入发改委;weekly lint 可考虑拆出"
+
+- id: nea
+  canonical_name: 国家能源局
+  type: [org]
+  parent: ndrc
+  aliases:
+    - 国家能源局
+    - 国家能源局及其派出机构
+  desc: 国家能源局,发改委下属副部级单位
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: miit
+  canonical_name: 工业和信息化部
+  type: [org]
+  aliases:
+    - 工信部
+    - 省级工业和信息化主管部门
+  desc: 工业和信息化部
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+  note: "省级工信主管部门并入,weekly lint 可拆"
+
+- id: mof
+  canonical_name: 财政部
+  type: [org]
+  aliases:
+    - 财政部
+  desc: 中华人民共和国财政部
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: mofcom
+  canonical_name: 商务部
+  type: [org]
+  aliases:
+    - 商务部
+    - 各级商务主管部门
+    - 商务主管部门（各级）
+    - 地方各级商务主管部门
+    - 地方商务主管部门
+  desc: 中华人民共和国商务部及各级商务主管部门
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: mot
+  canonical_name: 交通运输部
+  type: [org]
+  aliases:
+    - 交通运输部
+  desc: 中华人民共和国交通运输部
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: mee
+  canonical_name: 生态环境部
+  type: [org]
+  aliases:
+    - 生态环境部
+    - 生态环境主管部门
+    - 省级生态环境主管部门
+  desc: 生态环境部及各级生态环境主管部门
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: samr
+  canonical_name: 国家市场监督管理总局
+  type: [org]
+  aliases:
+    - 市场监管总局
+  desc: 国家市场监督管理总局
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: provincial_energy_authority
+  canonical_name: 省级能源主管部门
+  type: [org]
+  parent: nea
+  aliases:
+    - 省级能源主管部门
+  desc: 各省、自治区、直辖市能源主管部门
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: joint_issuer_8ministries_nev
+  canonical_name: 工信部等八部门联合发文主体
+  type: [org]
+  aliases:
+    - 工业和信息化部、国家发展改革委、教育部、商务部、市场监管总局、国家知识产权局、国家能源局、国家消防救援局
+  desc: 新能源汽车相关多部委联合发文署名主体(8 部门)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.7
+  review_needed: true
+  note: "本质是一组 issuers 的联合,不是单一机构;v0 暂时存为聚合 alias,weekly lint 可考虑拆为各部委多 issuer 引用"
+
+- id: shanghai_municipal_gov
+  canonical_name: 上海市政府
+  type: [org]
+  aliases:
+    - 上海市政府
+    - 上海市政府_市经信委
+    - 各区交通管理部门、发展改革部门
+    - 各区电力运行管理部门
+  desc: 上海市人民政府及其所属委办局/区级管理部门
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+  note: "上海市经信委、各区职能部门 v0 暂并入市政府;weekly lint 可拆"
+
+- id: shanghai_vpp_center
+  canonical_name: 上海市虚拟电厂管理中心
+  type: [org]
+  parent: shanghai_municipal_gov
+  aliases:
+    - 上海市虚拟电厂管理中心
+  desc: 上海市虚拟电厂管理中心,虚拟电厂运营协调机构
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: sgcc_shanghai
+  canonical_name: 国网上海市电力公司
+  type: [org, stakeholder]
+  parent: sgcc
+  aliases:
+    - 国网上海市电力公司
+    - 电网企业（市电力公司）
+  desc: 国家电网下属上海市电力公司
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: spic
+  canonical_name: 国家电力投资集团有限公司
+  type: [org, stakeholder]
+  aliases:
+    - 国家电力投资集团有限公司及其相关子公司
+  desc: 国家电力投资集团(国电投)及其子公司
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: fujian_provincial_gov
+  canonical_name: 福建省及各市级政府
+  type: [org]
+  aliases:
+    - 福建省及各市级政府
+  desc: 福建省及下辖各地级市政府
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: pilot_county_gov
+  canonical_name: 试点县政府
+  type: [org]
+  aliases:
+    - 试点县政府
+  desc: 试点工作的县级政府
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.8
+
+- id: china_central_gov
+  canonical_name: 中国政府
+  type: [org]
+  aliases:
+    - 中国政府
+  desc: 中华人民共和国中央政府(总称)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: us_gov
+  canonical_name: 美国政府
+  type: [org]
+  aliases:
+    - 美国政府
+  desc: 美利坚合众国政府
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: local_gov
+  canonical_name: 地方政府
+  type: [org]
+  aliases:
+    - 地方政府
+    - 地方政府相关部门
+    - 各级政府部门
+    - 政府监管部门
+  desc: 各级地方政府及相关部门(泛指)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: govt_procurer
+  canonical_name: 各级预算单位采购人
+  type: [org, stakeholder]
+  aliases:
+    - 采购人（各级预算单位）
+  desc: 政府采购中各级预算单位作为采购人
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: national_gov_service_platform
+  canonical_name: 全国一体化政务服务平台
+  type: [org]
+  aliases:
+    - 全国一体化政务服务平台
+  desc: 全国一体化在线政务服务平台
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: power_exchange_center
+  canonical_name: 电力交易机构
+  type: [org, stakeholder]
+  aliases:
+    - 电力交易机构
+  desc: 国家级和省级电力交易中心
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+
+# === STAKEHOLDERS ===
+
+- id: charging_operator
+  canonical_name: 充电基础设施运营商
+  type: [stakeholder]
+  aliases:
+    - 充电基础设施运营商
+    - 充电基础设施运营商（如滴滴能源）
+    - 充电基础设施投资运营商(如滴滴能源)
+    - 充电运营商
+    - 充电运营商（如滴滴能源）
+    - 充电运营商_负荷聚合商
+    - 充电运营企业
+    - 充电站运营商
+    - 充电设施运营商
+    - 充电设施运营商_负荷聚合商
+    - 充电_换电基础设施运营商
+    - 充电_换电设施运营商
+    - 充换电设施运营商
+    - 充换电运营商
+    - 充换电设施建设和运营商
+    - 充换电设施建设运营企业
+    - 充换电设施投建企业
+    - 充电桩运营商
+    - 充电桩运营商_新能源车主
+    - 充电桩运营商_负荷聚合商
+    - 充电桩、储能、虚拟电厂运营商
+    - 充电桩_虚拟电厂_储能等新业态运营商
+    - 充电设备制造与运营企业
+    - 新能源汽车充电站运营商
+    - 入选的充电示范站运营企业
+    - 未入选的充电站运营商
+    - 滴滴能源
+    - 滴滴能源（充电桩_VPP运营商）
+  examples: [滴滴能源, 特来电, 星星充电, 国家电网]
+  desc: 直接运营充电桩 / 换电站 / 综合能源补给站的市场主体
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: charging_equipment_manufacturer
+  canonical_name: 充换电设备制造商
+  type: [stakeholder]
+  aliases:
+    - 充换电设施设备制造商
+    - 充电设备制造商
+    - 大功率充电设备制造商
+    - 智能_V2G充电桩制造商
+    - V2G技术和设备提供商
+  desc: 充电桩 / 换电站 / V2G 设备的研发制造企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: vpp_operator
+  canonical_name: 虚拟电厂运营商
+  type: [stakeholder]
+  aliases:
+    - 虚拟电厂运营商
+    - 虚拟电厂运营商_聚合商
+    - 虚拟电厂运营商_负荷集成商
+    - 虚拟电厂_负荷聚合商
+    - 虚拟电厂_储能_V2G运营商
+    - 虚拟电厂、新型储能、V2G等聚合商
+    - 虚拟电厂、新型储能等新型经营主体
+    - 虚拟电厂、需求响应服务商
+    - 虚拟电厂聚合商与技术服务商（如滴滴能源）
+    - 新型储能_虚拟电厂运营商
+    - 新型储能、虚拟电厂、V2G等聚合商
+    - 负荷聚合商_虚拟电厂运营商
+  examples: [滴滴能源]
+  desc: 虚拟电厂运营商及负荷聚合商,整合分布式资源参与电力市场与需求响应
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: ess_operator_investor
+  canonical_name: 储能项目投资运营商
+  type: [stakeholder]
+  aliases:
+    - 储能投资者_运营商
+    - 储能系统投资者_运营商
+    - 储能项目投资者_运营商
+    - 抽水蓄能、独立新型储能电站
+    - 独立新型储能
+    - 新型储能设施运营商
+    - 新型储能项目单位（含独立储能、新能源配储等）
+  desc: 储能(含抽蓄、新型储能、独立储能)的投资人和运营主体
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: ess_industry_company
+  canonical_name: 新型储能产业企业
+  type: [stakeholder]
+  aliases:
+    - 新型储能产业相关企业
+    - 新型储能制造业相关企业
+    - 新型储能制造企业
+    - 新型储能企业（设备商、集成商、运营商）
+    - 新型储能技术与设备供应商
+    - 新型储能设备商与集成商
+    - 新能源与储能技术公司（如宁德时代）
+    - 新能源及储能企业
+    - 新能源及低碳技术企业（含储能、虚拟电厂等）
+  examples: [宁德时代]
+  desc: 新型储能产业链上的设备制造、系统集成、技术供应类企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: load_aggregator
+  canonical_name: 负荷聚合商
+  type: [stakeholder]
+  aliases:
+    - 分布式电源、可调节负荷、储能等资源所有者
+  desc: 聚合分布式电源、可调节负荷、储能等资源参与电力市场的主体
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+  note: "v0 仅 1 候选直接命中;大量复合词(虚拟电厂_负荷聚合商等)已并入 vpp_operator/charging_operator;weekly lint 后可考虑提升此条覆盖度"
+
+- id: grid_company
+  canonical_name: 电网企业
+  type: [stakeholder, org]
+  aliases:
+    - 电网企业
+    - 电网公司
+    - 电网企业（国家电网、南方电网）
+    - 电网企业及电力交易中心
+    - 电网企业及电力调度机构
+  examples: [国家电网, 中国南方电网]
+  desc: 电网公司,负责输配电与电力调度
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: power_generator
+  canonical_name: 发电企业
+  type: [stakeholder]
+  aliases:
+    - 发电企业
+    - 各类并网主体（含传统电源）
+  desc: 发电企业(总称,含火电/水电/新能源等)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: re_generator
+  canonical_name: 新能源发电企业
+  type: [stakeholder]
+  parent: power_generator
+  aliases:
+    - 新能源发电企业
+    - 新能源发电企业（特别是光伏）
+    - 可再生能源发电企业
+    - 光伏等新能源发电企业
+  desc: 光伏 / 风电 / 等新能源发电企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: thermal_generator
+  canonical_name: 火电企业
+  type: [stakeholder]
+  parent: power_generator
+  aliases:
+    - 火电企业
+    - 煤电企业
+    - 煤电、天然气发电企业
+  desc: 煤电、天然气等火电类发电企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: retail_electricity_company
+  canonical_name: 售电公司
+  type: [stakeholder]
+  aliases:
+    - 售电公司
+  desc: 售电公司,电力市场交易主体
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: power_user
+  canonical_name: 电力用户
+  type: [stakeholder]
+  aliases:
+    - 电力用户
+    - 电力用户_售电公司
+    - 电力用户（含充电桩运营商）
+    - 电力用户（特别是10千伏及以上工商业用户）
+  desc: 电力用户(总称),含工商业用户和居民用户
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: ci_power_user
+  canonical_name: 工商业电力用户
+  type: [stakeholder]
+  parent: power_user
+  aliases:
+    - 工商业用户
+    - 工商业用电用户
+    - 工商业电力用户
+    - 工商业及户用电力用户
+    - 高峰时段刚性用电的工商业用户
+  desc: 工商业(及户用)电力用户
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: high_energy_user
+  canonical_name: 重点用能企业
+  type: [stakeholder]
+  parent: ci_power_user
+  aliases:
+    - 重点用能单位(如钢铁、数据中心)
+    - 重点用能单位（钢铁、化工、数据中心等）
+    - 高耗能、老旧设备持有企业
+    - 高耗能、高排放企业
+    - 高耗能工业企业 (钢铁、石化等)
+    - 高耗能行业（钢铁、石化、建材等）
+    - 高载能产业_工业用户
+    - 工业企业（钢铁、石化、机械等）
+  desc: 钢铁、化工、石化、数据中心等高耗能/重点用能企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: industrial_enterprise
+  canonical_name: 工业企业
+  type: [stakeholder]
+  aliases:
+    - 工业企业和工业园区
+    - 农业、制造业、批发零售业企业
+    - 设备制造企业（工业、能源电力、交通等）
+    - 设备制造企业（特别是节能、智能设备）
+    - 设备制造商
+    - 能源装备制造企业
+    - 节能技术与设备制造商
+    - 高能效家电制造商
+  desc: 工业企业及工业园区(总称)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+  note: "node 较杂,v0 暂作大类;weekly lint 拆分节能设备/能源装备/家电制造等子类"
+
+- id: residential_user
+  canonical_name: 居民用户
+  type: [stakeholder]
+  parent: power_user
+  aliases:
+    - 居民用户
+    - 居民区业主大会及业主
+    - 居民电动汽车用户
+    - 农村地区居民_新能源车主
+    - 农村居民
+    - 农村地区新能源汽车用户
+    - 城市居民_消费者
+    - 终端用户（居民和工商企业）
+  desc: 居民用户(含农村/城市居民、电动车主、业主)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.88
+
+- id: consumer
+  canonical_name: 消费者
+  type: [stakeholder]
+  aliases:
+    - 消费者
+    - 个人消费者
+    - 企业和群众
+  desc: 个人消费者(总称)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: green_power_user
+  canonical_name: 绿电消费用户
+  type: [stakeholder]
+  parent: power_user
+  aliases:
+    - 有绿色电力消费需求的企业_电力用户
+    - 有绿色电力需求的电力用户
+  desc: 有绿色电力消费需求的工商业用户
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: nev_oem
+  canonical_name: 新能源汽车整车企业
+  type: [stakeholder]
+  aliases:
+    - 新能源汽车制造商
+    - 新能源汽车厂商_经销商
+    - 新能源车企
+    - 整车企业
+    - 整车厂
+  desc: 新能源汽车整车制造商和经销商
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: ice_oem
+  canonical_name: 燃油车企业
+  type: [stakeholder]
+  aliases:
+    - 燃油车厂商_经销商
+    - 燃油车企业（2.0升及以下排量）
+    - 传统燃油车（高排量）制造商
+  desc: 燃油车整车厂商和经销商
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: nev_industry
+  canonical_name: 新能源汽车产业链企业
+  type: [stakeholder]
+  aliases:
+    - 新能源汽车产业
+    - 新能源汽车产业链
+    - 新能源汽车企业
+    - 新能源汽车及产业链企业
+    - 新能源汽车及相关产业链企业
+    - 新能源汽车及相关产业链企业（如滴滴）
+    - 新能源汽车及充电桩企业
+    - 新能源汽车及家电制造企业
+    - 新能源产业（光伏、风电、储能等）
+    - 新能源产业（含储能、V2G、充电桩）
+  examples: [滴滴]
+  desc: 新能源汽车整体产业及上下游产业链企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.88
+
+- id: nev_user
+  canonical_name: 新能源汽车用户
+  type: [stakeholder]
+  aliases:
+    - 新能源车主
+    - 新能源汽车车主
+    - 新能源汽车车主_潜在买家
+    - 新能源汽车车主_充电桩运营商
+    - 新能源汽车用户
+    - 新能源汽车消费者
+    - 新能源汽车用户及充电服务商（如滴滴能源）
+    - 电动汽车用户
+    - 电动汽车用户_充电桩运营商
+  desc: 新能源汽车 / 电动汽车车主和用户
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: ev_taxi_driver
+  canonical_name: 电动出租车司机
+  type: [stakeholder]
+  parent: nev_user
+  aliases:
+    - 电动出租车驾驶员
+    - 上海市新能源出租车司机
+  desc: 电动出租车驾驶员(含网约车)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: battery_manufacturer
+  canonical_name: 动力电池企业
+  type: [stakeholder]
+  aliases:
+    - 车企_电池企业
+    - 车企和电池企业
+  desc: 动力电池及车企电池板块企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: recycler
+  canonical_name: 资源回收与再制造企业
+  type: [stakeholder]
+  aliases:
+    - 再生资源回收利用企业
+    - 再生资源回收及再制造企业
+    - 回收与再制造企业
+    - 回收循环利用企业
+    - 回收拆解企业
+    - 资源回收与再制造企业
+    - 报废机动车回收拆解企业
+    - 废旧家电回收企业
+  desc: 再生资源回收、循环利用、再制造企业(含报废机动车、家电)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: gas_station
+  canonical_name: 加油站及成品油经营企业
+  type: [stakeholder]
+  aliases:
+    - 传统加油站
+    - 成品油批发、仓储企业
+    - 成品油经营企业（批发、仓储、零售）
+    - 成品油零售企业（加油站）
+  desc: 成品油零售/批发/仓储企业,含加油站
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: real_estate_property
+  canonical_name: 房地产及物业服务企业
+  type: [stakeholder]
+  aliases:
+    - 房地产开发商
+    - 房地产_物业公司
+    - 房地产及物业公司
+    - 房地产开发商及物业公司
+    - 物业服务企业
+  desc: 房地产开发商和物业服务企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: commercial_property
+  canonical_name: 商业地产及商贸流通企业
+  type: [stakeholder]
+  aliases:
+    - 商业地产项目_运营商
+    - 商贸流通企业（如购物中心、百货、超市）
+    - 公共建筑用户（公共机构、商场、楼宇、酒店等）
+  desc: 商业地产、商贸流通和公共建筑用户(购物中心、商场、楼宇、酒店等)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: home_appliance_company
+  canonical_name: 家电及数码产品企业
+  type: [stakeholder]
+  aliases:
+    - 家电、数码产品制造企业
+    - 家电、数码产品销售企业（线上及线下）
+    - 汽车、家电、家居制造企业
+  desc: 家电、家居、数码产品的制造和销售企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.88
+
+- id: heavy_truck_oem
+  canonical_name: 重卡制造商
+  type: [stakeholder]
+  aliases:
+    - 重卡制造商（如北奔、陕汽）
+  examples: [北奔, 陕汽]
+  desc: 重卡整车制造商
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: used_car_dealer
+  canonical_name: 二手车经销商
+  type: [stakeholder]
+  aliases:
+    - 二手车经销商
+    - 汽车销售机构
+  desc: 二手车经销商和汽车销售机构
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.88
+
+- id: logistics_company
+  canonical_name: 物流企业
+  type: [stakeholder]
+  aliases:
+    - 物流企业
+  desc: 物流企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: public_transit_company
+  canonical_name: 城市公交及运输企业
+  type: [stakeholder]
+  aliases:
+    - 城市公交运营公司
+    - 运输及公交企业
+  desc: 城市公交及运输企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: transport_industry
+  canonical_name: 交通运输行业
+  type: [stakeholder]
+  aliases:
+    - 交通运输行业（含网约车、充电服务商）
+  desc: 交通运输行业(含网约车、充电服务)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: sme
+  canonical_name: 中小企业
+  type: [stakeholder]
+  aliases:
+    - 中小企业
+    - 供应链上下游中小企业
+    - 民营企业和中小企业
+    - 民营企业等社会资本
+  desc: 中小企业和民营企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.88
+
+- id: soe
+  canonical_name: 国有企业
+  type: [stakeholder]
+  aliases:
+    - 国有企业（特别是中央企业）
+    - 相关中央企业
+  desc: 国有企业和中央企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.92
+
+- id: supply_chain_leader
+  canonical_name: 供应链领军企业
+  type: [stakeholder]
+  aliases:
+    - 供应链领军企业
+  desc: 供应链中的链主级领军企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: utility_company
+  canonical_name: 供水供电供气供热企业
+  type: [stakeholder]
+  aliases:
+    - 供水供电供气供热企业
+  desc: 城市公用事业(水、电、气、热)企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: energy_company
+  canonical_name: 能源企业
+  type: [stakeholder]
+  aliases:
+    - 能源企业（发电、电网、油气、充电设施运营商等）
+  desc: 能源行业企业总称(发电、电网、油气、充电设施运营商等)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+  note: "聚合表述,涵盖多个细分 stakeholder;weekly lint 可考虑拆为 power_generator/grid_company/gas_station/charging_operator 多重映射"
+
+- id: export_enterprise
+  canonical_name: 外向型出口企业
+  type: [stakeholder]
+  aliases:
+    - 出海企业
+    - 外向型_出口企业
+    - 外向型企业_跨国公司
+    - 中国对美出口企业
+    - 国内生产企业
+  desc: 外向型出口企业及跨国公司
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: foreign_invested_enterprise_china
+  canonical_name: 在华外资企业
+  type: [stakeholder]
+  aliases:
+    - 在华美资企业
+    - 符合本国产品标准的外资企业
+  desc: 在华外资企业
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.85
+
+- id: pilot_project_unit
+  canonical_name: 试点项目单位与试点城市
+  type: [stakeholder]
+  aliases:
+    - 试点城市和项目单位
+    - 试点项目单位和试点城市
+    - 试点项目和城市单位
+  desc: 试点项目实施主体与试点城市
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.9
+
+- id: key_emission_unit
+  canonical_name: 重点排放单位
+  type: [stakeholder]
+  aliases:
+    - 重点排放单位（发电行业先行）
+    - 发电、钢铁、水泥、铝冶炼行业重点排放单位
+    - 石化、化工、民航等其他重点行业企业
+  desc: 全国碳市场覆盖的重点排放单位(发电、钢铁、水泥、铝冶炼、石化、化工、民航等)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: verification_agency
+  canonical_name: 核查与检测技术服务机构
+  type: [stakeholder]
+  aliases:
+    - 技术服务机构（核查、检测等）
+    - 核查技术服务机构
+  desc: 碳排放核查、检测等第三方技术服务机构
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: professional_service
+  canonical_name: 专业服务机构
+  type: [stakeholder]
+  aliases:
+    - 专业服务机构 (法律、金融、咨询等)
+  desc: 法律、金融、咨询等专业服务机构
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.93
+
+- id: financial_institution
+  canonical_name: 金融机构
+  type: [stakeholder]
+  aliases:
+    - 金融保险机构
+    - 银行等金融机构
+  desc: 银行、保险等金融机构
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+- id: digital_tech_provider
+  canonical_name: 数智技术服务商
+  type: [stakeholder]
+  aliases:
+    - 数智技术服务商（AI、物联网等）
+    - 新技术_新产品企业
+    - 电力需求侧管理技术_产品供应商
+  desc: AI、物联网等数智技术与新技术新产品提供商
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.88
+
+
+# === CONCEPTS ===
+
+- id: v2g
+  canonical_name: 车网互动
+  type: [concept]
+  aliases:
+    - V2G
+    - 车网互动
+  desc: Vehicle-to-Grid,车网互动技术,电动车作为可调度负荷/储能与电网双向互动
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: vpp
+  canonical_name: 虚拟电厂
+  type: [concept]
+  aliases:
+    - 虚拟电厂
+  desc: 虚拟电厂(Virtual Power Plant),聚合分布式资源参与电网调度的技术与商业模式
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+  note: "同名 stakeholder vpp_operator 是运营主体,本条是技术概念"
+
+- id: new_ess
+  canonical_name: 新型储能
+  type: [concept]
+  aliases:
+    - 新型储能
+  desc: 新型储能(电化学/压缩空气/飞轮等非抽水蓄能形式)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: charging_infra
+  canonical_name: 充电基础设施
+  type: [concept]
+  aliases:
+    - 充电基础设施
+  desc: 充换电基础设施(充电桩/换电站等)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: nev
+  canonical_name: 新能源汽车
+  type: [concept]
+  aliases:
+    - 新能源汽车
+  desc: 新能源汽车(纯电、插混、增程、氢燃料等)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: power_market
+  canonical_name: 电力市场
+  type: [concept]
+  aliases:
+    - 电力市场
+  desc: 电力市场(中长期 / 现货 / 辅助服务等)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.97
+
+- id: equipment_renewal
+  canonical_name: 设备更新
+  type: [concept]
+  aliases:
+    - 设备更新
+  desc: 大规模设备更新与消费品以旧换新
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.95
+
+
+# === THEMES ===
+# v0 仅从 backup 候选中产生 0 条 theme(候选词中没有明确的 theme 级条目)。
+# theme 由 1_extracted/diffs + 2_crystallized/themes/ 派生时按需建立,留空给后续迭代。
+
+
+# === REGIONS ===
+
+- id: region_shanghai
+  canonical_name: 上海
+  type: [region]
+  aliases:
+    - 上海
+  desc: 上海市(直辖市,行政区划代码 310000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+  note: "backup 把上海放在 04 实体节点/机构 是错误的,纠正为 region"
+
+- id: region_beijing
+  canonical_name: 北京
+  type: [region]
+  aliases:
+    - 北京
+  desc: 北京市(直辖市,行政区划代码 110000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+  note: "backup 把北京放在 04 实体节点/机构 是错误的,纠正为 region"
+
+- id: region_tianjin
+  canonical_name: 天津
+  type: [region]
+  aliases:
+    - 天津
+  desc: 天津市(直辖市,行政区划代码 120000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: region_jilin
+  canonical_name: 吉林
+  type: [region]
+  aliases:
+    - 吉林
+  desc: 吉林省(行政区划代码 220000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: region_liaoning
+  canonical_name: 辽宁
+  type: [region]
+  aliases:
+    - 辽宁
+  desc: 辽宁省(行政区划代码 210000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: region_henan
+  canonical_name: 河南
+  type: [region]
+  aliases:
+    - 河南
+  desc: 河南省(行政区划代码 410000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: region_hunan
+  canonical_name: 湖南
+  type: [region]
+  aliases:
+    - 湖南
+  desc: 湖南省(行政区划代码 430000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: region_fujian
+  canonical_name: 福建
+  type: [region]
+  aliases:
+    - 福建
+  desc: 福建省(行政区划代码 350000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+- id: region_xinjiang
+  canonical_name: 新疆
+  type: [region]
+  aliases:
+    - 新疆
+  desc: 新疆维吾尔自治区(行政区划代码 650000)
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.99
+
+
+# === UNCATEGORIZED ===
+
+- id: misc_other_concept
+  canonical_name: 其他
+  type: [concept]
+  aliases:
+    - 其他
+  desc: backup 05 概念节点 中标为"其他"的占位条目,无具体语义
+  added_at: 2026-04-25
+  added_by: registry_v0_init
+  confidence: 0.5
+  review_needed: true
+  note: "源数据本身就是占位词,无法归类;weekly lint 后视情况删除或重指向"

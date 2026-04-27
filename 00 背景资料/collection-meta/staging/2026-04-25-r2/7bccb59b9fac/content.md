@@ -1,0 +1,284 @@
+![](https://fgk.chinatax.gov.cn/zcfgk/c100013/c5243525/content.html)
+
+![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/fgk.png)
+
+全部
+
+文件
+
+解读
+
+搜索 [高级搜索](https://fgk.chinatax.gov.cn/zcfgk/c100028/search.html)
+
+搜索方式：
+
+精准
+
+模糊
+
+热门关键词：
+
+当前位置： [首页](http://www.chinatax.gov.cn/chinatax/index.html) > [政策法规](https://fgk.chinatax.gov.cn/zcfgk/index.html) > [其他文件](https://fgk.chinatax.gov.cn/zcfgk/c100013/listflfg.html)
+
+### 中华人民共和国工业和信息化部 财政部 税务总局关于2026—2027年减免车辆购置税新能源汽车产品技术要求的公告
+
+##### 中华人民共和国工业和信息化部 财政部 税务总局公告2025年第24号
+
+##### （）
+
+字体：【大】【中】【小】
+
+收藏订阅 [已推送，请在“个人中心-我的订阅”中查看](https://fgk.chinatax.gov.cn/gsgrzx/wddy.html) [此稿件无标签，进入“订阅设置”中订阅更多](https://fgk.chinatax.gov.cn/gsgrzx/wddy.html)
+
+成文日期：2025-09-22
+
+收藏
+
+分享
+
+订阅
+
+语音播报：
+
+扫一扫在手机打开当前页
+
+注释
+
+根据 [《关于延续和优化新能源汽车车辆购置税减免政策的公告》](https://fgk.chinatax.gov.cn/zcfgk/c102416/c5207352/content.html)（财政部 税务总局 工业和信息化部公告2023年第10号），结合新能源汽车技术进步、标准体系发展和车型变化情况，现就2026—2027年减免车辆购置税新能源汽车产品技术要求有关事项公告如下：
+
+一、纯电动乘用车有关技术要求调整如下：纯电动乘用车百公里电能消耗量应不高于《电动汽车能量消耗量限值 第1部分：乘用车》（GB 36980.1—2025）对应车型的电能消耗量限值。最大设计总质量超过3500kg的乘用车电能消耗量限值要求，参照GB 36980.1—2025中最大设计总质量为3500kg乘用车电能消耗量限值执行。
+
+二、插电式（含增程式）混合动力乘用车有关技术要求调整如下：
+
+（一）插电式（含增程式）混合动力乘用车纯电动续驶里程应满足有条件的等效全电里程不低于100公里。
+
+（二）插电式（含增程式）混合动力乘用车电量保持模式试验的燃料消耗量（不含电能转化的燃料消耗量）与《乘用车燃料消耗量限值》（GB 19578—2024）中对应车型的燃料消耗量限值相比：整备质量为2510kg以下的乘用车，应小于70%；整备质量为2510kg及以上的乘用车，应小于75%；最大设计总质量超过3500kg的乘用车燃料消耗量限值要求，参照GB 19578—2024中最大设计总质量为3500kg乘用车燃料消耗量限值执行。非汽柴油插电式（含增程式）混合动力乘用车燃料消耗量不作要求。
+
+（三）插电式（含增程式）混合动力乘用车电量消耗模式试验的电能消耗量与《电动汽车能量消耗量限值 第1部分：乘用车》（GB 36980.1—2025）中对应车型的电能消耗量限值相比：整备质量为2510kg以下的乘用车，应小于140%；整备质量为2510kg及以上的乘用车，应小于145%；最大设计总质量超过3500kg的乘用车电能消耗量限值要求，参照GB 36980.1—2025中最大设计总质量为3500kg乘用车电能消耗量限值执行。
+
+三、其他技术要求继续按照 [《关于调整减免车辆购置税新能源汽车产品技术要求的公告》](https://fgk.chinatax.gov.cn/zcfgk/c100013/c5217984/content.html)（工业和信息化部 财政部 税务总局公告2023年第32号）规定执行。
+
+四、2026年1月1日起，列入《减免车辆购置税的新能源汽车车型目录》（以下简称《减免税目录》）的车型，需符合本公告要求；2025年12月31日前已列入《减免税目录》且符合本公告技术要求的车型，自动转入2026年第1期《减免税目录》，不符合要求的车型将从《减免税目录》中撤销。不符合本公告要求、拟列入2026年第1期《减免税目录》的车型，应在2025年12月12日之前完成申报。被撤销的车型，可重新申请列入《减免税目录》。
+
+五、2026年1月1日（含）起，在2026年及以后生效的《减免税目录》发布后，购置列入《减免税目录》的新能源汽车，可按规定享受车辆购置税减免政策。税务机关依据《减免税目录》、减免税标识以及办理车辆购置税纳税申报所需要提供的其他资料，办理车辆购置税减税手续。
+
+特此公告。
+
+工业和信息化部
+
+财政部
+
+税务总局
+
+2025年9月22日
+
+![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/print.jpg)【打印】
+
+[![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/downlod.png)\\
+【下载】](https://fgk.chinatax.gov.cn/zcfgk/c100013/c5243525/content.html)
+
+[纠错或建议](http://hd.chinatax.gov.cn/fuwu/jiucuo.html)
+
+关联解读
+
+关联文件
+
+关联问答
+
+### 用户登录
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha?a=0.9320033023535603)
+
+[忘记密码](https://fgk.chinatax.gov.cn/jzxx2023/forgetpw2023.html)
+
+登　录
+
+没有账号？ [立即注册账号](https://fgk.chinatax.gov.cn/jzxx2023/register2023.html)
+
+注册
+
+
+### 我要注册
+
+请填写您的注册信息
+
+姓名\*
+
+性别
+
+__
+
+男
+
+__
+
+女
+
+登录名\*
+
+6-18位字符(请使用字母开头,与数字组合)
+
+密码\*
+
+密码强度
+
+8-20位字符(从大、小写字母、数字、其他字符中选三种组合)
+
+确认密码\*
+
+请再次输入密码
+
+省份\*
+
+选省份北京市天津市上海市重庆市河北省山西省内蒙古辽宁省吉林省黑龙江省江苏省浙江省安徽省福建省江西省山东省河南省湖北省湖南省广东省广西海南省四川省贵州省云南省西藏陕西省甘肃省青海省宁夏新疆香港澳门台湾省
+
+选省份北京市天津市上海市重庆市河北省山西省内蒙古辽宁省吉林省黑龙江省江苏省浙江省安徽省福建省江西省山东省河南省湖北省湖南省广东省广西海南省四川省贵州省云南省西藏陕西省甘肃省青海省宁夏新疆香港澳门台湾省
+
+选城市
+
+选城市
+
+选区县
+
+选区县
+
+请如实选择
+
+手机号\*
+
+当您的密码丢失,可以通过手机接收短信找回
+
+短信验证码
+
+获取验证码1秒后重发
+
+邮箱
+
+验证码
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha?a=0.9029953858973084)
+
+提　交重　置
+
+X
+
+您即将访问非政府网站链接，是否继续？
+
+继续访问放弃
+
+找回密码
+
+
+### 安全验证
+
+_1_
+
+安全验证
+
+_2_
+
+密码重置
+
+_3_
+
+设置成功
+
+手机号码\*
+
+短信验证码\*
+
+获取验证码60
+
+验证码\*
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha?a=0.6437420895560141)
+
+下一步取　消
+
+新密码\*
+
+新密码确认\*
+
+密码强度
+
+验证码
+
+![](https://fgk.chinatax.gov.cn/service/foreign/captha)
+
+修　改取　消
+
+![](https://fgk.chinatax.gov.cn/static/2023/images/hdjl/forgetpw_success_bg.png)
+
+设置成功！
+
+X
+
+您即将访问非政府网站链接，是否继续？
+
+继续访问放弃
+
+### 网站纠错
+
+车辆购置税
+
+文件
+
+![回到顶部](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/easybtn_icon0403.png)
+
+[_![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/gh.png)_ 中国政府网](https://www.gov.cn/ "")
+
+- [北京](http://beijing.chinatax.gov.cn/)
+- [天津](http://tianjin.chinatax.gov.cn/)
+- [河北](http://hebei.chinatax.gov.cn/)
+- [山西](http://shanxi.chinatax.gov.cn/)
+- [内蒙古](http://neimenggu.chinatax.gov.cn/)
+- [辽宁](http://liaoning.chinatax.gov.cn/)
+- [吉林](http://jilin.chinatax.gov.cn/)
+- [黑龙江](http://heilongjiang.chinatax.gov.cn/)
+- [上海](http://shanghai.chinatax.gov.cn/)
+- [江苏](http://jiangsu.chinatax.gov.cn/)
+- [浙江](http://zhejiang.chinatax.gov.cn/)
+- [安徽](http://anhui.chinatax.gov.cn/)
+- [福建](http://fujian.chinatax.gov.cn/)
+- [江西](http://jiangxi.chinatax.gov.cn/)
+- [山东](http://shandong.chinatax.gov.cn/)
+- [河南](https://henan.chinatax.gov.cn/)
+- [湖北](http://hubei.chinatax.gov.cn/)
+- [湖南](http://hunan.chinatax.gov.cn/)
+- [广东](http://guangdong.chinatax.gov.cn/)
+- [广西](https://guangxi.chinatax.gov.cn/)
+- [海南](http://hainan.chinatax.gov.cn/)
+- [重庆](http://chongqing.chinatax.gov.cn/)
+- [四川](http://sichuan.chinatax.gov.cn/)
+- [贵州](http://guizhou.chinatax.gov.cn/)
+- [云南](http://yunnan.chinatax.gov.cn/)
+- [西藏](https://xizang.chinatax.gov.cn/)
+- [陕西](https://shaanxi.chinatax.gov.cn/)
+- [甘肃](http://gansu.chinatax.gov.cn/)
+- [青海](http://qinghai.chinatax.gov.cn/)
+- [宁夏](http://ningxia.chinatax.gov.cn/)
+- [新疆](https://xinjiang.chinatax.gov.cn/)
+- [大连](http://dalian.chinatax.gov.cn/)
+- [宁波](http://ningbo.chinatax.gov.cn/)
+- [厦门](http://xiamen.chinatax.gov.cn/)
+- [青岛](http://qingdao.chinatax.gov.cn/)
+- [深圳](https://shenzhen.chinatax.gov.cn/)
+
+- [国家税务总局税务干部学院](http://www.tax-edu.net/)
+- [中国税务杂志社](http://www.ctax.org.cn/)
+- [中国税务报社](http://www.ctaxnews.com.cn/)
+- [中国税务出版社](https://www.taxation.cn/)
+
+- [中国税务学会](http://cti.ctax.org.cn/)
+- [中国国际税收研究会](http://www.citri.org.cn/)
+- [中国注册税务师协会](http://www.cctaa.cn/)
+- ["一带一路"税收征管合作机制](http://www.britacom.org/)
+
+- [国家发展和改革委员会](http://www.ndrc.gov.cn/)
+- [财政部](http://www.mof.gov.cn/index.htm)
+- [商务部](http://www.mofcom.gov.cn/)
+- [人民银行](http://www.pbc.gov.cn/)
+- [审计署](http://www.audit.gov.cn/)
+- [海关总署](http://www.customs.gov.cn/)
+- [国家市场监督管理总局](http://www.samr.gov.cn/)
+- [国家医疗保障局](http://www.nhsa.gov.cn/)

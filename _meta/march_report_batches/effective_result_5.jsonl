@@ -1,0 +1,22 @@
+{"id":"P_2025_NDRC_1810","effective_date":"2026-01-25","expires_at":null,"confidence":0.6,"evidence":"正文未给出明确施行日期，使用 date+30 天默认值（assumed_default）；通知要求各地实施细则于2026年3月1日前备案","status":"assumed_default"}
+{"id":"P_2024_NEA_76","effective_date":"2024-09-13","expires_at":"2029-09-12","confidence":0.95,"evidence":"第五十一条：本规则自发布之日起施行，有效期五年","status":"explicit"}
+{"id":"P_2024_NDRC_15","effective_date":"2024-06-09","expires_at":null,"confidence":0.4,"evidence":"原文为 PDF 二进制无法解析；按 date+30 天估算施行日期（2024-05-10+30）","status":"assumed_default"}
+{"id":"P_2025_NDRC_0106e7c2","effective_date":"2025-01-06","expires_at":"2027-12-31","confidence":0.85,"evidence":"标题包含范围（2025—2027年），目标到2027年；以发布日为施行日，年末为有效期末","status":"inferred"}
+{"id":"P_2025_NEA_010675e0","effective_date":"2025-01-06","expires_at":"2027-12-31","confidence":0.85,"evidence":"政策解读对应实施方案（2025—2027年），同 effective 区间","status":"inferred"}
+{"id":"P_2023_NDRC_0915531d","effective_date":"2023-10-01","expires_at":"2028-09-30","confidence":0.95,"evidence":"第四十四条：本办法自2023年10月1日起施行，有效期5年","status":"explicit"}
+{"id":"P_2025_NDRC_411","effective_date":"2025-05-03","expires_at":null,"confidence":0.6,"evidence":"正文未明确施行日；按发布日2025-04-03+30天默认值","status":"assumed_default"}
+{"id":"P_2023_NDRC_092751f2_a","effective_date":"2023-10-27","expires_at":null,"confidence":0.4,"evidence":"原文为 PDF 二进制无法解析；按 date+30 默认（2023-09-27+30）","status":"assumed_default"}
+{"id":"P_2023_NDRC_0704ee90","effective_date":"2023-08-03","expires_at":null,"confidence":0.4,"evidence":"征求意见稿，无施行日期；按 date+30 默认","status":"assumed_default"}
+{"id":"P_2025_NDRC_101520b2","effective_date":"2025-10-15","expires_at":"2027-12-31","confidence":0.85,"evidence":"原文为 PDF 二进制；标题为「三年倍增」行动方案（2025—2027年），按标题年份范围推断","status":"inferred"}
+{"id":"P_2021_MEE_19","effective_date":"2021-02-01","expires_at":null,"confidence":0.95,"evidence":"第四十三条：本办法自2021年2月1日起施行","status":"explicit"}
+{"id":"P_2026_CCGO_041241d4","effective_date":"2026-04-12","expires_at":null,"confidence":0.95,"evidence":"第二十五条：本办法自发布之日起施行；发布日为2026-04-12","status":"explicit"}
+{"id":"P_2024_NDRC_08218f52","effective_date":"2024-08-21","expires_at":"2027-12-31","confidence":0.85,"evidence":"目标到2027年能源重点领域设备投资较2023年增长25%以上；以发布日为施行日，2027年末为目标期止","status":"inferred"}
+{"id":"P_2023_MOF_10","effective_date":"2024-01-01","expires_at":"2027-12-31","confidence":0.95,"evidence":"第一条：购置日期2024年1月1日至2025年12月31日免征、2026-01-01至2027-12-31减半征收","status":"explicit"}
+{"id":"P_2024_LN_9_b","effective_date":"2024-06-09","expires_at":"2027-12-31","confidence":0.85,"evidence":"目标「到2027年」多项指标；以发布日为施行日","status":"inferred"}
+{"id":"P_2023_GO_19_b","effective_date":"2023-06-19","expires_at":"2030-12-31","confidence":0.85,"evidence":"发展目标：到2030年基本建成高质量充电基础设施体系","status":"inferred"}
+{"id":"P_2025_CQ_22_c","effective_date":"2025-01-01","expires_at":"2025-12-31","confidence":0.95,"evidence":"补贴适用时间：2025年1月1日0时至2025年12月31日24时；本通知自发布之日起执行","status":"explicit"}
+{"id":"P_2025_CQ_388","effective_date":"2026-01-01","expires_at":"2026-12-31","confidence":0.95,"evidence":"补贴适用时间：2026年1月1日0时至2026年12月31日24时；本通知自2026年1月1日起执行","status":"explicit"}
+{"id":"P_2023_CQ_0406f829","effective_date":"2023-05-06","expires_at":null,"confidence":0.4,"evidence":"听证问答释疑文，非规范性文件，无施行日；date+30天默认","status":"assumed_default"}
+{"id":"P_2024_CQ_86","effective_date":"2024-10-30","expires_at":"2030-12-31","confidence":0.8,"evidence":"工作目标：到2025年/到2030年阶段性目标；以发布日为施行日，最远规划2030年末","status":"inferred"}
+{"id":"P_2024_CQ_04038544","effective_date":"2024-04-03","expires_at":"2025-12-31","confidence":0.85,"evidence":"原文为 PDF 二进制；标题为便捷超充行动计划（2024—2025年）","status":"inferred"}
+{"id":"P_2024_CQ_0101a5e5","effective_date":"2024-01-01","expires_at":"2025-12-31","confidence":0.7,"evidence":"原文页面框架为空（无正文）；标题为便捷超充行动计划（2024—2025年）；与 P_2024_CQ_04038544 实为同一文件不同采集副本","status":"inferred"}

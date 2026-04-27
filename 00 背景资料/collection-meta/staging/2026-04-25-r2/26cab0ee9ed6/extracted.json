@@ -1,0 +1,15 @@
+{
+  "hash": "26cab0ee9ed6",
+  "url": "https://www.ln.gov.cn/web/zwgkx/lnsrmzfgb/2023n/zk/zk11/bmwj53/2023092109042891689/index.shtml",
+  "title_raw": "关于印发《辽宁省科技支撑碳达峰碳中和 实施方案（2023—2030年）》的通知",
+  "content_len": 17223,
+  "发布日期": "2023-06-26",
+  "need_llm_fields": [
+    "文号",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

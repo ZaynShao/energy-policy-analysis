@@ -1,0 +1,15 @@
+{
+  "hash": "324dc4989b79",
+  "url": "https://www.cq.gov.cn/zwgk/zfxxgkzl/fdzdgknr/ghxx/zxgh/202208/W020220825567776332873.doc",
+  "title_raw": "[DOC] 重庆市人民政府关于印发重庆市城市更新提升“十四五”行动计划的通知 ...",
+  "content_len": 23061,
+  "need_llm_fields": [
+    "文号",
+    "发布日期",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

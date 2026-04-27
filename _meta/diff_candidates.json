@@ -1,0 +1,92 @@
+[
+  {
+    "from": "P_2025_NDRC_1656_a",
+    "to": "P_2024_NDRC_1123_a",
+    "rel": "supersedes",
+    "confidence": 0.92
+  },
+  {
+    "from": "P_2025_NDRC_0912b2a5",
+    "to": "P_2025_NDRC_0106e7c2",
+    "rel": "iterates",
+    "confidence": 0.73
+  },
+  {
+    "from": "P_2025_NDRC_1015e4b5",
+    "to": "P_2025_NDRC_0106e7c2",
+    "rel": "iterates",
+    "confidence": 0.73
+  },
+  {
+    "from": "P_2022_CQ_18",
+    "to": "P_2020_GO_1020e9f0",
+    "rel": "extends",
+    "confidence": 0.89
+  },
+  {
+    "from": "P_2022_JL_11114fee",
+    "to": "P_2020_GO_1020e9f0",
+    "rel": "extends",
+    "confidence": 0.63
+  },
+  {
+    "from": "P_2022_CQ_18",
+    "to": "P_2020_GO_39_a",
+    "rel": "extends",
+    "confidence": 0.61
+  },
+  {
+    "from": "P_2022_JL_11114fee",
+    "to": "P_2020_GO_39_a",
+    "rel": "extends",
+    "confidence": 0.61
+  },
+  {
+    "from": "P_2022_CQ_18",
+    "to": "P_2020_GO_39_b",
+    "rel": "extends",
+    "confidence": 0.61
+  },
+  {
+    "from": "P_2022_JL_11114fee",
+    "to": "P_2020_GO_39_b",
+    "rel": "extends",
+    "confidence": 0.61
+  },
+  {
+    "from": "P_2025_OTHER420B_1201deda",
+    "to": "P_2025_NDRC_1015e4b5",
+    "rel": "extends",
+    "confidence": 0.6
+  },
+  {
+    "from": "P_2021_OTHERD5A9_0416b7bf",
+    "to": "P_2020_GO_1020e9f0",
+    "rel": "extends",
+    "confidence": 0.6
+  },
+  {
+    "from": "P_2023_CQ_120401b0",
+    "to": "P_2021_OTHER203C_1001d59f",
+    "rel": "extends",
+    "confidence": 0.69
+  },
+  {
+    "from": "P_2022_CQ_18",
+    "to": "P_2021_OTHERD5A9_0416b7bf",
+    "rel": "extends",
+    "confidence": 0.62
+  },
+  {
+    "from": "P_2023_CQ_120401b0",
+    "to": "P_2021_OTHERD5A9_0416b7bf",
+    "rel": "extends",
+    "confidence": 0.66
+  },
+  {
+    "from": "P_2025_NDRC_1015e4b5",
+    "to": "P_2025_OTHER0858_255",
+    "rel": "extends",
+    "confidence": 0.69
+  }
+]

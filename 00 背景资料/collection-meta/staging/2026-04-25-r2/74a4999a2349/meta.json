@@ -1,0 +1,10 @@
+{
+  "url": "https://gxj.gz.gov.cn/gkmlpt/content/10/10445/post_10445417.html",
+  "title": "广州市工业和信息化局关于印发《广州市建设国家车网互动规模化应用试点城市工作方案（2025-2027年）》的通知",
+  "source_type": "A",
+  "source_domain": "gxj.gz.gov.cn",
+  "fetched_at": "2026-04-25T10:28:12.230602",
+  "hash": "74a4999a2349",
+  "status": "fail",
+  "error": "HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Max retries exceeded with url: /v1/scrape (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+}

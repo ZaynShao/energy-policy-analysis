@@ -1,0 +1,15 @@
+{
+  "hash": "9a4f4832fe5b",
+  "url": "http://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/zhengce/zfwj/zfwj2016/szfwj/202204/t20220401_2646626.html",
+  "title_raw": "北京市人民政府關於印發《北京市“十四五”時期能源發展規劃》的通知",
+  "content_len": 44332,
+  "发布日期": "2022-02-22",
+  "need_llm_fields": [
+    "文号",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

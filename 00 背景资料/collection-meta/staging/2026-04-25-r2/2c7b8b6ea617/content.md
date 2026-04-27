@@ -1,0 +1,477 @@
+![](https://www.beijing.gov.cn/images/logo_print_20240927.png)
+
+[![首都之窗-北京市人民政府](https://www.beijing.gov.cn/images/logo_ch_20191009.png)](https://www.beijing.gov.cn/)
+
+[**用户登录** **登录**](https://www.beijing.gov.cn/hudong/yonghu/uSpace "用户登录")
+
+[**进入我的** 专属空间](https://bjt.beijing.gov.cn/renzheng/open/login/goUserLogin?client_id=100100001058&redirect_uri=https://banshi.beijing.gov.cn/bjspacenew/web/login/sso/person/in&response_type=code&scope=user_info&state= "") \> 退出
+
+无障碍 [搜索](https://www.beijing.gov.cn/so/?siteCode=1100000088&tab=all) [繁体](https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/index.html "繁体版")/[简体](https://www.beijing.gov.cn/ "简体版")
+
+[ENGLISH](http://english.beijing.gov.cn/ "English Version")
+
+- 한국어 [韩语版](http://korean.beijing.gov.cn/ "韩语版")
+- 日本語 [日语版](http://japanese.beijing.gov.cn/ "日语版")
+- DEUTSCH [德语版](http://german.beijing.gov.cn/ "德语版")
+- FRANÇAIS [法语版](http://french.beijing.gov.cn/ "法语版")
+- РУССКИЙ ЯЗЫК [俄语版](http://russian.beijing.gov.cn/ "俄语版")
+- ESPAÑOL [西班牙语版](http://spanish.beijing.gov.cn/ "西班牙语版")
+- العربية [ا阿拉伯语版](http://arabic.beijing.gov.cn/ "阿拉伯语版")
+- PORTUGUÊS [葡萄牙语版](https://portuguese.beijing.gov.cn/ "葡萄牙语版")
+- ITALIANO [意大利语版](https://italian.beijing.gov.cn/ "意大利语版")
+
+[智能问答](https://www.beijing.gov.cn/jj/ "智能问答")
+
+- [要闻动态](https://www.beijing.gov.cn/ywdt/ "要闻动态")
+- [政务公开](https://www.beijing.gov.cn/gongkai/ "政务公开")
+- [政务服务](https://banshi.beijing.gov.cn/ "政务服务")
+- [政策服务](https://www.beijing.gov.cn/zhengce/ "政策服务")
+- [政民互动](https://www.beijing.gov.cn/hudong/ "政民互动")
+- [人文北京](https://www.beijing.gov.cn/renwen/ "人文北京")
+
+![](https://www.beijing.gov.cn/images/common_more_20250609.png)
+
+![](https://www.beijing.gov.cn/images/common_close_20250609.png)
+
+### 网站地图
+
+要闻动态
+
+- [党中央精神](https://www.beijing.gov.cn/ywdt/dzyjs/)
+- [国务院信息](http://www.gov.cn/pushinfo/v150203/index.htm)
+- [中央部委动态](https://www.beijing.gov.cn/ywdt/zybwdt/)
+- [北京要闻](https://www.beijing.gov.cn/ywdt/yaowen/)
+- [会议信息](https://www.beijing.gov.cn/ywdt/hyxx/)
+- [部门动态](https://www.beijing.gov.cn/ywdt/gzdt/)
+- [各区热点](https://www.beijing.gov.cn/ywdt/gqrd/)
+
+政务公开
+
+- [市领导](https://www.beijing.gov.cn/gongkai/sld/)
+- [机构职能](https://www.beijing.gov.cn/gongkai/zfxxgk/fdzdgknr/jgzn/)
+- [政策服务](https://www.beijing.gov.cn/zhengce/)
+- [政策兑现](https://zhengce.beijing.gov.cn/)
+- [政策解读](https://www.beijing.gov.cn/so/zcdh/zcjd)
+- [回应关切](https://www.beijing.gov.cn/gongkai/hygq/)
+- [决策公开](https://www.beijing.gov.cn/ywdt/bjszfcwhy/)
+- [专题公开](https://www.beijing.gov.cn/gongkai/gkzt/)
+
+政务服务
+
+- [个人服务](https://banshi.beijing.gov.cn/bjzw/grfw.html?serviceObject=1001&servicePlaceId=110000000000)
+- [法人服务](https://banshi.beijing.gov.cn/bjzw/frfw.html?serviceObject=1002&servicePlaceId=110000000000)
+- [部门服务](https://banshi.beijing.gov.cn/bjzw/bmfw.html?serviceObject=1003&servicePlaceId=110000000000)
+- [便民服务](https://www.beijing.gov.cn/fuwu/bmfw/)
+- [利企服务](https://www.beijing.gov.cn/fuwu/lqfw/)
+- [投资项目](http://tzxm.beijing.gov.cn/)
+- [中介服务](http://zjfw.beijing.gov.cn/?servicePlaceId=18)
+- [阳光政务](https://banshi.beijing.gov.cn/bjzw/ygzw.html?servicePlaceId=110000000000)
+
+政民互动
+
+- [12345网上接诉即办](https://www.beijing.gov.cn/hudong/hdjl/sindex/hdjl-yhxz-ts.html)
+- [我要咨询](https://www.beijing.gov.cn/jj/)
+- [我要建议](https://www.beijing.gov.cn/hudong/hdjl/sindex/hdjl-yhxz-jy.html)
+- [参与调查](https://www.beijing.gov.cn/hudong/wsdc/)
+- [在线访谈](https://www.beijing.gov.cn/shipin/)
+- [图说互动](https://www.beijing.gov.cn/hudong/tushuo/)
+
+人文北京
+
+- [北京概况](https://www.beijing.gov.cn/renwen/bjgk/)
+- [十六区概览](https://www.beijing.gov.cn/renwen/bjgk/xzqh/)
+- [文化活动](https://www.beijing.gov.cn/so/zcdh/cshd)
+- [设施场所](https://www.beijing.gov.cn/so/zcdh/rwdw)
+- [绿色北京](https://www.beijing.gov.cn/renwen/zt/stbj/)
+- [图说北京](https://www.beijing.gov.cn/tsbj/)
+
+多语种
+
+- [ENGLISH](http://english.beijing.gov.cn/)
+- [한국어](http://korean.beijing.gov.cn/)
+- [日本語](http://japanese.beijing.gov.cn/)
+- [DEUTSCH](http://german.beijing.gov.cn/)
+- [FRANÇAIS](http://french.beijing.gov.cn/)
+- [РУССКИЙ ЯЗЫК](http://russian.beijing.gov.cn/)
+- [ESPAÑOL](http://spanish.beijing.gov.cn/)
+- [العربية](http://arabic.beijing.gov.cn/)
+- [PORTUGUÊS](https://portuguese.beijing.gov.cn/)
+- [ITALIANO](https://italian.beijing.gov.cn/)
+
+![](https://www.beijing.gov.cn/images/common_gotop_20250609.png)
+
+回到顶部
+
+我在听，请说话(10s)
+
+抱歉，没听清，请再说一遍吧
+
+[政务公开](https://www.beijing.gov.cn/gongkai/index.html)　>　[政策公开](https://www.beijing.gov.cn/zhengce/ "政策公开")　>　[政策文件](https://www.beijing.gov.cn/zhengce/zhengcefagui/ "政策文件")
+
+01. \[主题分类\] \-\-\--科技教育/教育
+02. \[发文机构\] \-\-\--北京市教育委员会
+03. \[联合发文单位\] \-\-\--
+04. \[实施日期\] \-\-\--
+05. \[成文日期\] 2024-04-02
+06. \[发文字号\] 京教勤〔2024〕13号
+07. \[废止日期\] \-\-\--
+08. \[发布日期\] 2024-04-18
+09. \[有效性\] 现行有效
+10. \[文件来源\] [政府公报 2024年 第21期(总第849期)](http://www.beijing.gov.cn/so/zcdh/gongbao/zfgbIndex?periodsNumber=849&yearsNumber=2024&redirect=1)
+
+京教勤〔2024〕13号
+
+各区教委，燕山教委、北京经济技术开发区社会事业局，各高等学校、中等职业学校：
+
+经北京市碳达峰碳中和工作领导小组同意，现将《北京市绿色低碳发展国民教育体系建设实施方案》印发给你们，请各区各校结合实际，遵照执行。
+
+北京市教育委员会
+
+2024年4月2日
+
+**北京市绿色低碳发展国民教育体系建设实施方案**
+
+为落实教育部《绿色低碳发展国民教育体系建设实施方案》和《北京市碳达峰实施方案》有关要求，结合本市教育系统实际，制定本实施方案。
+
+**一、总体要求**
+
+（一）指导思想
+
+以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大及二十届二中全会精神，深入贯彻习近平生态文明思想，贯彻落实碳达峰碳中和重大决策部署，立足新发展阶段，完整、准确、全面贯彻新发展理念，构建新发展格局，将绿色低碳发展理念融入国民教育体系，推进绿色低碳教育教学发展，强化绿色低碳科研攻关，提升校园建设绿色低碳水平，加快构建特色鲜明、上下衔接、内容丰富的首都绿色低碳发展国民教育体系，引导青少年牢固树立绿色低碳发展理念，为实现碳达峰碳中和目标奠定坚实思想和行动基础。
+
+（二）工作原则
+
+坚持统筹管理。落实国家及北京市碳达峰碳中和总体部署，以理念建构和习惯养成为重点，统筹管理、分类施策、系统推进，指导各级各类学校加快绿色低碳转型，促进绿色低碳理念融入教育全过程。
+
+坚持节约优先。树立节能是“第一能源”的理念，深入实施绿色节能技术改造，不断提升能源资源利用效率，积极创建绿色低碳学校，持续降低大中小学能源资源消耗和碳排放。
+
+坚持全程育人。将绿色低碳纳入各学段教育教学全过程，推进课程、学科、教师、管理、生态等多方面纵深变革和转型升级。引导学校将绿色低碳国民教育体系建设工作纳入中长期发展规划，与学校常规工作有机结合，抓好落实。
+
+坚持开放融合。发挥首都“四个中心”优势，鼓励科研院所、行业领军企业开设社会实践课堂，组建绿色低碳宣讲团，推进绿色低碳理念和技术进步成果在学校传播。高等院校增强国际交流合作，实践产科教协同，提升绿色低碳科技创新能力和创新人才培养水平，为碳达峰碳中和贡献教育力量。
+
+**二、主要目标**
+
+到2025年，绿色低碳理念普遍融入各级各类学校课程体系，绿色低碳相关学科专业体系初步构建，在高校系统布局建设一批碳达峰碳中和领域科技创新平台，科技创新能力和创新人才培养水平明显提升，校园建设绿色低碳发展水平显著提升，完成10家高校低碳学校试点创建工作，强化国内绿色低碳发展国民教育体系示范引领。
+
+到2030年，实现学生绿色低碳生活方式及行为习惯系统养成与发展，基本形成较为完善的多层次绿色低碳理念育人体系并贯通青少年成长全过程，形成较为完善的绿色低碳相关学科专业体系，高校建成一批具有国际影响力的碳达峰碳中和一流学科专业和先进研究机构，形成低碳学校创建长效机制，力争更多高校达到低碳学校标准，鼓励有条件的中小学开展低碳学校创建。
+
+**三、推动绿色低碳理念融入教育教学**
+
+（一）推进绿色低碳发展融入课程体系
+
+遵循教育规律和学生成长规律，一体化设计绿色低碳发展教学内容、创新教育教学形式，统筹推进“双碳课程”和“课程双碳”建设，形成具有北京特色的大中小幼系统化绿色低碳教育模式。
+
+1.推进基础教育绿色低碳理念融入课程教学。学前教育阶段着重通过绘本、游戏、动画等方式启蒙幼儿生态保护意识和培养绿色低碳生活习惯。基础教育阶段在中小学道德与法治（思想政治）、科学、生物学、地理、物理、化学等学科课程教学中普及碳达峰碳中和基本理念和相关知识，开展学科实践和跨学科主题学习活动，鼓励将绿色低碳理念纳入校本课程。
+
+2.推进高等教育绿色低碳课程建设。发挥课堂主渠道作用，将习近平生态文明思想、习近平总书记关于碳达峰碳中和重要论述精神、党中央关于绿色低碳发展重大部署等有关内容有机融入高校思想政治理论课，在“形势与政策”课程中增设绿色低碳发展专题，开设生态文明公共必修课或选修课，推动绿色低碳发展理念进思政、进教材、进课堂、进头脑。将绿色低碳相关知识纳入通识课程，鼓励高校共享线下和线上教学资源，开设以绿色低碳为主题的“大课堂”。鼓励开设碳达峰碳中和导论课程。支持具备条件的高校推进绿色低碳相关交叉学科融合贯通，建立覆盖多领域的碳达峰碳中和核心知识体系，编制跨领域综合性知识图谱，支持编写一批碳达峰碳中和领域精品教材和具有北京特色的典型案例库，形成优质共享的教学资源库。
+
+3.推进职业教育开设绿色低碳课程。结合本市绿色低碳发展需求，鼓励开设碳排放统计核算、碳排放与碳汇计量监测等绿色低碳相关专业课程，支持完善相关课程体系和实践实训条件，规划建设相关课程教材，开发建设一批精品特色专业教材。
+
+（二）完善绿色低碳相关学科专业建设
+
+支持中央在京高校、市属高校加强绿色低碳学科建设，具备条件和实力的高校加快储能、氢能、碳捕集利用与封存、新材料、绿色化工、碳排放权交易、碳汇、绿色金融等新兴学科专业建设。鼓励碳中和交叉学科人才培养，加强与数字经济、人工智能、生物技术等前沿学科深度融合，依托双学士/联合学士培养项目、微专业项目等推动校内外绿色低碳相关领域优势学科交叉融合，在相关学科专业中增加绿色低碳方向，探索增设“绿色低碳发展”专业硕士学位，支持在绿色低碳领域建设一批北京高校高精尖学科。鼓励在学科专业综合、整体实力强的部分高校建设一批绿色低碳领域未来技术学院、现代产业学院和示范性能源学院等，提升绿色低碳发展领域高层次专业化人才培养水平。深化产教融合，鼓励校企联合开展产学合作协同育人项目，组建碳达峰碳中和产教融合发展联盟。支持具备条件和基础的职业院校紧密围绕首都绿色低碳产业发展需要，培养低碳建筑、新能源、环保、碳排放统计核算、碳排放与碳汇计量监测等相关领域技术技能人才。
+
+（三）加强教师绿色低碳发展教育培训
+
+将教师绿色低碳发展教育培训贯穿师范生培养及教师生涯全过程。市、区教育行政部门和师范院校、教师继续教育学院将碳达峰碳中和相关知识、绿色低碳发展最新要求等内容纳入师范生、职教师资课程体系、校长和教师培训课程体系，推广有效的碳达峰碳中和人才培养模式和课程实施方案，推出系列绿色低碳与学科融合的示范课以供教师观摩、学习，推动教师队伍率先树立绿色低碳教育理念，提升传播绿色低碳知识能力。
+
+（四）丰富绿色低碳发展专题教育活动
+
+1.多形式开展绿色低碳专题宣传教育。以全国节能宣传周、全国低碳日、全国生态日、世界环境日等主题宣传节点为契机，开展绿色低碳教育宣讲会、主题班会、专题讲座、知识竞赛、征文比赛等系列活动，引导青少年牢固树立绿色低碳发展理念。注重青少年低碳知识和行为培养，鼓励利用 “首都教育”政务平台、北京智慧教育平台等，开展“云”上宣传教育，传递绿色低碳发展知识。以打造绿色低碳教育实践基地为载体，在社会实践和日常生活中大力宣传科普低碳理念。支持高校结合自身学科和资源优势，增强服务社会的培训能力，面向社会开展绿色低碳系列专题教育培训。
+
+2.多途径拓展绿色低碳专题实践活动。组织开展生态文明教育实践基地参观活动；鼓励幼儿园、中小学与高校、科研院所、行业企业、社会组织等协同开展绿色低碳教育课外实践体验活动。将绿色低碳发展理念纳入各学段劳动教育中，在劳动中践行绿色低碳理念。将绿色低碳发展理念融入“一站式”学生社区建设。强化社会实践，开展绿色低碳专题学生调研，组织大学生走进厂矿企业、乡村社区了解碳达峰碳中和工作进展。大力培育青少年生态文明实践学生社团或志愿者团队，开展暑期社会实践活动。
+
+**四、增强绿色低碳领域教育贡献能力**
+
+（五）支持碳达峰碳中和科技创新
+
+以北京国际科技创新中心建设为契机，依托首都高校人才和科技聚集优势，支持具备条件和基础的高校加强碳达峰碳中和相关领域重点实验室、技术创新中心、工程研究中心等国家及北京市创新平台建设，加快基础理论研究和关键共性技术新突破。支持高水平研究型大学加强绿色低碳领域基础前瞻性研究和碳减排、碳零排、碳负排技术原始创新，加强拔尖创新人才培养；支持高水平特色型大学发挥学科优势，围绕首都产业绿色低碳发展加快关键核心技术自主创新，继续加强紧缺行业人才培养；推进高水平应用型大学开展市场导向的绿色应用基础研究和技术创新，培养高层次应用型人才。支持高校与科研院所、科技领军企业联合共建技术研发中心、产业研究院、中试基地、协同创新中心等产教融合创新平台，构建碳达峰碳中和相关技术发展产学研全链条创新网络。创新科技成果转移转化体制机制，推进北京高校科技成果转移转化促进中心建设，培养一批高水平专业化技术转移人才，促进绿色低碳科技成果高质量转化。
+
+（六）发挥高校社会服务智库作用
+
+统筹中央在京高校和市属高校优势资源，重点建设一批绿色低碳领域高端智库，在碳达峰碳中和领域为政府决策提供智力支撑。鼓励高校协助有关行政管理部门做好重要政策研究、决策评估、政策解读相关工作，积极参与碳达峰碳中和有关各类规划和标准研制、项目评审论证等，支持和保障重点工作、重点项目推进实施。
+
+**五、提升校园建设绿色低碳发展水平**
+
+（七）完善能源资源管理工作体系
+
+完善学校能源资源计量器具配置，鼓励能源资源与碳排放管理平台建设。开展市属高校节能目标责任评价考核，并将考核结果纳入学校绩效考核评分体系。开展高校用水调查，加强节水管理，严格执行计划用水管理和超定额累进加价。实施能耗水耗对标管理，鼓励学校开展节能节水诊断挖潜工作。高校参照合理用能指南地方标准要求提升自身能效水平，引导中小学科学用能、合理用能、按需用能。加强能源管理人员节能减排培训，重点业务培训累计不低于2000人次。强化“互联网+节能”理念，推进5G、云计算、物联网、大数据、人工智能等现代信息技术与节能减碳深度融合，实现能源资源管理智能化与动态化。完善市级教育系统节能减排应用平台，提升节能减排基础数据管理水平。推动开展绿色低碳学校创建行动，到2025年，70%学校完成绿色学校创建，建成10家节约型公共机构示范单位、遴选20家能效领跑者，在高校中试点创建10家低碳学校。推进节水型学校建设和水效领跑引领活动。
+
+（八）加快节能降碳技术产品应用
+
+校园新建建筑执行绿色建筑二星级及以上标准，城市副中心等重点区域达到三星级。鼓励有条件的学校开展超低能耗、近零能耗、低碳建筑示范建设。落实可再生能源优先理念和《北京市新增产业的禁止和限制目录》要求，新建校园应安装分布式光伏发电等太阳能系统，新建建筑屋顶光伏可安装面积覆盖率不低于50%，新建的耦合供热系统中新能源和可再生能源装机占比不低于60%，推进光热、地热等可再生能源在生活热水、供暖、制冷等领域规模化应用。实施“阳光公共机构”工程，按照“宜建尽建”原则加快阳光校园工程建设，到2030年具备安装条件的各级校园实现光伏发电全覆盖。加快推动学校建筑用能电气化和低碳化，大力提高学校供热、炊事等电气化普及率。推动新建数据中心严格落实能效准入要求，存量数据中心实施绿色化改造，鼓励申报绿色数据中心。持续推进学校既有建筑围护结构以及供热、供冷、照明、变配电等用能系统绿色化改造，到2025年，完成400万平方米学校存量建筑节能绿色化改造。宣传并鼓励学校参与绿色电力交易，促进能源消费低碳发展。鼓励采用屋顶绿化、垂直绿化、增加自然景观水体等绿化手段，增加校园绿化面积，提升生态碳汇能力。
+
+（九）推进资源节约循环高效利用
+
+严格执行绿色采购制度，优先采购节能、低碳、循环再生的绿色产品。推广无纸化办公，倡导使用循环再生办公用品。积极开展生活垃圾分类、反食品浪费和塑料污染治理等专项行动。鼓励采用微生物技术，示范实施高校餐厨垃圾就地资源化处理。因地制宜应用再生水、雨水等非常规水源，推广微灌、滴灌、渗灌、喷灌等高效节水灌溉。加强校园绿化美化，合理规划公共绿地和绿植搭配，优化景观设施，为师生提供舒适、优美的学习生活环境。
+
+**六、保障措施**
+
+（十）加强组织领导
+
+各区教育行政部门、各级各类学校建立绿色低碳发展国民教育体系建设工作领导小组，强化小组责任和任务分工，建立职责清晰、运行有序、执行有力、协调有度、运转顺畅的运行调节机制，保障方案有效实施。各级各类学校要高度重视绿色低碳发展国民教育体系建设，把绿色低碳发展国民教育实施情况纳入学校管理考核范围，明确保障措施，压实具体责任，细化重点任务，推动各项任务落细落地。
+
+（十一）推动协同保障
+
+深化部门间协同机制，加强市级相关政府部门统筹协调，形成协同推进绿色低碳发展国民教育体系建设工作机制。做好绿色低碳相关重要任务、重大课题、重点学科、重大平台等经费保障，引导学校积极争取国家和北京市绿色低碳奖励资金，推动社会资金参与学校绿色低碳相关领域科研工作。鼓励采用能源费用托管等合同能源管理服务模式，吸引市场主体参与学校绿色低碳建设工作。研究设立低碳学校创建奖励资金，鼓励更多学校参与创建工作。发挥学校家庭社会协同育人作用，将绿色低碳发展融入教育教学和生活常态，引导学生逐步养成绿色低碳生活方式和生活习惯。
+
+（十二）强化宣传引导
+
+强化舆论引导作用，充分利用教育门户网站、地方新闻媒体、校园微信公众号等媒介平台，宣传绿色低碳发展国民教育体系建设工作进展，推广先进典型、经验、做法，倡导绿色低碳发展理念，营造绿色低碳校园氛围。
+
+- [公报PDF](https://www.beijing.gov.cn/zhengce/zhengcefagui/202405/W020240530516676691391.pdf)
+
+分享：
+
+相关解读
+
+- [《北京市绿色低碳发展国民教育体系建设实施方案》政策解读](https://www.beijing.gov.cn/zhengce/zcjd/202405/t20240530_3698648.html "《北京市绿色低碳发展国民教育体系建设实施方案》政策解读")
+
+相关政策
+
+中国政府网及国务院部门网站 _\|_
+
+- [中国政府网](http://www.gov.cn/ "中国政府网")
+- [外交部](http://www.fmprc.gov.cn/web/ "外交部")
+- [国防部](http://www.mod.gov.cn/ "国防部")
+- [国家发展和改革委员会](http://www.ndrc.gov.cn/ "国家发展和改革委员会")
+- [教育部](http://www.moe.gov.cn/ "教育部")
+- [科学技术部](http://www.most.gov.cn/ "科学技术部")
+- [工业和信息化部](http://www.miit.gov.cn/ "工业和信息化部")
+- [国家民族事务委员会](https://www.neac.gov.cn/ "国家民族事务委员会")
+- [公安部](http://www.mps.gov.cn/ "公安部")
+- 国家安全部
+- [民政部](http://www.mca.gov.cn/ "民政部")
+- [司法部](http://www.moj.gov.cn/ "司法部")
+- [财政部](http://www.mof.gov.cn/index.htm "财政部")
+- [人力资源和社会保障部](http://www.mohrss.gov.cn/ "人力资源和社会保障部")
+- [自然资源部](http://www.mnr.gov.cn/ "自然资源部")
+- [生态环境部](http://www.mee.gov.cn/ "生态环境部")
+- [住房和城乡建设部](http://www.mohurd.gov.cn/ "住房和城乡建设部")
+- [交通运输部](http://www.mot.gov.cn/ "交通运输部")
+- [水利部](http://www.mwr.gov.cn/ "水利部")
+- [农业农村部](http://www.moa.gov.cn/ "农业农村部")
+- [商务部](http://www.mofcom.gov.cn/ "商务部")
+- [文化和旅游部](http://www.mct.gov.cn/ "文化和旅游部")
+- [国家卫生健康委员会](http://www.nhc.gov.cn/ "国家卫生健康委员会")
+- [退役军人事务部](http://www.mva.gov.cn/ "退役军人事务部")
+- [应急管理部](http://www.mem.gov.cn/ "应急管理部")
+- [中国人民银行](http://www.pbc.gov.cn/ "中国人民银行")
+- [审计署](http://www.audit.gov.cn/ "审计署")
+- [国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language/ "国家语言文字工作委员会")
+- [国家航天局](http://www.cnsa.gov.cn/ "国家航天局")
+- [国家原子能机构](http://www.caea.gov.cn/ "国家原子能机构")
+- 国家外国专家局
+- 国家海洋局
+- [国家核安全局](http://nnsa.mee.gov.cn/ "国家核安全局")
+- 国家乡村振兴局
+- [国务院国有资产监督管理委员会](http://www.sasac.gov.cn/ "国务院国有资产监督管理委员会")
+- [海关总署](http://www.customs.gov.cn/ "海关总署")
+- [国家税务总局](http://www.chinatax.gov.cn/ "国家税务总局")
+- [国家市场监督管理总局](http://www.samr.gov.cn/ "国家市场监督管理总局")
+- [国家金融监督管理总局](https://www.nfra.gov.cn/cn/view/pages/index/index.html "国家金融监督管理总局")
+- [中国证券监督管理委员会](http://www.csrc.gov.cn/ "中国证券监督管理委员会")
+- [国家广播电视总局](http://www.nrta.gov.cn/ "国家广播电视总局")
+- [国家体育总局](http://www.sport.gov.cn/ "国家体育总局")
+- [国家信访局](https://www.gjxfj.gov.cn/gjxfj/index.htm "国家信访局")
+- [国家统计局](http://www.stats.gov.cn/ "国家统计局")
+- [国家知识产权局](https://www.cnipa.gov.cn/ "国家知识产权局")
+- [国家国际发展合作署](http://www.cidca.gov.cn/ "国家国际发展合作署")
+- [国家医疗保障局](http://www.nhsa.gov.cn/ "国家医疗保障局")
+- [国务院参事室](http://www.counsellor.gov.cn/ "国务院参事室")
+- [国家机关事务管理局](http://www.ggj.gov.cn/ "国家机关事务管理局")
+- 国家反垄断局
+- [国家认证认可监督管理委员会](http://www.cnca.gov.cn/ "国家认证认可监督管理委员会")
+- [国家标准化管理委员会](http://www.sac.gov.cn/ "国家标准化管理委员会")
+- [国家新闻出版署（国家版权局）](http://www.ncac.gov.cn/ "国家新闻出版署（国家版权局）")
+- [国家宗教事务局](https://www.sara.gov.cn/ "国家宗教事务局")
+- [国务院研究室](http://www.gov.cn/guoqing/2018-06/22/content_5300522.htm "国务院研究室")
+- [国务院侨务办公室](http://www.gqb.gov.cn/ "国务院侨务办公室")
+- [国务院港澳事务办公室](http://www.hmo.gov.cn/ "国务院港澳事务办公室")
+- [国务院台湾事务办公室](http://www.gwytb.gov.cn/ "国务院台湾事务办公室")
+- [国家互联网信息办公室](http://www.cac.gov.cn/ "国家互联网信息办公室")
+- [国务院新闻办公室](http://www.scio.gov.cn/index.htm "国务院新闻办公室")
+- [新华通讯社](http://203.192.6.89/xhs/ "新华通讯社")
+- [中国科学院](http://www.cas.cn/ "中国科学院")
+- [中国社会科学院](http://www.cass.cn/ "中国社会科学院")
+- [中国工程院](http://www.cae.cn/ "中国工程院")
+- [国务院发展研究中心](http://www.drc.gov.cn/ "国务院发展研究中心")
+- 中央广播电视总台
+- [中国气象局](http://www.cma.gov.cn/ "中国气象局")
+- [国家行政学院](http://www.ccps.gov.cn/ "国家行政学院")
+- [国家粮食和物资储备局](http://www.lswz.gov.cn/ "国家粮食和物资储备局")
+- [国家能源局](http://www.nea.gov.cn/ "国家能源局")
+- [国家数据局](https://www.nda.gov.cn/sjj/index_pc.html "国家数据局")
+- [国家国防科技工业局](http://www.sastind.gov.cn/ "国家国防科技工业局")
+- [国家烟草专卖局](http://www.tobacco.gov.cn/html/ "国家烟草专卖局")
+- [国家移民管理局](https://www.nia.gov.cn/ "国家移民管理局")
+- [国家林业和草原局](http://www.forestry.gov.cn/ "国家林业和草原局")
+- [国家铁路局](http://www.nra.gov.cn/ "国家铁路局")
+- [中国民用航空局](http://www.caac.gov.cn/index.html "中国民用航空局")
+- [国家邮政局](http://www.spb.gov.cn/ "国家邮政局")
+- [国家文物局](http://www.ncha.gov.cn/ "国家文物局")
+- [国家中医药管理局](http://www.natcm.gov.cn/ "国家中医药管理局")
+- [国家疾病预防控制局](https://www.ndcpa.gov.cn/ "国家疾病预防控制局")
+- [国家矿山安全监察局](https://www.chinamine-safety.gov.cn/ "国家矿山安全监察局")
+- [国家消防救援局](https://www.119.gov.cn/ "国家消防救援局")
+- [国家外汇管理局](http://www.safe.gov.cn/ "国家外汇管理局")
+- [国家药品监督管理局](https://www.nmpa.gov.cn/ "国家药品监督管理局")
+
+省（区市）政府网站 _\|_
+
+- [天津](http://www.tj.gov.cn/ "天津")
+- [河北](http://www.hebei.gov.cn/ "河北")
+- [山西](http://www.shanxi.gov.cn/ "山西")
+- [内蒙古](http://www.nmg.gov.cn/ "内蒙古")
+- [辽宁](http://www.ln.gov.cn/ "辽宁")
+- [吉林](http://www.jl.gov.cn/ "吉林")
+- [黑龙江](http://www.hlj.gov.cn/ "黑龙江")
+- [上海](http://www.shanghai.gov.cn/ "上海")
+- [江苏](http://www.jiangsu.gov.cn/ "江苏")
+- [浙江](http://www.zj.gov.cn/ "浙江")
+- [安徽](http://www.ah.gov.cn/ "安徽")
+- [福建](http://www.fujian.gov.cn/ "福建")
+- [江西](http://www.jiangxi.gov.cn/ "江西")
+- [山东](http://www.shandong.gov.cn/ "山东")
+- [河南](http://www.henan.gov.cn/ "河南")
+- [湖北](http://www.hubei.gov.cn/ "湖北")
+- [湖南](http://www.hunan.gov.cn/ "湖南")
+- [广东](http://www.gd.gov.cn/ "广东")
+- [广西](http://www.gxzf.gov.cn/ "广西")
+- [海南](https://www.hainan.gov.cn/ "海南")
+- [重庆](http://www.cq.gov.cn/ "重庆")
+- [四川](http://www.sc.gov.cn/ "四川")
+- [贵州](http://www.guizhou.gov.cn/ "贵州")
+- [云南](http://www.yn.gov.cn/ "云南")
+- [西藏](http://www.xizang.gov.cn/ "西藏")
+- [陕西](http://www.shaanxi.gov.cn/ "陕西")
+- [甘肃](http://www.gansu.gov.cn/ "甘肃")
+- [青海](http://www.qinghai.gov.cn/ "青海")
+- [宁夏](http://www.nx.gov.cn/ "宁夏")
+- [新疆](http://www.xinjiang.gov.cn/ "新疆")
+- [香港](http://www.gov.hk/ "香港")
+- [澳门](http://www.gov.mo/ "澳门")
+- 台湾
+- [新疆生产建设兵团](http://www.xjbt.gov.cn/ "新疆生产建设兵团")
+
+市级政府部门网站 _\|_
+
+- [市政府办公厅](https://www.beijing.gov.cn/gongkai/zfxxgk/szfbgt/ "市政府办公厅")
+- [市发展改革委](http://fgw.beijing.gov.cn/ "市发展改革委")
+- [市教委](http://jw.beijing.gov.cn/ "市教委")
+- [市科委、中关村管委会](http://kw.beijing.gov.cn/ "市科委、中关村管委会")
+- [市经济和信息化局](http://jxj.beijing.gov.cn/ "市经济和信息化局")
+- [市民族宗教委](http://mzzjw.beijing.gov.cn/ "市民族宗教委")
+- [市公安局](http://gaj.beijing.gov.cn/ "市公安局")
+- [市民政局](http://mzj.beijing.gov.cn/ "市民政局")
+- [市司法局](http://sfj.beijing.gov.cn/ "市司法局")
+- [市财政局](http://czj.beijing.gov.cn/ "市财政局")
+- [市人力资源社会保障局](http://rsj.beijing.gov.cn/ "市人力资源社会保障局")
+- [市规划自然资源委](http://ghzrzyw.beijing.gov.cn/ "市规划自然资源委")
+- [市生态环境局](http://sthjj.beijing.gov.cn/ "市生态环境局")
+- [市住房城乡建设委](http://zjw.beijing.gov.cn/ "市住房城乡建设委")
+- [市城市管理委](http://csglw.beijing.gov.cn/ "市城市管理委")
+- [市交通委](http://jtw.beijing.gov.cn/ "市交通委")
+- [市水务局](http://swj.beijing.gov.cn/ "市水务局")
+- [市农业农村局](http://nyncj.beijing.gov.cn/ "市农业农村局")
+- [市商务局](http://sw.beijing.gov.cn/ "市商务局")
+- [市文化和旅游局](http://whlyj.beijing.gov.cn/ "市文化和旅游局")
+- [市卫生健康委](http://wjw.beijing.gov.cn/ "市卫生健康委")
+- [市退役军人局](http://tyjrswj.beijing.gov.cn/ "市退役军人局")
+- [市应急局](http://yjglj.beijing.gov.cn/ "市应急局")
+- [市市场监管局](http://scjgj.beijing.gov.cn/ "市市场监管局")
+- [市审计局](http://sjj.beijing.gov.cn/ "市审计局")
+- [市政府外办](http://wb.beijing.gov.cn/ "市政府外办")
+- [市国资委](http://gzw.beijing.gov.cn/ "市国资委")
+- [市广电局](http://gdj.beijing.gov.cn/ "市广电局")
+- [市文物局](http://wwj.beijing.gov.cn/ "市文物局")
+- [市体育局](http://tyj.beijing.gov.cn/ "市体育局")
+- [市统计局](http://tjj.beijing.gov.cn/ "市统计局")
+- [市园林绿化局](http://yllhj.beijing.gov.cn/ "市园林绿化局")
+- [市政务和数据局](http://zwfwj.beijing.gov.cn/ "市政务和数据局")
+- [市机关事务局](http://jgj.beijing.gov.cn/ "市机关事务局")
+- [市国动办](http://gdb.beijing.gov.cn/ "市国动办")
+- [市信访办](http://xfb.beijing.gov.cn/ "市信访办")
+- [市知识产权局](https://zscqj.beijing.gov.cn/ "市知识产权局")
+- [市医保局](https://ybj.beijing.gov.cn/ "市医保局")
+- [市政府参事室](https://www.beijing.gov.cn/gongkai/zfxxgk/szfcss/jgjj/202104/t20210425_2368771.html "市政府参事室")
+- [天安门地区管委会](https://tamgw.beijing.gov.cn/ "天安门地区管委会")
+- [重点站区管委会](https://zdzqgw.beijing.gov.cn/ "重点站区管委会")
+- [北京经开区管委会](https://kfqgw.beijing.gov.cn/ "北京经开区管委会")
+- [城市副中心管委会](https://www.beijing.gov.cn/gongkai/zfxxgk/csfzxgwh/ "城市副中心管委会")
+- [市城管执法局](https://cgj.beijing.gov.cn/ "市城管执法局")
+- [市监狱局](https://jyj.beijing.gov.cn/ "市监狱局")
+- [市粮食和储备局](https://lsj.beijing.gov.cn/ "市粮食和储备局")
+- [市中医药局](https://zyj.beijing.gov.cn/ "市中医药局")
+- [市药监局](https://yjj.beijing.gov.cn/ "市药监局")
+- [市疾控局](https://jkj.beijing.gov.cn/ "市疾控局")
+- [市重大项目办](https://zdb.beijing.gov.cn/ "市重大项目办")
+- [市文化市场执法总队](https://whsczfzd.beijing.gov.cn/ "市文化市场执法总队")
+- [市投资促进中心](https://invest.beijing.gov.cn/ "市投资促进中心")
+- [住房公积金管理中心](https://gjj.beijing.gov.cn/ "住房公积金管理中心")
+- [市地震局](https://www.bjdzj.gov.cn/ "市地震局")
+
+各区政府网站 _\|_
+
+- [东城区](http://www.bjdch.gov.cn/ "东城区")
+- [西城区](http://www.bjxch.gov.cn/ "西城区")
+- [朝阳区](http://www.bjchy.gov.cn/ "朝阳区")
+- [海淀区](https://www.bjhd.gov.cn/ "海淀区")
+- [丰台区](http://www.bjft.gov.cn/ "丰台区")
+- [石景山区](http://www.bjsjs.gov.cn/ "石景山区")
+- [门头沟区](http://www.bjmtg.gov.cn/ "门头沟区")
+- [房山区](http://www.bjfsh.gov.cn/ "房山区")
+- [通州区](http://www.bjtzh.gov.cn/ "通州区")
+- [顺义区](https://www.bjshy.gov.cn/ "顺义区")
+- [昌平区](http://www.bjchp.gov.cn/ "昌平区")
+- [大兴区](http://www.bjdx.gov.cn/ "大兴区")
+- [怀柔区](http://www.bjhr.gov.cn/ "怀柔区")
+- [平谷区](http://www.bjpg.gov.cn/ "平谷区")
+- [密云区](http://www.bjmy.gov.cn/ "密云区")
+- [延庆区](http://www.bjyq.gov.cn/ "延庆区")
+
+新闻媒体网站 _\|_
+
+- [新华网](http://www.news.cn/ "新华网")
+- [人民网](http://www.people.com.cn/ "人民网")
+- [央视国际](http://www.cctv.com/ "央视国际")
+- [中央人民广播电台](http://www.cnr.cn/ "中央人民广播电台")
+- [中国日报](http://www.chinadaily.com.cn/ "中国日报")
+- [中国国际广播电台](http://www.cri.cn/index.html "中国国际广播电台")
+- [光明网](http://www.gmw.cn/ "光明网")
+- [经济日报](http://paper.ce.cn/ "经济日报")
+- [京报网](http://www.bjd.com.cn/ "京报网")
+- [北京电视台](http://www.brtn.cn/ "北京电视台")
+- [北京人民广播电台](http://www.rbc.cn/ "北京人民广播电台")
+- [千龙网](http://www.qianlong.com/ "千龙网")
+
+[微信](https://www.beijing.gov.cn/shouye/zdxx/ydb/) \| [政务新媒体发布厅](https://www.u-mei.com/staticweb/#/area/beijing) \| [邮箱](https://mail.beijing.gov.cn/coremail/login.jsp)
+
+[![党政机关](https://www.beijing.gov.cn/images/ico_dzjg_ch_20190924.png)](http://bszs.conac.cn/sitename?method=show&id=17086746D1C42C2CE053022819ACAD54)
+
+移动版
+
+- [![首都之窗](https://www.beijing.gov.cn/images/shouchuanglogo68_20251110.png)](https://www.beijing.gov.cn/)
+[关于我们](https://www.beijing.gov.cn/shouye/zdxx/201604/t20160406_1814143.html "关于我们") [站点地图](https://www.beijing.gov.cn/shouye/zdxx/zddt/index.html "站点地图") [网站建议](https://www.beijing.gov.cn/hudong/yonghu/static/sdzc/wzjy/add.html?anonymous=1 "网站建议") [网站声明](https://www.beijing.gov.cn/shouye/zdxx/202512/t20251226_4365275.html "网站声明")
+- 市民服务热线：12345
+
+- ![微信公众号](https://www.beijing.gov.cn/images/img_wx_ch_20190924.jpg)
+
+微信公众号
+
+![政务新媒体发布厅](https://www.beijing.gov.cn/images/zwxmtfbt_qrcode_20251201.png)
+
+政务新媒体
+
+发布厅
+
+
+主办：北京市人民政府办公厅
+
+承办：北京市政务服务和数据管理局
+
+版权所有：北京市人民政府网站 [京ICP备05060933号](https://beian.miit.gov.cn/)
+
+政府网站标识码：1100000088 [京公网安备 11010502039640](http://www.beian.gov.cn/portal/index.do) [京ICP备05060933号](https://beian.miit.gov.cn/)
+
+运行管理：首都之窗运行管理中心

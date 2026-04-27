@@ -1,0 +1,10 @@
+{
+  "url": "http://fgw.rizhao.gov.cn/art/2025/5/21/art_351321_10295855.html",
+  "title": "日照市发展和改革委员会设备更新政策方案日照市2025年新能源城市 ...",
+  "source_type": "A",
+  "source_domain": "fgw.rizhao.gov.cn",
+  "fetched_at": "2026-04-25T01:20:33.552082",
+  "hash": "192ae1c5cc6e",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

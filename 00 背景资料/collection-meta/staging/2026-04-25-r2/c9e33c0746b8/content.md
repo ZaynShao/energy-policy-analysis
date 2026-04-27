@@ -1,0 +1,112 @@
+_当前位置：_ [首页](https://guangdong.chinatax.gov.cn/gdsw/index.shtml) > [政策文件](https://guangdong.chinatax.gov.cn/gdsw/zcwj/zcwj.shtml) > [政策法规库](https://guangdong.chinatax.gov.cn/siteapps/webpage/gdtax/fgk/ssfgk/policy_list.jsp?channelId=4eb01e18e55c4bf3aa1fbee9ff7b93de) > [总局政策法规](https://guangdong.chinatax.gov.cn/gdsw/zjfg/common_list_fgk.shtml)
+
+中华人民共和国工业和信息化部 财政部 税务总局关于2026—2027年减免车辆购置税新能源汽车产品技术要求的公告
+
+中华人民共和国工业和信息化部 财政部 税务总局公告2025年第24号
+
+
+发布机构:中华人民共和国工业和信息化部 财政部 税务总局 发文日期:2025-09-22 有效级别:有效 补充说明:
+
+浏览次数：6993
+
+根据《关于延续和优化新能源汽车车辆购置税减免政策的公告》（财政部 税务总局 工业和信息化部公告2023年第10号），结合新能源汽车技术进步、标准体系发展和车型变化情况，现就2026—2027年减免车辆购置税新能源汽车产品技术要求有关事项公告如下：
+
+一、纯电动乘用车有关技术要求调整如下：纯电动乘用车百公里电能消耗量应不高于《电动汽车能量消耗量限值 第1部分：乘用车》（GB 36980.1—2025）对应车型的电能消耗量限值。最大设计总质量超过3500kg的乘用车电能消耗量限值要求，参照GB 36980.1—2025中最大设计总质量为3500kg乘用车电能消耗量限值执行。
+
+二、插电式（含增程式）混合动力乘用车有关技术要求调整如下：
+
+（一）插电式（含增程式）混合动力乘用车纯电动续驶里程应满足有条件的等效全电里程不低于100公里。
+
+（二）插电式（含增程式）混合动力乘用车电量保持模式试验的燃料消耗量（不含电能转化的燃料消耗量）与《乘用车燃料消耗量限值》（GB 19578—2024）中对应车型的燃料消耗量限值相比：整备质量为2510kg以下的乘用车，应小于70%；整备质量为2510kg及以上的乘用车，应小于75%；最大设计总质量超过3500kg的乘用车燃料消耗量限值要求，参照GB 19578—2024中最大设计总质量为3500kg乘用车燃料消耗量限值执行。非汽柴油插电式（含增程式）混合动力乘用车燃料消耗量不作要求。
+
+（三）插电式（含增程式）混合动力乘用车电量消耗模式试验的电能消耗量与《电动汽车能量消耗量限值 第1部分：乘用车》（GB 36980.1—2025）中对应车型的电能消耗量限值相比：整备质量为2510kg以下的乘用车，应小于140%；整备质量为2510kg及以上的乘用车，应小于145%；最大设计总质量超过3500kg的乘用车电能消耗量限值要求，参照GB 36980.1—2025中最大设计总质量为3500kg乘用车电能消耗量限值执行。
+
+三、其他技术要求继续按照《关于调整减免车辆购置税新能源汽车产品技术要求的公告》（工业和信息化部 财政部 税务总局公告2023年第32号）规定执行。
+
+四、2026年1月1日起，列入《减免车辆购置税的新能源汽车车型目录》（以下简称《减免税目录》）的车型，需符合本公告要求；2025年12月31日前已列入《减免税目录》且符合本公告技术要求的车型，自动转入2026年第1期《减免税目录》，不符合要求的车型将从《减免税目录》中撤销。不符合本公告要求、拟列入2026年第1期《减免税目录》的车型，应在2025年12月12日之前完成申报。被撤销的车型，可重新申请列入《减免税目录》。
+
+五、2026年1月1日（含）起，在2026年及以后生效的《减免税目录》发布后，购置列入《减免税目录》的新能源汽车，可按规定享受车辆购置税减免政策。税务机关依据《减免税目录》、减免税标识以及办理车辆购置税纳税申报所需要提供的其他资料，办理车辆购置税减税手续。
+
+特此公告。
+
+工业和信息化部
+
+财政部
+
+税务总局
+
+2025年9月22日
+
+##### 附件：
+
+##### 政策解读：
+
+##### 相关政策文件：
+
+- #### [财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告](https://guangdong.chinatax.gov.cn/gdsw/zjfg/2023-06/21/content_c3ca57aa899f4524ab4729e722997a14.shtml)
+
+- #### [中华人民共和国工业和信息化部 财政部 税务总局关于调整减免车辆购置税新能源汽车产品技术要求的公告](https://guangdong.chinatax.gov.cn/gdsw/zjfg/2023-12/12/content_e382c2453b0c4fcc9c22bdbb86b52664.shtml)
+
+
+扫一扫在手机打开当前页
+
+回到
+
+顶部
+
+展
+
+开
+
+边
+
+栏
+
+- [政务\\
+\\
+服务网](http://zwfw.gd.gov.cn/)
+
+
+
+[![](https://guangdong.chinatax.gov.cn/gdsw/xhtml/images/public/easy_gdzwfw.jpg)](http://zwfw.gd.gov.cn/ "广东政务服务网")
+
+- [执法\\
+\\
+公示](https://guangdong.chinatax.gov.cn/gdzfgs/zfpt_index.shtml "行政执法信息公示平台")
+
+
+
+[![](https://guangdong.chinatax.gov.cn/gdsw/xhtml/images/public/easy_xxgszfpt.jpg)](https://guangdong.chinatax.gov.cn/gdzfgs/zfpt_index.shtml "行政执法信息公示平台")
+
+- [电子\\
+\\
+税务局](https://etax.guangdong.chinatax.gov.cn/ "广东省电子税务局")
+
+
+
+[![](https://guangdong.chinatax.gov.cn/gdsw/xhtml/images/public/easy_qrcode_etax.png)广东省电子税务局](https://etax.guangdong.chinatax.gov.cn/ "广东省电子税务局")
+
+- 微信
+
+
+
+![](https://guangdong.chinatax.gov.cn/gdsw/xhtml/images/public/easy_qrcode_wx.jpg)关注·微信
+
+- [微博](https://m.weibo.cn/u/5307486915)
+
+
+
+[![](https://guangdong.chinatax.gov.cn/gdsw/xhtml/images/public/easy_qrcode_wb.jpg)关注·微博](https://m.weibo.cn/u/5307486915)
+
+- [政声\\
+\\
+传递](http://www.gov.cn/pushinfo/v150203/ "政声传递")
+
+- [网站\\
+\\
+建议](https://guangdong.chinatax.gov.cn/gdsw/wzjy/wzjy.shtml "网站建议")
+
+
+|     |
+| --- |
+|  |

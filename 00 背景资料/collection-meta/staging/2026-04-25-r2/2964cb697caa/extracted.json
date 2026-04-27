@@ -1,0 +1,19 @@
+{
+  "hash": "2964cb697caa",
+  "url": "https://hunan.gov.cn/hnszf/szf/hnzb_18/202501/202512b/szfbmwj_98721_88_1urmmqrurrdbvpccutqhrmsteguugvmdqkupkguegktvspfmfnnccnmvnkhnueqhqrmcrunhkbqgcqshkecsrgbne/202506/t20250630_33725347.html",
+  "title_raw": "湖南省发展和改革委员会关于印发《湖南省电动汽车充换电基础设施建设与运营管理办法》的通知-湖南省人民政府门户网站",
+  "content_len": 7068,
+  "文号": "湘发改能源规〔2025〕289号",
+  "发布日期": "2025-04-28",
+  "业务标签_粗筛": [
+    "充电基础设施",
+    "新能源汽车"
+  ],
+  "need_llm_fields": [
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

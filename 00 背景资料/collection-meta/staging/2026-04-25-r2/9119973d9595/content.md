@@ -1,0 +1,26 @@
+搜索搜索
+
+[首页](https://www.mofcom.gov.cn/index.html) _>_ [新闻发布](https://www.mofcom.gov.cn/xwfb/index.html) _>_ [日常新闻发布](https://www.mofcom.gov.cn/xwfb/rcxwfb/index.html)
+
+来源：商务部新闻办公室
+类型：原创 分类：新闻 2025-01-17 20:54
+
+商务部等8部门办公厅联合印发《关于做好2025年汽车以旧换新工作的通知》
+
+为贯彻落实党中央、国务院有关决策部署，近日，商务部等8部门办公厅联合印发《关于做好2025年汽车以旧换新工作的通知》（以下简称《通知》），进一步明确了2025年汽车以旧换新补贴政策。
+
+《通知》明确了汽车报废更新补贴范围和标准。对报废2012年6月30日（含当日，下同）前注册登记的汽油乘用车、2014年6月30日前注册登记的柴油及其他燃料乘用车，或2018年12月31日前注册登记的新能源乘用车，并购买符合节能要求乘用车新车的个人消费者，给予一次性定额补贴。其中，对报废相关旧车并购买新能源乘用车的，补贴2万元；对报废相关燃油乘用车并购买2.0升及以下排量燃油乘用车的，补贴1.5万元。个人消费者可通过登录全国汽车流通信息管理系统网站、“商务微新闻”微信公众号或“汽车以旧换新”小程序，提交补贴申请。在一个自然年度内，每位个人消费者最多享受一次汽车报废更新补贴。
+
+《通知》明确了汽车置换更新补贴标准上限。对转让登记在本人名下的乘用车，并购买乘用车新车的个人消费者，给予一次性补贴支持，购买新能源乘用车补贴最高不超过1.5万元，购买燃油乘用车补贴最高不超过1.3万元。每位个人消费者在一个自然年度内最多可享受一次汽车置换更新补贴，就同一辆新车只能选择申领汽车报废更新补贴或者置换更新补贴。各地商务主管部门要加快制定汽车置换更新实施方案，合理确定补贴标准和实施方式，细化操作流程。
+
+《通知》明确了监督管理要求。各地方相关部门要按职责做好汽车以旧换新工作，加强监督管理。各地区要一视同仁支持不同所有制、不同注册地、不同规模经营主体参与汽车以旧换新。要简化资金申请、审核、拨付流程，及时向消费者兑现补贴。
+
+下一步，商务部将会同有关部门，指导各地方落实好补贴政策，做好政策衔接，加大宣传解读力度，便利消费者参与汽车以旧换新，更好满足人民群众美好生活需要。
+
+相关链接： [《商务部等8部门办公厅关于做好2025年汽车以旧换新工作的通知》](http://scyxs.mofcom.gov.cn/zcfg/art/2025/art_7c624dcc71404289921f5c2b1f11648b.html "")
+
+[首 页](https://www.mofcom.gov.cn/)[机构设置](https://www.mofcom.gov.cn/jgsz/index.html)[新闻发布](https://www.mofcom.gov.cn/xwfb/index.html)[政务公开](https://www.mofcom.gov.cn/zwgk/index.html)[政务大厅](https://www.mofcom.gov.cn/zwdt/zwdt/index.html)[互动交流](https://www.mofcom.gov.cn/hdjl/index.html)[公共服务](https://www.mofcom.gov.cn/ggfw/index.html)[智能问答](https://gzlynew.mofcom.gov.cn/mzsm/)
+
+[移动端\\
+![](https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20234/54a8220d016d4cda895e21ec53ff954d.jpg)](https://www.mofcom.gov.cn/fzlm/khdapp/index.html) [邮箱登录](http://mail.mofcom.gov.cn/) [关注微博](https://weibo.com/mofcom?is_hot=1) [微信公众号\\
+![](https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20234/cd3f9b7db2234f2a83518f32f2cb0062.jpg)](https://www.mofcom.gov.cn/fzlm/wxfw/index.html) [@国务院 我来说](https://liuyan.www.gov.cn/2025wwzfgzbgtjy/bmdf.html?q=swb)

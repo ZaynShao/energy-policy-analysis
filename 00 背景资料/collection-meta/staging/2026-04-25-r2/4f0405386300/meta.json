@@ -1,0 +1,10 @@
+{
+  "url": "https://www.shanghai.gov.cn/202502bgtwj/20250220/9085056942b44a879d6d07950a4f4667.html",
+  "title": "上海市人民政府办公厅关于印发《上海市新型储能示范引领创新发展 ...",
+  "source_type": "A",
+  "source_domain": "www.shanghai.gov.cn",
+  "fetched_at": "2026-04-25T10:29:55.281407",
+  "hash": "4f0405386300",
+  "status": "fail",
+  "error": "HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Max retries exceeded with url: /v1/scrape (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+}

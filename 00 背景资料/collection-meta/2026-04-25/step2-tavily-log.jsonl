@@ -1,0 +1,8 @@
+{"ts": "2026-04-25T01:14:22.278336", "query_idx": 1, "line": "L1-充电V2G储能", "q": "充电基础设施 车网互动 V2G 虚拟电厂 新型储能 2024 2025", "domains": ["ndrc.gov.cn", "nea.gov.cn", "gov.cn"], "total": 17, "new": 16, "status": "ok"}
+{"ts": "2026-04-25T01:14:26.294489", "query_idx": 2, "line": "L1-充电V2G储能", "q": "充换电 需求响应 分时电价 峰谷电价 充电桩政策 2024 2025", "domains": ["miit.gov.cn", "mof.gov.cn", "gov.cn"], "total": 20, "new": 17, "status": "ok"}
+{"ts": "2026-04-25T01:14:30.785479", "query_idx": 3, "line": "L2-加油综合能源", "q": "加油站转型 综合能源服务 成品油流通 油气氢电 2024 2025", "domains": ["ndrc.gov.cn", "mofcom.gov.cn", "gov.cn"], "total": 20, "new": 20, "status": "ok"}
+{"ts": "2026-04-25T01:14:34.776491", "query_idx": 4, "line": "L2-加油综合能源", "q": "加油站 综合能源 多能互补 2024 2025", "domains": ["nea.gov.cn", "miit.gov.cn", "gov.cn"], "total": 18, "new": 17, "status": "ok"}
+{"ts": "2026-04-25T01:14:39.820773", "query_idx": 5, "line": "L3-设备更新", "q": "大规模设备更新 消费品以旧换新 汽车以旧换新 2024 2025", "domains": ["ndrc.gov.cn", "mof.gov.cn", "gov.cn"], "total": 20, "new": 20, "status": "ok"}
+{"ts": "2026-04-25T01:14:44.801265", "query_idx": 6, "line": "L3-设备更新", "q": "设备更新补贴 新能源汽车购置税 2024 2025", "domains": ["miit.gov.cn", "mofcom.gov.cn", "gov.cn"], "total": 20, "new": 18, "status": "ok"}
+{"ts": "2026-04-25T01:14:49.350899", "query_idx": 7, "line": "L4-电力市场碳排放", "q": "电力现货 绿电交易 绿证 新型电力系统 2024 2025", "domains": ["ndrc.gov.cn", "nea.gov.cn", "gov.cn"], "total": 20, "new": 19, "status": "ok"}
+{"ts": "2026-04-25T01:14:54.137583", "query_idx": 8, "line": "L4-电力市场碳排放", "q": "碳排放权 节能降碳 碳达峰 碳中和 2024 2025", "domains": ["mee.gov.cn", "ndrc.gov.cn", "gov.cn"], "total": 20, "new": 20, "status": "ok"}

@@ -1,0 +1,482 @@
+[
+  {
+    "comment_path": "0_raw/commentaries/明年起实施！新能源车购置税减免政策全解读-eu.36kr.com.md",
+    "comment_filename": "明年起实施！新能源车购置税减免政策全解读-eu.36kr.com.md",
+    "comment_title": "明年起实施！新能源车购置税减免政策全解读",
+    "source": "eu.36kr.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc]]",
+    "target_policy_id": "P_2025_MIIT_24_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/最高0.35元kWh！上海印发新型电力系统调节能力奖励资金管理办法-mnewenergy.in-en.com.md",
+    "comment_filename": "最高0.35元kWh！上海印发新型电力系统调节能力奖励资金管理办法-mnewenergy.in-en.com.md",
+    "comment_title": "最高0.35元kWh！上海印发新型电力系统调节能力奖励资金管理办法",
+    "source": "mnewenergy.in-en.com",
+    "source_type": "B",
+    "confidence": 0.7,
+    "related_policy_wikilink": "[[【上海市新型电力系统调节能力奖励资金管理办法(PDF版)(沪发改规范〔2025〕5号)】-上海市发展和改革委员会、上海市经济和信息化委员会、上海市财政局-3476]]",
+    "target_policy_id": "P_2025_SH_5_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/永清县人民政府-www.yongqing.gov.cn.md",
+    "comment_filename": "永清县人民政府-www.yongqing.gov.cn.md",
+    "comment_title": "永清县人民政府",
+    "source": "www.yongqing.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf]]",
+    "target_policy_id": "P_2023_MOF_10"
+  },
+  {
+    "comment_path": "0_raw/commentaries/江苏发布26条措施加力扩围实施大规模设备更新和消费品以旧换新-js.people.com.cn.md",
+    "comment_filename": "江苏发布26条措施加力扩围实施大规模设备更新和消费品以旧换新-js.people.com.cn.md",
+    "comment_title": "江苏发布26条措施加力扩围实施大规模设备更新和消费品以旧换新",
+    "source": "js.people.com.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【江苏省2025年加力扩围实施大规模设备更新和消费品以旧换新政策】-江苏省发展和改革委员会、江苏省财政厅-93bc]]",
+    "target_policy_id": "P_2025_JS_0208e0bb_b"
+  },
+  {
+    "comment_path": "0_raw/commentaries/河南西华县电动汽车充电基础设施建设运营管理办法（试行 ...-chd.in-en.com.md",
+    "comment_filename": "河南西华县电动汽车充电基础设施建设运营管理办法（试行 ...-chd.in-en.com.md",
+    "comment_title": "河南西华县电动汽车充电基础设施建设运营管理办法（试行 ...",
+    "source": "chd.in-en.com",
+    "source_type": "B",
+    "confidence": 0.7,
+    "related_policy_wikilink": "[[【河南省电动汽车充电基础设施建设相关文件】-河南省人民政府办公厅-400e]]",
+    "target_policy_id": "P_2025_HA_0908b9ef"
+  },
+  {
+    "comment_path": "0_raw/commentaries/河南通许县中心城区新能源汽车充电设施布局专项规划的批前公示-chd.in-en.com.md",
+    "comment_filename": "河南通许县中心城区新能源汽车充电设施布局专项规划的批前公示-chd.in-en.com.md",
+    "comment_title": "河南通许县中心城区新能源汽车充电设施布局专项规划的批前公示",
+    "source": "chd.in-en.com",
+    "source_type": "B",
+    "confidence": 0.7,
+    "related_policy_wikilink": "[[【通许县新能源汽车充电设施布局专项规划(2025-2030年)送审稿】-通许县人民政府-3493]]",
+    "target_policy_id": "P_2025_OTHER420B_1201deda"
+  },
+  {
+    "comment_path": "0_raw/commentaries/浙江省经济信息中心-zjic.zj.gov.cn.md",
+    "comment_filename": "浙江省经济信息中心-zjic.zj.gov.cn.md",
+    "comment_title": "浙江省经济信息中心",
+    "source": "zjic.zj.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【可再生能源绿色电力证书管理实施细则(试行)(国能发资质规〔2025〕107号)】-国家能源局-620d]]",
+    "target_policy_id": "P_2025_NEA_107"
+  },
+  {
+    "comment_path": "0_raw/commentaries/消费品以旧换新取得新进展新成效（政策解读）-politics.people.com.cn.md",
+    "comment_filename": "消费品以旧换新取得新进展新成效（政策解读）-politics.people.com.cn.md",
+    "comment_title": "消费品以旧换新取得新进展新成效（政策解读）",
+    "source": "politics.people.com.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0]]",
+    "target_policy_id": "P_2024_MOFCOM_58_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/深圳市人民政府关于印发推动大规模设备更新和消费品以旧换新行动 ...-www.sz.gov.cn.md",
+    "comment_filename": "深圳市人民政府关于印发推动大规模设备更新和消费品以旧换新行动 ...-www.sz.gov.cn.md",
+    "comment_title": "深圳市人民政府关于印发推动大规模设备更新和消费品以旧换新行动 ...",
+    "source": "www.sz.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【推动大规模设备更新和消费品以旧换新行动方案(国发〔2024〕7号)】-国务院-5dca]]",
+    "target_policy_id": "P_2024_SC_7"
+  },
+  {
+    "comment_path": "0_raw/commentaries/深圳市光明区发改局关于印发《深圳市光明区支持新型储能产业加快发展扶持计划操作规程》的通知（深光发改规〔2025〕1 号）20250212  光动百科PVMeng.Com,能源政策解读,光伏政策,家庭光伏,户用.md",
+    "comment_filename": "深圳市光明区发改局关于印发《深圳市光明区支持新型储能产业加快发展扶持计划操作规程》的通知（深光发改规〔2025〕1 号）20250212  光动百科PVMeng.Com,能源政策解读,光伏政策,家庭光伏,户用.md",
+    "comment_title": "深圳市光明区发改局关于印发《深圳市光明区支持新型储能产业加快发展扶持计划操作规程》的通知（深光发改规〔2025〕1 号）20250212  光动百科PVMeng.Com,能源政策解读,光伏政策,家庭光伏,户用光伏,分布式光伏,分布式发电,汉",
+    "source": "www.pvmeng.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【深圳市光明区支持新型储能产业加快发展扶持计划操作规程(深光发改规〔2025〕1号)】-深圳市光明区发展和改革局-22df]]",
+    "target_policy_id": "P_2025_OTHERCD44_1"
+  },
+  {
+    "comment_path": "0_raw/commentaries/深圳市发展和改革委员会关于印发《深圳市支持虚拟电厂加快发展的 ...-fgw.sz.gov.cn.md",
+    "comment_filename": "深圳市发展和改革委员会关于印发《深圳市支持虚拟电厂加快发展的 ...-fgw.sz.gov.cn.md",
+    "comment_title": "深圳市发展和改革委员会关于印发《深圳市支持虚拟电厂加快发展的 ...",
+    "source": "fgw.sz.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【深圳出台支持虚拟电厂加快发展若干措施(新闻报道)】-深圳特区报(南山区政府转载)-d488]]",
+    "target_policy_id": "P_2024_OTHER21AB_0617e801"
+  },
+  {
+    "comment_path": "0_raw/commentaries/深圳市发展和改革委员会关于印发《深圳市支持虚拟电厂加快发展的若干措施》的通知-fgw.sz.gov.cn.md",
+    "comment_filename": "深圳市发展和改革委员会关于印发《深圳市支持虚拟电厂加快发展的若干措施》的通知-fgw.sz.gov.cn.md",
+    "comment_title": "深圳市发展和改革委员会关于印发《深圳市支持虚拟电厂加快发展的若干措施》的通知",
+    "source": "fgw.sz.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【深圳市支持虚拟电厂加快发展的若干措施】-深圳市发展和改革委员会-9bce]]",
+    "target_policy_id": "P_2024_OTHER7F45_060777c1"
+  },
+  {
+    "comment_path": "0_raw/commentaries/深圳市发改委印发《深圳市支持虚拟电厂加快发展的若干措施》 - 深圳市绿色金融协会-www.szgfa.com.md",
+    "comment_filename": "深圳市发改委印发《深圳市支持虚拟电厂加快发展的若干措施》 - 深圳市绿色金融协会-www.szgfa.com.md",
+    "comment_title": "深圳市发改委印发《深圳市支持虚拟电厂加快发展的若干措施》 - 深圳市绿色金融协会",
+    "source": "www.szgfa.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【深圳市支持虚拟电厂加快发展的若干措施】-深圳市发展和改革委员会-9bce]]",
+    "target_policy_id": "P_2024_OTHER7F45_060777c1"
+  },
+  {
+    "comment_path": "0_raw/commentaries/深圳直补500万、逾十二省区市设试点 V2G车网互动迎来商业化前夜-www.cls.cn.md",
+    "comment_filename": "深圳直补500万、逾十二省区市设试点 V2G车网互动迎来商业化前夜-www.cls.cn.md",
+    "comment_title": "深圳直补500万、逾十二省区市设试点 V2G车网互动迎来商业化前夜",
+    "source": "www.cls.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【深圳市支持虚拟电厂加快发展的若干措施】-深圳市发展和改革委员会-9bce]]",
+    "target_policy_id": "P_2024_OTHER7F45_060777c1"
+  },
+  {
+    "comment_path": "0_raw/commentaries/湖南三部门联合印发《湖南电力中长期交易规则补充规定》，完善市场建设 - 电力 - 低碳网-www.ditan.com.md",
+    "comment_filename": "湖南三部门联合印发《湖南电力中长期交易规则补充规定》，完善市场建设 - 电力 - 低碳网-www.ditan.com.md",
+    "comment_title": "湖南三部门联合印发《湖南电力中长期交易规则补充规定》，完善市场建设 - 电力 - 低碳网",
+    "source": "www.ditan.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【湖南省2026年度电力中长期交易价格机制完善通知(湘发改运行〔2025〕830号(调整))】-湖南省发展和改革委员会-7518]]",
+    "target_policy_id": "P_2025_HN_830"
+  },
+  {
+    "comment_path": "0_raw/commentaries/湖南发布《关于完善2026年度电力中长期交易价格机制的通知》-国际电力网-mpower.in-en.com.md",
+    "comment_filename": "湖南发布《关于完善2026年度电力中长期交易价格机制的通知》-国际电力网-mpower.in-en.com.md",
+    "comment_title": "湖南发布《关于完善2026年度电力中长期交易价格机制的通知》-国际电力网",
+    "source": "mpower.in-en.com",
+    "source_type": "B",
+    "confidence": 0.7,
+    "related_policy_wikilink": "[[【湖南省2026年度电力中长期交易价格机制完善通知(湘发改运行〔2025〕830号(调整))】-湖南省发展和改革委员会-7518]]",
+    "target_policy_id": "P_2025_HN_830"
+  },
+  {
+    "comment_path": "0_raw/commentaries/湖南省发展和改革委员会关于印发《湖南省进一步构建高质量充电 ...-hunan.gov.cn.md",
+    "comment_filename": "湖南省发展和改革委员会关于印发《湖南省进一步构建高质量充电 ...-hunan.gov.cn.md",
+    "comment_title": "湖南省发展和改革委员会关于印发《湖南省进一步构建高质量充电 ...",
+    "source": "hunan.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【湖南省进一步构建高质量充电基础设施体系的实施意见(湘发改能源规〔2023〕848号)】-湖南省发展和改革委员会-a813]]",
+    "target_policy_id": "P_2023_HN_848"
+  },
+  {
+    "comment_path": "0_raw/commentaries/湖南：充换电基础设施建设与运营管理办法（征求意见稿）发布-chd.in-en.com.md",
+    "comment_filename": "湖南：充换电基础设施建设与运营管理办法（征求意见稿）发布-chd.in-en.com.md",
+    "comment_title": "湖南：充换电基础设施建设与运营管理办法（征求意见稿）发布",
+    "source": "chd.in-en.com",
+    "source_type": "B",
+    "confidence": 0.7,
+    "related_policy_wikilink": "[[【湖南省电动汽车充换电基础设施建设与运营管理办法(湘发改能源规〔2025〕289号)】-湖南省发展和改革委员会-2964]]",
+    "target_policy_id": "P_2025_HN_289"
+  },
+  {
+    "comment_path": "0_raw/commentaries/焦点访谈｜补贴怎么领？政策怎么用？拆解2026年“惠民大礼包”_新闻频道_央视网(cctv.com)-news.cctv.com.md",
+    "comment_filename": "焦点访谈｜补贴怎么领？政策怎么用？拆解2026年“惠民大礼包”_新闻频道_央视网(cctv.com)-news.cctv.com.md",
+    "comment_title": "焦点访谈｜补贴怎么领？政策怎么用？拆解2026年“惠民大礼包”_新闻频道_央视网(cctv.com)",
+    "source": "news.cctv.com",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【2026年实施大规模设备更新和消费品以旧换新政策(发改环资〔2025〕1745号)】-国家发展和改革委员会、财政部-42e0]]",
+    "target_policy_id": "P_2025_NDRC_1745_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/电力中长期市场基本规则印发 - 经济-finance.people.com.cn.md",
+    "comment_filename": "电力中长期市场基本规则印发 - 经济-finance.people.com.cn.md",
+    "comment_title": "电力中长期市场基本规则印发 - 经济",
+    "source": "finance.people.com.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【电力中长期市场基本规则答记者问(发改能源规〔2025〕1656号)】-国家发展改革委 国家能源局-01c8]]",
+    "target_policy_id": "P_2025_NDRC_1656_e"
+  },
+  {
+    "comment_path": "0_raw/commentaries/电力中长期市场基本规则印发-paper.people.com.cn.md",
+    "comment_filename": "电力中长期市场基本规则印发-paper.people.com.cn.md",
+    "comment_title": "电力中长期市场基本规则印发",
+    "source": "paper.people.com.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【电力中长期市场基本规则答记者问(发改能源规〔2025〕1656号)】-国家发展改革委 国家能源局-01c8]]",
+    "target_policy_id": "P_2025_NDRC_1656_e"
+  },
+  {
+    "comment_path": "0_raw/commentaries/电动汽车充电基础设施现状调查 - 中国记协网-www.zgjx.cn.md",
+    "comment_filename": "电动汽车充电基础设施现状调查 - 中国记协网-www.zgjx.cn.md",
+    "comment_title": "电动汽车充电基础设施现状调查 - 中国记协网",
+    "source": "www.zgjx.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【关于进一步提升电动汽车充电基础设施服务保障能力的实施意见(发改能源规〔2022〕53号)】-国家发展改革委、国家能源局等-5b8b]]",
+    "target_policy_id": "P_2022_NDRC_53_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/福建省发展和改革委员会 国家能源局福建监管办公室关于印发2025年福建省电力中长期市场交易方案的通知 _ 省发改委政策文件 _ 福建省发展和改革委员会-fgw.fujian.gov.cn.md",
+    "comment_filename": "福建省发展和改革委员会 国家能源局福建监管办公室关于印发2025年福建省电力中长期市场交易方案的通知 _ 省发改委政策文件 _ 福建省发展和改革委员会-fgw.fujian.gov.cn.md",
+    "comment_title": "福建省发展和改革委员会 国家能源局福建监管办公室关于印发2025年福建省电力中长期市场交易方案的通知 _ 省发改委政策文件 _ 福建省发展和改革委员会",
+    "source": "fgw.fujian.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【2025年福建省电力中长期市场交易方案】-福建省发展和改革委员会、国家能源局福建监管办公室-a54c]]",
+    "target_policy_id": "P_2024_FJ_1220060b"
+  },
+  {
+    "comment_path": "0_raw/commentaries/福建省发展和改革委员会关于印发加快构建福建省高质量充电基础 ...-fgw.fujian.gov.cn.md",
+    "comment_filename": "福建省发展和改革委员会关于印发加快构建福建省高质量充电基础 ...-fgw.fujian.gov.cn.md",
+    "comment_title": "福建省发展和改革委员会关于印发加快构建福建省高质量充电基础 ...",
+    "source": "fgw.fujian.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【加快构建福建省高质量充电基础设施体系实施方案(闽发改规〔2024〕5号)】-福建省发展和改革委员会-c061]]",
+    "target_policy_id": "P_2024_FJ_5"
+  },
+  {
+    "comment_path": "0_raw/commentaries/绿色电力交易：企业如何交易和运用绿色电力？ - 金杜律师事务所 - 苏萌-www.kingandwood.com.md",
+    "comment_filename": "绿色电力交易：企业如何交易和运用绿色电力？ - 金杜律师事务所 - 苏萌-www.kingandwood.com.md",
+    "comment_title": "绿色电力交易：企业如何交易和运用绿色电力？ - 金杜律师事务所 - 苏萌",
+    "source": "www.kingandwood.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【电力中长期交易基本规则—绿色电力交易专章(发改能源〔2024〕1123号)】-国家发展改革委、国家能源局-6518]]",
+    "target_policy_id": "P_2024_NDRC_1123_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/绿证管理实施细则落地，超过有效期绿证将强制下架并核销-www.21jingji.com.md",
+    "comment_filename": "绿证管理实施细则落地，超过有效期绿证将强制下架并核销-www.21jingji.com.md",
+    "comment_title": "绿证管理实施细则落地，超过有效期绿证将强制下架并核销",
+    "source": "www.21jingji.com",
+    "source_type": "B",
+    "confidence": 0.7,
+    "related_policy_wikilink": "[[【可再生能源绿色电力证书管理实施细则(试行)(国能发资质规〔2025〕107号)】-国家能源局-620d]]",
+    "target_policy_id": "P_2025_NEA_107"
+  },
+  {
+    "comment_path": "0_raw/commentaries/虚拟电厂在上海的实践探索与前景分析-www.electricpower.com.cn.md",
+    "comment_filename": "虚拟电厂在上海的实践探索与前景分析-www.electricpower.com.cn.md",
+    "comment_title": "虚拟电厂在上海的实践探索与前景分析",
+    "source": "www.electricpower.com.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【上海市用户侧虚拟电厂建设实施方案(2025-2027年)(沪经信运〔2025〕407号)】-上海市经济和信息化委员会-5d8d]]",
+    "target_policy_id": "P_2025_SH_407"
+  },
+  {
+    "comment_path": "0_raw/commentaries/补贴细则正式落地，助推新能源车市场需求释放-www.spdbi.com.md",
+    "comment_filename": "补贴细则正式落地，助推新能源车市场需求释放-www.spdbi.com.md",
+    "comment_title": "补贴细则正式落地，助推新能源车市场需求释放",
+    "source": "www.spdbi.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部 财政部等7部门-1d35]]",
+    "target_policy_id": "P_2024_MOFCOM_75_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/观点 深圳如何加快推进碳达峰？ - 21经济网-www.21jingji.com.md",
+    "comment_filename": "观点 深圳如何加快推进碳达峰？ - 21经济网-www.21jingji.com.md",
+    "comment_title": "观点 深圳如何加快推进碳达峰？ - 21经济网",
+    "source": "www.21jingji.com",
+    "source_type": "B",
+    "confidence": 0.7,
+    "related_policy_wikilink": "[[【国家碳达峰试点（深圳）实施方案(深府函〔2024〕337号)】-深圳市人民政府-2e69]]",
+    "target_policy_id": "P_2024_OTHER764F_337"
+  },
+  {
+    "comment_path": "0_raw/commentaries/解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》-energylaw.chinalaw.org.cn.md",
+    "comment_filename": "解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》-energylaw.chinalaw.org.cn.md",
+    "comment_title": "解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》",
+    "source": "energylaw.chinalaw.org.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【国家发展改革委 财政部 国家能源局关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)】-国家发展改革委、财政部、国家能源局-4274]]",
+    "target_policy_id": "P_2023_NDRC_1044_b"
+  },
+  {
+    "comment_path": "0_raw/commentaries/解读《加快电动汽车充电基础设施建设意见》--能源 - 人民网-energy.people.com.cn.md",
+    "comment_filename": "解读《加快电动汽车充电基础设施建设意见》--能源 - 人民网-energy.people.com.cn.md",
+    "comment_title": "解读《加快电动汽车充电基础设施建设意见》--能源 - 人民网",
+    "source": "energy.people.com.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【加快电动汽车充电基础设施建设的指导意见(国办发〔2015〕73号)】-国务院办公厅-1fdb]]",
+    "target_policy_id": "P_2015_GO_73"
+  },
+  {
+    "comment_path": "0_raw/commentaries/财政部税政司税务总局货物和劳务税司有关负责人就延续和优化新 ...-szs.mof.gov.cn.md",
+    "comment_filename": "财政部税政司税务总局货物和劳务税司有关负责人就延续和优化新 ...-szs.mof.gov.cn.md",
+    "comment_title": "财政部税政司税务总局货物和劳务税司有关负责人就延续和优化新 ...",
+    "source": "szs.mof.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf]]",
+    "target_policy_id": "P_2023_MOF_10"
+  },
+  {
+    "comment_path": "0_raw/commentaries/车网互动正加速车网互动正加速 - 要闻 - 低碳网-www.ditan.com.md",
+    "comment_filename": "车网互动正加速车网互动正加速 - 要闻 - 低碳网-www.ditan.com.md",
+    "comment_title": "车网互动正加速车网互动正加速 - 要闻 - 低碳网",
+    "source": "www.ditan.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【广州市建设国家车网互动规模化应用试点城市工作方案(2025-2027年)(穗工信函〔2025〕255号)】-广州市工业和信息化局-6bda]]",
+    "target_policy_id": "P_2025_OTHER0858_255"
+  },
+  {
+    "comment_path": "0_raw/commentaries/车购税新政如何影响新能源汽车市场_行业资讯_全国工商联汽车经销商商会-www.cadcc.com.cn.md",
+    "comment_filename": "车购税新政如何影响新能源汽车市场_行业资讯_全国工商联汽车经销商商会-www.cadcc.com.cn.md",
+    "comment_title": "车购税新政如何影响新能源汽车市场_行业资讯_全国工商联汽车经销商商会",
+    "source": "www.cadcc.com.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc]]",
+    "target_policy_id": "P_2025_MIIT_24_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/转型升级，深度赋能--《推动大规模设备更新和消费品以旧换新行动 ...-www.yicai.com.md",
+    "comment_filename": "转型升级，深度赋能--《推动大规模设备更新和消费品以旧换新行动 ...-www.yicai.com.md",
+    "comment_title": "转型升级，深度赋能--《推动大规模设备更新和消费品以旧换新行动 ...",
+    "source": "www.yicai.com",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-6363]]",
+    "target_policy_id": "P_2024_BJ_0427ca25"
+  },
+  {
+    "comment_path": "0_raw/commentaries/辽宁省人民政府关于印发《辽宁省 推动大规模设备更新和消费品 以旧换新实施方案》的通知-www.ln.gov.cn.md",
+    "comment_filename": "辽宁省人民政府关于印发《辽宁省 推动大规模设备更新和消费品 以旧换新实施方案》的通知-www.ln.gov.cn.md",
+    "comment_title": "辽宁省人民政府关于印发《辽宁省 推动大规模设备更新和消费品 以旧换新实施方案》的通知",
+    "source": "www.ln.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【辽宁省推动大规模设备更新和消费品以旧换新实施方案(辽政发〔2024〕9号)】-辽宁省人民政府-181c]]",
+    "target_policy_id": "P_2024_LN_9_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重庆启动2026年消费品以旧换新 汽车置换更新最高补1.5万元 家电6类、数码4类产品可享补贴_重庆市人民政府网-www.cq.gov.cn.md",
+    "comment_filename": "重庆启动2026年消费品以旧换新 汽车置换更新最高补1.5万元 家电6类、数码4类产品可享补贴_重庆市人民政府网-www.cq.gov.cn.md",
+    "comment_title": "重庆启动2026年消费品以旧换新 汽车置换更新最高补1.5万元 家电6类、数码4类产品可享补贴_重庆市人民政府网",
+    "source": "www.cq.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【重庆市2026年汽车置换更新补贴政策(渝商务〔2025〕388号)】-重庆市商务委员会-23f9]]",
+    "target_policy_id": "P_2025_CQ_388"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重庆市2026年汽车置换更新补贴开放申请 换新车最高补贴1.5万元_重庆市人民政府网-www.cq.gov.cn.md",
+    "comment_filename": "重庆市2026年汽车置换更新补贴开放申请 换新车最高补贴1.5万元_重庆市人民政府网-www.cq.gov.cn.md",
+    "comment_title": "重庆市2026年汽车置换更新补贴开放申请 换新车最高补贴1.5万元_重庆市人民政府网",
+    "source": "www.cq.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【重庆市2026年汽车置换更新补贴政策(渝商务〔2025〕388号)】-重庆市商务委员会-23f9]]",
+    "target_policy_id": "P_2025_CQ_388"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重庆市商务委员会关于实施2025年汽车报废更新补贴政策的通知-sww.cq.gov.cn.md",
+    "comment_filename": "重庆市商务委员会关于实施2025年汽车报废更新补贴政策的通知-sww.cq.gov.cn.md",
+    "comment_title": "重庆市商务委员会关于实施2025年汽车报废更新补贴政策的通知",
+    "source": "sww.cq.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0]]",
+    "target_policy_id": "P_2025_CQ_22_c"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重庆市成品油零售加油站“十四五”发展规划 - 重庆市商务委员会-sww.cq.gov.cn.md",
+    "comment_filename": "重庆市成品油零售加油站“十四五”发展规划 - 重庆市商务委员会-sww.cq.gov.cn.md",
+    "comment_title": "重庆市成品油零售加油站“十四五”发展规划 - 重庆市商务委员会",
+    "source": "sww.cq.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【重庆市成品油零售加油站“十四五”发展规划】-重庆市商务委员会-ea98]]",
+    "target_policy_id": "P_2023_CQ_120401b0"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重庆市涪陵区人民政府 关于印发涪陵区综合能源站发展规划（2023—2030年）的通知_重庆市涪陵区人民政府-www.fl.gov.cn.md",
+    "comment_filename": "重庆市涪陵区人民政府 关于印发涪陵区综合能源站发展规划（2023—2030年）的通知_重庆市涪陵区人民政府-www.fl.gov.cn.md",
+    "comment_title": "重庆市涪陵区人民政府 关于印发涪陵区综合能源站发展规划（2023—2030年）的通知_重庆市涪陵区人民政府",
+    "source": "www.fl.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【涪陵区综合能源站发展规划(2023—2030年)】-重庆市涪陵区人民政府-6819]]",
+    "target_policy_id": "P_2024_CQ_1023dd1b"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重庆市生态环境局办公室关于印发《重庆市2023年度碳排放配额分配实施方案》的通知_重庆市生态环境局-sthjj.cq.gov.cn.md",
+    "comment_filename": "重庆市生态环境局办公室关于印发《重庆市2023年度碳排放配额分配实施方案》的通知_重庆市生态环境局-sthjj.cq.gov.cn.md",
+    "comment_title": "重庆市生态环境局办公室关于印发《重庆市2023年度碳排放配额分配实施方案》的通知_重庆市生态环境局",
+    "source": "sthjj.cq.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【重庆市2023年度碳排放配额分配实施方案(渝环办〔2024〕162号)】-重庆市生态环境局办公室-1208]]",
+    "target_policy_id": "P_2024_CQ_162"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重庆市綦江区成品油市场监管联席会议办公室关于印发2024年全区打击整治成品油非法经营专项行动方案的通知_重庆市綦江区人民政府-cqqj.gov.cn.md",
+    "comment_filename": "重庆市綦江区成品油市场监管联席会议办公室关于印发2024年全区打击整治成品油非法经营专项行动方案的通知_重庆市綦江区人民政府-cqqj.gov.cn.md",
+    "comment_title": "重庆市綦江区成品油市场监管联席会议办公室关于印发2024年全区打击整治成品油非法经营专项行动方案的通知_重庆市綦江区人民政府",
+    "source": "cqqj.gov.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【2024年全区打击整治成品油非法经营专项行动方案(綦油联办发〔2024〕2号)】-重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会-17eb]]",
+    "target_policy_id": "P_2024_CQ_2"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的 ...-finance.sina.com.cn.md",
+    "comment_filename": "重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的 ...-finance.sina.com.cn.md",
+    "comment_title": "重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的 ...",
+    "source": "finance.sina.com.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【国家能源局关于支持电力领域新型经营主体创新发展的指导意见(国能发法改〔2024〕93号)】-国家能源局-381e]]",
+    "target_policy_id": "P_2024_NEA_93_a"
+  },
+  {
+    "comment_path": "0_raw/commentaries/重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的指导意见_新浪财经_新浪网-finance.sina.com.cn.md",
+    "comment_filename": "重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的指导意见_新浪财经_新浪网-finance.sina.com.cn.md",
+    "comment_title": "重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的指导意见_新浪财经_新浪网",
+    "source": "finance.sina.com.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【支持电力领域新型经营主体创新发展指导意见答记者问】-国家能源局-2c1f]]",
+    "target_policy_id": "P_2024_NEA_12055c06"
+  },
+  {
+    "comment_path": "0_raw/commentaries/金台论策：以旧换新扩品类、简流程，消费者期待这些改变--传媒--人民网-yjy.people.com.cn.md",
+    "comment_filename": "金台论策：以旧换新扩品类、简流程，消费者期待这些改变--传媒--人民网-yjy.people.com.cn.md",
+    "comment_title": "金台论策：以旧换新扩品类、简流程，消费者期待这些改变--传媒--人民网",
+    "source": "yjy.people.com.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部等14部门-17b0]]",
+    "target_policy_id": "P_2024_MOFCOM_58_b"
+  },
+  {
+    "comment_path": "0_raw/commentaries/长时储能迎发展风口-paper.people.com.cn.md",
+    "comment_filename": "长时储能迎发展风口-paper.people.com.cn.md",
+    "comment_title": "长时储能迎发展风口",
+    "source": "paper.people.com.cn",
+    "source_type": "B",
+    "confidence": 0.9,
+    "related_policy_wikilink": "[[【上海市新型储能示范引领创新发展工作方案2025-2030(沪府办发〔2024〕28号)】-上海市人民政府办公厅-038d]]",
+    "target_policy_id": "P_2024_SH_28"
+  },
+  {
+    "comment_path": "0_raw/commentaries/零碳之路：-wri.org.cn.md",
+    "comment_filename": "零碳之路：-wri.org.cn.md",
+    "comment_title": "零碳之路：",
+    "source": "wri.org.cn",
+    "source_type": "B",
+    "confidence": 0.6,
+    "related_policy_wikilink": "[[【上海碳市场全面深化改革行动方案2026-2030(沪府办发〔2025〕16号)】-上海市人民政府办公厅-342f]]",
+    "target_policy_id": "P_2025_SH_16"
+  }
+]

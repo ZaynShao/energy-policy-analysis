@@ -1,0 +1,15 @@
+{
+  "hash": "bc3cf7260fb8",
+  "url": "https://www.shqp.gov.cn/shqp/zwgk/zfwj/qzf/20230203/1092661.html",
+  "title_raw": "关于印发《上海市青浦区碳达峰实施方案》的通知",
+  "content_len": 4012,
+  "need_llm_fields": [
+    "文号",
+    "发布日期",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

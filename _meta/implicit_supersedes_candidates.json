@@ -1,0 +1,142 @@
+{
+  "criteria": "同 issuer + title sim ≥0.4 + 1-730 天 + 不同 official + 排除已知",
+  "candidate_count": 8,
+  "candidates": [
+    {
+      "new": "P_2024_BJ_0428ca25",
+      "old": "P_2024_BJ_0427ca25",
+      "new_title": "北京市积极推动设备更新和消费品以旧换新行动方案",
+      "old_title": "北京市积极推动设备更新和消费品以旧换新行动方案",
+      "new_official": "",
+      "old_official": "",
+      "new_filename": "【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-ca25.md",
+      "old_filename": "【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-6363.md",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "title_sim": 1.0,
+      "days_apart": 1,
+      "new_importance": 3,
+      "old_importance": 4
+    },
+    {
+      "new": "P_2024_CQ_04038544",
+      "old": "P_2024_CQ_29_a",
+      "new_title": "重庆市新能源汽车便捷超充行动计划(2024—2025年)",
+      "old_title": "重庆市新能源汽车便捷超充行动计划(2024-2025年)",
+      "new_official": "",
+      "old_official": "渝府办发〔2024〕29号",
+      "new_filename": "【重庆市新能源汽车便捷超充行动计划(2024—2025年)】-重庆市人民政府办公厅-1ede.md",
+      "old_filename": "【重庆市新能源汽车便捷超充行动计划(2024-2025年)(渝府办发〔2024〕29号)】-重庆市人民政府办公厅-0fab.md",
+      "issuer": [
+        "重庆市人民政府办公厅"
+      ],
+      "title_sim": 1.0,
+      "days_apart": 4,
+      "new_importance": 4,
+      "old_importance": 4
+    },
+    {
+      "new": "P_2021_MEE_19",
+      "old": "P_2020_MEE_19",
+      "new_title": "碳排放权交易管理办法(试行)",
+      "old_title": "碳排放权交易管理办法(试行)",
+      "new_official": "部令第19号",
+      "old_official": "生态环境部令第19号",
+      "new_filename": "【碳排放权交易管理办法(试行)(部令第19号)】-生态环境部-ed28.md",
+      "old_filename": "【碳排放权交易管理办法(试行)(生态环境部令第19号)】-生态环境部-ed28.md",
+      "issuer": [
+        "生态环境部"
+      ],
+      "title_sim": 1.0,
+      "days_apart": 5,
+      "new_importance": 4,
+      "old_importance": 4
+    },
+    {
+      "new": "P_2025_SH_0624ccf3",
+      "old": "P_2025_SH_407",
+      "new_title": "上海市用户侧虚拟电厂建设实施方案(2025-2027年)",
+      "old_title": "上海市用户侧虚拟电厂建设实施方案(2025-2027年)",
+      "new_official": "",
+      "old_official": "沪经信运〔2025〕407号",
+      "new_filename": "【上海市用户侧虚拟电厂建设实施方案(2025-2027年)】-上海市经济和信息化委员会-24e2.md",
+      "old_filename": "【上海市用户侧虚拟电厂建设实施方案(2025-2027年)(沪经信运〔2025〕407号)】-上海市经济和信息化委员会-5d8d.md",
+      "issuer": [
+        "上海市经济和信息化委员会"
+      ],
+      "title_sim": 1.0,
+      "days_apart": 5,
+      "new_importance": 4,
+      "old_importance": 5
+    },
+    {
+      "new": "P_2025_NDRC_1810",
+      "old": "P_2025_NDRC_1656_a",
+      "new_title": "电力中长期市场基本规则",
+      "old_title": "电力中长期市场基本规则",
+      "new_official": "发改能源规〔2025〕1810号",
+      "old_official": "发改能源规〔2025〕1656号",
+      "new_filename": "【电力中长期市场基本规则(发改能源规〔2025〕1810号)】-国家发展和改革委员会、国家能源局-c6bb.md",
+      "old_filename": "【电力中长期市场基本规则(发改能源规〔2025〕1656号)】-国家发展和改革委员会、国家能源局-6fc7.md",
+      "issuer": [
+        "国家发展和改革委员会、国家能源局"
+      ],
+      "title_sim": 1.0,
+      "days_apart": 9,
+      "new_importance": 5,
+      "old_importance": 5
+    },
+    {
+      "new": "P_2024_CQ_29_a",
+      "old": "P_2024_CQ_0101a5e5",
+      "new_title": "重庆市新能源汽车便捷超充行动计划(2024-2025年)",
+      "old_title": "重庆市新能源汽车便捷超充行动计划（2024—2025年）",
+      "new_official": "渝府办发〔2024〕29号",
+      "old_official": "",
+      "new_filename": "【重庆市新能源汽车便捷超充行动计划(2024-2025年)(渝府办发〔2024〕29号)】-重庆市人民政府办公厅-0fab.md",
+      "old_filename": "【重庆市新能源汽车便捷超充行动计划（2024—2025年）】-重庆市人民政府办公厅-8a90.md",
+      "issuer": [
+        "重庆市人民政府办公厅"
+      ],
+      "title_sim": 1.0,
+      "days_apart": 89,
+      "new_importance": 4,
+      "old_importance": 4
+    },
+    {
+      "new": "P_2024_CQ_04038544",
+      "old": "P_2024_CQ_0101a5e5",
+      "new_title": "重庆市新能源汽车便捷超充行动计划(2024—2025年)",
+      "old_title": "重庆市新能源汽车便捷超充行动计划（2024—2025年）",
+      "new_official": "",
+      "old_official": "",
+      "new_filename": "【重庆市新能源汽车便捷超充行动计划(2024—2025年)】-重庆市人民政府办公厅-1ede.md",
+      "old_filename": "【重庆市新能源汽车便捷超充行动计划（2024—2025年）】-重庆市人民政府办公厅-8a90.md",
+      "issuer": [
+        "重庆市人民政府办公厅"
+      ],
+      "title_sim": 1.0,
+      "days_apart": 93,
+      "new_importance": 4,
+      "old_importance": 4
+    },
+    {
+      "new": "P_2025_NDRC_1015e4b5",
+      "old": "P_2025_NDRC_0912b2a5",
+      "new_title": "电动汽车充电设施服务能力三年倍增行动方案(2025—2027年)",
+      "old_title": "新型储能规模化建设专项行动方案(2025—2027年)",
+      "new_official": "",
+      "old_official": "",
+      "new_filename": "【电动汽车充电设施服务能力三年倍增行动方案(2025—2027年)】-国家发展改革委、国家能源局-8a35.md",
+      "old_filename": "【新型储能规模化建设专项行动方案(2025—2027年)】-国家发展改革委、国家能源局-076a.md",
+      "issuer": [
+        "国家发展改革委、国家能源局"
+      ],
+      "title_sim": 0.5,
+      "days_apart": 33,
+      "new_importance": 5,
+      "old_importance": 4
+    }
+  ]
+}

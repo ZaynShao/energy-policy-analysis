@@ -1,0 +1,10 @@
+{
+  "url": "https://www.shanwei.gov.cn/attachment/0/31/31976/869062.pdf",
+  "title": "[PDF] 汕尾市成品油分销体系“十四五”发展规划（2021-2025 年）",
+  "source_type": "D",
+  "source_domain": "www.shanwei.gov.cn",
+  "fetched_at": "2026-04-25T01:18:59.618361",
+  "hash": "37e2ff0e0b2d",
+  "status": "fail",
+  "error": "408 Client Error: Request Timeout for url: https://api.firecrawl.dev/v1/scrape"
+}

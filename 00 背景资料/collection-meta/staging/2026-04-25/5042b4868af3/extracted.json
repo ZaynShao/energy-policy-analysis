@@ -1,0 +1,18 @@
+{
+  "hash": "5042b4868af3",
+  "url": "https://files.chaoyang.gov.cn/files/ueditor/CYSZF/jsp/upload/file/20260224/1771923210263040278.pdf",
+  "title_raw": "[PDF] 朝阳市成品油零售体系发展规划（2026-2030） - 朝阳市人民政府",
+  "content_len": 65308,
+  "业务标签_粗筛": [
+    "加油站"
+  ],
+  "need_llm_fields": [
+    "文号",
+    "发布日期",
+    "核心标题",
+    "发文机构_全称",
+    "摘要",
+    "影响分析",
+    "业务标签_精判"
+  ]
+}

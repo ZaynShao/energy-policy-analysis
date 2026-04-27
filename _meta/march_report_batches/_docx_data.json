@@ -1,0 +1,2101 @@
+{
+  "report_date": "2026-03-31",
+  "meta": {
+    "total_in_force_ge4_national": 58,
+    "total_expired_ge4_national": 19,
+    "march_count": 11,
+    "march_strong": 4,
+    "march_medium": 5,
+    "march_weak": 2
+  },
+  "monthly_compare": [
+    {
+      "month": "2025-10",
+      "count": 2,
+      "high_imp": 2
+    },
+    {
+      "month": "2025-11",
+      "count": 4,
+      "high_imp": 4
+    },
+    {
+      "month": "2025-12",
+      "count": 19,
+      "high_imp": 12
+    },
+    {
+      "month": "2026-01",
+      "count": 8,
+      "high_imp": 3
+    },
+    {
+      "month": "2026-02",
+      "count": 9,
+      "high_imp": 4
+    },
+    {
+      "month": "2026-03",
+      "count": 11,
+      "high_imp": 4
+    }
+  ],
+  "march_list": [
+    {
+      "id": "P_2026_SC_0305e288",
+      "title": "2026年政府工作报告",
+      "date": "2026-03-05",
+      "official": "",
+      "issuer": [
+        "国务院"
+      ],
+      "region": "全国",
+      "region_level": "国家",
+      "importance": 5,
+      "tags": [
+        "双碳",
+        "碳达峰",
+        "碳中和",
+        "新型储能",
+        "新能源",
+        "非化石能源",
+        "电力市场",
+        "绿电",
+        "充电基础设施",
+        "氢能",
+        "设备更新",
+        "以旧换新",
+        "数字经济"
+      ],
+      "biz_kws": [
+        "充电",
+        "电力市场",
+        "储能",
+        "以旧换新",
+        "设备更新"
+      ],
+      "category": "strong",
+      "core_one_line": "新型储能1.3亿千瓦+绿电扩大+碳市场扩面",
+      "didi_impact_one_line": "V2G/储能/油站综合化的最高政策授权",
+      "summary_2_3": "国务院《2026年政府工作报告》设定2026新型储能装机超1.3亿千瓦、非化石能源消费占比21.7%、单位GDP碳排放年降3.8%/十五五累计降17%等约束目标。明确构建新型电力系统、加快智能电网、发展新型储能、扩大绿电应用、扩大碳市场覆盖范围,设立国家低碳转型基金,培育氢能与绿色燃料新增长点。",
+      "biz_impact": {
+        "加油": "单位GDP碳约束 + 绿色燃料/氢能扶持 → 油品长期下行,光储充氢综合能源站是政策授权方向",
+        "充电": "新型电力系统 + 绿电应用扩大,直接为充电网络规模化扩张托底",
+        "电力_储能_V2G_交易": "1.3亿千瓦储能任务 + 碳市场扩面 + 绿电扩大 = V2G/虚拟电厂规模化变现的政策地基",
+        "乡村": "未直接提及"
+      },
+      "action_recommendations": [
+        "A 趁早:把1.3亿千瓦储能 / 21.7% 非化能源占比 / 17% 累降碳指标作为2026业务规划锚点,所有BU OKR对齐",
+        "A 趁早:申请进入国家低碳转型基金候选项目库(储能/V2G/光储充)",
+        "B 研究:碳市场扩面后V2G绿色属性能否变现的具体路径(配额/CCER/绿证三选一)"
+      ],
+      "national_source": {
+        "is_national_level_originated": true,
+        "national_source_id_or_title": "本政策即顶层国家级(国务院《2026年政府工作报告》)",
+        "linkage": "本政策为国家级文件本身",
+        "evidence": "国务院总理李强代国务院作政府工作报告,十四届全国人大四次会议审议"
+      },
+      "reading_value": "2026业务OKR必读锚点"
+    },
+    {
+      "id": "P_2026_NPC_03132f88",
+      "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要(2026-2030年)",
+      "date": "2026-03-13",
+      "official": "",
+      "issuer": [
+        "第十四届全国人民代表大会第四次会议",
+        "全国人民代表大会"
+      ],
+      "region": "全国",
+      "region_level": "国家",
+      "importance": 5,
+      "tags": [
+        "双碳",
+        "新型储能",
+        "新能源",
+        "电力市场",
+        "绿色转型",
+        "现代化产业",
+        "数字经济",
+        "乡村振兴",
+        "充电基础设施",
+        "新能源汽车",
+        "氢能",
+        "高水平科技自立自强",
+        "美丽中国"
+      ],
+      "biz_kws": [
+        "充电",
+        "电力市场",
+        "储能",
+        "新能源汽车"
+      ],
+      "category": "strong",
+      "core_one_line": "十五五绿色转型主线+碳达峰路径顶层",
+      "didi_impact_one_line": "三大业务均获5年顶层政策授权",
+      "summary_2_3": "全国人大表决通过的十五五规划纲要共18篇,第十三篇专题部署『加快经济社会发展全面绿色转型 建设美丽中国』,第四十七章给出碳达峰能源路径。与政府工作报告联动量化:非化能源21.7%/储能1.3亿千瓦/碳强度累降17%。为新能源汽车、充电基建、新型储能、电力市场化、加油站综合能源转型五个业务方向给出顶层授权。",
+      "biz_impact": {
+        "加油": "全面绿色转型主线下油品长期承压,油站向『光储充氢一体』是5年确定方向",
+        "充电": "现代化产业体系+绿色转型双框架,新能源汽车+充电基建是国家明确扶持赛道,2026-2030规模化关键期",
+        "电力_储能_V2G_交易": "十五五是电力市场化2.0(NDRC 1656全国统一电力市场)执行期,V2G/虚拟电厂『做大规模』窗口",
+        "乡村": "第八篇乡村振兴呼应国家能源局乡村会议,农村充电下沉政策弧成形"
+      },
+      "action_recommendations": [
+        "A 趁早:依据纲要18篇结构搭建公司5年战略地图,按三大业务对应章节落锚",
+        "A 趁早:跟踪后续各部委十五五能源/新能源汽车/电力市场化专项规划出台节奏(预计2026Q3-Q4集中)",
+        "B 研究:基于第四十七章碳达峰路径,测算2030 V2G可调能力商业天花板"
+      ],
+      "national_source": {
+        "is_national_level_originated": true,
+        "national_source_id_or_title": "本政策即顶层国家级(《十五五规划纲要》,全国人大2026-03-12表决通过)",
+        "linkage": "本政策为国家级文件本身",
+        "evidence": "第十四届全国人大四次会议表决通过,新华社受权播发"
+      },
+      "reading_value": "5年战略级必读纲领"
+    },
+    {
+      "id": "P_2026_NX_0320e07e",
+      "title": "宁夏回族自治区2026年度充电基础设施建设实施方案",
+      "date": "2026-03-20",
+      "official": "",
+      "issuer": [
+        "宁夏回族自治区发展和改革委员会"
+      ],
+      "region": "宁夏回族自治区",
+      "region_level": "省",
+      "importance": 4,
+      "tags": [
+        "充电基础设施",
+        "新能源汽车"
+      ],
+      "biz_kws": [
+        "充电",
+        "新能源汽车"
+      ],
+      "category": "strong",
+      "core_one_line": "宁夏年度充电建设实施细则",
+      "didi_impact_one_line": "宁夏区域充电投资部署明确指引",
+      "summary_2_3": "宁夏发改委印发2026年度充电基础设施建设实施方案,五市政府+多厅局共同推进。本次抓取仅得通知首页,实施方案具体规模/补贴/区域布局细节需补抓全文。",
+      "biz_impact": {
+        "加油": "加油站可申请改造为充电站(常见省级配套思路)",
+        "充电": "宁夏区域充电投资部署的明确指引,涉及具体规模/补贴细则需补全文",
+        "电力_储能_V2G_交易": "影响有限,主要利好是充电桩可作为可调节负荷接入未来宁夏电力市场",
+        "乡村": "宁夏五市农牧县充电下沉可能纳入,需看附件实施方案"
+      },
+      "action_recommendations": [
+        "A 趁早:补抓宁夏发改委原始PDF附件,提取建设规模/补贴标准/重点县市清单",
+        "B 研究:基于全文,评估宁夏作为西北充电下沉试点省的进入价值"
+      ],
+      "national_source": {
+        "is_national_level_originated": false,
+        "national_source_id_or_title": "主题对应——上承国务院办公厅《关于进一步构建高质量充电基础设施体系的指导意见》(国办发〔2023〕42号)系列国家级充电基建政策",
+        "linkage": "主题对应——本政策正文未直接引用具体国家文号,但属于年度落地",
+        "evidence": "正文未明确引用具体国家文件文号,仅称『为持续提升我区充电基础设施服务保障能力』"
+      },
+      "reading_value": "宁夏充电准入信号,需补全文"
+    },
+    {
+      "id": "P_2026_SD_03271ffc",
+      "title": "山东省促进虚拟电厂高质量发展方案",
+      "date": "2026-03-27",
+      "official": "",
+      "issuer": [
+        "山东省能源局"
+      ],
+      "region": "山东省",
+      "region_level": "省",
+      "importance": 4,
+      "tags": [
+        "新型储能",
+        "电力现货",
+        "虚拟电厂",
+        "需求响应"
+      ],
+      "biz_kws": [
+        "虚拟电厂",
+        "现货",
+        "储能",
+        "需求响应"
+      ],
+      "category": "strong",
+      "core_one_line": "山东VPP 2027年200万kW/2030年400万kW",
+      "didi_impact_one_line": "国家357号文首批落地省V2G规模化首选",
+      "summary_2_3": "山东发改委、能源局等7部门印发,落实国家发改委、能源局《关于加快推进虚拟电厂发展的指导意见》(发改能源〔2025〕357号)。明确山东VPP分类(发电类/储能类/全电量负荷类/调节量负荷类),到2027调节能力≥200万千瓦、2030≥400万千瓦。明确V2G规模化应用、充换电设施作为可调节负荷被聚合。山东电力现货已转正,落地条件最优。",
+      "biz_impact": {
+        "加油": "无直接影响",
+        "充电": "重大利好——充电桩明确可作为分布式发电类聚合单元上网电量参与现货市场;充换电设施被点名为重点聚合资源",
+        "电力_储能_V2G_交易": "核心利好——V2G规模化应用被写入『拓展虚拟电厂聚合资源』;VPP运营商定位明确,有融资/绿债/担保多重支持;山东是首批可落地大省",
+        "乡村": "无直接影响"
+      },
+      "action_recommendations": [
+        "A 趁早:山东作为公司电力业务首落地省份,2026Q2启动VPP运营商资质申报+示范项目对接",
+        "A 趁早:研究山东《虚拟电厂建设运行管理办法》草案,争取参与标准编制(壁垒构建)",
+        "B 研究:充电网/换电站作为聚合资源参与山东现货市场的具体收益模型(参考调节量负荷类聚合单元规则)"
+      ],
+      "national_source": {
+        "is_national_level_originated": false,
+        "national_source_id_or_title": "NDRC 357号《关于加快推进虚拟电厂发展的指导意见》(发改能源〔2025〕357号)",
+        "linkage": "直接落地——本政策为357号文省级配套,正文开篇明确引用",
+        "evidence": "原文:『根据国家发展改革委、国家能源局《关于加快推进虚拟电厂发展的指导意见》(发改能源〔2025〕357号)等文件要求,为加快推动我省虚拟电厂高质量发展』"
+      },
+      "reading_value": "V2G落地最关键省级方案"
+    },
+    {
+      "id": "P_2026_NEA_0304ed54",
+      "title": "国家能源局乡村振兴工作领导小组2026年第一次会议",
+      "date": "2026-03-04",
+      "official": "",
+      "issuer": [
+        "国家能源局"
+      ],
+      "region": "全国",
+      "region_level": "国家",
+      "importance": 3,
+      "tags": [
+        "乡村振兴",
+        "农村能源",
+        "农村充电基础设施",
+        "农网",
+        "农村风电",
+        "农村光伏",
+        "北方清洁取暖",
+        "县域"
+      ],
+      "biz_kws": [
+        "充电"
+      ],
+      "category": "medium",
+      "core_one_line": "国家级首次明确扩大农村充电设施覆盖",
+      "didi_impact_one_line": "县域充电下沉获国家级方向性背书",
+      "summary_2_3": "国家能源局2026年第一次乡村振兴工作领导小组会议,审议通过《2026年定点帮扶和对口支援工作要点》。明确部署『扩大农村充电设施覆盖范围』+ 农村风光开发 + 农网升级 + 北方清洁取暖。但未给具体数字目标/试点城市/招标项目,仅为方向性信号。",
+      "biz_impact": {
+        "加油": "未提及农村加油站升级,无直接影响",
+        "充电": "中等利好——国家级首次明确『扩大农村充电』是政策授权信号,但具体配套未出",
+        "电力_储能_V2G_交易": "农网升级+农村风光部分关联分布式储能/农村VPP,与主战场关联较弱",
+        "乡村": "强关联——县域充电下沉/农网协同/风光储一体是核心命题"
+      },
+      "action_recommendations": [
+        "C 跟进:监测国家能源局后续是否出台农村充电具体方案/补贴/试点名单,一旦出现升级到B类研究",
+        "D 跟踪:中央一号文件 + 各省农村能源行动方案,捕捉地方先行试点机会"
+      ],
+      "national_source": {
+        "is_national_level_originated": true,
+        "national_source_id_or_title": "上承《2026年中央一号文件》+ 政府工作报告关于乡村振兴部署",
+        "linkage": "国家部委专项落地——上承中央一号文件,横向呼应十五五规划第八篇",
+        "evidence": "会议明确『贯彻落实2026年中央一号文件部署要求』"
+      },
+      "reading_value": "乡村充电信号位,具体待落地"
+    },
+    {
+      "id": "P_2026_SH_03132bad",
+      "title": "松江区推进能源高质量发展行动方案（2026-2030年）",
+      "date": "2026-03-13",
+      "official": "",
+      "issuer": [
+        "上海市松江区发展和改革委员会"
+      ],
+      "region": "上海市松江区",
+      "region_level": "区",
+      "importance": 3,
+      "tags": [
+        "充电基础设施",
+        "分布式能源",
+        "新型储能",
+        "新能源汽车",
+        "碳达峰",
+        "虚拟电厂"
+      ],
+      "biz_kws": [
+        "虚拟电厂",
+        "充电",
+        "储能",
+        "新能源汽车"
+      ],
+      "category": "medium",
+      "core_one_line": "松江5年源网荷储+V2G+全市首个区级VPP",
+      "didi_impact_one_line": "上海V2G/VPP超精细化落地样本",
+      "summary_2_3": "松江发改委印发2026-2030行动方案(草案),明确『建筑光伏+新型储能+车联网V2G+综合能源』源网荷储体系。松江已出台全市首个区级VPP精准响应管理办法,接入310户聚合132MW。十五五交通领域新增用电负荷15万千瓦,3座独立储能电站(中电建50MW/200MWh、正泰75MW/300MWh、泖港42.5MW/170MWh)纳入重点项目表。",
+      "biz_impact": {
+        "加油": "区内57座加油站,长期承压;燃气/液化气基础设施不直接涉及",
+        "充电": "重大利好——区级行动方案明确区域充电网络重点覆盖居住区、商业中心,既有住宅小区已建充电桩13230个;新建非住宅项目快充比例配建强制",
+        "电力_储能_V2G_交易": "核心利好——V2G写入『源网荷储』主任务,3座独立储能电站具体落地;松江有全市首个区级VPP办法可对接",
+        "乡村": "无直接影响"
+      },
+      "action_recommendations": [
+        "A 趁早:对接松江发改委,争取参与3个独立储能电站的运营/聚合服务",
+        "B 研究:松江《区级虚拟电厂精准响应管理办法(试行)》全文研读,作为上海/长三角V2G复制模板",
+        "B 研究:申请加入松江源网荷储V2G示范项目作为运营商"
+      ],
+      "national_source": {
+        "is_national_level_originated": false,
+        "national_source_id_or_title": "上承《十五五规划纲要》+《上海市碳达峰实施方案》+ 国家能源局《2025年能源工作指导意见》",
+        "linkage": "借鉴框架——区级落地国家级+上海市级双重政策",
+        "evidence": "原文引用习总书记新型电力系统重要指示 + 国家能源局《2025年能源工作指导意见》 + 《上海市碳达峰实施方案》"
+      },
+      "reading_value": "V2G落地最精细样本"
+    },
+    {
+      "id": "P_2026_NEA_0324cd2a",
+      "title": "2026年能源行业标准计划立项指南",
+      "date": "2026-03-24",
+      "official": "",
+      "issuer": [
+        "国家能源局"
+      ],
+      "region": "全国",
+      "region_level": "国家",
+      "importance": 3,
+      "tags": [
+        "充电基础设施",
+        "分布式能源",
+        "新型储能",
+        "虚拟电厂"
+      ],
+      "biz_kws": [
+        "虚拟电厂",
+        "充电",
+        "储能"
+      ],
+      "category": "medium",
+      "core_one_line": "国家能源局年度行业标准立项预告",
+      "didi_impact_one_line": "储能/充换电标准走向前瞻信号",
+      "summary_2_3": "国家能源局发布2026年能源行业标准立项指南(PDF扫描件未OCR),明确储能、充换电、新型电力系统等优先标准方向。属于行业标准制定预告。",
+      "biz_impact": {
+        "加油": "无直接影响",
+        "充电": "前瞻把握充电相关技术标准走向,提前布局合规",
+        "电力_储能_V2G_交易": "储能/虚拟电厂/V2G接入相关标准制定动向,影响后续合规与并网技术接入",
+        "乡村": "无直接影响"
+      },
+      "action_recommendations": [
+        "C 跟进:获取该立项指南OCR或纸质版,梳理与公司业务相关的标准条目清单",
+        "D 跟踪:跟踪标准编制进度,争取参与起草工作组(可作为壁垒构建)"
+      ],
+      "national_source": {
+        "is_national_level_originated": true,
+        "national_source_id_or_title": "国家能源局年度行业标准计划(支撑十五五规划纲要+政府工作报告『加快智能电网建设』)",
+        "linkage": "国家部委专项——上承十五五规划绿色转型主线 / 政府工作报告新型电力系统部署",
+        "evidence": "PDF原文未抽取出文字,linkage基于发文机构与文件性质判断"
+      },
+      "reading_value": "标准前瞻,具体内容待OCR"
+    },
+    {
+      "id": "P_2026_CQ_16",
+      "title": "重庆市2026年市级重点项目实施工作通知",
+      "date": "2026-03-30",
+      "official": "渝府办发〔2026〕16号",
+      "issuer": [
+        "重庆市人民政府办公厅"
+      ],
+      "region": "重庆市",
+      "region_level": "省",
+      "importance": 3,
+      "tags": [
+        "新能源汽车"
+      ],
+      "biz_kws": [
+        "新能源汽车"
+      ],
+      "category": "medium",
+      "core_one_line": "重庆1382重点项目+多储能+V2G综合站",
+      "didi_impact_one_line": "重庆能源新基建项目级落地清单",
+      "summary_2_3": "渝府办发〔2026〕16号,2026市级重点1382个项目(总投2.9万亿)+254储备项目。能源类直接相关项目含:绿能充储泊配新型基础设施(含V2G车网互动)、梁平6座『加油+加气+加氢+充电+换电』一体化综合能源站、秀山250MW/500MWh独立储能、沙坪坝赣锋200MW/800MWh独立储能、彭水400MW/800MWh构网型共享储能、黔江8超充+15快充、多个用户侧光储项目。",
+      "biz_impact": {
+        "加油": "重大利好——梁平6座一体化综合能源站(加油加气加氢充电换电)是公司加油BU向综合能源迁移的样板项目级机会",
+        "充电": "重大利好——黔江23座超充快充、绿能充储泊配基础设施、城市更新老旧小区充电桩配建明确",
+        "电力_储能_V2G_交易": "重大利好——绿能充储泊配项目明确含『V2G(车网互动)』功能;多座独立储能电站(秀山、沙坪坝、彭水)+用户侧光储+电池产业链(瑞浦兰钧30GWh、海辰50GWh、动力电池研究总院)",
+        "乡村": "项目下沉到秀山、彭水、黔江、忠县等区县,带动县域能源新基建"
+      },
+      "action_recommendations": [
+        "A 趁早:接洽『绿能充储泊配新型基础设施项目』运营方(市住建委牵头),争取V2G运营商资质",
+        "A 趁早:接洽梁平区6座综合能源一体化站,验证公司加油BU综合能源升级模式",
+        "B 研究:重庆作为西部储能/电池产业链聚集地的本地业务结合点(沙坪坝赣锋、铜梁海辰、涪陵瑞浦)"
+      ],
+      "national_source": {
+        "is_national_level_originated": false,
+        "national_source_id_or_title": "上承《十五五规划纲要》+ 国家超长期特别国债 / 新型政策性金融工具",
+        "linkage": "借鉴框架——市级落地+争取国家级资金支持(超长期特别国债)",
+        "evidence": "原文:『紧扣国家和我市十五五规划纲要』+『抢抓国家超长期特别国债、新型政策性金融工具等各项资金政策加力窗口期』"
+      },
+      "reading_value": "项目级机会清单极高价值"
+    },
+    {
+      "id": "P_2026_BJ_4",
+      "title": "美丽丰台建设2026年行动计划",
+      "date": "2026-03-30",
+      "official": "丰政办发〔2026〕4号",
+      "issuer": [
+        "北京市丰台区人民政府办公室"
+      ],
+      "region": "北京市丰台区",
+      "region_level": "区",
+      "importance": 3,
+      "tags": [
+        "充电基础设施",
+        "新能源汽车",
+        "氢能",
+        "节能降碳"
+      ],
+      "biz_kws": [
+        "充电",
+        "新能源汽车"
+      ],
+      "category": "medium",
+      "core_one_line": "丰台年度生态+绿色低碳+充电配套+碳普惠",
+      "didi_impact_one_line": "北京充电场景与碳普惠拓展接口",
+      "summary_2_3": "丰政办发〔2026〕4号,涵盖污染防治、绿色低碳转型、协同共治三大附件。明确2026注册新车新能源占比≥50%、74家加油站夜间加油+油气治理、统筹超充站建设、新增数据中心绿电占比>60%、研究碳普惠拓宽至『新能源车充新能源电』。区级落地北京新能源公务车200辆+全电工地+零排放运输车队。",
+      "biz_impact": {
+        "加油": "区内74家加油站强化油气回收/夜间加油/双层罐防渗等合规要求 + 鼓励超充站建设(可与油站结合改造)",
+        "充电": "利好——明确强化超充站建设、推动机动车『油换电』、公共领域用车电动化、物流园/大型车补能设施 + 装配式快充配建",
+        "电力_储能_V2G_交易": "中度利好——研究碳普惠拓宽至『新能源车充新能源电』,是充电+碳市场结合的政策接口;探索建设绿电交易服务站",
+        "乡村": "无直接影响"
+      },
+      "action_recommendations": [
+        "A 趁早:加油站合规检查(74家执法基线,油气回收/双层罐),公司在丰台油站合规审计",
+        "B 研究:接洽丽泽金融商务区/丰台站等绿电交易服务站,研究『充新能源电』碳普惠方法学",
+        "C 跟进:跟踪超充站、物流园补能设施配建项目机会"
+      ],
+      "national_source": {
+        "is_national_level_originated": false,
+        "national_source_id_or_title": "上承党中央国务院推进美丽中国部署 + 北京市委市政府推进美丽北京部署 + 十五五规划纲要",
+        "linkage": "借鉴框架——区级承接国家『美丽中国』+ 北京市级『美丽北京』双重落地",
+        "evidence": "原文:『按照党中央、国务院关于推进美丽中国和市委、市政府关于推进美丽北京建设的决策部署』,并明确『助力十五五规划开好局起好步』"
+      },
+      "reading_value": "北京区级合规+碳普惠接口"
+    },
+    {
+      "id": "P_2026_OTHERD5E7_03169880",
+      "title": "南京市优化消费环境十项行动新闻",
+      "date": "2026-03-16",
+      "official": "",
+      "issuer": [
+        "南京日报"
+      ],
+      "region": "南京日报",
+      "region_level": "未知",
+      "importance": 1,
+      "tags": [
+        "加油站"
+      ],
+      "biz_kws": [
+        "加油"
+      ],
+      "category": "weak",
+      "core_one_line": "南京10万张计量电子身份证含加油机充电桩",
+      "didi_impact_one_line": "加油机+充电桩计量监管合规要求升级",
+      "summary_2_3": "南京日报报道3·15当天发布优化消费环境十项行动,推广『宁·诚信计量码』,赋予电子秤、加油机、充电桩等重点民生计量器具专属『电子身份证』10万张以上,实现检定状态一扫可查、计量数据全程可溯、投诉举报一键直达。",
+      "biz_impact": {
+        "加油": "加油机计量监管加强,须配合电子身份证赋码 + 计量数据可溯",
+        "充电": "充电桩计量准确性受监管,运营商须达标(电子身份证赋码)",
+        "电力_储能_V2G_交易": "无直接影响",
+        "乡村": "无直接影响"
+      },
+      "action_recommendations": [
+        "C 跟进:南京加油站/充电站点合规自查,确认计量器具具备电子身份证接入条件",
+        "D 跟踪:其他城市是否复制『诚信计量码』模式,提前评估全国合规改造成本"
+      ],
+      "national_source": {
+        "is_national_level_originated": false,
+        "national_source_id_or_title": "主题对应——可上承《计量法》及国家市场监管总局民生计量监管系列文件",
+        "linkage": "主题对应——本政策正文未引用具体国家文号,属于地方消费监管创新",
+        "evidence": "正文未引用具体国家文件,本质为南京市3·15地方动作"
+      },
+      "reading_value": "低优先级,合规边际信号"
+    },
+    {
+      "id": "P_2026_OTHER2D4E_0327e7ba",
+      "title": "加快推动小水电绿色转型高质量发展的指导意见",
+      "date": "2026-03-27",
+      "official": "",
+      "issuer": [
+        "国家林业和草原局(转载)"
+      ],
+      "region": "国家林业和草原局",
+      "region_level": "未知",
+      "importance": 1,
+      "tags": [],
+      "biz_kws": [],
+      "category": "weak",
+      "core_one_line": "七部委推小水电绿色改造+水风光储一体化",
+      "didi_impact_one_line": "绿电供给侧边际利好,主营弱关联",
+      "summary_2_3": "水利部、发改委、自然资源部、生态环境部、农业农村部、国家能源局、国家林草局七部委联合印发,严控新建、引导老旧退出、推动智能化/集约化改造、依托小水电调节特性实施『水风光储一体化』开发。",
+      "biz_impact": {
+        "加油": "无直接影响",
+        "充电": "无直接影响",
+        "电力_储能_V2G_交易": "边际影响——水风光储一体化扩大绿电供给基本盘,与VPP聚合资源池长期相关但单点价值低",
+        "乡村": "小水电与农村新型能源体系/县域共同富裕结合,弱关联农村VPP"
+      },
+      "action_recommendations": [
+        "D 跟踪:作为绿电供给侧基本面,纳入年度绿电交易供给量预测模型即可,不需立即投入"
+      ],
+      "national_source": {
+        "is_national_level_originated": true,
+        "national_source_id_or_title": "七部委联合发文(本身国家级)+ 上承十五五规划纲要绿色转型主线",
+        "linkage": "国家部委专项——上承十五五规划第十三篇绿色转型",
+        "evidence": "水利部、发改委、自然资源部、生态环境部、农业农村部、国家能源局、国家林草局联合印发"
+      },
+      "reading_value": "低优先级,绿电供给基本面"
+    }
+  ],
+  "deep_dive_ids": [
+    "P_2026_SC_0305e288",
+    "P_2026_NPC_03132f88",
+    "P_2026_NEA_0304ed54"
+  ],
+  "deep_dive_witnesses": {
+    "P_2026_SC_0305e288": [
+      {
+        "march_id": "P_2026_NX_0320e07e",
+        "march_title": "宁夏回族自治区2026年度充电基础设施建设实施方案",
+        "march_region": "宁夏回族自治区",
+        "march_region_level": "省",
+        "march_importance": 4,
+        "linkage_type": "主题对应*",
+        "evidence": "政府工作报告 3-5 发布,本月省级政策尚未直接引用,但与其顶层定调主题对应"
+      },
+      {
+        "march_id": "P_2026_SD_03271ffc",
+        "march_title": "山东省促进虚拟电厂高质量发展方案",
+        "march_region": "山东省",
+        "march_region_level": "省",
+        "march_importance": 4,
+        "linkage_type": "主题对应*",
+        "evidence": "政府工作报告 3-5 发布,本月省级政策尚未直接引用,但与其顶层定调主题对应"
+      },
+      {
+        "march_id": "P_2026_SH_03132bad",
+        "march_title": "松江区推进能源高质量发展行动方案（2026-2030年）",
+        "march_region": "上海市松江区",
+        "march_region_level": "区",
+        "march_importance": 3,
+        "linkage_type": "主题对应*",
+        "evidence": "政府工作报告 3-5 发布,本月省级政策尚未直接引用,但与其顶层定调主题对应"
+      },
+      {
+        "march_id": "P_2026_CQ_16",
+        "march_title": "重庆市2026年市级重点项目实施工作通知",
+        "march_region": "重庆市",
+        "march_region_level": "省",
+        "march_importance": 3,
+        "linkage_type": "主题对应*",
+        "evidence": "政府工作报告 3-5 发布,本月省级政策尚未直接引用,但与其顶层定调主题对应"
+      },
+      {
+        "march_id": "P_2026_BJ_4",
+        "march_title": "美丽丰台建设2026年行动计划",
+        "march_region": "北京市丰台区",
+        "march_region_level": "区",
+        "march_importance": 3,
+        "linkage_type": "主题对应*",
+        "evidence": "政府工作报告 3-5 发布,本月省级政策尚未直接引用,但与其顶层定调主题对应"
+      }
+    ],
+    "P_2026_NPC_03132f88": [
+      {
+        "march_id": "P_2026_SH_03132bad",
+        "march_title": "松江区推进能源高质量发展行动方案（2026-2030年）",
+        "march_region": "上海市松江区",
+        "march_region_level": "区",
+        "march_importance": 3,
+        "linkage_type": "借鉴框架",
+        "evidence": "原文引用习总书记新型电力系统重要指示 + 国家能源局《2025年能源工作指导意见》 + 《上海市碳达峰实施方案》"
+      },
+      {
+        "march_id": "P_2026_CQ_16",
+        "march_title": "重庆市2026年市级重点项目实施工作通知",
+        "march_region": "重庆市",
+        "march_region_level": "省",
+        "march_importance": 3,
+        "linkage_type": "借鉴框架",
+        "evidence": "原文:『紧扣国家和我市十五五规划纲要』+『抢抓国家超长期特别国债、新型政策性金融工具等各项资金政策加力窗口期』"
+      },
+      {
+        "march_id": "P_2026_BJ_4",
+        "march_title": "美丽丰台建设2026年行动计划",
+        "march_region": "北京市丰台区",
+        "march_region_level": "区",
+        "march_importance": 3,
+        "linkage_type": "借鉴框架",
+        "evidence": "原文:『按照党中央、国务院关于推进美丽中国和市委、市政府关于推进美丽北京建设的决策部署』,并明确『助力十五五规划开好局起好步』"
+      }
+    ],
+    "P_2026_NEA_0304ed54": []
+  },
+  "in_force_national": [
+    {
+      "id": "P_2022_NDRC_475",
+      "title": "关于进一步推动新型储能参与电力市场和调度运用的通知",
+      "official": "发改办运行〔2022〕475号",
+      "issuer": "国家发展和改革委员会办公厅、国家能源局综合司",
+      "effective_date": "2022-06-07",
+      "expires_at": null,
+      "effective_source": "通知发布日2022-06-07,无明确施行日(长期通知)",
+      "importance": 5,
+      "days_in_force": 1393,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2023_NDRC_1044_b",
+      "title": "国家发展改革委 财政部 国家能源局关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知",
+      "official": "发改能源〔2023〕1044号",
+      "issuer": "国家发展改革委、财政部、国家能源局",
+      "effective_date": "2023-09-02",
+      "expires_at": null,
+      "effective_source": "国家发展改革委 财政部 国家能源局 2023年8月3日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 941,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2023_NDRC_092751f2_a",
+      "title": "电力需求侧管理办法(2023年版)",
+      "official": "",
+      "issuer": "国家发展和改革委员会等六部门",
+      "effective_date": "2023-10-27",
+      "expires_at": null,
+      "effective_source": "",
+      "importance": 5,
+      "days_in_force": 886,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2023_MOF_10",
+      "title": "财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告",
+      "official": "2023年第10号",
+      "issuer": "财政部、税务总局、工业和信息化部",
+      "effective_date": "2024-01-01",
+      "expires_at": "2027-12-31",
+      "effective_source": "",
+      "importance": 5,
+      "days_in_force": 820,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_SC_7",
+      "title": "推动大规模设备更新和消费品以旧换新行动方案",
+      "official": "国发〔2024〕7号",
+      "issuer": "国务院",
+      "effective_date": "2024-03-07",
+      "expires_at": "2027-12-31",
+      "effective_source": "现将《推动大规模设备更新和消费品以旧换新行动方案》印发给你们，请认真贯彻执行（按印发日）",
+      "importance": 5,
+      "days_in_force": 754,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NDRC_02276bf1",
+      "title": "国家发展改革委 国家能源局关于加强电网调峰储能和智能化调度能力建设的指导意见",
+      "official": "",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2024-03-28",
+      "expires_at": null,
+      "effective_source": "国家发展改革委 国家能源局 2024年2月27日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 733,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NEA_26",
+      "title": "促进新型储能并网和调度运用",
+      "official": "国能发科技规〔2024〕26号",
+      "issuer": "国家能源局",
+      "effective_date": "2024-04-02",
+      "expires_at": "2029-04-01",
+      "effective_source": "本通知自发布之日起施行",
+      "importance": 5,
+      "days_in_force": 728,
+      "days_until_expire": 1097,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NDRC_15",
+      "title": "电力市场运行基本规则",
+      "official": "国家发展改革委、国家能源局令第15号",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2024-06-09",
+      "expires_at": null,
+      "effective_source": "",
+      "importance": 5,
+      "days_in_force": 660,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NDRC_718",
+      "title": "推动车网互动规模化应用试点工作的通知",
+      "official": "发改办能源〔2024〕718号",
+      "issuer": "国家发展改革委办公厅 国家能源局 工业和信息化部 市场监管总",
+      "effective_date": "2024-09-10",
+      "expires_at": null,
+      "effective_source": "发布日期：2024-09-10（无显式施行条款，按发布日）",
+      "importance": 5,
+      "days_in_force": 567,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NEA_76",
+      "title": "电力市场注册基本规则",
+      "official": "国能发监管规〔2024〕76号",
+      "issuer": "国家能源局",
+      "effective_date": "2024-09-13",
+      "expires_at": "2029-09-12",
+      "effective_source": "",
+      "importance": 5,
+      "days_in_force": 564,
+      "days_until_expire": 1261,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NEA_93_a",
+      "title": "国家能源局关于支持电力领域新型经营主体创新发展的指导意见",
+      "official": "国能发法改〔2024〕93号",
+      "issuer": "国家能源局",
+      "effective_date": "2024-12-28",
+      "expires_at": null,
+      "effective_source": "国家能源局 2024年11月28日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 458,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_357_a",
+      "title": "关于加快推进虚拟电厂发展的指导意见",
+      "official": "发改能源〔2025〕357号",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2025-04-11",
+      "expires_at": null,
+      "effective_source": "指导意见,无明确施行日,取发布日2025-04-11(目标到2027/2030年)",
+      "importance": 5,
+      "days_in_force": 354,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_262",
+      "title": "促进可再生能源绿色电力证书市场高质量发展的意见",
+      "official": "发改能源〔2025〕262号",
+      "issuer": "国家发展改革委等部门",
+      "effective_date": "2025-04-17",
+      "expires_at": null,
+      "effective_source": "2025-03-18发布,意见类无明确施行日,取发布日+30天默认",
+      "importance": 5,
+      "days_in_force": 348,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_411",
+      "title": "电力辅助服务市场基本规则",
+      "official": "发改能源规〔2025〕411号",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2025-05-03",
+      "expires_at": null,
+      "effective_source": "",
+      "importance": 5,
+      "days_in_force": 332,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_136",
+      "title": "关于深化新能源上网电价市场化改革促进新能源高质量发展的通知",
+      "official": "发改价格〔2025〕136号",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2025-06-01",
+      "expires_at": null,
+      "effective_source": "2025年6月1日为存量/增量分界(摘要+正文改革起点)",
+      "importance": 5,
+      "days_in_force": 303,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NEA_53_a",
+      "title": "国家能源局关于组织开展新型电力系统建设第一批试点工作的通知",
+      "official": "国能发电力〔2025〕53号",
+      "issuer": "国家能源局",
+      "effective_date": "2025-06-22",
+      "expires_at": "2027-12-31",
+      "effective_source": "国家能源局 2025年5月23日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 282,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_632_c",
+      "title": "国家发展改革委办公厅等关于促进大功率充电设施科学规划建设的通知",
+      "official": "发改办能源〔2025〕632号",
+      "issuer": "国家发展改革委办公厅、国家能源局、工信部、交通部等",
+      "effective_date": "2025-08-06",
+      "expires_at": "2027-12-31",
+      "effective_source": "国家发展改革委办公厅等 2025年7月7日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 237,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_MOFCOM_4_a",
+      "title": "成品油流通管理办法",
+      "official": "商务部令2025年第4号",
+      "issuer": "中华人民共和国商务部",
+      "effective_date": "2025-09-01",
+      "expires_at": null,
+      "effective_source": "第四十四条 本办法自2025年9月1日起施行",
+      "importance": 5,
+      "days_in_force": 211,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_101520b2",
+      "title": "电动汽车充电设施服务能力「三年倍增」行动方案(2025—2027年)",
+      "official": "",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2025-10-15",
+      "expires_at": "2027-12-31",
+      "effective_source": "",
+      "importance": 5,
+      "days_in_force": 167,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NEA_93",
+      "title": "国家能源局关于促进新能源集成融合发展的指导意见",
+      "official": "国能发新能〔2025〕93号",
+      "issuer": "国家能源局",
+      "effective_date": "2025-11-30",
+      "expires_at": null,
+      "effective_source": "国家能源局 2025年10月31日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 121,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_1360",
+      "title": "国家发展改革委 国家能源局关于促进新能源消纳和调控的指导意见",
+      "official": "发改能源〔2025〕1360号",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2025-12-10",
+      "expires_at": null,
+      "effective_source": "国家发展改革委 国家能源局 2025年11月10日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 111,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2026_NPC_03132f88",
+      "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要(2026-2030年)",
+      "official": "",
+      "issuer": "第十四届全国人民代表大会第四次会议/全国人民代表大会",
+      "effective_date": "2026-01-01",
+      "expires_at": "2030-12-31",
+      "effective_source": "标题《...第十五个五年规划纲要(2026-2030年)》,五年规划起始年1月1日",
+      "importance": 5,
+      "days_in_force": 89,
+      "days_until_expire": 1736,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_1745_c",
+      "title": "关于2026年实施大规模设备更新和消费品以旧换新政策的通知",
+      "official": "发改环资〔2025〕1745号",
+      "issuer": "国家发展和改革委员会、财政部",
+      "effective_date": "2026-01-01",
+      "expires_at": "2026-12-31",
+      "effective_source": "现就2026年实施大规模设备更新和消费品以旧换新政策通知如下(年度政策,2026年起施行)",
+      "importance": 5,
+      "days_in_force": 89,
+      "days_until_expire": 275,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_1810",
+      "title": "电力中长期市场基本规则",
+      "official": "发改能源规〔2025〕1810号",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2026-01-25",
+      "expires_at": null,
+      "effective_source": "",
+      "importance": 5,
+      "days_in_force": 65,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_1656_a",
+      "title": "电力中长期市场基本规则",
+      "official": "发改能源规〔2025〕1656号",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2026-03-01",
+      "expires_at": "2031-02-28",
+      "effective_source": "第九十八条 本规则自2026年3月1日起施行",
+      "importance": 5,
+      "days_in_force": 30,
+      "days_until_expire": 1795,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2026_SC_0305e288",
+      "title": "2026年政府工作报告",
+      "official": "",
+      "issuer": "国务院",
+      "effective_date": "2026-03-05",
+      "expires_at": "2026-12-31",
+      "effective_source": "2026-03-05发布(年度政府工作报告,发布即生效)",
+      "importance": 5,
+      "days_in_force": 26,
+      "days_until_expire": 275,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2026_NEA_16",
+      "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
+      "official": "国能发电力〔2026〕16号",
+      "issuer": "国家能源局",
+      "effective_date": "2026-03-12",
+      "expires_at": "2027-12-31",
+      "effective_source": "国家能源局 2026年2月10日 印发；无显式施行条款",
+      "importance": 5,
+      "days_in_force": 19,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2020_NDRC_06306aac",
+      "title": "电力中长期交易基本规则(暂行)",
+      "official": "",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2020-06-30",
+      "expires_at": null,
+      "effective_source": "发布日期：2020-06-30（暂行版，无显式施行条款，按发布日）",
+      "importance": 4,
+      "days_in_force": 2100,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2020_GO_1020e9f0",
+      "title": "新能源汽车产业发展规划（2021—2035年）",
+      "official": "",
+      "issuer": "国务院办公厅",
+      "effective_date": "2021-01-01",
+      "expires_at": "2035-12-31",
+      "effective_source": "新能源汽车产业发展规划（2021—2035年），标题年份范围首日",
+      "importance": 4,
+      "days_in_force": 1915,
+      "days_until_expire": 3562,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2021_MEE_19",
+      "title": "碳排放权交易管理办法(试行)",
+      "official": "部令第19号",
+      "issuer": "生态环境部",
+      "effective_date": "2021-02-01",
+      "expires_at": null,
+      "effective_source": "",
+      "importance": 4,
+      "days_in_force": 1884,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2021_SC_0922fb2b",
+      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
+      "official": "",
+      "issuer": "中共中央、国务院",
+      "effective_date": "2021-09-22",
+      "expires_at": null,
+      "effective_source": "2021-09-22发布(指导意见,发布即生效)",
+      "importance": 4,
+      "days_in_force": 1651,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2023_GO_19_b",
+      "title": "进一步构建高质量充电基础设施体系的指导意见",
+      "official": "国办发〔2023〕19号",
+      "issuer": "国务院办公厅",
+      "effective_date": "2023-06-19",
+      "expires_at": "2030-12-31",
+      "effective_source": "",
+      "importance": 4,
+      "days_in_force": 1016,
+      "days_until_expire": 1736,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2023_NDRC_0704ee90",
+      "title": "电力需求侧管理办法、电力负荷管理办法(征求意见稿)",
+      "official": "",
+      "issuer": "国家发展和改革委员会",
+      "effective_date": "2023-08-03",
+      "expires_at": null,
+      "effective_source": "",
+      "importance": 4,
+      "days_in_force": 971,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2023_NDRC_0915531d",
+      "title": "电力负荷管理办法(2023年版)",
+      "official": "",
+      "issuer": "国家发展改革委等六部门",
+      "effective_date": "2023-10-01",
+      "expires_at": "2028-09-30",
+      "effective_source": "",
+      "importance": 4,
+      "days_in_force": 912,
+      "days_until_expire": 914,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2023_NDRC_1294_b",
+      "title": "国家发展改革委 国家能源局关于加强新形势下电力系统稳定工作的指导意见",
+      "official": "发改能源〔2023〕1294号",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2023-11-24",
+      "expires_at": null,
+      "effective_source": "国家发展改革委 国家能源局 2023年10月25日 印发；无显式施行条款",
+      "importance": 4,
+      "days_in_force": 858,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NDRC_1721",
+      "title": "加强新能源汽车与电网融合互动的实施意见",
+      "official": "发改能源〔2023〕1721号",
+      "issuer": "国家发展改革委等部门",
+      "effective_date": "2024-01-04",
+      "expires_at": null,
+      "effective_source": "实施意见,无明确施行日,取发布日2024-01-04(2025/2030目标)",
+      "importance": 4,
+      "days_in_force": 817,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NDRC_187_a",
+      "title": "关于新形势下配电网高质量发展的指导意见",
+      "official": "发改能源〔2024〕187号",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2024-03-01",
+      "expires_at": null,
+      "effective_source": "指导意见,无明确施行日,取发布日2024-03-01(2025/2030目标)",
+      "importance": 4,
+      "days_in_force": 760,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_MIIT_53",
+      "title": "推动工业领域设备更新实施方案",
+      "official": "工信部联规〔2024〕53号",
+      "issuer": "工信部、发改委、财政部、央行、税务总局、市场监管总局、金融监",
+      "effective_date": "2024-03-27",
+      "expires_at": "2027-12-31",
+      "effective_source": "《推动工业领域设备更新实施方案》已经国务院同意，现印发给你们，请认真贯彻执行（按印发日）",
+      "importance": 4,
+      "days_in_force": 734,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_MOFCOM_58_a",
+      "title": "推动消费品以旧换新行动方案",
+      "official": "商消费发〔2024〕58号",
+      "issuer": "商务部、国家发展改革委、工信部、公安部等14部门",
+      "effective_date": "2024-04-30",
+      "expires_at": "2027-12-31",
+      "effective_source": "生效日期2024-04-30",
+      "importance": 4,
+      "days_in_force": 700,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NEA_0528d977",
+      "title": "关于促进新型储能并网和调度运用的通知",
+      "official": "",
+      "issuer": "国家能源局(河北省发改委转载)",
+      "effective_date": "2024-05-28",
+      "expires_at": null,
+      "effective_source": "无明确施行日,取转发通知发布日2024-05-28",
+      "importance": 4,
+      "days_in_force": 672,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NEA_11",
+      "title": "关于加快推进充电基础设施建设的提案答复",
+      "official": "国能提电力〔2024〕11号",
+      "issuer": "国家能源局",
+      "effective_date": "2024-07-11",
+      "expires_at": null,
+      "effective_source": "提案答复函,制发日期2024-07-11,无生效条款",
+      "importance": 4,
+      "days_in_force": 628,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NDRC_0806117c",
+      "title": "加快构建新型电力系统行动方案(2024—2027年)",
+      "official": "",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2024-08-06",
+      "expires_at": "2027-12-31",
+      "effective_source": "加快构建新型电力系统行动方案(2024—2027年)发布日2024-08-06",
+      "importance": 4,
+      "days_in_force": 602,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NDRC_08218f52",
+      "title": "能源重点领域大规模设备更新实施方案",
+      "official": "",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2024-08-21",
+      "expires_at": "2027-12-31",
+      "effective_source": "",
+      "importance": 4,
+      "days_in_force": 587,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NEA_77",
+      "title": "关于加快推进充电基础设施建设支持新能源汽车产业发展的建议答复摘要",
+      "official": "国能建电力〔2024〕77号",
+      "issuer": "国家能源局",
+      "effective_date": "2024-09-12",
+      "expires_at": null,
+      "effective_source": "建议答复函,制发日期2024-09-12,无生效条款",
+      "importance": 4,
+      "days_in_force": 565,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_0912b2a5",
+      "title": "新型储能规模化建设专项行动方案(2025—2027年)",
+      "official": "",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2025-01-01",
+      "expires_at": "2027-12-31",
+      "effective_source": "新型储能规模化建设专项行动方案（2025—2027年），标题年份范围首日",
+      "importance": 4,
+      "days_in_force": 454,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2024_NEA_12055c06",
+      "title": "支持电力领域新型经营主体创新发展指导意见答记者问",
+      "official": "",
+      "issuer": "国家能源局",
+      "effective_date": "2025-01-04",
+      "expires_at": null,
+      "effective_source": "答记者问稿件，无生效条款，默认 date+30 天",
+      "importance": 4,
+      "days_in_force": 451,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_0106e7c2",
+      "title": "电力系统调节能力优化专项行动实施方案(2025—2027年)",
+      "official": "",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2025-01-06",
+      "expires_at": "2027-12-31",
+      "effective_source": "",
+      "importance": 4,
+      "days_in_force": 449,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NEA_010675e0",
+      "title": "电力系统调节能力优化专项行动实施方案(2025—2027年)政策解读",
+      "official": "",
+      "issuer": "国家能源局",
+      "effective_date": "2025-01-06",
+      "expires_at": "2027-12-31",
+      "effective_source": "",
+      "importance": 4,
+      "days_in_force": 449,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NEA_0418065b",
+      "title": "全国虚拟电厂建设加快推进(人民日报海外版报道)",
+      "official": "",
+      "issuer": "国家能源局(转载人民日报海外版)",
+      "effective_date": "2025-04-18",
+      "expires_at": null,
+      "effective_source": "新闻报道,无生效条款,取发布日2025-04-18",
+      "importance": 4,
+      "days_in_force": 347,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NEA_107",
+      "title": "可再生能源绿色电力证书管理实施细则(试行)",
+      "official": "国能发资质规〔2025〕107号",
+      "issuer": "国家能源局",
+      "effective_date": "2025-11-28",
+      "expires_at": "2028-11-27",
+      "effective_source": "本细则由国家能源局负责解释，自印发之日起实施，有效期3年",
+      "importance": 4,
+      "days_in_force": 123,
+      "days_until_expire": 972,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_GO_1201e389",
+      "title": "关于完善全国统一电力市场体系的实施意见",
+      "official": "",
+      "issuer": "国务院办公厅",
+      "effective_date": "2025-12-01",
+      "expires_at": null,
+      "effective_source": "实施意见,无明确施行日,取发布日2025-12-01(到2030基本建成、到2035全面建成)",
+      "importance": 4,
+      "days_in_force": 120,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_NDRC_1710",
+      "title": "关于促进电网高质量发展的指导意见",
+      "official": "发改能源〔2025〕1710号",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2025-12-31",
+      "expires_at": null,
+      "effective_source": "指导意见,无明确施行日,取发布日2025-12-31(目标到2030年/2035年)",
+      "importance": 4,
+      "days_in_force": 90,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_MIIT_24_a",
+      "title": "2026—2027年减免车辆购置税新能源汽车产品技术要求",
+      "official": "公告2025年第24号",
+      "issuer": "工业和信息化部 财政部 税务总局",
+      "effective_date": "2026-01-01",
+      "expires_at": "2027-12-31",
+      "effective_source": "2026年1月1日起,列入《减免税目录》的车型,需符合本公告要求",
+      "importance": 4,
+      "days_in_force": 89,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_MIIT_24_b",
+      "title": "关于2026—2027年减免车辆购置税新能源汽车产品技术要求的公告",
+      "official": "工信部财政部税务总局公告2025年第24号",
+      "issuer": "工业和信息化部、财政部、税务总局",
+      "effective_date": "2026-01-01",
+      "expires_at": "2027-12-31",
+      "effective_source": "2026年1月1日起,列入《减免车辆购置税的新能源汽车车型目录》的车型,需符合本公告要求;2026年1月1日(含)起,在2026年及以后生效的《减免税目录》发布",
+      "importance": 4,
+      "days_in_force": 89,
+      "days_until_expire": 640,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_MOFCOM_467",
+      "title": "2026年汽车以旧换新补贴实施细则",
+      "official": "商办消费函〔2025〕467号",
+      "issuer": "商务部等8部门办公厅",
+      "effective_date": "2026-01-01",
+      "expires_at": "2026-12-31",
+      "effective_source": "本细则自2026年1月1日起执行",
+      "importance": 4,
+      "days_in_force": 89,
+      "days_until_expire": 275,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2025_MOFCOM_697",
+      "title": "提质增效实施2026年消费品以旧换新政策",
+      "official": "商消费函〔2025〕697号",
+      "issuer": "商务部等7部门",
+      "effective_date": "2026-01-01",
+      "expires_at": "2026-12-31",
+      "effective_source": "提质增效实施2026年消费品以旧换新政策（按2026年度政策推断）",
+      "importance": 4,
+      "days_in_force": 89,
+      "days_until_expire": 275,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2026_MIIT_13",
+      "title": "关于开展零碳工厂建设工作的指导意见",
+      "official": "工信部联节﹝2026﹞13号",
+      "issuer": "工信部、发改委、生态环境部、国资委、国家能源局",
+      "effective_date": "2026-01-14",
+      "expires_at": null,
+      "effective_source": "成文日期2026-01-14(指导意见,2026年起遴选,2027/2030目标)",
+      "importance": 4,
+      "days_in_force": 76,
+      "days_until_expire": null,
+      "status": "in_force"
+    },
+    {
+      "id": "P_2026_MEE_0209f3b1",
+      "title": "做好2026年全国碳排放权交易市场有关工作的通知",
+      "official": "",
+      "issuer": "生态环境部",
+      "effective_date": "2026-02-09",
+      "expires_at": "2026-12-31",
+      "effective_source": "为统筹做好2026年全国碳排放权交易市场管理工作(年度通知,无明确施行日,取发布日)",
+      "importance": 4,
+      "days_in_force": 50,
+      "days_until_expire": 275,
+      "status": "in_force"
+    }
+  ],
+  "expired_national": [
+    {
+      "id": "P_2020_NDRC_889",
+      "title": "电力中长期交易基本规则(2020 版)",
+      "official": "发改能源规〔2020〕889号",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2020-06-10",
+      "expires_at": "2026-03-01",
+      "effective_source": "发布日期：2020-06-10（按发布日）",
+      "importance": 4,
+      "days_in_force": 2120,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 30
+    },
+    {
+      "id": "P_2024_NDRC_1123_a",
+      "title": "电力中长期交易基本规则—绿色电力交易专章",
+      "official": "发改能源〔2024〕1123号",
+      "issuer": "国家发展改革委、国家能源局",
+      "effective_date": "2024-07-24",
+      "expires_at": "2026-03-01",
+      "effective_source": "发布日期：2024-07-24（按发布日）",
+      "importance": 4,
+      "days_in_force": 615,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 30
+    },
+    {
+      "id": "P_2025_MEE_2",
+      "title": "2024、2025年度全国碳排放权交易市场钢铁水泥铝冶炼行业配额总量和分配方案",
+      "official": "国环规气候〔2025〕2号",
+      "issuer": "生态环境部",
+      "effective_date": "2025-11-16",
+      "expires_at": "2025-12-31",
+      "effective_source": "2025-11-16印发(配额方案无明确施行日,取发布日)",
+      "importance": 4,
+      "days_in_force": 135,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2025_NDRC_13_b",
+      "title": "关于2025年加力扩围实施大规模设备更新和消费品以旧换新政策的通知",
+      "official": "发改环资〔2025〕13号",
+      "issuer": "国家发展改革委、财政部",
+      "effective_date": "2025-01-08",
+      "expires_at": "2025-12-31",
+      "effective_source": "现将2025年加力扩围实施大规模设备更新和消费品以旧换新政策通知如下(年度政策,取发布日2025-01-08)",
+      "importance": 5,
+      "days_in_force": 447,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2025_MIIT_60",
+      "title": "全国工业领域电力需求侧管理典型案例及第七批参考产品技术征集",
+      "official": "工信厅运行函〔2025〕60号",
+      "issuer": "工业和信息化部办公厅",
+      "effective_date": "2025-02-28",
+      "expires_at": "2025-12-31",
+      "effective_source": "发布日期2025-02-28(年度典型案例征集通知,无明确施行日,取发布日)",
+      "importance": 4,
+      "days_in_force": 396,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2024_SC_12_a",
+      "title": "2024—2025年节能降碳行动方案",
+      "official": "国发〔2024〕12号",
+      "issuer": "国务院",
+      "effective_date": "2024-05-23",
+      "expires_at": "2025-12-31",
+      "effective_source": "2024-05-23印发(行动方案无明确施行日,取发布日)",
+      "importance": 5,
+      "days_in_force": 677,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2025_MEE_140",
+      "title": "关于做好2025年全国碳排放权交易市场有关工作的通知",
+      "official": "环办气候函〔2025〕140号",
+      "issuer": "生态环境部办公厅",
+      "effective_date": "2025-04-15",
+      "expires_at": "2025-12-31",
+      "effective_source": "为统筹做好2025年全国碳排放权交易市场管理工作(年度通知,取发布日)",
+      "importance": 4,
+      "days_in_force": 350,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2025_MOFCOM_8_a",
+      "title": "做好2025年汽车以旧换新工作的通知",
+      "official": "商办消费函〔2025〕8号",
+      "issuer": "商务部、发改委、工信部、公安部、生态环境部、财政部、税务总局",
+      "effective_date": "2025-01-17",
+      "expires_at": "2025-12-31",
+      "effective_source": "本通知自发布之日起执行",
+      "importance": 4,
+      "days_in_force": 438,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2022_NDRC_03213b6e_a",
+      "title": "十四五新型储能发展实施方案",
+      "official": "",
+      "issuer": "国家发展改革委 国家能源局",
+      "effective_date": "2021-01-01",
+      "expires_at": "2025-12-31",
+      "effective_source": "标题：十四五（2021-2025）新型储能发展实施方案",
+      "importance": 4,
+      "days_in_force": 1915,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2025_NEA_58",
+      "title": "2025年电力市场秩序突出问题专项监管",
+      "official": "国能综通监管〔2025〕58号",
+      "issuer": "国家能源局综合司",
+      "effective_date": "2025-04-11",
+      "expires_at": "2025-12-31",
+      "effective_source": "2025-04-11发布(专项监管通知,无明确施行日,取发布日)",
+      "importance": 5,
+      "days_in_force": 354,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2022_NDRC_032146fe",
+      "title": "「十四五」新型储能发展实施方案",
+      "official": "",
+      "issuer": "国家发展和改革委员会、国家能源局",
+      "effective_date": "2022-03-21",
+      "expires_at": "2025-12-31",
+      "effective_source": "2022-03-21发布(十四五实施方案,发布即生效)",
+      "importance": 4,
+      "days_in_force": 1471,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2025_NEA_36",
+      "title": "2025年电力领域综合监管工作通知",
+      "official": "国能发监管〔2025〕36号",
+      "issuer": "国家能源局",
+      "effective_date": "2025-04-04",
+      "expires_at": "2025-12-31",
+      "effective_source": "2025-04-04发布(年度监管通知,无明确施行日,取发布日)",
+      "importance": 4,
+      "days_in_force": 361,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 90
+    },
+    {
+      "id": "P_2024_MOT_390",
+      "title": "新能源城市公交车及动力电池更新补贴实施细则",
+      "official": "交运函〔2024〕390号",
+      "issuer": "交通运输部、财政部",
+      "effective_date": "2024-07-29",
+      "expires_at": "2025-01-20",
+      "effective_source": "第十五条 本细则自发布之日起执行",
+      "importance": 4,
+      "days_in_force": 610,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 435
+    },
+    {
+      "id": "P_2024_MOFCOM_75_b",
+      "title": "汽车以旧换新补贴实施细则",
+      "official": "商消费函〔2024〕75号",
+      "issuer": "商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务",
+      "effective_date": "2024-04-24",
+      "expires_at": "2024-12-31",
+      "effective_source": "第十四条 本细则自发布之日起执行",
+      "importance": 4,
+      "days_in_force": 706,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 455
+    },
+    {
+      "id": "P_2024_MOF_129",
+      "title": "2024年汽车以旧换新补贴中央财政预拨资金预算",
+      "official": "财建〔2024〕129号",
+      "issuer": "财政部",
+      "effective_date": "2024-05-28",
+      "expires_at": "2024-12-31",
+      "effective_source": "财政部2024年5月28日(预拨资金通知,发布即生效)",
+      "importance": 4,
+      "days_in_force": 672,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 455
+    },
+    {
+      "id": "P_2024_NDRC_0726ba17",
+      "title": "关于加力支持大规模设备更新和消费品以旧换新的若干措施",
+      "official": "",
+      "issuer": "国家发展改革委、财政部",
+      "effective_date": "2024-07-26",
+      "expires_at": "2024-12-31",
+      "effective_source": "发布日期2024-07-26(同上若干措施PDF版,取发布日)",
+      "importance": 4,
+      "days_in_force": 613,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 455
+    },
+    {
+      "id": "P_2024_NDRC_0725ba17",
+      "title": "关于加力支持大规模设备更新和消费品以旧换新的若干措施",
+      "official": "",
+      "issuer": "国家发展和改革委员会、财政部",
+      "effective_date": "2024-07-25",
+      "expires_at": "2024-12-31",
+      "effective_source": "发布日期2024年07月25日(若干措施,取发布日)",
+      "importance": 4,
+      "days_in_force": 614,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 455
+    },
+    {
+      "id": "P_2024_MOFCOM_392",
+      "title": "商务部等7部门关于进一步做好汽车以旧换新有关工作的通知",
+      "official": "商消费函〔2024〕392号",
+      "issuer": "商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财",
+      "effective_date": "2024-08-15",
+      "expires_at": "2024-12-31",
+      "effective_source": "本通知自发布之日起执行",
+      "importance": 4,
+      "days_in_force": 593,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 455
+    },
+    {
+      "id": "P_2023_MOFCOM_0603e88a",
+      "title": "成品油流通管理办法(征求意见稿)",
+      "official": "",
+      "issuer": "商务部",
+      "effective_date": "2023-06-03",
+      "expires_at": "2023-07-11",
+      "effective_source": "发布日期：2023-06-03（征求意见稿，按发布日）",
+      "importance": 4,
+      "days_in_force": 1032,
+      "days_until_expire": null,
+      "status": "expired",
+      "days_expired": 994
+    }
+  ],
+  "theme_coverage": {
+    "V2G/车网": {
+      "covered_count": 8,
+      "blank_count": 23,
+      "blank_provs": [
+        "天津市",
+        "河北省",
+        "山西省",
+        "内蒙古自治区",
+        "辽宁省",
+        "黑龙江省",
+        "江苏省",
+        "浙江省",
+        "安徽省",
+        "江西省",
+        "河南省",
+        "湖北省",
+        "广东省",
+        "广西壮族自治区",
+        "海南省",
+        "四川省",
+        "贵州省",
+        "西藏自治区",
+        "陕西省",
+        "甘肃省",
+        "青海省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "covered_provs": [
+        "上海市",
+        "云南省",
+        "北京市",
+        "吉林省",
+        "山东省",
+        "湖南省",
+        "福建省",
+        "重庆市"
+      ]
+    },
+    "电力市场": {
+      "covered_count": 8,
+      "blank_count": 23,
+      "blank_provs": [
+        "天津市",
+        "河北省",
+        "山西省",
+        "内蒙古自治区",
+        "辽宁省",
+        "吉林省",
+        "黑龙江省",
+        "江苏省",
+        "浙江省",
+        "安徽省",
+        "江西省",
+        "河南省",
+        "湖北省",
+        "广东省",
+        "海南省",
+        "四川省",
+        "贵州省",
+        "云南省",
+        "西藏自治区",
+        "陕西省",
+        "甘肃省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "covered_provs": [
+        "上海市",
+        "北京市",
+        "山东省",
+        "广西壮族自治区",
+        "湖南省",
+        "福建省",
+        "重庆市",
+        "青海省"
+      ]
+    },
+    "充电基建": {
+      "covered_count": 13,
+      "blank_count": 18,
+      "blank_provs": [
+        "天津市",
+        "河北省",
+        "内蒙古自治区",
+        "黑龙江省",
+        "江苏省",
+        "浙江省",
+        "安徽省",
+        "江西省",
+        "山东省",
+        "湖北省",
+        "广西壮族自治区",
+        "海南省",
+        "贵州省",
+        "西藏自治区",
+        "陕西省",
+        "甘肃省",
+        "青海省",
+        "新疆维吾尔自治区"
+      ],
+      "covered_provs": [
+        "上海市",
+        "云南省",
+        "北京市",
+        "吉林省",
+        "四川省",
+        "宁夏回族自治区",
+        "山西省",
+        "广东省",
+        "河南省",
+        "湖南省",
+        "福建省",
+        "辽宁省",
+        "重庆市"
+      ]
+    },
+    "新型储能": {
+      "covered_count": 8,
+      "blank_count": 23,
+      "blank_provs": [
+        "天津市",
+        "河北省",
+        "山西省",
+        "内蒙古自治区",
+        "黑龙江省",
+        "江苏省",
+        "浙江省",
+        "安徽省",
+        "江西省",
+        "河南省",
+        "湖北省",
+        "湖南省",
+        "广东省",
+        "海南省",
+        "四川省",
+        "贵州省",
+        "云南省",
+        "西藏自治区",
+        "陕西省",
+        "甘肃省",
+        "青海省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "covered_provs": [
+        "上海市",
+        "北京市",
+        "吉林省",
+        "山东省",
+        "广西壮族自治区",
+        "福建省",
+        "辽宁省",
+        "重庆市"
+      ]
+    },
+    "设备更新": {
+      "covered_count": 13,
+      "blank_count": 18,
+      "blank_provs": [
+        "天津市",
+        "河北省",
+        "内蒙古自治区",
+        "吉林省",
+        "黑龙江省",
+        "浙江省",
+        "安徽省",
+        "江西省",
+        "山东省",
+        "湖北省",
+        "广西壮族自治区",
+        "贵州省",
+        "云南省",
+        "西藏自治区",
+        "陕西省",
+        "甘肃省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "covered_provs": [
+        "上海市",
+        "北京市",
+        "四川省",
+        "山西省",
+        "广东省",
+        "江苏省",
+        "河南省",
+        "海南省",
+        "湖南省",
+        "福建省",
+        "辽宁省",
+        "重庆市",
+        "青海省"
+      ]
+    }
+  },
+  "evolution_chains": [
+    {
+      "march_pid": "P_2026_NX_0320e07e",
+      "march_title": "宁夏回族自治区2026年度充电基础设施建设实施方案",
+      "march_region": "宁夏回族自治区",
+      "march_official": "",
+      "march_date": "2026-03-20",
+      "march_importance": 4,
+      "biz_line": "充电基建",
+      "national_source": "主题对应——上承国务院办公厅《关于进一步构建高质量充电基础设施体系的指导意见》(国办发〔2023〕42号)系列国家级充电基建政策",
+      "linkage_type": "同向部署",
+      "linkage_full": "主题对应——本政策正文未直接引用具体国家文号,但属于年度落地",
+      "evidence": "正文未明确引用具体国家文件文号,仅称『为持续提升我区充电基础设施服务保障能力』"
+    },
+    {
+      "march_pid": "P_2026_SD_03271ffc",
+      "march_title": "山东省促进虚拟电厂高质量发展方案",
+      "march_region": "山东省",
+      "march_official": "",
+      "march_date": "2026-03-27",
+      "march_importance": 4,
+      "biz_line": "储能·电力市场",
+      "national_source": "NDRC 357号《关于加快推进虚拟电厂发展的指导意见》(发改能源〔2025〕357号)",
+      "linkage_type": "直接落地",
+      "linkage_full": "直接落地——本政策为357号文省级配套,正文开篇明确引用",
+      "evidence": "原文:『根据国家发展改革委、国家能源局《关于加快推进虚拟电厂发展的指导意见》(发改能源〔2025〕357号)等文件要求,为加快推动我省虚拟电厂高质量发展』"
+    },
+    {
+      "march_pid": "P_2026_SH_03132bad",
+      "march_title": "松江区推进能源高质量发展行动方案（2026-2030年）",
+      "march_region": "上海市松江区",
+      "march_official": "",
+      "march_date": "2026-03-13",
+      "march_importance": 3,
+      "biz_line": "储能·电力市场",
+      "national_source": "上承《十五五规划纲要》+《上海市碳达峰实施方案》+ 国家能源局《2025年能源工作指导意见》",
+      "linkage_type": "补充细化",
+      "linkage_full": "借鉴框架——区级落地国家级+上海市级双重政策",
+      "evidence": "原文引用习总书记新型电力系统重要指示 + 国家能源局《2025年能源工作指导意见》 + 《上海市碳达峰实施方案》"
+    },
+    {
+      "march_pid": "P_2026_BJ_4",
+      "march_title": "美丽丰台建设2026年行动计划",
+      "march_region": "北京市丰台区",
+      "march_official": "丰政办发〔2026〕4号",
+      "march_date": "2026-03-30",
+      "march_importance": 3,
+      "biz_line": "充电基建",
+      "national_source": "上承党中央国务院推进美丽中国部署 + 北京市委市政府推进美丽北京部署 + 十五五规划纲要",
+      "linkage_type": "补充细化",
+      "linkage_full": "借鉴框架——区级承接国家『美丽中国』+ 北京市级『美丽北京』双重落地",
+      "evidence": "原文:『按照党中央、国务院关于推进美丽中国和市委、市政府关于推进美丽北京建设的决策部署』,并明确『助力十五五规划开好局起好步』"
+    },
+    {
+      "march_pid": "P_2026_CQ_16",
+      "march_title": "重庆市2026年市级重点项目实施工作通知",
+      "march_region": "重庆市",
+      "march_official": "渝府办发〔2026〕16号",
+      "march_date": "2026-03-30",
+      "march_importance": 3,
+      "biz_line": "设备更新",
+      "national_source": "上承《十五五规划纲要》+ 国家超长期特别国债 / 新型政策性金融工具",
+      "linkage_type": "补充细化",
+      "linkage_full": "借鉴框架——市级落地+争取国家级资金支持(超长期特别国债)",
+      "evidence": "原文:『紧扣国家和我市十五五规划纲要』+『抢抓国家超长期特别国债、新型政策性金融工具等各项资金政策加力窗口期』"
+    },
+    {
+      "march_pid": "P_2026_OTHERD5E7_03169880",
+      "march_title": "南京市优化消费环境十项行动新闻",
+      "march_region": "南京日报",
+      "march_official": "",
+      "march_date": "2026-03-16",
+      "march_importance": 1,
+      "biz_line": "加油",
+      "national_source": "主题对应——可上承《计量法》及国家市场监管总局民生计量监管系列文件",
+      "linkage_type": "同向部署",
+      "linkage_full": "主题对应——本政策正文未引用具体国家文号,属于地方消费监管创新",
+      "evidence": "正文未引用具体国家文件,本质为南京市3·15地方动作"
+    }
+  ],
+  "gaps": [
+    {
+      "theme": "V2G/车网",
+      "region": "西北 5 省",
+      "blank": [
+        "陕西省",
+        "甘肃省",
+        "青海省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "severity": "high"
+    },
+    {
+      "theme": "V2G/车网",
+      "region": "东北 3 省",
+      "blank": [
+        "辽宁省",
+        "黑龙江省"
+      ],
+      "severity": "medium"
+    },
+    {
+      "theme": "V2G/车网",
+      "region": "西南 5 省",
+      "blank": [
+        "四川省",
+        "贵州省",
+        "西藏自治区"
+      ],
+      "severity": "medium"
+    },
+    {
+      "theme": "电力市场",
+      "region": "西北 5 省",
+      "blank": [
+        "陕西省",
+        "甘肃省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "severity": "high"
+    },
+    {
+      "theme": "电力市场",
+      "region": "东北 3 省",
+      "blank": [
+        "辽宁省",
+        "吉林省",
+        "黑龙江省"
+      ],
+      "severity": "medium"
+    },
+    {
+      "theme": "电力市场",
+      "region": "西南 5 省",
+      "blank": [
+        "四川省",
+        "贵州省",
+        "云南省",
+        "西藏自治区"
+      ],
+      "severity": "medium"
+    },
+    {
+      "theme": "充电基建",
+      "region": "西北 5 省",
+      "blank": [
+        "陕西省",
+        "甘肃省",
+        "青海省",
+        "新疆维吾尔自治区"
+      ],
+      "severity": "high"
+    },
+    {
+      "theme": "新型储能",
+      "region": "西北 5 省",
+      "blank": [
+        "陕西省",
+        "甘肃省",
+        "青海省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "severity": "high"
+    },
+    {
+      "theme": "新型储能",
+      "region": "西南 5 省",
+      "blank": [
+        "四川省",
+        "贵州省",
+        "云南省",
+        "西藏自治区"
+      ],
+      "severity": "medium"
+    },
+    {
+      "theme": "设备更新",
+      "region": "西北 5 省",
+      "blank": [
+        "陕西省",
+        "甘肃省",
+        "宁夏回族自治区",
+        "新疆维吾尔自治区"
+      ],
+      "severity": "high"
+    },
+    {
+      "theme": "设备更新",
+      "region": "东北 3 省",
+      "blank": [
+        "吉林省",
+        "黑龙江省"
+      ],
+      "severity": "medium"
+    },
+    {
+      "theme": "设备更新",
+      "region": "西南 5 省",
+      "blank": [
+        "贵州省",
+        "云南省",
+        "西藏自治区"
+      ],
+      "severity": "medium"
+    }
+  ],
+  "watching": [
+    {
+      "item": "NDRC 1656《电力中长期市场基本规则》各省实施细则",
+      "expected_window": "2026-04~Q2",
+      "rationale": "1656 号文 2026-03-01 施行,各省 4 个月窗口期(已过 1 个月)。江苏 / 浙江 / 广东 仍 0 政策",
+      "priority": "A"
+    },
+    {
+      "item": "V2G 9 城试点扩围(第二批)",
+      "expected_window": "2026-Q2",
+      "rationale": "广州试点(P_2025_OTHER0858_255)首落地,扩围决策预期 Q2",
+      "priority": "A"
+    },
+    {
+      "item": "充电统建统服 1000 个名额申报开放",
+      "expected_window": "2026-Q2",
+      "rationale": "NDRC 1015《三年倍增》目标 2027 年 1000 个,2026 年应放第一批",
+      "priority": "A"
+    },
+    {
+      "item": "十五五新型储能发展实施方案(NDRC 接续)",
+      "expected_window": "2026-Q2~Q3",
+      "rationale": "\"十四五\"新型储能方案已 2025-12-31 失效,十五五版尚未发布,政策真空期 4 个月",
+      "priority": "B"
+    },
+    {
+      "item": "农村充电设施覆盖具体方案",
+      "expected_window": "2026-Q2~Q3",
+      "rationale": "国家能源局乡村振兴会议 3 月已部署\"扩大农村充电覆盖\",细则待出",
+      "priority": "C"
+    },
+    {
+      "item": "上海以旧换新政策接续(20 号 / 21 号)",
+      "expected_window": "2026-04",
+      "rationale": "上海以旧换新细则 2026-03-31 到期,4 月起若无新政策衔接将出现真空期",
+      "priority": "A"
+    }
+  ],
+  "data_health": {
+    "vault_policies": 289,
+    "commentaries": 338,
+    "entity_canonical": 88,
+    "relations_total": 198,
+    "crystallized_themes": 3,
+    "lint_errors": 1,
+    "lint_warnings": 37,
+    "lint_infos": 3
+  }
+}

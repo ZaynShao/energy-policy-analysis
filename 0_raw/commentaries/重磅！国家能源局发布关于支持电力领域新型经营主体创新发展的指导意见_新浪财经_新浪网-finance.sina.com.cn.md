@@ -1,0 +1,413 @@
+---
+title: "重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的指导意见_新浪财经_新浪网"
+type: 政策评论
+source: finance.sina.com.cn
+source_type: B
+url: https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml
+date: 未知
+related_policy: "[[【支持电力领域新型经营主体创新发展指导意见答记者问】-国家能源局-2c1f]]"
+confidence: 0.6
+collected_by: policy-watch
+collected_at: 2026-04-25T14:33:48.327469
+---
+
+# 重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的指导意见_新浪财经_新浪网
+
+**来源**: finance.sina.com.cn  
+**原文**: [https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml](https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml)  
+**关联政策**: [[【支持电力领域新型经营主体创新发展指导意见答记者问】-国家能源局-2c1f]]
+
+## 正文
+
+- [新浪首页](http://www.sina.com.cn/)
+- [新闻](http://news.sina.com.cn/)
+- [体育](http://sports.sina.com.cn/)
+- [财经](http://finance.sina.com.cn/)
+- [娱乐](http://ent.sina.com.cn/)
+- [科技](http://tech.sina.com.cn/)
+- [博客](http://blog.sina.com.cn/)
+- [图片](http://photo.sina.com.cn/)
+- [专栏](http://zhuanlan.sina.com.cn/)
+- [更多](https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml#)
+
+- [汽车](http://auto.sina.com.cn/) [教育](http://edu.sina.com.cn/) [时尚](http://fashion.sina.com.cn/) [女性](http://eladies.sina.com.cn/) [星座](http://astro.sina.com.cn/) [健康](http://health.sina.com.cn/)
+- [房产](http://www.leju.com/#source=pc_sina_dbdh1&source_ext=pc_sina) [历史](http://history.sina.com.cn/) [视频](http://video.sina.com.cn/) [收藏](http://collection.sina.com.cn/) [育儿](http://baby.sina.com.cn/) [读书](http://book.sina.com.cn/)
+- [佛学](http://fo.sina.com.cn/) [游戏](http://games.sina.com.cn/) [旅游](http://travel.sina.com.cn/) [邮箱](http://mail.sina.com.cn/) [导航](http://news.sina.com.cn/guide/)
+
+[移动客户端](https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml#)
+
+- [新浪微博](http://m.sina.com.cn/m/weibo.shtml)
+- [新浪新闻](http://news.sina.com.cn/m/sinanews.html)
+- [新浪财经](https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=daohang01)
+- [新浪体育](http://m.sina.com.cn/m/sinasports.shtml)
+- [新浪众测](http://zhongce.sina.com.cn/about/app)
+- [新浪博客](http://blog.sina.com.cn/lm/z/app/)
+- [新浪视频](http://video.sina.com.cn/app)
+- [新浪游戏](http://games.sina.com.cn/o/kb/12392.shtml)
+- [天气通](http://m.sina.com.cn/m/weather.shtml)
+
+[我的收藏](http://my.sina.com.cn/#location=fav)
+
+[注册](https://login.sina.com.cn/signup/signup?entry=news)
+
+[![](https://i.sso.sina.com.cn/images/login/thumb_default.png)登录](https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml#)
+
+[![](https://n.sinaimg.cn/finance/c30320b4/20190809/cj_sinafinance_app2x.png)](https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=cjzhengwen08)
+
+[滚动新闻](http://finance.sina.com.cn/roll/) >正文
+
+行情股吧新闻外汇新三板
+
+# 重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的指导意见
+
+重磅！国家能源局发布关于支持电力领域新型经营主体创新发展的指导意见
+
+2024年12月05日 15:29市场资讯
+
+[新浪财经APP](https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=cjzhengwen04 "语音播报")缩小字体放大字体收藏微博微信分享
+
+腾讯QQQQ空间
+
+[登录新浪财经APP 搜索【信披】查看更多考评等级](https://finance.sina.com.cn/focus/app/sfa_download_new.shtml)
+
+12月5日，国家能源局发布《关于支持电力领域新型经营主体创新发展的指导意见》。其中指出，新型经营主体是具备电力、电量调节能力且具有新技术特征、新运营模式的配电环节各类资源，分为单一技术类新型经营主体和资源聚合类新型经营主体。
+
+其中，单一技术类新型经营主体主要包括分布式光伏、分散式风电、储能等分布式电源和可调节负荷；
+
+资源聚合类新型经营主体主要包括虚拟电厂（负荷聚合商）和智能微电网。虚拟电厂是运用数字化、智能化等先进技术，聚合分布式电源和可调节负荷等，协同参与系统运行和市场交易的电力运行组织模式。智能微电网是以新能源为主要电源、具备一定智能调节和自平衡能力、可独立运行也可与大电网联网运行的小型发配用电系统。配电环节具备相应特征的源网荷储一体化项目可视作智能微电网。
+
+原文如下：
+
+![](https://n.sinaimg.cn/spider20241205/764/w1080h484/20241205/b413-45044e34e1b716d13ef7e858eadbbe7d.jpg)
+
+国家能源局关于支持电力领域新型经营主体创新发展的指导意见
+
+国能发法改〔2024〕93号
+
+各省（自治区、直辖市）能源局，有关省（自治区、直辖市）及新疆生产建设兵团发展改革委，天津市、辽宁省、上海市、重庆市、四川省、甘肃省经信委（工信委、工信厅），国家能源局各派出机构，国家电网有限公司、中国南方电网有限责任公司、中国华能集团有限公司、中国大唐集团有限公司、中国华电集团有限公司、国家能源投资集团有限责任公司、国家电力投资集团有限公司、中国长江三峡集团有限公司、国家开发投资集团有限公司、中国核工业集团有限公司、[中国广核](https://finance.sina.com.cn/realstock/company/sz003816/nc.shtml)集团有限公司、华润（集团）有限公司、内蒙古电力（集团）有限责任公司，北京、广州电力交易中心：
+
+为深入贯彻党的二十届三中全会关于能源改革的相关部署，充分发挥新型经营主体在提高电力系统调节能力、促进可再生能源消纳、保障电力安全供应等方面的作用，鼓励新模式、新业态创新发展，培育能源领域新质生产力，加快构建新型电力系统，依据《能源法》等有关法律法规，提出以下意见。
+
+一、新型经营主体的概念和范围。新型经营主体是具备电力、电量调节能力且具有新技术特征、新运营模式的配电环节各类资源，分为单一技术类新型经营主体和资源聚合类新型经营主体。其中，单一技术类新型经营主体主要包括分布式光伏、分散式风电、储能等分布式电源和可调节负荷；资源聚合类新型经营主体主要包括虚拟电厂（负荷聚合商）和智能微电网。虚拟电厂是运用数字化、智能化等先进技术，聚合分布式电源和可调节负荷等，协同参与系统运行和市场交易的电力运行组织模式。智能微电网是以新能源为主要电源、具备一定智能调节和自平衡能力、可独立运行也可与大电网联网运行的小型发配用电系统。配电环节具备相应特征的源网荷储一体化项目可视作智能微电网。
+
+二、支持新型经营主体创新发展。新型经营主体应当持续提升技术管理水平和调节能力，更好适应新型电力系统需要。鼓励虚拟电厂聚合分布式光伏、分散式风电、新型储能、可调节负荷等资源，为电力系统提供灵活调节能力。支持具备条件的工业企业、工业园区等开展智能微电网建设，提高新能源就地消纳水平。探索建立通过新能源直连增加企业绿电供给的机制。新型经营主体原则上可豁免申领电力业务许可证，另有规定除外。电网企业要做好新型经营主体并（联）网或平台接入等服务，明确服务流程、可接入容量等信息，提高服务效率。
+
+三、完善新型经营主体调度运行管理。新型经营主体应落实安全生产及涉网安全管理相关政策要求，满足国家、行业有关技术标准。各地加快推动新型经营主体实现可观、可测、可调、可控。鼓励调节容量5兆瓦及以上、满足相应技术指标要求的新型经营主体提供电能量和辅助服务。各地可结合电力系统调节需求和电力市场运营能力，进一步降低调节容量要求。电网企业应协助新型经营主体按所提供服务需求接入新型电力负荷管理系统或电力调度自动化系统，满足信息网络安全防护相关要求。新型经营主体应当与电网企业通过协议明确资产、调控、安全等方面的权责边界。当自然灾害、设备故障等突发情况影响电力系统安全稳定运行时，新型经营主体及被聚合资源应接受电力调度机构统一指挥。
+
+四、鼓励新型经营主体平等参与电力市场。新型经营主体参与市场与其他经营主体享有平等的市场地位，并按有关规定公平承担偏差结算和不平衡资金分摊等相关费用，缴纳输配电价、系统运行费用和政府性基金及附加等。鼓励资源聚合类新型经营主体整合调节容量小的资源，整体参与电力市场、实现协同调度。资源聚合类新型经营主体与被聚合资源协商确定权利义务，签订代理服务合同，并在电力交易机构备案。被聚合资源在同一合同周期内，原则上仅可被一家资源聚合类新型经营主体代理。
+
+五、优化新型经营主体市场注册。各地电力交易机构应为新型经营主体设置注册类别，不得增设注册门槛。具备条件的新型经营主体进入或退出电力市场，按照电力市场注册相关规则办理手续。其中，资源聚合类新型经营主体和被聚合资源均应履行注册手续，鼓励资源聚合类新型经营主体集中办理注册手续。
+
+六、完善适应新型经营主体的电力市场交易机制。提升电力中长期交易灵活性，引入分时段标准化交易产品，加快实现分时段交易结算，引导新型经营主体根据自身电力电量平衡需求灵活参与各时间尺度电力中长期交易。加快电力现货市场建设，推动新型经营主体以报量报价或报量不报价等灵活方式参与电力现货市场，探索电力现货市场出清节点向更低电压等级延伸，为新型经营主体响应市场需求提供更加准确的价格信号。完善辅助服务市场，推动新型经营主体公平参与辅助服务市场，研究适时引入备用、爬坡等辅助服务新品种。提高信息披露及时性、准确性，推动电力市场价格信号以适当方式向社会公开披露。
+
+七、做好计量结算工作。新型经营主体按照参与电能量和辅助服务交易类型，依据电能量计量装置进行结算，由电力交易机构出具新型主体结算依据。资源聚合类新型经营主体在批发市场中结算数据由被聚合资源计量数据加总形成。资源聚合类新型经营主体暂由电网企业清分结算到户。
+
+八、加强组织保障。国家能源局会同有关部门及时完善适应新型经营主体发展的市场机制，明确监管要求，加快制修订新型经营主体相关标准。国家能源局派出机构和地方政府有关部门应按照职责分工做好对新型经营主体的监督管理，结合实际及时制定出台适应新型经营主体发展的技术要求、交易细则等，持续规范新型经营主体电力市场交易行为，防止市场操纵。电网企业、电力市场运营机构要持续提升对新型经营主体参与电力交易和系统运行的技术支持能力和服务水平。
+
+国家能源局
+
+2024年11月28日
+
+![](https://n.sinaimg.cn/spider20241205/582/w1080h302/20241205/742c-db1922cf244db5ca917986773f4d1cc3.jpg)
+
+国家能源局有关负责同志就《关于支持电力领域新型经营主体创新发展的指导意见》答记者问
+
+国家能源局近期发布《关于支持电力领域新型经营主体创新发展的指导意见》（以下简称《指导意见》），国家能源局有关负责同志接受采访，回答记者提问。
+
+一、《指导意见》印发的背景和目的是什么？
+
+答：近年来，我国可再生能源跃升式发展，装机规模占比过半。适应高比例可再生能源消纳需求，电力领域不断涌现出各类与传统发供用电形式不同的新型经营主体，这些新型经营主体灵活调节能力强，是新型电力系统的新生力量，各地也陆续出台支持新型经营主体发展的相关政策。为深入贯彻党的二十届三中全会关于完善新能源消纳和调控政策措施的相关部署，落实《能源法》加快构建新型电力系统的相关要求，推动新型经营主体创新发展，我们组织编制了《指导意见》，明确了新型经营主体的定义内涵和准入条件，提出了完善市场机制、调度运行等相关要求，引导电力领域新技术新模式新业态创新发展。
+
+二、《指导意见》主要包括那些内容？
+
+答：《指导意见》共八条。第一、二条提出了新型经营主体内涵及特征，明确了新型经营主体范围。第三至七条分别从完善调度运行管理、鼓励平等参与电力市场、优化市场注册、完善市场交易机制、做好计量结算等方面，提出了促进新型经营主体创新发展的相关措施。第八条明确了政府有关部门、能源监管机构、电网企业和市场运营机构的工作要求，保障政策落实。
+
+三、《指导意见》中新型经营主体的定义和范围是什么？
+
+答：《指导意见》所指的新型经营主体是指配电环节具备电力、电量调节能力，具有新技术特征、新运营模式的各类资源。考虑随着技术进步和行业发展，电力领域新技术新模式新业态还会不断涌现，为满足行业可持续发展需要，我们按照典型特征将新型经营主体分为单一技术类主体和资源聚合类主体两类。
+
+单一技术类新型经营主体主要包括分布式光伏、分散式风电、储能等分布式电源和可调节负荷，这类主体较传统经营主体区别在于单体规模小、分布散、数量多，难以以传统方式参与电力市场，但新型电力系统下分布式电源渗透率逐步提高、源网荷储灵活互动需求日益增长，需要针对单一技术类新型经营主体特点健全完善相关市场机制。
+
+资源聚合类新型经营主体主要包括虚拟电厂（含负荷聚合商）、智能微电网等，这类主体是适应新型电力系统建设出现的新业态、新模式，其中虚拟电厂通过网络通信和数字化智能化技术聚合各类发电、用电、储能等资源，协调优化为系统提供调峰、调频、调压、备用、需求响应等服务；智能微电网通过电力网络聚合网内各类发电、用电、储能等资源，实现一定程度的自平衡，并与公共电网进行电力交互。《指导意见》鼓励资源聚合类新型经营主体将调节容量小的资源聚合为具有更大调节能力的资源整体参与电力市场、实现协同调度。
+
+四、《指导意见》中提出了哪些支持新型经营主体创新发展的政策措施？
+
+答：一是便利新型经营主体接网和运营。《指导意见》要求电网企业为新型经营主体提供高效的并（联）网或平台接入等服务。考虑新型经营主体的发供用电行为相对简单，管理方式可以更加灵活，《指导意见》明确除另有规定外，新型经营主体豁免申领电力业务许可证。此外，为进一步提升新能源就近就地消纳水平，提高企业绿电消费国际认可程度，《指导意见》提出探索建立通过新能源直连增加企业绿电供给的机制。
+
+二是支持新型经营主体参与电力市场。《指导意见》明确新型经营主体与其他经营主体享有平等的市场地位，并进一步优化完善新型经营主体的市场注册、交易机制与计量结算。市场注册方面，《指导意见》要求各地电力交易机构为新型经营主体设置注册类别，不得增设注册门槛，同时为简化注册流程，便利新型经营主体办理市场注册手续，鼓励资源聚合类新型经营主体及其被聚合资源集中办理注册手续。交易机制方面，《指导意见》针对新型经营主体特点，提出要提升电力中长期交易的灵活性，有序扩大现货市场范围，完善辅助服务市场，提高信息披露的及时性和准确性。考虑新型经营主体主要接入配电网，为释放更准确的节点价格信号，更大程度激励新型经营主体响应市场价格参与系统调节，提出要探索电力现货市场出清节点向更低电压等级延伸，推动电力市场价格信号以适当方式向社会披露，以更好引导新型经营主体投资建设。计量结算方面，《指导意见》要求运营机构按照新型经营主体参与的交易类型（电能量或辅助服务）做好结算服务，同时为保障结算资金安全，资源聚合类新型经营主体暂由电网企业清分结算到户。
+
+三是完善新型经营主体调度运行。《指导意见》要求各地加快推动新型经营主体实现可观、可测、可调、可控。为支持新型经营主体发展，避免地方设置过高的准入门槛，同时考虑电力系统实际调节需要，提出鼓励调节容量5兆瓦及以上、满足相应技术指标要求的新型经营主体提供电能量和辅助服务，同时结合地方已有实践，具备条件的地区也可以进一步降低调节容量要求。
+
+五、下一步如何推动《指导意见》实施？
+
+答：下一步我们将做好《指导意见》的宣传解读工作，指导各地有关部门、能源监管机构配套制定细化政策措施，保障新型经营主体创新发展。
+
+来源：国家能源局
+
+（转自：湖南省可再生能源学会）
+
+![](https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png)
+
+海量资讯、精准解读，尽在新浪财经APP
+
+[![](https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png)](http://tousu.sina.com.cn/)
+
+## VIP课程推荐
+
+[![](https://n.sinaimg.cn/tech/413/w264h149/20260106/be52-606bfeb05efb28e38e5261c96f531302.png)](https://live.finance.sina.com.cn/bozhu/1658605145)
+
+[大题材的引爆点](https://live.finance.sina.com.cn/bozhu/1658605145)
+
+[![](https://n.sinaimg.cn/tech/413/w264h149/20260106/c06d-e91f515c0275244acd99f11c653a4819.png)](https://live.finance.sina.com.cn/bozhu/2060480585)
+
+[科技仍是26年主线](https://live.finance.sina.com.cn/bozhu/2060480585)
+
+[![](https://n.sinaimg.cn/tech/413/w264h149/20241214/1287-013a827d7798ba4e16c253c1b78ad48a.png)](https://live.finance.sina.com.cn/bozhu/2342117515)
+
+[26年继续牛市格局](https://live.finance.sina.com.cn/bozhu/2342117515)
+
+## APP专享直播
+
+上一页下一页
+
+1/10
+
+## 热门推荐
+
+_收起_
+
+![新浪财经公众号](https://n.sinaimg.cn/finance/72219a70/20180103/_thumb_23666.png)
+
+新浪财经公众号
+
+24小时滚动播报最新的财经资讯和视频，更多粉丝福利扫描二维码关注（sinafinance）
+
+相关新闻
+
+[财经头条作者库](https://finance.sina.com.cn/cj/authorlist.shtml?fr=pc_finarticle)
+
+## [股市直播](http://live.finance.sina.com.cn/)
+
+- 图文直播间
+- 视频直播间
+
+申购日历
+
+## [申购日历](http://finance.sina.com.cn/stock/newstock/)
+
+- 日期股票名称申购代码申购价格
+- 05-07天海电子001365--
+- 05-06维通利001393--
+- 04-27长裕集团60340713.86
+- 04-27锐翔智能92017829.47
+- 04-24春光集团30153113.3
+
+## [新股](http://finance.sina.com.cn/stock/newstock/)
+
+- [英诺激光上市！中1签赚17643元 收益率372.99%](https://finance.sina.com.cn/stock/observe/2021-07-06/doc-ikqcfnca5297102.shtml)
+- [航宇科技上市！中1签赚13960元 收益率243.21%](https://finance.sina.com.cn/stock/observe/2021-07-05/doc-ikqcfnca5090860.shtml)
+- [海泰科上市！中1签赚15500元 收益率96%](https://finance.sina.com.cn/stock/observe/2021-07-02/doc-ikqciyzk3179263.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/6.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
+
+### [六：凑市值打新可行 资金成本不超7.86%即可](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/7.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
+
+### [七：流通股和融资仓算市值，限售股和基金等不算](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/1.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
+
+### [一：打新究竟有多暴利？一签可赚26万](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/2.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
+
+### [二：中1签赚5万以内的概率是92.79%](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/3.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-05/doc-iivhuipp2669253.shtml)
+
+### [三：账户等级越高，中签金额越高](https://finance.sina.com.cn/stock/observe/2020-09-05/doc-iivhuipp2669253.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/4.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-06/doc-iivhvpwy5049617.shtml)
+
+### [四：创业板户中签收益率最高 普通户最低](https://finance.sina.com.cn/stock/observe/2020-09-06/doc-iivhvpwy5049617.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/5.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-07/doc-iivhuipp2933371.shtml)
+
+### [五：科创板户无风险收益率最高 普通户最低](https://finance.sina.com.cn/stock/observe/2020-09-07/doc-iivhuipp2933371.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/6.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
+
+### [六：凑市值打新可行 资金成本不超7.86%即可](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/7.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
+
+### [七：流通股和融资仓算市值，限售股和基金等不算](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/1.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
+
+### [一：打新究竟有多暴利？一签可赚26万](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
+
+[![](https://n.sinaimg.cn/news/47b4da8f/20201126/2.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
+
+### [二：中1签赚5万以内的概率是92.79%](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
+
+- [最近访问](http://finance.sina.com.cn/realstock/company/sh000001/nc.shtml)
+- [我的自选](http://watchlist.finance.sina.com.cn/portfolio/view/main.php)
+
+股票简称最新价涨跌幅
+
+以下为热门股票
+
+[下载新浪财经客户端，智能添加自选](https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=cjzhengwen06&page=5 "下载新浪财经客户端，智能添加自选")
+
+## [排行榜](http://finance.sina.com.cn/topnews/)
+
+- 新闻
+- 证券
+- 理财
+- 博客
+
+- 01[4.24收盘：风格的转换已在进行时](https://blog.sina.com.cn/s/blog_599d75180102zwcz.html?tj=fina)
+- 02[2026年4月24日：常长亭今日观点](https://blog.sina.com.cn/s/blog_76ae3b080102z6i9.html?tj=fina)
+- 03[下周先抑后扬](https://blog.sina.com.cn/s/blog_5485ea430102zpwr.html?tj=fina)
+- 04[下周会创新高迎五一吗？机会在哪？关注老秦看法](https://blog.sina.com.cn/s/blog_4d8c6836010304xq.html?tj=fina)
+- 05[跳空小阴继续震荡](https://blog.sina.com.cn/s/blog_6ac27c960102zau5.html?tj=fina)
+
+01/ [人民日报刊评：“该改的坚决改，不该改的不改”](https://finance.sina.com.cn/china/2024-12-05/doc-incykhfs9997409.shtml)
+02/ [跨年无厘头炒“蛇”热 跟风“玄学炒股”提防被套 蛇年概念股名单一览](https://finance.sina.com.cn/roll/2024-12-05/doc-incykhfs9987627.shtml)
+03/ [“傲慢”的优衣库在华失宠：业绩疲软，涨价遭平替“反杀” \| BUG](https://finance.sina.com.cn/chanjing/gsnews/2024-12-05/doc-incykhfx3252597.shtml)
+04/ [突发！日股飙升，韩股跳水！比特币暴涨，超16万人爆仓！](https://finance.sina.com.cn/roll/2024-12-05/doc-incykhfx3240039.shtml)
+05/ [中国驻美大使谢锋：中国是全球产供链绕不开的关键枢纽 孤立中国只会自我孤立](https://finance.sina.com.cn/china/2024-12-05/doc-incykhfy9993078.shtml)
+06/ [美联储主席鲍威尔：反对总统对利率政策发表意见的建议](https://finance.sina.com.cn/world/2024-12-05/doc-incyizxv0100314.shtml)
+07/ [外交部：对美国军工企业及高级管理人员采取反制措施(附清单)](https://finance.sina.com.cn/china/2024-12-05/doc-incykxcr3002982.shtml)
+08/ [黑科技？科技巨头新发布 裸眼3D购物！概念股名单一览](https://finance.sina.com.cn/china/2024-12-05/doc-incykhfz0004072.shtml)
+09/ [创新高！比特币突破10万美元关口，24小时48亿元蒸发！年内比特币涨幅近140%，“狂飙”行情见顶了吗？](https://finance.sina.com.cn/roll/2024-12-05/doc-incyksvu9877871.shtml)
+10/ [美联储主席鲍威尔12月4日讲话要点总结](https://finance.sina.com.cn/world/2024-12-05/doc-incyivsf0228179.shtml)
+
+01/ [12月5日操盘必读：影响股市利好或利空消息](https://finance.sina.com.cn/stock/cpbd/2024-12-05/doc-incykhfu6776892.shtml)
+02/ [联合健康集团保险部门CEO在纽约被枪杀](https://finance.sina.com.cn/stock/usstock/c/2024-12-04/doc-incyimai3662942.shtml)
+03/ [多地房贷利率突然上涨！业内：部分银行是为缓解自身压力，“抓住了销售端回暖的有利环境”](https://finance.sina.com.cn/jjxw/2024-12-05/doc-incyirkf3553076.shtml)
+04/ [Sora概念股开盘大涨 华扬联众、中广天择双双涨停](https://finance.sina.com.cn/stock/2024-12-05/doc-incyknpq9899685.shtml)
+05/ [股海导航 12月5日沪深股市公告与交易提示](https://finance.sina.com.cn/stock/s/2024-12-05/doc-incykhfz0013573.shtml)
+06/ [突发！A股多只大牛股，跌停！](https://finance.sina.com.cn/stock/marketresearch/2024-12-05/doc-incyknpq9929350.shtml)
+07/ [利好来了！券商龙头股被险资举牌！什么情况？](https://finance.sina.com.cn/stock/relnews/hk/2024-12-05/doc-incyizxz3330043.shtml)
+08/ [利好来了！券商龙头股 被险资举牌！](https://finance.sina.com.cn/stock/relnews/cn/2024-12-05/doc-incyirkf3550741.shtml)
+09/ [财经早报：富时罗素5个指数样本调整 多家A股公司计划春节前现金分红](https://finance.sina.com.cn/stock/y/2024-12-05/doc-incykhfu6771039.shtml)
+10/ [关键时刻，美联储释放重磅信号：可能暂停降息](https://finance.sina.com.cn/stock/zqgd/2024-12-04/doc-incyimai3657009.shtml)
+
+01/ [多名国有大行干部被查！](https://finance.sina.com.cn/money/bank/bank_hydt/2024-12-04/doc-incyimai3675457.shtml)
+02/ [理财和货基收益面临下滑 21万亿现金类产品如何应对同业存款新规冲击](https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcr2987013.shtml)
+03/ [质量至上、规模让位 理财公司监管评级办法呼之欲出](https://finance.sina.com.cn/jjxw/2024-12-05/doc-incyizyc0113649.shtml)
+04/ [中小银行理财业务谋突围：前有存量规模压降 后有风险识别挑战](https://finance.sina.com.cn/jjxw/2024-12-05/doc-incyizyc0113648.shtml)
+05/ [M1统计口径扩围背后：个人活期存款逐步成为流动性极强的支付工具](https://finance.sina.com.cn/money/bank/bank_hydt/2024-12-05/doc-incykhfu6772097.shtml)
+06/ [胡跃飞卸任平安理财董事长，正式告别平安银行系统，年内至少13家理财子董事长总裁生变](https://finance.sina.com.cn/roll/2024-12-04/doc-incyimai3648450.shtml)
+07/ [挂理财公司的牌 卖中小银行的产品 什么情况？](https://finance.sina.com.cn/jjxw/2024-12-05/doc-incyksvt3084069.shtml)
+08/ [事关明年基调！“支持性的货币政策”如何理解？](https://finance.sina.com.cn/jjxw/2024-12-04/doc-incyieum3770923.shtml)
+09/ [存款利率进入“1”时代，国有大行存款不香了？数字银行或成新宠](https://finance.sina.com.cn/money/bank/2024-12-05/doc-incyksvu9856590.shtml)
+10/ [两部门：引导信贷资金快速直达基层 支持小微企业融资协调工作机制走深走实](https://finance.sina.com.cn/roll/2024-12-05/doc-incyirki0344965.shtml)
+
+## [7X24小时](http://live.sina.com.cn/zt/f/v/finance/globalnews1)
+
+## [名 博](http://blog.sina.com.cn/lm/stock/)
+
+- [徐小明](http://live.finance.sina.com.cn/bozhu/1300871220)： [耐心等待市场底部结构形成](http://live.finance.sina.com.cn/bozhu/1300871220)
+- [冯矿伟](http://live.finance.sina.com.cn/bozhu/1504965870)： [三大指数在酝酿底部](http://live.finance.sina.com.cn/bozhu/1504965870)
+- [王继洲](http://live.finance.sina.com.cn/bozhu/2141337317)： [超跌反弹依然是市场主线](http://live.finance.sina.com.cn/bozhu/2141337317)
+- [趋势巡航](http://live.finance.sina.com.cn/bozhu/1658605145)： [短期调整或为更好上攻](http://live.finance.sina.com.cn/bozhu/1658605145)
+
+[徐小明](http://blog.sina.com.cn/u/1300871220) [凯恩斯](http://blog.sina.com.cn/u/1284139322) [占豪](http://blog.sina.com.cn/u/1298535315) [花荣](http://blog.sina.com.cn/u/1282871591) [金鼎](http://blog.sina.com.cn/s/articlelist_1394379401_0_1.html) [wu2198](http://blog.sina.com.cn/u/1216826604) [丁大卫](http://blog.sina.com.cn/s/articlelist_1307309734_0_1.html) [易宪容](http://blog.sina.com.cn/u/2377371197) [叶荣添](http://blog.sina.com.cn/u/1364334665) [沙黾农](http://blog.sina.com.cn/u/1279884602) [冯矿伟](http://blog.sina.com.cn/u/1504965870) [趋势之友](http://blog.sina.com.cn/s/articlelist_1638714710_0_1.html) [空空道人](http://blog.sina.com.cn/u/1236135807) [股市风云](http://blog.sina.com.cn/u/1285707277) [股海光头](http://blog.sina.com.cn/u/2949913420)
+
+[徐小明](http://blog.sina.com.cn/u/1300871220) [凯恩斯](http://blog.sina.com.cn/u/1284139322) [占豪](http://blog.sina.com.cn/u/1298535315) [花荣](http://blog.sina.com.cn/u/1282871591) [金鼎](http://blog.sina.com.cn/s/articlelist_1394379401_0_1.html) [wu2198](http://blog.sina.com.cn/u/1216826604) [丁大卫](http://blog.sina.com.cn/s/articlelist_1307309734_0_1.html) [易宪容](http://blog.sina.com.cn/u/2377371197) [叶荣添](http://blog.sina.com.cn/u/1364334665) [沙黾农](http://blog.sina.com.cn/u/1279884602) [冯矿伟](http://blog.sina.com.cn/u/1504965870) [趋势之友](http://blog.sina.com.cn/s/articlelist_1638714710_0_1.html) [空空道人](http://blog.sina.com.cn/u/1236135807) [股市风云](http://blog.sina.com.cn/u/1285707277) [股海光头](http://blog.sina.com.cn/u/2949913420)
+
+[![杨伟民](https://n.sinaimg.cn/zhuanlan/transform/170/w85h85/20221230/f01f-b20f33f6583ea1f69aefeedf1b86f051.jpg)杨伟民](https://finance.sina.com.cn/zl/author.d.html?uid=5120240476)[李庚南](http://zhuanlan.sina.com.cn/author/ligengnan/index.shtml)：
+[M1的扩容将改变什么？](http://finance.sina.com.cn/zl/china/2024-12-05/zl-incykxck9788237.shtml)
+[王剑](http://zhuanlan.sina.com.cn/author/wangjianc/index.shtml)：
+[为资本市场贷款正名](http://finance.sina.com.cn/zl/bank/2024-12-05/zl-incykxck9776109.shtml)
+[cf40](http://zhuanlan.sina.com.cn/author/ssrlt/index.shtml)：
+[房地产市场具备止跌回稳条件](http://finance.sina.com.cn/zl/china/2024-12-05/zl-incykhfz0023699.shtml)
+[刘元春](http://zhuanlan.sina.com.cn/author/liuyuanchun/index.shtml)：
+[中国宏观经济运行的新逻辑](http://finance.sina.com.cn/zl/china/2024-12-04/zl-incyhynk7376190.shtml)
+[蒋飞](https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml)：
+[新结构经济学VS定向技术模型](http://finance.sina.com.cn/zl/china/2024-12-04/zl-incyhpwt3979214.shtml)
+
+投资助手
+
+## 投资助手
+
+- 股票基金
+- 期货
+- 外汇
+- 黄金
+
+[交易提示](http://finance.sina.com.cn/stock/jyts/) [操盘必读](http://finance.sina.com.cn/stock/cpbd/) [证券报](http://finance.sina.com.cn/focus/zqbjh/) [最新公告](http://vip.stock.finance.sina.com.cn/corp/view/vCB_BulletinGather.php?stock_str=&gg_date=&ftype=0) [限售解禁](http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/xsjj/index.phtml) [数据中心](http://finance.sina.com.cn/data/) [条件选股](https://touzi.sina.com.cn/public/choose) [券商评级](http://stock.finance.sina.com.cn/stock/go.php/vIR_RatingNewest/index.phtml) [股价预测](http://stock.finance.sina.com.cn/stock/go.php/vIR_SumPrice/index.phtml) [板块行情](http://finance.sina.com.cn/stock/sl/) [千股千评](http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/qgqp/index.phtml?t=sh_a) [个股诊断](http://vip.stock.finance.sina.com.cn/q/go.php/vDYData/kind/znzd/index.phtml) [大宗交易](http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/dzjy/index.phtml) [财报查询](http://finance.sina.com.cn/realstock/income_statement/2017-03-31/issued_pdate_de_1.html) [业绩预告](http://vip.stock.finance.sina.com.cn/q/go.php/vFinanceAnalyze/kind/performance/index.phtml) [ETF期权](http://stock.finance.sina.com.cn/option/quotes.html) [类余额宝](http://finance.sina.com.cn/fund/box/) [基金净值](http://vip.stock.finance.sina.com.cn/fund_center/index.html#jzkfall) [基金对比](http://finance.sina.com.cn/money/fund/compare/) [基金排名](http://vip.stock.finance.sina.com.cn/fund_center/index.html#hbphall)
+
+[商品行情](http://finance.sina.com.cn/money/future/hangqing.shtml) [外盘期货](http://finance.sina.com.cn/money/future/hf.html) [商品持仓](http://vip.stock.finance.sina.com.cn/q/view/vFutures_Positions_cjcc.php) [现货报价](http://finance.sina.com.cn/futuremarket/spotprice.shtml#titlePos_4) [CFTC持仓](http://finance.sina.com.cn/futures/quotes/CFCTGC.shtml) [期指行情](http://vip.stock.finance.sina.com.cn/mkt/#qz_qh) [期指持仓](http://vip.stock.finance.sina.comcn/q/view/vCffex_Positions_cjcc.php) [期指研究](http://roll.finance.sina.com.cn/finance/gzqh/fxyj/index.shtml) [行业指数](http://finance.sina.com.cn/qizhi/hs300.html#gxzs) [权重股票](http://finance.sina.com.cn/qizhi/hs300.html#qz) [期货名人](http://finance.sina.com.cn/tblog/2011-06-20/166.html) [专家坐堂](http://biz.finance.sina.com.cn/futures/ask/) [高清解盘](http://slide.finance.sina.com.cn/i_list_9_38679.html) [期货入门](http://finance.sina.com.cn/futuremarket/help/1.html) [各国国债](http://finance.sina.com.cn/forex/bonds.shtml) [期市要闻](http://roll.finance.sina.com.cn/finance/qh/qsyw/index.shtml) [期货研究](http://roll.finance.sina.com.cn/finance/qh/pzyj/index.shtml) [机构评论](http://finance.sina.com.cn/futuremarket/comm_all.html) [品种大全](http://finance.sina.com.cn/futuremarket/help/15.html)
+
+[外汇计算器](http://finance.sina.com.cn/forex/jsq.html) [人民币牌价](http://finance.sina.com.cn/forex/paijia.html#0) [中间价](http://biz.finance.sina.com.cn/forex/forex.php) [美元指数](http://finance.sina.com.cn/money/forex/hq/DINIW.shtml) [直盘行情](http://vip.stock.finance.sina.com.cn/mkt/#jbhl_forex) [所有行情](http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#all_forex) [美元相关](http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#usd_forex) [人民币相关](http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#cny_forex) [交叉盘](http://vip.stock.finance.sina.com.cn/mkt/#jchl_forex) [拆借利率](http://finance.sina.com.cn/money/globalindex/ibor.shtml) [货币分析](http://roll.finance.sina.com.cn/finance/wh/hbfx/index.shtml) [机构观点](http://roll.finance.sina.com.cn/finance/wh/fxyc/index.shtml) [经济数据](http://money.finance.sina.com.cn/forex/view/vDailyFX_Detail.php?country=%C3%C0%B9%FA&event=ISM%D6%C6%D4%EC%D2%B5%D6%B8%CA%FD) [专家坐堂](http://biz.finance.sina.com.cn/forex/ask/index.php) [分析师圈](http://finance.sina.com.cn/focus/fxanalyst/) [国债收益率](http://finance.sina.com.cn/forex/bonds.shtml) [全球滚动](http://roll.finance.sina.com.cn/finance/wh/index.shtml) [CFTC持仓](http://finance.sina.com.cn/money/forex/hq/CFTCDINIW.shtml) [比特币](http://finance.sina.com.cn/money/forex/hq/BTCbtcchina.shtml)
+
+[外汇计算器](http://finance.sina.com.cn/forex/jsq.html) [黄金资讯](http://roll.finance.sina.com.cn/finance/gjs/hjzx/index.shtml) [白银分析](http://roll.finance.sina.com.cn/finance/gjs/byfx/index.shtml) [实物金价](http://vip.stock.finance.sina.com.cn/q/view/vGold_Matter_History.php) [ETF持仓](http://stock.finance.sina.com.cn/futures/view/vGoldEtf.php) [黄金TD](http://finance.sina.com.cn/money/gold/AUTD/quote.shtml) [白银TD](http://finance.sina.com.cn/money/gold/AGTD/quote.shtml) [金银币](http://roll.finance.sina.com.cn/finance/gjs/jyb/index.shtml) [专家坐堂](http://biz.finance.sina.com.cn/zjzt/gold_2014.php) [基础知识](http://roll.finance.sina.com.cn/finance/gjs/tzzs/index.shtml) [现货黄金](http://finance.sina.com.cn/futures/quotes/XAU.shtml) [现货白银](http://finance.sina.com.cn/futures/quotes/XAG.shtml) [现货铂金](http://finance.sina.com.cn/futures/quotes/XPT.shtml) [现货钯金](http://finance.sina.com.cn/futures/quotes/XPD.shtml) [高清解盘](http://slide.finance.sina.com.cn/i_list_9_34353.html) [黄金吧](http://guba.sina.com.cn/?s=bar&bid=9111) [白银吧](http://guba.sina.com.cn/?s=bar&name=ag0) [黄金分析](http://roll.finance.sina.com.cn/finance/gjs/hjfx/index.shtml) [CFTC持仓](http://finance.sina.com.cn/futures/quotes/CFCTGC.shtml)
+
+[交易提示](http://finance.sina.com.cn/stock/jyts/) [操盘必读](http://finance.sina.com.cn/stock/cpbd/) [证券报](http://finance.sina.com.cn/focus/zqbjh/) [最新公告](http://vip.stock.finance.sina.com.cn/corp/view/vCB_BulletinGather.php?stock_str=&gg_date=&ftype=0) [限售解禁](http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/xsjj/index.phtml) [数据中心](http://finance.sina.com.cn/data/) [条件选股](https://touzi.sina.com.cn/public/choose) [券商评级](http://stock.finance.sina.com.cn/stock/go.php/vIR_RatingNewest/index.phtml) [股价预测](http://stock.finance.sina.com.cn/stock/go.php/vIR_SumPrice/index.phtml) [板块行情](http://finance.sina.com.cn/stock/sl/) [千股千评](http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/qgqp/index.phtml?t=sh_a) [个股诊断](http://vip.stock.finance.sina.com.cn/q/go.php/vDYData/kind/znzd/index.phtml) [大宗交易](http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/dzjy/index.phtml) [财报查询](http://finance.sina.com.cn/realstock/income_statement/2017-03-31/issued_pdate_de_1.html) [业绩预告](http://vip.stock.finance.sina.com.cn/q/go.php/vFinanceAnalyze/kind/performance/index.phtml) [ETF期权](http://stock.finance.sina.com.cn/option/quotes.html) [类余额宝](http://finance.sina.com.cn/fund/box/) [基金净值](http://vip.stock.finance.sina.com.cn/fund_center/index.html#jzkfall) [基金对比](http://finance.sina.com.cn/money/fund/compare/) [基金排名](http://vip.stock.finance.sina.com.cn/fund_center/index.html#hbphall) [商品行情](http://finance.sina.com.cn/money/future/hangqing.shtml) [外盘期货](http://finance.sina.com.cn/money/future/hf.html) [商品持仓](http://vip.stock.finance.sina.com.cn/q/view/vFutures_Positions_cjcc.php) [现货报价](http://finance.sina.com.cn/futuremarket/spotprice.shtml#titlePos_4) [CFTC持仓](http://finance.sina.com.cn/futures/quotes/CFCTGC.shtml) [期指行情](http://vip.stock.finance.sina.com.cn/mkt/#qz_qh) [期指持仓](http://vip.stock.finance.sina.comcn/q/view/vCffex_Positions_cjcc.php) [期指研究](http://roll.finance.sina.com.cn/finance/gzqh/fxyj/index.shtml) [行业指数](http://finance.sina.com.cn/qizhi/hs300.html#gxzs) [权重股票](http://finance.sina.com.cn/qizhi/hs300.html#qz) [期货名人](http://finance.sina.com.cn/tblog/2011-06-20/166.html) [专家坐堂](http://biz.finance.sina.com.cn/futures/ask/) [高清解盘](http://slide.finance.sina.com.cn/i_list_9_38679.html) [期货入门](http://finance.sina.com.cn/futuremarket/help/1.html) [各国国债](http://finance.sina.com.cn/forex/bonds.shtml) [期市要闻](http://roll.finance.sina.com.cn/finance/qh/qsyw/index.shtml) [期货研究](http://roll.finance.sina.com.cn/finance/qh/pzyj/index.shtml) [机构评论](http://finance.sina.com.cn/futuremarket/comm_all.html) [品种大全](http://finance.sina.com.cn/futuremarket/help/15.html) [外汇计算器](http://finance.sina.com.cn/forex/jsq.html) [人民币牌价](http://finance.sina.com.cn/forex/paijia.html#0) [中间价](http://biz.finance.sina.com.cn/forex/forex.php) [美元指数](http://finance.sina.com.cn/money/forex/hq/DINIW.shtml) [直盘行情](http://vip.stock.finance.sina.com.cn/mkt/#jbhl_forex) [所有行情](http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#all_forex) [美元相关](http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#usd_forex) [人民币相关](http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#cny_forex) [交叉盘](http://vip.stock.finance.sina.com.cn/mkt/#jchl_forex) [拆借利率](http://finance.sina.com.cn/money/globalindex/ibor.shtml) [货币分析](http://roll.finance.sina.com.cn/finance/wh/hbfx/index.shtml) [机构观点](http://roll.finance.sina.com.cn/finance/wh/fxyc/index.shtml) [经济数据](http://money.finance.sina.com.cn/forex/view/vDailyFX_Detail.php?country=%C3%C0%B9%FA&event=ISM%D6%C6%D4%EC%D2%B5%D6%B8%CA%FD) [专家坐堂](http://biz.finance.sina.com.cn/forex/ask/index.php) [分析师圈](http://finance.sina.com.cn/focus/fxanalyst/) [国债收益率](http://finance.sina.com.cn/forex/bonds.shtml) [全球滚动](http://roll.finance.sina.com.cn/finance/wh/index.shtml) [CFTC持仓](http://finance.sina.com.cn/money/forex/hq/CFTCDINIW.shtml) [比特币](http://finance.sina.com.cn/money/forex/hq/BTCbtcchina.shtml) [外汇计算器](http://finance.sina.com.cn/forex/jsq.html) [黄金资讯](http://roll.finance.sina.com.cn/finance/gjs/hjzx/index.shtml) [白银分析](http://roll.finance.sina.com.cn/finance/gjs/byfx/index.shtml) [实物金价](http://vip.stock.finance.sina.com.cn/q/view/vGold_Matter_History.php) [ETF持仓](http://stock.finance.sina.com.cn/futures/view/vGoldEtf.php) [黄金TD](http://finance.sina.com.cn/money/gold/AUTD/quote.shtml) [白银TD](http://finance.sina.com.cn/money/gold/AGTD/quote.shtml) [金银币](http://roll.finance.sina.com.cn/finance/gjs/jyb/index.shtml) [专家坐堂](http://biz.finance.sina.com.cn/zjzt/gold_2014.php) [基础知识](http://roll.finance.sina.com.cn/finance/gjs/tzzs/index.shtml) [现货黄金](http://finance.sina.com.cn/futures/quotes/XAU.shtml) [现货白银](http://finance.sina.com.cn/futures/quotes/XAG.shtml) [现货铂金](http://finance.sina.com.cn/futures/quotes/XPT.shtml) [现货钯金](http://finance.sina.com.cn/futures/quotes/XPD.shtml) [高清解盘](http://slide.finance.sina.com.cn/i_list_9_34353.html) [黄金吧](http://guba.sina.com.cn/?s=bar&bid=9111) [白银吧](http://guba.sina.com.cn/?s=bar&name=ag0) [黄金分析](http://roll.finance.sina.com.cn/finance/gjs/hjfx/index.shtml) [CFTC持仓](http://finance.sina.com.cn/futures/quotes/CFCTGC.shtml)
+
+博客看市
+
+## [博客看市](http://blog.sina.com.cn/lm/stock/)
+
+- [黄智华 ：市场挖掘业绩确定性强的品种](https://weibo.com/ttarticle/x/m/show#/id=2309405291597670777254)
+- [carfield\_ball ：算力赛道利好密集释放，量化识别资金共识](https://weibo.com/ttarticle/x/m/show#/id=2309405291592897921178)
+- [露风清扬 ：机器人赛道升温，量化数据看清机构的押宝](https://weibo.com/ttarticle/x/m/show#/id=2309405291585096515936)
+- [贾绅士爱财 ：航天利好连续不断，炒作多看数据别上当](https://weibo.com/ttarticle/x/m/show#/id=2309405291577798426793)
+- [概念爱好者 ：光纤行业升温，量化数据还原交易本质](https://weibo.com/ttarticle/x/m/show#/id=2309405291570248679434)
+- [概念爱好者 ：炒AI追热点，看数据更靠谱](https://weibo.com/ttarticle/x/m/show#/id=2309405291566721270007)
+- [清萍末弈风 ：AI利好接连不断，数据看懂真实动向](https://weibo.com/ttarticle/x/m/show#/id=2309405291562702864403)
+- [一点财经 ：离职潮席卷东方甄选，俞敏洪一人扛下所有](https://weibo.com/ttarticle/x/m/show#/id=2309405291556046766357)
+- [卖在无人问津时 ：光纤板块升温，数据识破空涨虚跌](https://weibo.com/ttarticle/x/m/show#/id=2309405291555396386975)
+- [守望云图 ：航天赛道利好频出，这轮反击能到哪里？](https://weibo.com/ttarticle/x/m/show#/id=2309405291555148923073)
+- [是尤里乌呀 ：REITs版图扩充，用量化数据看清交易逻辑](https://weibo.com/ttarticle/x/m/show#/id=2309405291551374311677)
+- [数钱老克勒 ：公募持仓分化，量化数据辨虚实](https://weibo.com/ttarticle/x/m/show#/id=2309405291547850833949)
+- [露风清扬 ：板块轮动是噱头吗，量化视角看清为何科技股风景独好？](https://weibo.com/ttarticle/x/m/show#/id=2309405291547595243714)
+- [倒骑牛上山 ：4000点上波动加大，良好心态建立在数据上](https://weibo.com/ttarticle/x/m/show#/id=2309405291543828758587)
+- [贾绅士爱财 ：机器人赛道火热，量化数据辨明真跌假跌](https://weibo.com/ttarticle/x/m/show#/id=2309405291540301348995)
+
+[叶檀](http://blog.sina.com.cn/s/articlelist_1233227211_0_1.html) [凯恩斯](http://blog.sina.com.cn/s/articlelist_1284139322_0_1.html) [曹中铭](http://blog.sina.com.cn/s/articlelist_1095876111_0_1.html) [股民大张](http://blog.sina.com.cn/s/articlelist_1278226564_0_1.html) [宇辉战舰](http://blog.sina.com.cn/s/articlelist_1068385283_0_1.html) [股市风云](http://blog.sina.com.cn/s/articlelist_1285707277_0_1.html) [余岳桐](http://blog.sina.com.cn/s/articlelist_1283087143_0_1.html) [股海战神](http://blog.sina.com.cn/s/articlelist_6174896504_0_1.html) [郭一鸣](http://blog.sina.com.cn/s/articlelist_2620383855_0_1.html) [赵力行](http://blog.sina.com.cn/s/articlelist_1778926481_0_1.html)
+
+天下财经
+
+[叶檀](http://blog.sina.com.cn/s/articlelist_1233227211_0_1.html) [凯恩斯](http://blog.sina.com.cn/s/articlelist_1284139322_0_1.html) [曹中铭](http://blog.sina.com.cn/s/articlelist_1095876111_0_1.html) [股民大张](http://blog.sina.com.cn/s/articlelist_1278226564_0_1.html) [宇辉战舰](http://blog.sina.com.cn/s/articlelist_1068385283_0_1.html) [股市风云](http://blog.sina.com.cn/s/articlelist_1285707277_0_1.html) [余岳桐](http://blog.sina.com.cn/s/articlelist_1283087143_0_1.html) [股海战神](http://blog.sina.com.cn/s/articlelist_6174896504_0_1.html) [郭一鸣](http://blog.sina.com.cn/s/articlelist_2620383855_0_1.html) [赵力行](http://blog.sina.com.cn/s/articlelist_1778926481_0_1.html)
+
+推荐视频
+
+[![董明珠还能为格力奋战多久？|《至少一个小时》](https://n.sinaimg.cn/finance/transform/525/w300h225/20201030/ecb0-kcaeqzy3436531.jpg)](https://finance.sina.com.cn/onehour/2020-10-20/doc-iivhvpwz1605853.shtml)[董明珠还能为格力奋战多久？\|《至少一个小时》](https://finance.sina.com.cn/onehour/2020-10-20/doc-iivhvpwz1605853.shtml)
+
+[![梁建章：中国人口衰竭的速度前所未有](https://n.sinaimg.cn/finance/transform/525/w300h225/20201030/75b9-kcaeqzy3438114.jpg)](https://finance.sina.com.cn/onehour/2020-06-18/doc-iircuyvi6164573.shtml)[梁建章：中国人口衰竭的速度前所未有](https://finance.sina.com.cn/onehour/2020-06-18/doc-iircuyvi6164573.shtml)
+
+[![冷友斌回应网友质疑：说价格高 对飞鹤不公平！](https://n.sinaimg.cn/finance/transform/525/w300h225/20201030/c485-kcaeqzy3442305.jpg)](https://finance.sina.com.cn/onehour/2020-05-15/doc-iirczymk1670659.shtml)[冷友斌回应网友质疑：说价格高 对飞鹤不公平！](https://finance.sina.com.cn/onehour/2020-05-15/doc-iirczymk1670659.shtml)
+
+[![王中军：我喜欢比较“江湖”一点的人](https://n.sinaimg.cn/finance/transform/525/w300h225/20201030/a563-kcaeqzy3444360.jpg)](https://finance.sina.com.cn/onehour/2020-04-09/doc-iimxyqwa5514143.shtml)[王中军：我喜欢比较“江湖”一点的人](https://finance.sina.com.cn/onehour/2020-04-09/doc-iimxyqwa5514143.shtml)
+
+## [股市汇精选](http://guba.sina.com.cn/)
+
+- [趋势领涨 ：科技放大招 雷声滚滚 周末消息解读](https://live.finance.sina.com.cn/bozhu/1658605145)
+- [徐小明 ：依旧建议持股](https://live.finance.sina.com.cn/bozhu/1300871220)
+- [冯矿伟 ：方向还是向上的，消化压力中。](https://live.finance.sina.com.cn/bozhu/1504965870)
+- [趋势领涨 ：新能源放大招 晚间重大消息](https://live.finance.sina.com.cn/bozhu/1658605145)
+- [趋势起航 ：闯关失败 周五市场如何走？](https://live.finance.sina.com.cn/bozhu/5306597815)
+- [北京红竹 ：聚焦航天，即将加速？](https://live.finance.sina.com.cn/bozhu/2910812187)
+- [数字江恩 ：4070决定日内震荡强弱](https://live.finance.sina.com.cn/bozhu/2342117515)
+- [东方红老陈 ：美伊不消停，全球调整](https://live.finance.sina.com.cn/bozhu/1877471117)
+
+[7x24快讯](http://guba.sina.com.cn/u/3031084391)： [9月19日沪深两市涨停分析](https://guba.sina.com.cn/?s=thread&tid=3456892&bid=9279&dpc=1)
+[非凡哥哥samm](http://guba.sina.com.cn/u/7242761149)： [不想做任何操作](https://guba.sina.com.cn/?s=thread&tid=3456767&bid=9279&dpc=1)
+[飞我eight](http://guba.sina.com.cn/u/6478109017)： [今天才这点成交量](https://guba.sina.com.cn/?s=thread&tid=3456757&bid=9279&dpc=1)
+[和你天天向上](http://guba.sina.com.cn/u/7505349124)： [全部清除了 一分不剩](https://guba.sina.com.cn/?s=thread&tid=3456698&bid=9279&dpc=1)
+[用户7048726012](http://guba.sina.com.cn/u/7048726012)： [想红但是又有点怕羞](https://guba.sina.com.cn/?s=thread&tid=3456640&bid=9279&dpc=1)
+[江东子弟93949](http://guba.sina.com.cn/u/5554913071)： [还对中芯抱有幻想的人](https://guba.sina.com.cn/?s=thread&tid=3456639&bid=9279&dpc=1)
+[和你天天向上](http://guba.sina.com.cn/u/7505349124)： [拉升一下吧 给我清仓的机会](https://guba.sina.com.cn/?s=thread&tid=3456602&bid=9279&dpc=1)
+[用户7763476192](http://guba.sina.com.cn/u/7763476192)： [再玩下去6000亿都守不住了，没人玩了](https://guba.sina.com.cn/?s=thread&tid=3456728&bid=9279&dpc=1)
+
+12-13中力股份603194--
+12-09博科测试30159838.46
+12-06蓝宇股份30158523.95
+12-02先锋精科68860511.29
+11-29博苑股份30161727.76

@@ -1,0 +1,421 @@
+导航区(0)
+
+ALT+1视窗区(0)
+
+ALT+2交互区(0)
+
+ALT+3服务区(0)
+
+ALT+4列表区(0)
+
+ALT+5正文区(0)
+
+ALT+6开启显示开启大鼠标开启辅助线黑底白字语速正常开启静音开启指读开启连读字号放大字号缩小页面放大页面缩小重置 [操作说明](https://wza.xinmeinet.cn/help.html "无障碍操作说明")快捷方式开启读屏退出
+
+开启无障碍  返回顶部
+
+字号(默认)朗读(禁用)配色(默认)退出
+
+![](https://www.wuhan.gov.cn/material/2024/imgs/wechat_qr.png)
+
+![](https://www.wuhan.gov.cn/material/2024/imgs/app_qr.png)
+
+[中国政府网](https://www.gov.cn/) [湖北省政府网](https://www.hubei.gov.cn/)
+
+[中文](https://www.wuhan.gov.cn/) \| [ENGLISH](https://english.wuhan.gov.cn/) \| [FRANÇAIS](https://french.wuhan.gov.cn/) \| [日本語](https://japanese.wuhan.gov.cn/) \| [한국어](https://korean.wuhan.gov.cn/) \| [DEUTSCH](https://german.wuhan.gov.cn/)个人中心\|无障碍\| [长者版](https://www.wuhan.gov.cn/zmode/)
+
+[![](https://www.wuhan.gov.cn/material/2025/img/menu-1.png)首页](https://www.wuhan.gov.cn/) [![](https://www.wuhan.gov.cn/material/2025/img/menu-2.png)政务公开](https://www.wuhan.gov.cn/zwgk/?channelid=26164) [![](https://www.wuhan.gov.cn/material/2025/img/menu-3.png)政务服务](https://www.wuhan.gov.cn/bsfw/) [![](https://www.wuhan.gov.cn/material/2025/img/menu-4.png)政民互动](https://www.wuhan.gov.cn/hdjl/) [![](https://www.wuhan.gov.cn/material/2025/img/menu-5.png)走进武汉](https://www.wuhan.gov.cn/zjwh/) [![](https://www.wuhan.gov.cn/material/2025/img/menu-6.png)数据开放](http://data.wuhan.gov.cn/)
+
+2655098
+
+市人民政府关于印发武汉市氢能产业发展三年行动方案（2025—2027年）的通知
+
+20
+
+2025-09-29
+
+26212
+
+规范性文件
+
+![](https://www.wuhan.gov.cn/material/images/blue/16/home-1.png)[信息公开](https://www.wuhan.gov.cn/zwgk/ "信息公开") / [法定主动公开](https://www.wuhan.gov.cn/zwgk/xxgk/ "法定主动公开") / [政府文件](https://www.wuhan.gov.cn/zwgk/xxgk/zfwj/ "政府文件") / [规范性文件](https://www.wuhan.gov.cn/zwgk/xxgk/zfwj/gfxwj/ "规范性文件")
+
+![AI政策解读](https://www.wuhan.gov.cn/material/images/ai_btn_zcjd.png)
+
+## 市人民政府关于印发武汉市氢能产业发展三年行动方案（2025—2027年）的通知
+
+- 索引号：
+K28044908/2025-24364
+
+- 发文机构：
+武汉市人民政府
+
+- 发文字号：
+武政规〔2025〕9号
+
+- 主题分类：
+国土资源、能源
+
+- 成文日期：
+2025年09月20日
+
+- 发布日期：
+2025年09月29日
+
+- 有效性：有效
+
+各区人民政府，市人民政府各部门：
+
+经研究，现将《武汉市氢能产业发展三年行动方案（2025—2027年）》印发给你们，请认真组织实施。
+
+武汉市人民政府
+
+2025年9月20日
+
+**武汉市氢能产业发展三年行动方案**
+
+**（2025—2027年）**
+
+为贯彻落实国家和省关于加快推动氢能产业高质量发展工作部署，构建清洁低碳安全高效的能源体系，培育壮大氢能产业，结合我市实际，特制定本方案。
+
+**一、工作目标**
+
+推动科技创新和产业创新深度融合，健全完善氢能“制储运加用”全产业链体系，构建“一核（武汉经开区）一都（青山区）两翼（东湖高新区、东西湖区）”的氢能产业高质量发展集聚区，力争到2027年将我市打造成为全国重要的氢能装备中心、氢能枢纽城市。
+
+——产业规模倍增。全市氢能产业总产值达到200亿元，其中，氢能汽车、应用装备及零部件产值达到120亿元，培育引进国内氢能行业头部企业6家以上、氢能产业规上企业50家以上。
+
+——创新能力跃升。突破氢能产业重点领域关键核心技术5项，创建6个省级及以上氢能产业创新平台，质子交换膜、膜电极、电解槽、电堆、液态储氢、掺氢／氨燃烧等技术指标达到国际先进水平，形成6项以上国家示范产业标准和规范，氢燃料电池及汽车研发与应用在国内保持领先地位。
+
+——氢能应用广泛。优化氢源供给结构，形成化石能源制氢、可再生能源制氢等多元化供给体系，氢气总产能达到40万吨／年。打造沿三环线、四环线加氢环线，全市建成加氢站20座。推动氢能在交通、工业、能源等多领域应用，燃料电池汽车推广突破2500辆。
+
+**二、重点任务**
+
+（一）坚持创新驱动，推动核心技术攻关
+
+1．加快关键核心技术攻关。围绕“制储运加用”全产业链重点环节，面向质子交换膜、高压储氢容器、氢气压缩机、燃料电池电堆、制氢控制电源等核心技术组织实施关键技术攻关，对纳入市重点研发计划的项目按照规定给予最高80万元支持。对企业牵头承担的氢能领域国家科技创新2030－重大项目、国家科技重大专项、国家重点研发计划项目，按照规定给予国家拨付资金最高50％、单个项目最高500万元支持。（牵头单位：市科创局；责任单位：市发改委、市经信局、市财政局，相关区人民政府〈含开发区、长江新区、风景区管委会，下同〉）
+
+2．支持科技成果转化。加快推动高校、科研院所、企业科技成果转化和创新技术应用，对氢能领域新获批建设的全国重点实验室、国家产业创新中心、技术创新中心、工程研究中心，按照规定给予1000万元支持。落实首台（套）重大技术装备、首批次新材料创新发展和推广应用政策，制定配套措施支持中试平台建设升级。（牵头单位：市科创局；责任单位：市发改委、市经信局、市财政局，相关区人民政府）
+
+3．完善提升标准体系与检测能力。支持氢能企业、高校、科研院所等参与或者主导制定氢能产业标准，重点支持可再生能源制氢、氢能安全高效储运、清洁低碳氢能多元化应用等领域标准的制定，完善氢能产业标准体系。健全完善检验检测体系，依托有资质的检验检测机构开展燃料电池、电堆、模块、氢瓶等氢能装备检测服务。（牵头单位：市市场监管局；责任单位：市发改委、市经信局、市财政局，相关区人民政府）
+
+（二）坚持协同发展，提升产业链供应链韧性
+
+4．加大企业引育和项目建设力度。瞄准燃料电池、制氢装备等优势领域，推动符合条件的“金种子”“银种子”企业上市。瞄准可再生能源制氢、氢储运等潜力领域，培育一批专精特新“小巨人”、制造业单项冠军、独角兽、科技领军企业，对首次获得国家级专精特新“小巨人”、国家级单项冠军的氢能企业按照规定给予奖励。瞄准深冷高压储氢、固态储氢、加注设备、制加氢一体化设备、移动式加氢等短板领域，招引一批国内氢能行业头部企业和重点产业项目。积极谋划“氢化长江”等重点项目，争取全市在建的氢能产业项目纳入国家、省重点研发计划、制造业高质量发展专项等。（牵头单位：市发改委；责任单位：市委金融办，市经信局、市应急局、市财政局、市投资促进局、市科创局，相关区人民政府）
+
+5．加快氢能装备和燃料电池汽车发展。加快氢能装备智能制造零碳产业园、氢能科技产业园建设，推动氢气储运配套装备发展，加快液氢罐箱运输技术产业化，支持液态有机溶剂储氢装备应用，加大制氢电解槽、氢气压缩机等重点产品研发生产力度。优化氢能装备生产企业奖励政策措施。对燃料电池整车研发、批量化生产企业以及推广应用企业，参照国家燃料电池汽车示范应用城市群奖励办法给予奖励。（牵头单位：市经信局；责任单位：市发改委、市财政局，相关区人民政府）
+
+6．推进加氢基础设施建设。按照适度超前原则编制加氢站建设规划，简化审批流程，优先支持三环线、四环线加氢站点基础设施建设，打造加氢环线。鼓励现有加油（气）站改（扩）建加氢设施，建设“油气氢电”综合能源补给站，对新建（含已建）和改建的加氢站，按规定给予200万元一次性建设补贴，对站内制氢设备投资额外给予设备购置成本50％、不超过200万元的资金补贴。降低加氢站运营成本，对日加氢能力不低于500千克且销售价格不高于25元／千克的加氢站，根据年度加氢消纳量，按照20元／千克的标准给予每年度最高300万元的运营补贴。（牵头单位：市城管执法委；责任单位：市发改委、市自然资源和城建局、市财政局、市应急局，相关区人民政府）
+
+7．构建氢源供给保障体系。提高制氢效率，降低制氢成本，建设一批氢源供应示范基地。扩大“灰氢”供应，探索化工园区“一区多园”政策，支持企业利用现有氯碱、焦炉煤气、炼化等资源提纯工业副产氢。鼓励“绿氢”制取，落实“绿氢”生产不需取得危险化学品安全生产许可规定，鼓励企业开展离网制氢、生物质制氢、餐厨垃圾制氢等“绿氢”制取新技术应用。支持有条件的区在化工园区外建设制加绿氢一体化试点项目。优化都市圈协同发展机制，强化与黄石、潜江、孝感等周边城市协作，形成氢气区域供给体系。（牵头单位：市发改委；责任单位：市经信局、市财政局、市科创局、市自然资源和城建局、市生态环境局、市城管执法委、市交通运输局、市应急局，相关区人民政府）
+
+（三）坚持应用拓展，构建多元化示范场景
+
+8．推动工业领域替代应用。发挥工业副产氢禀赋优势，推进工业副产氢就近消纳。支持钢铁企业以氢作为还原剂开展氢冶金技术研发应用，促进钢铁行业深度脱碳和清洁能源替代。引导石化企业拓展富氢原料来源，推动石化原料轻质化，扩大化工领域氢能替代化石能源的应用规模。（牵头单位：市经信局；责任单位：市发改委、市应急局、市生态环境局，青山区人民政府）
+
+9．拓展交通领域示范应用。开展交通领域场景应用示范，重点鼓励重载商用车、冷链物流车等氢燃料电池、醇氢电动车辆在国家骨干冷链物流基地推广使用，积极探索氢燃料电池、醇氢电动车辆在公交、通勤、城市配送、园林绿化、渣土运输等领域推广使用，对典型应用示范场景给予奖励。落实省内高速公路通行费支持政策。（牵头单位：市交通运输局；责任单位：市发改委、市财政局、市园林林业局、市城管执法委、市公安局交通管理局，武汉公交集团，相关区人民政府）
+
+10．探索能源领域推广应用。推动氢能在可再生能源消纳、电网调峰等场景示范应用。鼓励在有条件的旅游景区、产业园区、医疗机构等区域开展分布式氢能发电、氢能备用电源、光氢储微网供能、虚拟电厂、应急电源、备灾电源等应用。（牵头单位：市发改委；责任单位：市经信局、市文旅局、市卫生健康委，武汉供电公司、武汉城投集团，相关区人民政府）
+
+11．构建多元化应用集聚区。积极争取纳入国家燃料电池汽车示范应用城市群、国家能源领域氢能区域试点。支持在应急救援、园区空域巡检、低空飞行表演等领域开展氢能无人机应用示范。鼓励在城区、高校、旅游景区等区域开展氢燃料电池二轮车、旅游观光车应用示范。鼓励在长江、汉江、东湖、汤逊湖等主要河流、湖泊水域开展醇氢电动、氢燃料等绿色动力船舶技术研发及应用示范，探索拓展氢能技术军民融合应用场景。探索天然气掺氢燃烧应用示范。因地制宜推广多种氢能应用场景，支持有基础、有条件的区申报市级示范区，对获批市级示范区的区给予奖励。（牵头单位：市发改委；责任单位：市财政局、市经信局、市科创局、市公安局交通管理局、市城管执法委、市交通运输局、市教育局、市文旅局、市水务局，武汉城投集团，相关区人民政府）
+
+（四）坚持政策保障，健全资金人才链支撑体系
+
+12．完善金融政策体系。发挥财政资金引导和产业基金撬动作用，对接省级氢能产业投资基金，推动形成氢能科创、孵化、加速和上市培育全过程资金需求的基金矩阵，引导国资和社会资本通过产业基金形式参与全市氢能产业相关项目。为符合条件的氢能企业提供数据增信和信用评价服务。鼓励通过融资租赁、汽车租赁等形式提高氢能汽车应用比例。（牵头单位：市财政局；责任单位：市委金融办，市发改委、市经信局、市投资促进局、市政府国资委，武汉投控集团，相关区人民政府）
+
+13．加强人才政策支持。加强氢能产业智力支撑，支持氢能领域高层次人才申报“武汉英才”计划。鼓励武汉人才创新投资基金择优投资氢能产业人才创新创业项目，激发人才创新创业动能。深化产教融合，支持高等院校、科研机构加快氢能产业人才梯队培养，依托氢能重大项目培育一批复合型领军人才，支持氢能企业、研究院所培育氢能技术及装备专业创新研发人才。（牵头单位：市发改委；责任单位：市人才工作局，市经信局、市科创局、市教育局，相关区人民政府）
+
+**三、工作要求**
+
+建立完善氢能产业“链长＋链主＋链创”工作机制，成立氢能产业联盟，加强氢能产业国际合作交流，推动企业强强联合，强化上下游合作共赢，促进氢能产业协同发展。各区各部门和单位结合职能职责，对照年度重点任务清单，细化工作措施，扎实推进各项任务落实落地。鼓励有条件的区参照市级奖补政策，按照1∶1的比例给予奖补。各区落实属地安全风险监管责任，推进涉氢企业安全风险分级管控。
+
+同一企业、同一项目同时符合本政策多项奖项条款或者本市其他支持政策规定的，按照就高不重复的原则予以执行；涉及资金奖补支持的，由责任单位制定具体实施细则。本方案自2025年10月25日起施行，有效期至2027年12月31日。
+
+【 打印 】【 下载 】【 扫一扫 】
+
+
+【 收藏 】
+
+扫一扫在手机上查看当前页面
+
+武汉市人民政府微信公众号
+
+## 附件：
+
+- [武政规〔2025〕9号—市人民政府关于印发武汉市氢能产业发展三年行动方案（2025—2027年）的通知.pdf](https://www.wuhan.gov.cn/zwgk/xxgk/zfwj/gfxwj/202509/P020250929557826124105.pdf)
+
+相关解读
+
+- [【部门】《市人民政府关于印发武汉市氢能产业发展三年行动方案（2025—2027年）的通知》政策解读](https://www.wuhan.gov.cn/zwgk/xxgk/zcjd/bmjd/202511/t20251118_2679664.shtml " 【部门】《市人民政府关于印发武汉市氢能产业发展三年行动方案（2025—2027年）的通知》政策解读")
+2025-10-08
+
+关联政策
+
+关联内容
+
+相关文章
+
+国家部委网站
+
+
+省级政府网站
+
+
+省会（副省级）城市网站
+
+
+省内地级以上市州网站
+
+
+本市政府网站
+
+
+- [外交部](https://www.fmprc.gov.cn/web/)
+- [国防部](http://www.mod.gov.cn/)
+- [国家发展和改革委员会](https://www.ndrc.gov.cn/)
+- [教育部](http://www.moe.gov.cn/)
+- [科学技术部](https://www.most.gov.cn/index.html)
+- [工业和信息化部](https://www.miit.gov.cn/)
+- [国家民族事务委员会](https://www.neac.gov.cn/)
+- [公安部](https://www.mps.gov.cn/)
+- 国家安全部
+- [民政部](https://www.mca.gov.cn/)
+- [司法部](http://www.moj.gov.cn/)
+- [财政部](http://www.mof.gov.cn/index.htm)
+- [人力资源和社会保障部](http://www.mohrss.gov.cn/)
+- [自然资源部](https://www.mnr.gov.cn/)
+- [生态环境部](https://www.mee.gov.cn/)
+- [住房和城乡建设部](https://www.mohurd.gov.cn/)
+- [交通运输部](https://www.mot.gov.cn/)
+- [水利部](http://www.mwr.gov.cn/)
+- [农业农村部](http://www.moa.gov.cn/)
+- [商务部](http://www.mofcom.gov.cn/)
+- [文化和旅游部](https://www.mct.gov.cn/)
+- [国家卫生健康委员会](http://www.nhc.gov.cn/)
+- [退役军人事务部](http://www.mva.gov.cn/)
+- [应急管理部](https://www.mem.gov.cn/)
+- [中国人民银行](http://www.pbc.gov.cn/)
+- [审计署](https://www.audit.gov.cn/)
+- [国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language/)
+- [国家航天局](http://www.cnsa.gov.cn/)
+- [国家原子能机构](http://www.caea.gov.cn/)
+- 国家外国专家局
+- 国家海洋局
+- [国家核安全局](https://nnsa.mee.gov.cn/)
+- 国家乡村振兴局
+- [国务院国有资产监督管理委员会](http://www.sasac.gov.cn/)
+- [海关总署](http://www.customs.gov.cn/)
+- [国家税务总局](http://www.chinatax.gov.cn/)
+- [国家市场监督管理总局](https://www.samr.gov.cn/)
+- [国家金融监督管理总局](https://www.nfra.gov.cn/cn/view/pages/index/index.html)
+- [中国证券监督管理委员会](http://www.csrc.gov.cn/)
+- [国家广播电视总局](http://www.nrta.gov.cn/)
+- [国家体育总局](https://www.sport.gov.cn/)
+- [国家信访局](https://www.gjxfj.gov.cn/gjxfj/index.htm)
+- [国家统计局](http://www.stats.gov.cn/)
+- [国家知识产权局](https://www.cnipa.gov.cn/)
+- [国家国际发展合作署](http://www.cidca.gov.cn/)
+- [国家医疗保障局](http://www.nhsa.gov.cn/)
+- [国务院参事室](http://www.counsellor.gov.cn/)
+- [国家机关事务管理局](http://www.ggj.gov.cn/)
+- 国家反垄断局
+- [国家认证认可监督管理委员会](http://www.cnca.gov.cn/)
+- [国家标准化管理委员会](http://www.sac.gov.cn/)
+- [国家新闻出版署](https://www.nppa.gov.cn/)
+- [国家宗教事务局](https://www.sara.gov.cn/)
+- [国务院研究室](https://www.gov.cn/guoqing/2018-06/22/content_5300522.htm)
+- [国务院侨务办公室](https://www.gqb.gov.cn/)
+- [国务院港澳事务办公室](https://www.hmo.gov.cn/)
+- [国务院台湾事务办公室](http://www.gwytb.gov.cn/)
+- [国家互联网信息办公室](http://www.cac.gov.cn/)
+- [国务院新闻办公室](http://www.scio.gov.cn/index.htm)
+- [新华通讯社](http://www.news.cn/xinhuashe/)
+- [中国科学院](https://www.cas.cn/)
+- [中国社会科学院](http://www.cass.cn/)
+- [中国工程院](https://www.cae.cn/)
+- [国务院发展研究中心](https://www.drc.gov.cn/default.aspx)
+- 中央广播电视总台
+- [中国气象局](https://www.cma.gov.cn/)
+- [国家行政学院](https://www.ccps.gov.cn/)
+- [国家粮食和物资储备局](http://www.lswz.gov.cn/)
+- [国家能源局](http://www.nea.gov.cn/)
+- 国家数据局
+- [国家国防科技工业局](http://www.sastind.gov.cn/)
+- [国家烟草专卖局](http://www.tobacco.gov.cn/gjyc/index.shtml)
+- [国家移民管理局](https://www.nia.gov.cn/)
+- [国家林业和草原局](http://www.forestry.gov.cn/)
+- [国家铁路局](https://www.nra.gov.cn/)
+- [中国民用航空局](http://www.caac.gov.cn/index.html)
+- [国家邮政局](https://www.spb.gov.cn/)
+- [国家文物局](http://www.ncha.gov.cn/)
+- [国家中医药管理局](http://www.natcm.gov.cn/)
+- [国家疾病预防控制局](https://www.ndcpa.gov.cn/)
+- [国家矿山安全监察局](https://www.chinamine-safety.gov.cn/)
+- [国家消防救援局](https://www.119.gov.cn/)
+- [国家外汇管理局](http://www.safe.gov.cn/)
+- [国家药品监督管理局](https://www.nmpa.gov.cn/)
+
+- [北京](http://www.beijing.gov.cn/)
+- [天津](http://www.tj.gov.cn/)
+- [河北](http://www.hebei.gov.cn/)
+- [山西](http://www.shanxi.gov.cn/)
+- [内蒙古](http://www.nmg.gov.cn/)
+- [辽宁](http://www.ln.gov.cn/)
+- [吉林](http://www.jl.gov.cn/)
+- [黑龙江](http://www.hlj.gov.cn/)
+- [上海](http://www.shanghai.gov.cn/)
+- [江苏](http://www.jiangsu.gov.cn/)
+- [浙江](http://www.zj.gov.cn/)
+- [安徽](http://www.ah.gov.cn/)
+- [福建](http://www.fujian.gov.cn/)
+- [江西](http://www.jiangxi.gov.cn/)
+- [山东](http://www.shandong.gov.cn/)
+- [河南](http://www.henan.gov.cn/)
+- [湖北](http://www.hubei.gov.cn/)
+- [湖南](http://www.hunan.gov.cn/)
+- [广东](http://www.gd.gov.cn/)
+- [广西](http://www.gxzf.gov.cn/)
+- [海南](http://www.hainan.gov.cn/)
+- [重庆](http://www.cq.gov.cn/)
+- [四川](http://www.sc.gov.cn/)
+- [贵州](http://www.guizhou.gov.cn/)
+- [云南](http://www.yn.gov.cn/)
+- [西藏](http://www.xizang.gov.cn/)
+- [陕西](http://www.shaanxi.gov.cn/)
+- [甘肃](http://www.gansu.gov.cn/)
+- [青海](http://www.qinghai.gov.cn/)
+- [宁夏](http://www.nx.gov.cn/)
+- [新疆](http://www.xinjiang.gov.cn/)
+- [香港](http://www.gov.hk/)
+- [澳门](http://www.gov.mo/)
+- 台湾
+- [新疆生产建设兵团](http://www.xjbt.gov.cn/)
+
+- [石家庄](http://www.sjz.gov.cn/)
+- [太原](http://www.taiyuan.gov.cn/)
+- [呼和浩特](http://www.huhhot.gov.cn/)
+- [哈尔滨](http://www.harbin.gov.cn/)
+- [长春](http://www.changchun.gov.cn/)
+- [沈阳](http://www.shenyang.gov.cn/)
+- [南京](http://www.nanjing.gov.cn/)
+- [杭州](http://www.hangzhou.gov.cn/)
+- [合肥](http://www.hefei.gov.cn/)
+- [福州](http://www.fuzhou.gov.cn/)
+- [南昌](http://www.nc.gov.cn/)
+- [济南](http://www.jinan.gov.cn/)
+- [郑州](http://www.zhengzhou.gov.cn/)
+- [武汉](https://www.wuhan.gov.cn/)
+- [长沙](http://www.changsha.gov.cn/)
+- [广州](http://www.gz.gov.cn/)
+- [南宁](http://www.nanning.gov.cn/)
+- [海口](http://www.haikou.gov.cn/)
+- [成都](http://www.chengdu.gov.cn/)
+- [贵阳](http://www.guiyang.gov.cn/)
+- [昆明](http://www.km.gov.cn/)
+- [西安](http://www.xa.gov.cn/)
+- [兰州](http://www.lanzhou.gov.cn/)
+- [银川](http://www.yinchuan.gov.cn/)
+- [西宁](http://www.xining.gov.cn/)
+- [乌鲁木齐](http://www.urumqi.gov.cn/)
+- [拉萨](http://www.lasa.gov.cn/)
+- [深圳](http://www.sz.gov.cn/)
+- [青岛](http://www.qingdao.gov.cn/)
+- [大连](http://www.dl.gov.cn/)
+- [宁波](http://www.ningbo.gov.cn/)
+- [厦门](http://www.xm.gov.cn/)
+
+- [武汉市](https://www.wuhan.gov.cn/)
+- [襄阳市](http://www.xiangyang.gov.cn/wzsy/)
+- [宜昌市](http://www.yichang.gov.cn/)
+- [黄石市](http://www.huangshi.gov.cn/)
+- [十堰市](http://www.shiyan.gov.cn/)
+- [荆州市](http://www.jingzhou.gov.cn/)
+- [荆门市](http://www.jingmen.gov.cn/)
+- [鄂州市](http://www.ezhou.gov.cn/)
+- [孝感市](http://www.xiaogan.gov.cn/)
+- [黄冈市](http://www.hg.gov.cn/)
+- [咸宁市](http://www.xianning.gov.cn/)
+- [随州市](http://www.suizhou.gov.cn/)
+- [恩施州](http://www.enshi.gov.cn/)
+- [仙桃市](http://www.xiantao.gov.cn/)
+- [天门市](http://www.tianmen.gov.cn/)
+- [潜江市](http://www.hbqj.gov.cn/)
+- [神农架林区](http://www.snj.gov.cn/)
+
+- [东湖新技术开发区管委会](https://www.wehdz.gov.cn/ "东湖新技术开发区管委会")
+- [武汉长江新区管委会](http://www.whcjxq.gov.cn/ "武汉长江新区管委会")
+- [武汉经济技术开发区管委会](https://www.whkfq.gov.cn/ "武汉经济技术开发区管委会")
+- [东湖生态旅游风景区管委会](https://www.whdonghu.gov.cn/ "东湖生态旅游风景区管委会")
+- [武汉临空港经济技术开发区管委会](https://www.dxh.gov.cn/ "武汉临空港经济技术开发区管委会")
+- [江岸区](https://www.jiangan.gov.cn/ "江岸区")
+- [江汉区](https://www.jianghan.gov.cn/ "江汉区")
+- [硚口区](https://www.qiaokou.gov.cn/ "硚口区")
+- [汉阳区](https://www.hanyang.gov.cn/ "汉阳区")
+- [武昌区](https://www.wuchang.gov.cn/ "武昌区")
+- [青山区](https://www.qingshan.gov.cn/ "青山区")
+- [洪山区](https://www.hongshan.gov.cn/ "洪山区")
+- [蔡甸区](https://www.caidian.gov.cn/ "蔡甸区")
+- [江夏区](https://www.jiangxia.gov.cn/ "江夏区")
+- [黄陂区](https://www.huangpi.gov.cn/ "黄陂区")
+- [新洲区](https://www.whxinzhou.gov.cn/ "新洲区")
+- [市发改委](http://fgw.wuhan.gov.cn/ "市发改委")
+- [市教育局](http://jyj.wuhan.gov.cn/ "市教育局")
+- [市科技创新局](http://kjj.wuhan.gov.cn/ "市科技创新局")
+- [市经信局](http://jxj.wuhan.gov.cn/ "市经信局")
+- [市民宗委](http://mzw.wuhan.gov.cn/ "市民宗委")
+- [市公安局](http://gaj.wuhan.gov.cn/ "市公安局")
+- [市民政局](http://mzj.wuhan.gov.cn/ "市民政局")
+- [市司法局](http://sfj.wuhan.gov.cn/ "市司法局")
+- [市财政局](http://czj.wuhan.gov.cn/ "市财政局")
+- [市人社局](http://rsj.wuhan.gov.cn/ "市人社局")
+- [市自然资源和城乡建设局](http://zrzyhgh.wuhan.gov.cn/ "市自然资源和城乡建设局")
+- [市生态环境局](http://hbj.wuhan.gov.cn/ "市生态环境局")
+- [市城管执法委](http://cgw.wuhan.gov.cn/ "市城管执法委")
+- [市交通运输局](http://jtj.wuhan.gov.cn/ "市交通运输局")
+- [市水务局](http://swj.wuhan.gov.cn/ "市水务局")
+- [市农业农村局](http://nyncj.wuhan.gov.cn/ "市农业农村局")
+- [市商务局](http://sw.wuhan.gov.cn/ "市商务局")
+- [市文旅局](http://wlj.wuhan.gov.cn/ "市文旅局")
+- [市卫生健康委](http://wjw.wuhan.gov.cn/ "市卫生健康委")
+- [市退役军人事务局](http://va.wuhan.gov.cn/ "市退役军人事务局")
+- [市应急局](http://yjj.wuhan.gov.cn/ "市应急局")
+- [市审计局](http://sjj.wuhan.gov.cn/ "市审计局")
+- [市政府国资委](http://gzw.wuhan.gov.cn/ "市政府国资委")
+- [市住房和城市更新局](https://zgj.wuhan.gov.cn/ "市住房和城市更新局")
+- [市市场监管局](http://scjgj.wuhan.gov.cn/ "市市场监管局")
+- [市体育局](http://tyj.wuhan.gov.cn/ "市体育局")
+- [市统计局](http://tjj.wuhan.gov.cn/ "市统计局")
+- [市园林林业局](http://ylj.wuhan.gov.cn/ "市园林林业局")
+- [市医保局](http://ybj.wuhan.gov.cn/ "市医保局")
+- [市国动办](http://gdb.wuhan.gov.cn/ "市国动办")
+- [市委金融办](http://jrj.wuhan.gov.cn/ "市委金融办")
+- [市信访局](https://xfj.wuhan.gov.cn/ "市信访局")
+- [市数据局](http://home.wuhan.gov.cn/ "市数据局")
+- [市投资促进局](https://tc.wuhan.gov.cn/ "市投资促进局")
+- [市机关事务局](http://jgswgl.wuhan.gov.cn/ "市机关事务局")
+- [市地方志办](http://dfz.wuhan.gov.cn/ "市地方志办")
+- [武汉公积金中心](http://gjj.wuhan.gov.cn/ "武汉公积金中心")
+- [市供销社](http://gxs.wuhan.gov.cn/ "市供销社")
+
+- [网站地图](https://www.wuhan.gov.cn/sy/wzdt/)网页纠错 [隐私声明](https://www.wuhan.gov.cn/sy/qt/202211/t20221114_2093617.shtml)
+
+
+政府网站标识码：4201000003 [鄂ICP备19014536号-2](https://beian.miit.gov.cn/) [![](https://www.wuhan.gov.cn/material/images/icon_ga.png)\\
+鄂公网安备 42010202000792号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010202000792)
+
+
+武汉市人民政府主办 武汉市数据局承办
+
+
+
+武汉市民热线：027-12345
+
+
+- [![](https://www.wuhan.gov.cn/material/images/blue/pic03.jpg)](https://www.creditchina.gov.cn/)[![](https://www.wuhan.gov.cn/material/images/blue/pic04.jpg)](https://credit.hubei.gov.cn/)[![](https://www.wuhan.gov.cn/material/images/blue/pic05.jpg)](https://credit.wuhan.gov.cn/)
+
+- ![](https://www.wuhan.gov.cn/material/images/blue/pic01.png)[![](https://www.wuhan.gov.cn/material/images/blue/pic02.png)](http://bszs.conac.cn/sitename?method=show&id=0BF64018C25127F6E053022819AC407F)
+
+
+![](https://www.wuhan.gov.cn/material/images/icon/icon-logo.png)武汉市人民政府
+
+
+![](https://www.wuhan.gov.cn/material/wap/images/top-arrow.png)
