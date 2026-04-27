@@ -82,7 +82,6 @@ collected_at: 2026-04-25T14:49:04.859834
 
 分享到微信朋友圈
 
-![](<Base64-Image-Removed>)
 
 打开微信，点击底部的“发现”，
 
@@ -98,7 +97,6 @@ collected_at: 2026-04-25T14:49:04.859834
 \\
 2026年3月30日](https://www.21jingji.com/article/20260330/herald/022ac6aa4e9214f4c0d9c45974f23ac6.html)
 
-[![](https://img.21jingji.com/uploadfile/cover/20240312/c503908e33047de01588760a48b37d0a.png)](https://app.21jingji.com/ "")
 
 # 热文排行
 
@@ -191,56 +189,48 @@ collected_at: 2026-04-25T14:49:04.859834
 # 关注我们
 
 - ![](https://static.21jingji.com/web_fed/images/logo_21app.png)
-![客户端](https://static.21jingji.com/web_fed/images/qrcode/khd.png)
 
 扫描二维码下载
 
 21财经APP
 
 - ![](https://static.21jingji.com/web_fed/images/logo_wechat.png)
-![微信](https://static.21jingji.com/web_fed/images/qrcode/wx.jpg)
 
 扫描二维码关注
 
 微信公众号
 
 - ![](https://static.21jingji.com/web_fed/images/logo_weibo.png)
-![微博](https://static.21jingji.com/web_fed/images/qrcode/wb.png)
 
 扫描二维码关注
 
 微博
 
 - ![](https://static.21jingji.com/web_fed/images/logo_dy.png)
-![抖音](https://static.21jingji.com/web_fed/images/qrcode/dy.png)
 
 扫描二维码关注
 
 抖音
 
 - ![](https://static.21jingji.com/web_fed/images/logo_bilibili.png)
-![B站](https://static.21jingji.com/web_fed/images/qrcode/b.png)
 
 扫描二维码关注
 
 BiliBili
 
 - ![](https://static.21jingji.com/web_fed/images/logo_jrtt.png)
-![头条](https://static.21jingji.com/web_fed/images/qrcode/jrtt.png)
 
 扫描二维码关注
 
 今日头条
 
 - ![](https://static.21jingji.com/web_fed/images/logo_bjh.png)
-![百家号](https://static.21jingji.com/web_fed/images/qrcode/bjh.jpg)
 
 扫描二维码关注
 
 百家号
 
 - ![](https://static.21jingji.com/web_fed/images/logo_ks.png)
-![快手](https://static.21jingji.com/web_fed/images/qrcode/ks.jpg)
 
 扫描二维码关注
 

@@ -19,9 +19,7 @@ collected_at: 2026-04-25T14:32:21.660131
 
 ## 正文
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15194516261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2131)
 
-[![沐光行动 点亮世界](https://img.in-en.com/file/upload/202501/06/18024145261152.jpg)](https://www.in-en.com/api/redirect.php?aid=1713)
 
 当前位置： [充换电网](https://chd.in-en.com/) » [行业政策法规](https://chd.in-en.com/policy/) » [充换电政策](https://chd.in-en.com/policy/nev/) » 正文
 
@@ -189,7 +187,6 @@ _22小时前_ 来源：地平线HorizonRobotics _[智能电动汽车](https://ww
 - [宁德时代发布电池新品：6分钟充满电，续航1500公里](https://chd.in-en.com/html/chd-2459025.shtml "宁德时代发布电池新品：6分钟充满电，续航1500公里")
 - [同比增长82.80%！河南省充换电服务业用电需求持续攀升](https://chd.in-en.com/html/chd-2458874.shtml "同比增长82.80%！河南省充换电服务业用电需求持续攀升")
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15204065261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2132)
 
 ### 充换电人物
 
@@ -214,7 +211,6 @@ _22小时前_ 来源：地平线HorizonRobotics _[智能电动汽车](https://ww
 #### [聚焦高速公路补能网络建设！河南交投董事长金雷会见特来电董事长于德翔一行](https://chd.in-en.com/html/chd-2459032.shtml)
 
 
-[![人才招聘](https://img.in-en.com/file/upload/202601/23/18413530261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2108)
 
 ### 充换电推荐文章
 
@@ -234,7 +230,6 @@ _22小时前_ 来源：地平线HorizonRobotics _[智能电动汽车](https://ww
 
 跳过
 
-![](https://gtimg.in-en.com/images/login5/logo.jpg)
 
 验证码登录
 
@@ -266,7 +261,6 @@ _22小时前_ 来源：地平线HorizonRobotics _[智能电动汽车](https://ww
 
 x
 
-![](https://gtimg.in-en.com/images/login5/logo2.jpg)
 
 ![](https://chd.in-en.com/html/chd-2452898.shtml)
 

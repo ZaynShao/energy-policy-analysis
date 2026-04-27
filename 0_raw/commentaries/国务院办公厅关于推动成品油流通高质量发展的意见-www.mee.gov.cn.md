@@ -21,11 +21,8 @@ collected_at: 2026-04-25T14:59:04.506792
 
 ![](https://www.mee.gov.cn/zcwj/gwywj/202502/t20250206_1101765.shtml)
 
-![](https://www.mee.gov.cn/images/xxgkGb2021_bg.png)
 
-[![](https://www.mee.gov.cn/images/xxgkGb2021_logo_03.png)](http://www.mee.gov.cn/)
 
-![](https://www.mee.gov.cn/images/wjk_v2019_03.png)
 
 # 国务院办公厅关于推动成品油流通高质量发展的意见
 

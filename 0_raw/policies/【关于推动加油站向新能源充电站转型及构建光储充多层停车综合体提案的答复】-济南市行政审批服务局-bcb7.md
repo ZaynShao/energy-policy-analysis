@@ -134,7 +134,6 @@ archive: low_score
 
 **微信扫一扫：分享**
 
-![](<Base64-Image-Removed>)
 
 微信里点“发现”，扫一下
 

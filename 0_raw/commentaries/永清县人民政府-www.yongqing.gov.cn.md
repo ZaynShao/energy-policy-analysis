@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:52:50.058352
 
 ## 正文
 
-[![](https://www.yongqing.gov.cn/images/www.yongqing.gov.cn.png)](https://www.yongqing.gov.cn/jianshuijiangfeizhuanlan/25652.html)
 
 |     |
 | --- |
@@ -62,11 +61,8 @@ collected_at: 2026-04-25T14:52:50.058352
 
 2023年12月7日
 
-![](https://www.yongqing.gov.cn/d/file/jianshuijiangfeizhuanlan/2023-12-12/2256c07716dad52699f4454f8e1f44dd.png)
 
-![](https://www.yongqing.gov.cn/d/file/jianshuijiangfeizhuanlan/2023-12-12/8de4af956908ea24622c053af4417f79.png)
 
-![](https://www.yongqing.gov.cn/d/file/jianshuijiangfeizhuanlan/2023-12-12/7c8bf0b3213107f21a82cccce2936991.png)
 
 **以下为解读**
 

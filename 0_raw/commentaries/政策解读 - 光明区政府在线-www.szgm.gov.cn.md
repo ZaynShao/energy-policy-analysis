@@ -21,7 +21,6 @@ collected_at: 2026-04-25T09:59:48.692689
 
 ![](https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/zcfg_116521/zcjd_116524/index_2.html)
 
-![](https://www.szgm.gov.cn/newCommImg/banner_bottom.png)
 
 - [![](https://www.szgm.gov.cn/imagegm/NationalEmblem1024.png)](https://www.szgm.gov.cn/ "光明区政府在线")
 - [![](https://www.szgm.gov.cn/imagegm/WebName.png)](https://www.szgm.gov.cn/ "光明区政府在线")
@@ -35,9 +34,7 @@ collected_at: 2026-04-25T09:59:48.692689
 - [![](https://www.szgm.gov.cn/newCommImg/nav4.png)互动交流](https://www.szgm.gov.cn/hdjl/index.html "互动交流")
 - [![](https://www.szgm.gov.cn/newCommImg/nav5.png)走进光明](https://www.szgm.gov.cn/zjgm/index.html "走进光明")
 
-[![](https://www.szgm.gov.cn/newCommImg/szLogo.png)](https://www.sz.gov.cn/ "深圳政府在线")
 
-![](https://www.szgm.gov.cn/newCommImg/banner_bottom.png)
 
 [![](https://www.szgm.gov.cn/imagegm/logo.png)](https://www.szgm.gov.cn/)[![](https://www.szgm.gov.cn/newCommImg/szLogo.png)](https://www.sz.gov.cn/)
 

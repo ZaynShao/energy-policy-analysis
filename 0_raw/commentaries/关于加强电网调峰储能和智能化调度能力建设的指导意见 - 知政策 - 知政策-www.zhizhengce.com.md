@@ -29,17 +29,14 @@ collected_at: 2026-04-25T14:48:23.217016
 
 [点击进入政策星图](https://www.zhizhengce.com/topics/graph "点击进入政策星图")
 
-![](https://www.zhizhengce.com/images/theme_blue/share2.png)
 
 **二维码**
 
 扫描二维码，点击右上角分享
 
-![](https://www.zhizhengce.com/images/pusers/default_avatar.jpeg)
 
 [登录](https://www.zhizhengce.com/pusers/login)
 
-[![logo](https://www.zhizhengce.com/images/theme_blue/logo.png)](https://www.zhizhengce.com/policies?from=logo)
 
 [点击进入政策星图](https://www.zhizhengce.com/topics/graph "点击进入政策星图")
 
@@ -111,11 +108,9 @@ collected_at: 2026-04-25T14:48:23.217016
 
 # 关于加强电网调峰储能和智能化调度能力建设的指导意见
 
-![点击复制](<Base64-Image-Removed>)
 
 点击即可复制二维码图片
 
-![](https://www.zhizhengce.com/storage/mp_code/69/pages_policy_view_69650fd1536347a026048a82.png)
 
 点击复制当前网址 点击加入收藏
 
@@ -188,13 +183,10 @@ https://www.gov.cn/zhengce/202402/content\_6934728.htm
 
 相关案例
 
-[![知本咨询数字转型相关研究案例](https://www.zhizhengce.com/files/attachment/public/big-files/ZER/ZERc36ktU9wgCcmKDVKIZnu417VOLcqwLpL9rpQ7.png)](https://www.zhizhengce.com/cases?topic=%E6%95%B0%E5%AD%97%E8%BD%AC%E5%9E%8B "知本咨询数字转型相关研究案例")
 
-[![知本咨询数字转型相关研究案例](https://www.zhizhengce.com/files/attachment/public/big-files/zN5/zN5bFVceKgD2h5PqnRDiUL14sJoCWX9da9uuaYc8.png)](https://www.zhizhengce.com/cases?topic=%E6%95%B0%E5%AD%97%E8%BD%AC%E5%9E%8B "知本咨询数字转型相关研究案例")
 
 PreviousNext
 
-![logo](https://www.zhizhengce.com/images/theme_blue/logo.png)
 
 联系我们
 

@@ -19,11 +19,9 @@ collected_at: 2026-04-25T14:30:26.999551
 
 ## 正文
 
-![](http://www.yppta.com.cn/static/app/yppta/pc/front/image/home/logo_down.png?0.0.17)
 
 云南省电力行业协会Yunnan Electric Power Industry Association
 
-![](http://www.yppta.com.cn/static/app/yppta/pc/front/image/home/search.png?0.0.17)
 
 [首 页](http://www.yppta.com.cn/pc/front/cms/home)
 
@@ -45,15 +43,10 @@ collected_at: 2026-04-25T14:30:26.999551
 
 [统一信息系统](http://www.yppta.com.cn/yppta_digit/pc/platform/main) [政企通](http://www.yppta.com.cn/nea_zqt/pc/platform/main) [内部管理](http://www.yppta.com.cn/yppta_digit/pc/platform/login/enter)
 
-![](http://www.yppta.com.cn/yppta_attach/ee0b64fa22d24ab4a6c2ec9ac381ad29.jpg)
 
-![](http://www.yppta.com.cn/yppta_attach/ee0b64fa22d24ab4a6c2ec9ac381ad29.jpg)
 
-![](http://www.yppta.com.cn/yppta_attach/eff872a77a5a41f79d1a56dd3bd5c4b2.jpg)
 
-![](http://www.yppta.com.cn/yppta_attach/89d7586d8d364f1bbf879f0108b01368.jpg)
 
-![](http://www.yppta.com.cn/yppta_attach/8b5f6454c30945d19751f9d3bc07a034.jpg)
 
 您所在的位置： [首页](http://www.yppta.com.cn/pc/front/cms/home)
 >
@@ -215,7 +208,6 @@ collected_at: 2026-04-25T14:30:26.999551
 
 友情链接：
 
-![](http://www.yppta.com.cn/static/app/yppta/pc/front/image/home/logo_down.png?0.0.17)
 
 联系我们
 
@@ -227,7 +219,6 @@ collected_at: 2026-04-25T14:30:26.999551
 
 网站建设技术支持：云南易数科技有限责任公司
 
-![](http://www.yppta.com.cn/static/app/yppta/pc/front/image/home/wechat.png?0.0.17)
 
 关注我们
 

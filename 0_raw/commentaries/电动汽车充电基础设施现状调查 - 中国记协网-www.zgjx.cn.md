@@ -22,7 +22,6 @@ collected_at: 2026-04-25T14:46:12.044993
 - [邮箱](https://mail.zgjx.cn/)
 - [ENGLISH](http://www.chinaja.org.cn/)
 
-![](http://www.news.cn/zgjx/2019v/home/images/cx.png)
 
 - [媒体社会责任报告](http://www.zgjx.cn/ydy/2023nd/index.htm)
 - [好记者讲好故事](http://www.zgjx.cn/goodreports/index.htm)
@@ -72,7 +71,6 @@ collected_at: 2026-04-25T14:46:12.044993
 - ### [@中国记协](http://www.zgjx.cn/atcnjx/index.htm)
 
 
-![](http://www.news.cn/zgjx/2019v/home/mobile/images/images_m_01.png)
 
 - ### 关于记协
 
@@ -126,7 +124,6 @@ collected_at: 2026-04-25T14:46:12.044993
 
 感谢您的浏览！ \- 记协网
 
-![](http://www.zgjx.cn/2041208webskipping/jump.jpg)
 
 010090110010000000000000011200000000000000
 

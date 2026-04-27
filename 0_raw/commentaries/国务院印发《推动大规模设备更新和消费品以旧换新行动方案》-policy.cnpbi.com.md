@@ -66,9 +66,7 @@ collected_at: 2026-04-25T14:48:00.996521
 
 [注册](http://bbs.cnpbi.com/member.php?mod=register) \| [登录](http://www.cnpbi.com/index.php?m=member&c=index&a=login&forward=http%3A%2F%2Fpolicy.cnpbi.com%2Fgjzc%2F6862.html&siteid=1)
 
-[![](http://www.cnpbi.com/uploadfile/2026/0203/20260203030740640.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=52&url=http%3A%2F%2Fcenter.cnpbi.com%2Fzxdt%2F8876.html)
 
-[![](http://www.cnpbi.com/uploadfile/2026/0409/20260409085201284.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=106&url=http%3A%2F%2Fcenter.cnpbi.com%2Fzxdt%2F8885.html)
 
 [首页](http://www.cnpbi.com/) \> [政策](http://policy.cnpbi.com/) \> [国家政策](http://policy.cnpbi.com/gjzc/) \> 正文
 
@@ -144,7 +142,6 @@ _（六）开展家电产品以旧换新。_ 以提升便利性为核心，畅�
 
 各地区、各部门要在党中央集中统一领导下，完善工作机制，加强统筹协调，做好政策解读，营造推动大规模设备更新和消费品以旧换新的良好社会氛围。国家发展改革委要会同有关部门建立工作专班，加强协同配合，强化央地联动。各有关部门要按照职责分工制定具体方案和配套政策，落实部门责任，加强跟踪分析，推动各项任务落实落细。重大事项及时按程序请示报告。
 
-![](http://www.cnpbi.com/uploadfile/2024/0314/20240314024549628.jpg)
 
 分享：
 
@@ -204,7 +201,6 @@ _（六）开展家电产品以旧换新。_ 以提升便利性为核心，畅�
 2024-01-29
 
 
-[![](http://www.cnpbi.com/uploadfile/2025/1126/20251126050436970.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=113&url=http%3A%2F%2Fcenter.cnpbi.com%2Fzxdt%2F8876.html)
 
 ##### 频道总排行
 
@@ -219,7 +215,6 @@ _（六）开展家电产品以旧换新。_ 以提升便利性为核心，畅�
 - [国务院办公厅转发住房城乡建设部关于完善质量保障…](http://policy.cnpbi.com/gjzc/293.html "国务院办公厅转发住房城乡建设部关于完善质量保障体系提升建筑工程品质指导意见的通知")
 - [国务院办公厅关于进一步整顿和规范建筑市场秩序的通知](http://policy.cnpbi.com/gjzc/292.html "国务院办公厅关于进一步整顿和规范建筑市场秩序的通知")
 
-[![](http://www.cnpbi.com/uploadfile/2024/0312/20240312083952324.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=28&url=https%3A%2F%2Fwilo.com%2Fcn%2Fzh%2F)
 
 [装配式建筑产业网•建筑工业化智慧之窗](http://www.cnpbi.com/)
 

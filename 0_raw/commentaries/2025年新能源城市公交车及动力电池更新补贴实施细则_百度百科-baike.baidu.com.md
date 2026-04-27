@@ -27,11 +27,9 @@ collected_at: 2026-04-25T10:11:58.437937
 
 [注册](https://passport.baidu.com/v2/?reg&regType=1&tpl=wk)
 
-[![百度百科](https://baikebcs.bdimg.com/baike-react/common/logo-baike.svg)](https://baike.baidu.com/#home)
 
 进入词条全站搜索 [帮助](https://baike.baidu.com/help)
 
-[![百度百科](https://baikebcs.bdimg.com/baike-react/common/logo-baike.svg)](https://baike.baidu.com/#home)
 
 进入词条全站搜索 [帮助](https://baike.baidu.com/help)
 
@@ -187,29 +185,23 @@ collected_at: 2026-04-25T10:11:58.437937
 - [都市丽人怎样加盟](https://www.baidu.com/s?word=%E9%83%BD%E5%B8%82%E4%B8%BD%E4%BA%BA%E6%80%8E%E6%A0%B7%E5%8A%A0%E7%9B%9F&tn=SE_baikepcxf02_fcetbk02&pos=baike_pc_turbo_1767&ori_sid=0b4b268a806e4248)
 - [康佳电视遥控器手机版](https://www.baidu.com/s?word=%E5%BA%B7%E4%BD%B3%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8%E6%89%8B%E6%9C%BA%E7%89%88&tn=SE_baikepcxf02_fcetbk02&pos=baike_pc_turbo_1767&ori_sid=0b4b268a806e4248)
 
-![图片](https://baikebcs.bdimg.com/front-end/tts/source/avatar_default.png)
 
 2025年新能源城市公交车及动力电池更新补贴实施细则
 
 选择朗读音色
 
-![成熟女声](https://baikebcs.bdimg.com/front-end/tts/voices/cheng_girl.png)
 
 成熟女声
 
-![成熟男声](https://baikebcs.bdimg.com/front-end/tts/voices/cheng_boy.png)
 
 成熟男声
 
-![磁性男声](https://baikebcs.bdimg.com/front-end/tts/voices/ci_boy.png)
 
 磁性男声
 
-![年轻女声](https://baikebcs.bdimg.com/front-end/tts/voices/young_girl.png)
 
 年轻女声
 
-![情感男声](https://baikebcs.bdimg.com/front-end/tts/voices/young_boy.png)
 
 情感男声
 

@@ -93,7 +93,6 @@ Q2：2025年9月1日前并网项目奖励标准是多少？
 
 奖励标准见下表，符合政策要求的项目可连续3年获得奖励。其中，智能充电桩奖励仅适用于2024年底前，将个人自用非智能充电桩替代为智能充电桩的项目。
 
-![b4c8b8bb3eba99420bcb15dc897c34a3.jpg](https://img01.mybjx.net/news/UploadFile/202505/6388326603227501968316557.jpg)
 
 3.新型储能
 
@@ -133,7 +132,6 @@ Q8：如何申请进入新型储能示范项目目录？
 
 3.公示发布。市发展改革委在部门网站对项目目录予以公示，根据公示情况确认最终结果，在部门网站上发布。
 
-![](http://ditan360.com/Images/forum/datu.jpg)
 
 [环境监测专用仪器仪表（开发类）：窄带中波红外VOCs气体泄漏检测仪](http://ditan360.com/forum/info-189597.html)[国家发展改革委有关负责同志就《关于更高水平更高质量做好节能降碳工作的意见》答记者问](http://ditan360.com/forum/info-189596.html)[专家解读之三 \| 压实绿色发展“硬责任” 树好绿色转型“指挥棒”](http://ditan360.com/forum/info-189595.html)[专家解读之二 \| 科学有序开展碳达峰碳中和综合评价考核 加快经济社会发展全面绿色转型](http://ditan360.com/forum/info-189594.html)[专家解读之一 \| 以“双碳”工作实绩论英雄 推动全面绿色转型迈上新台阶](http://ditan360.com/forum/info-189593.html)[解读\| 国家发展改革委有关负责同志就《碳达峰碳中和综合评价考核办法》答记者问](http://ditan360.com/forum/info-189592.html)[中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见](http://ditan360.com/forum/info-189591.html)[《湖南省零碳园区建设方案（暂行）》政策解读](http://ditan360.com/forum/info-189590.html)[关于组织绿色产业代表团出访摩洛哥的邀请函](http://ditan360.com/forum/info-189589.html)[专家解读 \|《山东省零碳园区建设方案》](http://ditan360.com/forum/info-189588.html)
 
@@ -144,7 +142,6 @@ Q8：如何申请进入新型储能示范项目目录？
 - [政策解读](http://ditan360.com/forum/List-15.html)
 - [政策文件](http://ditan360.com/forum/List-1072.html)
 
-[![低碳服务](http://ditan360.com/images/Default2024/right_dtfw.jpg)](http://ditan360.com/forum/Info-187028.html)
 
 # 重点推荐
 

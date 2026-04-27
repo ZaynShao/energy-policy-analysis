@@ -19,7 +19,6 @@ collected_at: 2026-04-25T10:13:48.572915
 
 ## 正文
 
-![](http://www.hxcsw.com/statics/images/wxewm.jpg)
 
 关注公众号
 
@@ -89,19 +88,15 @@ Qzone
 
 城市TV
 
-[![【这里是福州】烟台山 现代闽式生活](http://imgs.hxcsw.com/imgurl/20240130/hdEios_145247_86841.jpg)](http://www.hxcsw.com/chengshitv/2024/0130/c_123605545.html)
 
 [【这里是福州】烟台山 现代闽式生活](http://www.hxcsw.com/chengshitv/2024/0130/c_123605545.html "【这里是福州】烟台山 现代闽式生活")
 
-[![融合媒体 共谋新篇 | 民建福建省委会直属智媒体支部、民建福建省委会书画院 联合举办迎新联谊活动](http://imgs.hxcsw.com/auto/20240116/1705388544415480.png)](http://www.hxcsw.com/chengshitv/2024/0116/c_123605223.html)
 
 [民建福建省委会直属智媒体支部、民建福建省委会书画院 共建联谊](http://www.hxcsw.com/chengshitv/2024/0116/c_123605223.html "融合媒体 共谋新篇 | 民建福建省委会直属智媒体支部、民建福建省委会书画院 联合举办迎新联谊活动")
 
-[![福建播音主持协会协会赴三明高峰村开展活动](http://imgs.hxcsw.com/imgurl/20230719/jVUubk_114105_844431.jpg)](http://www.hxcsw.com/chengshitv/2023/0719/c_123600196.html)
 
 [福建播音主持协会协会赴三明高峰村开展活动](http://www.hxcsw.com/chengshitv/2023/0719/c_123600196.html "福建播音主持协会协会赴三明高峰村开展活动")
 
-[![蕉城三都：一口幸福井 不忘民建情](http://imgs.hxcsw.com/imgurl/20230201/AnlDRw_112010_618361.jpg)](http://www.hxcsw.com/chengshitv/2023/0201/c_123594674.html)
 
 [蕉城三都：一口幸福井 不忘民建情](http://www.hxcsw.com/chengshitv/2023/0201/c_123594674.html "蕉城三都：一口幸福井 不忘民建情")
 

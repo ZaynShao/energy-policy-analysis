@@ -19,9 +19,7 @@ collected_at: 2026-04-25T10:19:44.341123
 
 ## 正文
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15194516261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2131)
 
-[![沐光行动 点亮世界](https://img.in-en.com/file/upload/202501/06/18024145261152.jpg)](https://www.in-en.com/api/redirect.php?aid=1713)
 
 当前位置： [充换电网](https://chd.in-en.com/) » [充电桩](https://chd.in-en.com/ChargingStation/) » 正文
 
@@ -62,77 +60,44 @@ collected_at: 2026-04-25T10:19:44.341123
 
 2025年3月31日
 
-![](https://img.in-en.com/file/upload/202504/01/09375377260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375374260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375392260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375314260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375378260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375362260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375497260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375435260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375479260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375415260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375428260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375473260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375416260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375548260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375542260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375540260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375520260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375533260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375562260468.jpg)
 
 ![](https://img.in-en.com/file/upload/202504/01/09375562260468(1).jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375557260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375629260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375687260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375644260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375643260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375661260468.jpg)
 
 ![](https://img.in-en.com/file/upload/202504/01/09375643260468(1).jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375686260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375653260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375744260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375788260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375738260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375728260468.jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375791260468.jpg)
 
 ![](https://img.in-en.com/file/upload/202504/01/09375791260468(1).jpg)
 
-![](https://img.in-en.com/file/upload/202504/01/09375725260468.jpg)
 
 返回 [国际充换电网](https://chd.in-en.com/) 首页
 
@@ -241,7 +206,6 @@ _23小时前_ 来源：比亚迪汽车 _[比亚迪汽车](https://www.in-en.com/
 - [注册资本5000万元！欣旺达在江西南昌成立动力电池系统公司](https://chd.in-en.com/html/chd-2459026.shtml "注册资本5000万元！欣旺达在江西南昌成立动力电池系统公司")
 - [内蒙古赤峰市市场监督管理局发布电动汽车充电桩计量行为提醒告诫](https://chd.in-en.com/html/chd-2459031.shtml "内蒙古赤峰市市场监督管理局发布电动汽车充电桩计量行为提醒告诫书")
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15204065261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2132)
 
 ### 充换电人物
 
@@ -266,7 +230,6 @@ _23小时前_ 来源：比亚迪汽车 _[比亚迪汽车](https://www.in-en.com/
 #### [聚焦高速公路补能网络建设！河南交投董事长金雷会见特来电董事长于德翔一行](https://chd.in-en.com/html/chd-2459032.shtml)
 
 
-[![人才招聘](https://img.in-en.com/file/upload/202601/23/18413530261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2108)
 
 ### 充换电推荐文章
 
@@ -286,7 +249,6 @@ _23小时前_ 来源：比亚迪汽车 _[比亚迪汽车](https://www.in-en.com/
 
 跳过
 
-![](https://gtimg.in-en.com/images/login5/logo.jpg)
 
 验证码登录
 
@@ -318,7 +280,6 @@ _23小时前_ 来源：比亚迪汽车 _[比亚迪汽车](https://www.in-en.com/
 
 x
 
-![](https://gtimg.in-en.com/images/login5/logo2.jpg)
 
 ![](https://chd.in-en.com/html/chd-2451524.shtml)
 

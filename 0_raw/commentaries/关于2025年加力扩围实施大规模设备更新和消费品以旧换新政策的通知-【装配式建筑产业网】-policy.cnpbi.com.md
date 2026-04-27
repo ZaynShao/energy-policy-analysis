@@ -66,9 +66,7 @@ collected_at: 2026-04-25T14:38:20.709381
 
 [注册](http://bbs.cnpbi.com/member.php?mod=register) \| [登录](http://www.cnpbi.com/index.php?m=member&c=index&a=login&forward=http%3A%2F%2Fpolicy.cnpbi.com%2Ffgzc%2F7874.html&siteid=1)
 
-[![](http://www.cnpbi.com/uploadfile/2026/0203/20260203030740640.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=52&url=http%3A%2F%2Fcenter.cnpbi.com%2Fzxdt%2F8876.html)
 
-[![](http://www.cnpbi.com/uploadfile/2026/0409/20260409085201284.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=106&url=http%3A%2F%2Fcenter.cnpbi.com%2Fzxdt%2F8885.html)
 
 [首页](http://www.cnpbi.com/) \> [政策](http://policy.cnpbi.com/) \> [发改政策](http://policy.cnpbi.com/fgzc/) \> 正文
 
@@ -76,7 +74,6 @@ collected_at: 2026-04-25T14:38:20.709381
 
 【装配式建筑产业网 讯】为全面贯彻党的二十大和二十届二中、三中全会精神，认真落实中央经济工作会议部署，根据《推动大规模设备更新和消费品以旧换新行动方案》（国发〔2024〕7号），经国务院同意，2025年1月5日，国家发展改革委、财政部发布《关于2025年加力扩围实施大规模设备更新和消费品以旧换新政策的通知》（发改环资〔2025〕13号），全文如下：
 
-![](http://www.cnpbi.com/uploadfile/2025/0109/20250109050322256.jpg)
 
 [**国家发展改革委 财政部关于2025年**](https://www.ndrc.gov.cn/xxgk/zcfb/tz/202501/t20250108_1395564.html)
 
@@ -160,7 +157,6 @@ collected_at: 2026-04-25T14:38:20.709381
 
 2025年1月5日
 
-![](http://www.cnpbi.com/uploadfile/2025/0110/20250110104245298.jpg)
 
 分享：
 
@@ -253,7 +249,6 @@ collected_at: 2026-04-25T14:38:20.709381
 2024-04-29
 
 
-[![](http://www.cnpbi.com/uploadfile/2025/1126/20251126050436970.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=113&url=http%3A%2F%2Fcenter.cnpbi.com%2Fzxdt%2F8876.html)
 
 ##### 频道总排行
 
@@ -268,7 +263,6 @@ collected_at: 2026-04-25T14:38:20.709381
 - [国家发改委、国家能源局印发《关于完善能源绿色低…](http://policy.cnpbi.com/fgzc/4390.html "国家发改委、国家能源局印发《关于完善能源绿色低碳转型体制机制和政策措施的意见》")
 - [《成渝地区双城经济圈多层次轨道交通规划》印发](http://policy.cnpbi.com/fgzc/4274.html "《成渝地区双城经济圈多层次轨道交通规划》印发")
 
-[![](http://www.cnpbi.com/uploadfile/2024/0312/20240312083952324.jpg)](http://www.cnpbi.com/index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=28&url=https%3A%2F%2Fwilo.com%2Fcn%2Fzh%2F)
 
 [装配式建筑产业网•建筑工业化智慧之窗](http://www.cnpbi.com/)
 

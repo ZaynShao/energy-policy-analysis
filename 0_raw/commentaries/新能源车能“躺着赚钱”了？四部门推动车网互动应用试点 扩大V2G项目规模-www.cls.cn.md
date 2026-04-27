@@ -69,7 +69,6 @@ collected_at: 2026-04-25T14:34:37.781299
 
 **《科创板日报》9月10日讯** 今日，国家发展改革委办公厅等部门发布关于推动车网互动规模化应用试点工作的通知，国家发展改革委、国家能源局、工业和信息化部、市场监管总局将在全国开展车网互动规模化应用试点。
 
-![image](https://img.cls.cn/images/20240910/ac6RcjlUIh.png)
 
 其中提出，按照“创新引导、先行先试”的原则， **全面推广新能源汽车有序充电，扩大双向充放电（V2G）项目规模**，丰富车网互动应用场景，以城市为主体完善规模化、可持续的车网互动政策机制，以V2G项目为主体探索技术先进、模式清晰、可复制推广的商业模式，力争以市场化机制引导车网互动规模化发展。
 
@@ -273,7 +272,6 @@ Crocea Mors2024-09-10 04:26 · 上海
 
 ![](https://cdnjs.cls.cn/images/site/cailianWeb/appLogo.png)![](https://cdnjs.cls.cn/www/20180717/images/rightSide/downloadCodeSlider.png)
 
-![](https://cdnjs.cls.cn/images/site/cailianWeb/toTop.png)
 
 [关于我们](https://www.cls.cn/our?nav=our) \|[网站声明](https://www.cls.cn/our?nav=copyright) \|[联系方式](https://www.cls.cn/our?nav=contact) \|[用户反馈](https://www.cls.cn/our?nav=feedBack) \|[网站地图](https://www.cls.cn/our?nav=map) \|[友情链接](https://www.cls.cn/our?nav=friend) \|举报电话：021-54679377转617举报邮箱：editor@cls.cn [![财联社举报](https://cdnjs.cls.cn/images/site/cailianWeb/jubaologo1.png)](http://www.shjbzx.cn/)
 

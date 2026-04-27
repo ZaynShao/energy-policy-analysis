@@ -83,23 +83,19 @@ _关键词：_- [中长期电力市场](https://m.in-en.com/search.php?q=%E4%B8%
 
 本网转载自合作媒体或其它网站的信息，登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。如因作品内容、版权和其它问题请及时与本网联系。
 
-![](https://m.in-en.com/images/inencom.gif)
 
 ### 相关推荐
 
-[![调整新能源配储补偿机制！四川能源监管办修订完善“两个细则”](https://gtimg.in-en.com/diypic/newenergy/newenergy_1614911991_151719504070.jpg)](https://mnewenergy.in-en.com/html/newenergy-2451462.shtml)
 
 ### [调整新能源配储补偿机制！四川能源监管办修订完善“两个细则”](https://mnewenergy.in-en.com/html/newenergy-2451462.shtml)
 
 四川能源监管办 1天前
 
-[![新疆能源局召开新能源就近消纳工作交流座谈会](https://gtimg.in-en.com/diypic/power/power_1614911127_107452268103.jpg)](https://mnewenergy.in-en.com/html/newenergy-2451459.shtml)
 
 ### [新疆能源局召开新能源就近消纳工作交流座谈会](https://mnewenergy.in-en.com/html/newenergy-2451459.shtml)
 
 新疆维吾尔自治区发展和改革委员会 1天前
 
-[![自用比例不低于60%！海南明确新能源就近消纳项目平均负荷率标准及相关价格政策](https://img.in-en.com/upload/202604/10/10131493253024.jpg)](https://mnewenergy.in-en.com/html/newenergy-2451320.shtml)
 
 ### [自用比例不低于60%！海南明确新能源就近消纳项目平均负荷率标准及相关价格政策](https://mnewenergy.in-en.com/html/newenergy-2451320.shtml)
 
@@ -113,7 +109,6 @@ _关键词：_- [中长期电力市场](https://m.in-en.com/search.php?q=%E4%B8%
 
 国家能源局 2026-04-08
 
-[![国家能源局华东监管局：2025年，通过长三角电力互济交易提升新能源消纳能力，有效减少弃风弃光电量](https://gtimg.in-en.com/diypic/solar/da7mntime1649922447.jpg)](https://mnewenergy.in-en.com/html/newenergy-2450991.shtml)
 
 ### [国家能源局华东监管局：2025年，通过长三角电力互济交易提升新能源消纳能力，有效减少弃风弃光电量](https://mnewenergy.in-en.com/html/newenergy-2450991.shtml)
 
@@ -131,11 +126,9 @@ _关键词：_- [中长期电力市场](https://m.in-en.com/search.php?q=%E4%B8%
 
 加群交流
 
-![](https://gtimg.in-en.com/file/image/share-tips.png)
 
 跳过
 
-![](https://gtimg.in-en.com/images/login5/logo.jpg)
 
 验证码登录
 
@@ -175,15 +168,11 @@ _关键词：_- [中长期电力市场](https://m.in-en.com/search.php?q=%E4%B8%
 
 x
 
-![](https://gtimg.in-en.com/images/login5/logo2.jpg)
 
-![](https://img.in-en.com/static/qun/qrcode/jsgf.jpg)
 
 微信扫一扫 立即添加
 
-[![返回](https://gtimg.in-en.com/mobile/images/fh.png)](https://mnewenergy.in-en.com/policy/news/)
 
-[![](https://gtimg.in-en.com/mobile/images/home.png)](https://mnewenergy.in-en.com/)
 
 ##### [新能源网](https://mnewenergy.in-en.com/)
 
@@ -197,7 +186,6 @@ x
 
 ![](<Base64-Image-Removed>)
 
-![](<Base64-Image-Removed>)
 
 
 

@@ -68,11 +68,8 @@ scores:
 
 ![](https://fgw.sz.gov.cn/web2021/icon-old2.png)[![](https://fgw.sz.gov.cn/znyy/znyy_icon.png)](https://fgw.sz.gov.cn/znyy/znyy.html "智能语音")
 
-[![](https://fgw.sz.gov.cn/web2021/20230804002.png)](https://fgw.sz.gov.cn/)
 
-![](https://fgw.sz.gov.cn/web2021/20210813img074.png)
 
-![](https://fgw.sz.gov.cn/web2021/20210813img034.png)
 
 - [首页](https://fgw.sz.gov.cn/)
 
@@ -153,7 +150,6 @@ scores:
 
   - [其他专题专栏](https://fgw.sz.gov.cn/ztzl/qtztzl/index.html)
 
-![](https://fgw.sz.gov.cn/web2021/20210813img034.png)
 
 [我的主页](https://service.gd.gov.cn/) \|
 
@@ -163,13 +159,9 @@ scores:
 [个性化订阅](https://fgw.sz.gov.cn/fzlm/gxhdy/index.html) \|
 网站支持IPv6
 
-[![](https://fgw.sz.gov.cn/web2021/20210813img001.png)](https://www.sz.gov.cn/)
 
-![](https://fgw.sz.gov.cn/web2021/20230804_logo.png)
 
-[![](https://fgw.sz.gov.cn/znyy/znyy_icon.png)](https://fgw.sz.gov.cn/znyy/znyy.html)
 
-![](https://fgw.sz.gov.cn/web2021/20210813img034.png)
 
 - [首页](https://fgw.sz.gov.cn/)
 - [政务公开](https://fgw.sz.gov.cn/zwgk/index.html)
@@ -275,7 +267,6 @@ scores:
 
 **微信扫一扫：分享**
 
-![](<Base64-Image-Removed>)
 
 扫一扫，分享给好友或朋友圈
 
@@ -284,7 +275,6 @@ scores:
 
 **微信扫一扫：分享**
 
-![](<Base64-Image-Removed>)
 
 扫一扫，分享给好友或朋友圈
 

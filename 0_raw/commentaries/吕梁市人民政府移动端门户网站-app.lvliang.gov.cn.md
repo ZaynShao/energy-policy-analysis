@@ -19,9 +19,7 @@ collected_at: 2026-04-25T10:05:57.669413
 
 ## 正文
 
-[![](http://app.lvliang.gov.cn/szdt/images/P020211015618023854413.png)](http://app.lvliang.gov.cn/#logo)
 
-[![](http://app.lvliang.gov.cn/szdt/images/P020211015617949178272.png)](http://app.lvliang.gov.cn/)
 
 - [时政动态](http://app.lvliang.gov.cn/szdt/)
 - [走进吕梁](http://app.lvliang.gov.cn/zjll_25163/)
@@ -181,17 +179,12 @@ collected_at: 2026-04-25T10:05:57.669413
 - [国务院要闻](http://app.lvliang.gov.cn/szdt/gwyyw_25160/)
 - [通知公告](http://app.lvliang.gov.cn/szdt/tzgg/)
 
-[![](http://app.lvliang.gov.cn/images/1020.png)](http://app.lvliang.gov.cn/zwgk/xxgkz_27814/zfhy/szfcwhy/)
 
 [专题专栏](http://app.lvliang.gov.cn/bmdt/)
 
-[![](http://app.lvliang.gov.cn/bmdt/wzbb/images/P020180210673421354375.jpg)](http://app.lvliang.gov.cn/bmdt/wzbb/)
 
-[![](http://app.lvliang.gov.cn/bmdt/yqfkzl/images/P020211014380466255035.gif)](http://app.lvliang.gov.cn/bmdt/yqfkzl/)
 
-[![](http://app.lvliang.gov.cn/bmdt/czyjshsgjf/images/P020211014382092506224.png)](http://app.lvliang.gov.cn/bmdt/czyjshsgjf/)
 
-[![](http://app.lvliang.gov.cn/bmdt/58353/images/P020211014390409510080.png)](https://liuyan.www.gov.cn/yhyshjjxs/index.htm)
 
 信息公开
 
@@ -297,6 +290,3 @@ collected_at: 2026-04-25T10:05:57.669413
 - [市长信箱2020](http://app.lvliang.gov.cn/zmhd_25170/szxxz/)
 - [在线访谈](http://app.lvliang.gov.cn/zmhd_25170/zxft_25172/)
 
-![](http://app.lvliang.gov.cn/images/return_top.png)
-
-![](http://app.lvliang.gov.cn/images/download_close.png)

@@ -109,7 +109,6 @@ _发布时间：2023-10-26_ _来源：能见_ _编辑：衡格格_ _审核：张
 - [计量业务“进海外”丨计量公司联合海外公司助力国产仪器“走出去”](http://cima.org.cn/nnews.asp?vid=41052 "计量业务“进海外”丨计量公司联合海外公司助力国产仪器“走出去”")
 - [重点行业稳步向好 巩固工业恢复势头](http://cima.org.cn/nnews.asp?vid=41049 "重点行业稳步向好 巩固工业恢复势头")
 
-![](http://cima.org.cn/nimages/default_head.png)
 
 [会员登录](http://cima.org.cn/nlogin.asp)
 

@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:33:51.385507
 
 ## 正文
 
-![](http://www.ceia.eea.tsinghua.edu.cn/images/subBanner1.jpg)
 
 政策观察
 
@@ -35,7 +34,6 @@ collected_at: 2026-04-25T14:33:51.385507
 
 以下为原文
 
-![](http://www.ceia.eea.tsinghua.edu.cn/images/2024-12/1f5b74f26d1b4be49b37e82b44c18771.png)
 
 **国家能源局关于支持电力领域新型经营主体创新发展的指导意见**
 
@@ -67,7 +65,6 @@ collected_at: 2026-04-25T14:33:51.385507
 
 **答记者问**
 
-![](http://www.ceia.eea.tsinghua.edu.cn/images/2024-12/bddf7f8ceeaa483f8cf74fe16636970f.png)
 
 **国家能源局有关负责同志就《关于支持电力领域新型经营主体创新发展的指导意见》答记者问**
 

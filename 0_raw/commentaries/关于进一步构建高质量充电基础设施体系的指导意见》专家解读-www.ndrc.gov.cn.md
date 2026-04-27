@@ -62,5 +62,3 @@ collected_at: 2026-04-25T10:10:35.204425
 相关政策
 
 - [国务院办公厅关于进一步构建高质量充电基础设施体系的指导意见](https://www.gov.cn/zhengce/content/202306/content_6887167.htm)
-
-![](https://www.ndrc.gov.cn/images/icon_zhiding@2x.png)

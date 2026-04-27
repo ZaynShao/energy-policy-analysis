@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:50:44.429914
 
 ## 正文
 
-![](http://www.ecopv.org.cn/upload/gfzwh/5e86c1aa1dd92.png)
 
 - [![](http://www.ecopv.org.cn/upload/gfzwh/5e7eaf4f9bc6d.png)\\
 关于我们](http://m.ecopv.org.cn/site/term/1.html)

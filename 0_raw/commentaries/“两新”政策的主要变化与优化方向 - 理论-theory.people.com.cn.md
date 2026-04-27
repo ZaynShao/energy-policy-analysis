@@ -27,9 +27,7 @@ _打开_
 
 [忘记密码？](http://sso.people.com.cn/u/findpwd/user)
 
-[![](http://theory.people.com.cn/img/2016people/images/shoujidenglu.jpg)](http://sso.people.com.cn/logincm)
 
-[![](http://theory.people.com.cn/img/MAIN/2020/12/120674/images/logo.png)](http://www.people.com.cn/ "人民网官网")
 
 [工会新闻网](http://acftu.people.com.cn/) \| [中国侨联](http://www.chinaql.org/) \| [毛主席纪念堂](http://cpc.people.com.cn/GB/69112/113427/index.html) \| [周恩来纪念网](http://zhouenlai.people.cn/) \| [邓小平纪念网](http://www.dengxiaopingnet.com/)
 
@@ -41,9 +39,7 @@ _打开_
 
 ["不忘初心、牢记使命"官网](http://chuxin.people.cn/GB/index.html) \| [中共中央党史和文献研究院](http://www.dswxyjy.org.cn/) \| [中国共产党历史和文献网](http://www.dswxyjy.org.cn/) \| [中组部12380举报网](http://www.12380.gov.cn/) \| [全国社科工作办](http://www.nopss.gov.cn//) \| [中国人事考试网](http://www.cpta.com.cn/)
 
-![](http://theory.people.com.cn/img/MAIN/2019/06/119411/static/images/language.png)
 
-[![](http://theory.people.com.cn/NMediaFile/2021/0325/MAIN202103251051254625287690373.png)](http://jhsjk.people.cn/)
 
 - [高层动态](http://cpc.people.com.cn/GB/64093/64094/index.html)
 - [人事](http://renshi.people.com.cn/)
@@ -176,7 +172,6 @@ _![](http://theory.people.com.cn/img/MAIN/2020/12/120684/images/share.png)_
 
 **[言之有理](http://theory.people.com.cn/GB/434335/index.html)** **[学习文选](http://theory.people.com.cn/GB/164319/index.html)**
 
-![微信“扫一扫”添加“学习大国”](http://theory.people.com.cn/NMediaFile/2021/0105/MAIN202101051747504229755732434.jpg)
 
 微信“扫一扫”添加“学习大国”
 
@@ -187,5 +182,3 @@ _![](http://theory.people.com.cn/img/MAIN/2020/12/120684/images/share.png)_
 推荐阅读
 
 打开客户端体验更多服务 _打开_
-
-![](https://counter.people.cn/c.gif?id=40654394)

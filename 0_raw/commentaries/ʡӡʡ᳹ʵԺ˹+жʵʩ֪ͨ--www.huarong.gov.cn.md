@@ -23,11 +23,9 @@ collected_at: 2026-04-25T14:43:57.666397
 
 [首页](https://www.huarong.gov.cn/index.html "首页") \> [政府信息公开](https://www.huarong.gov.cn/33050/index.htm "政府信息公开") \> [部门信息公开目录](https://www.huarong.gov.cn/33159/37006/index.htm "部门信息公开目录") \> [政府工作部门](https://www.huarong.gov.cn/33159/37006/37008/index.htm "政府工作部门") \> [县科学技术局](https://www.huarong.gov.cn/33159/37006/37008/37045/index.htm "县科学技术局") \> [政策文件](https://www.huarong.gov.cn/33159/37006/37008/37045/37323/index.htm "政策文件")
 
-[![禁止秸秆焚烧 加强综合利用](https://www.huarong.gov.cn/uploadfiles/202509/2025092814591674073.png)](https://www.huarong.gov.cn/33159/37006/37008/37045/37323/content_2360491.html# "禁止秸秆焚烧 加强综合利用")
 
 [禁止秸秆焚烧 加强综合利用](https://www.huarong.gov.cn/33159/37006/37008/37045/37323/content_2360491.html# "禁止秸秆焚烧 加强综合利用")
 
-[![华容县企业用工服务平台](https://www.huarong.gov.cn/uploadfiles/202305/2023053016464285509.jpg)](https://www.huarong.gov.cn/33157/71824/index.htm "华容县企业用工服务平台")
 
 [华容县企业用工服务平台](https://www.huarong.gov.cn/33157/71824/index.htm "华容县企业用工服务平台")
 
@@ -376,7 +374,6 @@ collected_at: 2026-04-25T14:43:57.666397
 
 * * *
 
-![](https://www.huarong.gov.cn/2022/img/wximg.jpg)
 
 扫一扫在手机打开当前页
 
@@ -396,8 +393,5 @@ collected_at: 2026-04-25T14:43:57.666397
 
 [三封寺镇](https://www.huarong.gov.cn/33159/37006/37007/37011/index.htm) [治河渡镇](https://www.huarong.gov.cn/33159/37006/37007/37012/index.htm) [北景港镇](https://www.huarong.gov.cn/33159/37006/37007/37013/index.htm) [鲇鱼须镇](https://www.huarong.gov.cn/33159/37006/37007/37015/index.htm) [万庾镇](https://www.huarong.gov.cn/33159/37006/37007/37016/index.htm) [插旗镇](https://www.huarong.gov.cn/33159/37006/37007/37021/index.htm) [注滋口镇](https://www.huarong.gov.cn/33159/37006/37007/37022/index.htm) [操军镇](https://www.huarong.gov.cn/33159/37006/37007/37018/index.htm) [东山镇](https://www.huarong.gov.cn/33159/37006/37007/37017/index.htm) [梅田湖镇](https://www.huarong.gov.cn/33159/37006/37007/37019/index.htm) [章华镇](https://www.huarong.gov.cn/33159/37006/37007/37024/index.htm) [禹山镇](https://www.huarong.gov.cn/33159/37006/37007/37020/index.htm) [新河乡](https://www.huarong.gov.cn/33159/37006/37007/37014/index.htm) [团洲乡](https://www.huarong.gov.cn/33159/37006/37007/37023/index.htm)
 
-[![政务和公益机构网上名称公示](https://www.huarong.gov.cn/2022/img/red.png)](https://bszs.conac.cn/sitename?method=show&id=57014300FA5F6ADDE053012819ACE16E)
 
 Copyright 2020-2026 Huarong Government All Rights Reserved版权所有 本站资源未经华容县大数据中心许可不得转载主办单位：华容县人民政府主管单位：华容县人民政府办公室承办单位：华容县数据局管理维护：华容县大数据中心政府热线电话：0730-12345（24小时）网站管理电话：0730-2929506网站标识码：4306230032[湘ICP备09004767号](https://beian.miit.gov.cn/)[![](https://www.huarong.gov.cn/include/cms/images/safe.png)湘公网安备：43062302000123号](https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43062302000123) [网站地图](https://www.huarong.gov.cn/36949/74191/index.htm)
-
-![](https://www.yueyang.gov.cn/include/cms/images/jiucuo.png?v=4306230032)

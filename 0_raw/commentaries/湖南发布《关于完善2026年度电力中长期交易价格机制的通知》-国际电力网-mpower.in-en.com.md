@@ -31,7 +31,6 @@ collected_at: 2026-04-25T14:55:35.545534
 
 附通知：
 
-![](https://img.in-en.com/file/upload/202601/06/08401897239266.jpg)
 
 **关于完善2026年度电力中长期交易价格机制的通知**
 
@@ -57,17 +56,14 @@ _关键词：_- [电力交易](https://m.in-en.com/search.php?q=%E7%94%B5%E5%8A%
 
 本网转载自合作媒体或其它网站的信息，登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。如因作品内容、版权和其它问题请及时与本网联系。
 
-![](https://m.in-en.com/images/inencom.gif)
 
 ### 相关推荐
 
-[![取消固定分时电价：11省落地、谁的利润表正在失血？](https://gtimg.in-en.com/diypic/power/power_1614911127_225219851601.jpg)](https://mpower.in-en.com/html/power-2471702.shtml)
 
 ### [取消固定分时电价：11省落地、谁的利润表正在失血？](https://mpower.in-en.com/html/power-2471702.shtml)
 
 国际能源网 1小时前
 
-[![我国首次开展跨境新能源电力交易](https://img.in-en.com/upload/202604/21/08410299281325.jpg)](https://mpower.in-en.com/html/power-2471700.shtml)
 
 ### [我国首次开展跨境新能源电力交易](https://mpower.in-en.com/html/power-2471700.shtml)
 
@@ -77,7 +73,6 @@ _关键词：_- [电力交易](https://m.in-en.com/search.php?q=%E7%94%B5%E5%8A%
 
 华东能源监管局 22小时前
 
-[![《江西省电力中长期市场实施细则》印发](https://gtimg.in-en.com/diypic/power/power_1614911127_106106321357.jpg)](https://mpower.in-en.com/html/power-2471680.shtml)
 
 ### [《江西省电力中长期市场实施细则》印发](https://mpower.in-en.com/html/power-2471680.shtml)
 
@@ -87,7 +82,6 @@ _关键词：_- [电力交易](https://m.in-en.com/search.php?q=%E7%94%B5%E5%8A%
 
 中节能太阳能 3天前
 
-[![国家电投重庆公司实现首季利润、固投双增长](https://img.in-en.com/upload/202604/17/19214163281365.jpg)](https://mpower.in-en.com/html/power-2471665.shtml)
 
 ### [国家电投重庆公司实现首季利润、固投双增长](https://mpower.in-en.com/html/power-2471665.shtml)
 
@@ -105,11 +99,9 @@ _关键词：_- [电力交易](https://m.in-en.com/search.php?q=%E7%94%B5%E5%8A%
 
 加群交流
 
-![](https://gtimg.in-en.com/file/image/share-tips.png)
 
 跳过
 
-![](https://gtimg.in-en.com/images/login5/logo.jpg)
 
 验证码登录
 
@@ -149,15 +141,11 @@ _关键词：_- [电力交易](https://m.in-en.com/search.php?q=%E7%94%B5%E5%8A%
 
 x
 
-![](https://gtimg.in-en.com/images/login5/logo2.jpg)
 
-![](https://img.in-en.com/static/qun/qrcode/jsgf.jpg)
 
 微信扫一扫 立即添加
 
-[![返回](https://gtimg.in-en.com/mobile/images/fh.png)](https://mpower.in-en.com/policy/china/notice/)
 
-[![](https://gtimg.in-en.com/mobile/images/home.png)](https://mpower.in-en.com/)
 
 ##### [电力网](https://mpower.in-en.com/)
 

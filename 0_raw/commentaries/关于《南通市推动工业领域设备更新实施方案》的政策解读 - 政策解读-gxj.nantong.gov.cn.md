@@ -34,7 +34,6 @@ collected_at: 2026-04-25T14:40:57.310078
 - 繁
 
 
-![](http://www.jszwfw.gov.cn/picture/2/1706231746247661439.png)
 
 返回
 
@@ -103,5 +102,3 @@ collected_at: 2026-04-25T14:40:57.310078
 版权所有：南通市工业和信息化局备案号： [苏ICP备11026839号-1](http://beian.miit.gov.cn/)政府网站识别码：3206000029
 
 南通市工业和信息化局主办[![](https://gxj.nantong.gov.cn/ntsjxw/resource/theme/img/gwab.png)苏公网安备 32060202000433号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32060202000433)
-
-![](https://zfwzgl.www.gov.cn/exposure/images/jiucuo.png?v=3206000029)

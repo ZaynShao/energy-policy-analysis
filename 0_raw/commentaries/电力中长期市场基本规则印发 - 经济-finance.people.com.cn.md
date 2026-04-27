@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:24:35.700665
 
 ## 正文
 
-![](http://world.people.com.cn/img/2020peopleindex/img/logo_share_ap.jpg)
 
 _打开_
 
@@ -152,7 +151,6 @@ _打开_
 - ![](http://finance.people.com.cn/img/2020peopleindex/img/more2.png)
 - [登录](http://sso.people.com.cn/login)
 
-![](http://finance.people.com.cn/img/2020peopleindex/img/dltx1.png)
 
 退出
 
@@ -252,7 +250,6 @@ Copyright © 1997-2026 by www.people.com.cn. all rights reserved
 [![](http://finance.people.com.cn/img/2020peopleindex/img/copy_py2.png)](http://www.piyao.org.cn/)[![](http://finance.people.com.cn/img/2020peopleindex/img/copy_icon1.png)](http://www.people.com.cn/img/2014xuke/2018icp.html)[![](http://finance.people.com.cn/img/2020peopleindex/img/copy_icon2.png)](https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951)[![](http://finance.people.com.cn/img/2020peopleindex/img/copy_icon3.png)](http://si.trustutn.org/info?sn=470170320027574551118&certType=1)[![](http://finance.people.com.cn/img/2020peopleindex/img/copy_icon4.png)](http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html)[![](http://finance.people.com.cn/img/2020peopleindex/img/wzahg.png)](http://finance.people.com.cn/n1/2026/0101/c1004-40637094.html#)
 
 - 评论
-[![](http://finance.people.com.cn/img/2020wbc/imgs/share_bbs.png)](http://bbs1.people.com.cn/board/1.html)
 
 - 分享
 - 关注
@@ -278,5 +275,3 @@ _**微信** **微博** **快手**_
 打开客户端体验更多服务 _打开_
 
 返回顶部
-
-![](https://counter.people.cn/c.gif?id=40637094)

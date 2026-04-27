@@ -59,7 +59,6 @@ _ꄘ_ 浏览量：261
 
 ![](https://eraes.com.cn/Common/GenerateCommentCaptcha?timestamp=0.42491575738194975)
 
-![](https://nwzimg.wezhan.cn/Content/Images/Avatar.png?_version=20250709232451)
 
 退出
 
@@ -77,7 +76,6 @@ _ꄘ_ 浏览量：261
 
 **免责申明：** 凡注明“来源：XXX”的消息均转载自其它媒体，版权归原媒体及其作者所有。转载目的在于充分传递行业资讯，并不代表本会赞同其观点和对其真实性负责。如有侵权，请联系我们删稿18811449116。
 
-![](https://nwzimg.wezhan.cn/contents/sitefiles2066/10330262/images/47602401.jpg)
 
 分享到： [分享到QQ空间](https://eraes.com.cn/newsinfo/8899202.html# "分享到QQ空间") [分享到新浪微博](https://eraes.com.cn/newsinfo/8899202.html# "分享到新浪微博") [分享到微信](https://eraes.com.cn/newsinfo/8899202.html# "分享到微信")0
 
@@ -248,7 +246,6 @@ _넶_ 102026-04-24
 
 **24小时热门新闻**
 
-![](https://nwzimg.wezhan.cn/contents/sitefiles2066/10330262/images/47602401.jpg)
 
 [京ICP备2024041518号-2](https://beian.miit.gov.cn/)
 

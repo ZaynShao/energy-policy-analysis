@@ -21,7 +21,6 @@ collected_at: 2026-04-25T14:52:53.993664
 
 ![](https://fgk.chinatax.gov.cn/zcfgk/c102416/c5207352/content.html)
 
-![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/fgk.png)
 
 全部
 
@@ -226,7 +225,6 @@ _3_
 
 修　改取　消
 
-![](https://fgk.chinatax.gov.cn/static/2023/images/hdjl/forgetpw_success_bg.png)
 
 设置成功！
 
@@ -242,7 +240,6 @@ X
 
 文件
 
-![回到顶部](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/easybtn_icon0403.png)
 
 [_![](https://fgk.chinatax.gov.cn/zcfgk/xhtml/images/gh.png)_ 中国政府网](https://www.gov.cn/ "")
 

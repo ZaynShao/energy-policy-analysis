@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:49:41.152277
 
 ## 正文
 
-[![首都之窗-北京市人民政府](https://www.beijing.gov.cn/images/logo_ch_20191009.png)](https://www.beijing.gov.cn/)
 
 [**用户登录** **登录**](https://www.beijing.gov.cn/hudong/yonghu/uSpace "用户登录")
 
@@ -48,9 +47,7 @@ collected_at: 2026-04-25T14:49:41.152277
 - [政民互动](https://www.beijing.gov.cn/hudong/ "政民互动")
 - [人文北京](https://www.beijing.gov.cn/renwen/ "人文北京")
 
-![](https://www.beijing.gov.cn/images/common_more_20250609.png)
 
-![](https://www.beijing.gov.cn/images/common_close_20250609.png)
 
 ### 网站地图
 
@@ -117,7 +114,6 @@ collected_at: 2026-04-25T14:49:41.152277
 - [PORTUGUÊS](https://portuguese.beijing.gov.cn/)
 - [ITALIANO](https://italian.beijing.gov.cn/)
 
-![](https://www.beijing.gov.cn/images/common_gotop_20250609.png)
 
 回到顶部
 
@@ -127,7 +123,6 @@ collected_at: 2026-04-25T14:49:41.152277
 
 [政务公开](http://www.beijing.gov.cn/gongkai/)　>　[政策公开](https://www.beijing.gov.cn/zhengce/ "政策公开")　>　[政策解读](https://www.beijing.gov.cn/zhengce/zcjd/ "政策解读")　>　[政策问答](https://www.beijing.gov.cn/zhengce/zcjd/zcwd/ "政策问答")　>　[《北京市积极推动设备更新和消费品以旧换新行动方案》相关问答](https://www.beijing.gov.cn/zhengce/zcjd/zcwd/yjhxxdfa/ "《北京市积极推动设备更新和消费品以旧换新行动方案》相关问答")
 
-![](https://www.beijing.gov.cn/zhengce/zcjd/zcwd/yjhxxdfa/images/P020240514351232801807.jpg)
 
 ### 《北京市积极推动设备更新和消费品以旧换新行动方案》相关问答
 
@@ -383,7 +378,6 @@ collected_at: 2026-04-25T14:49:41.152277
 
 [微信](https://www.beijing.gov.cn/shouye/zdxx/ydb/) \| [政务新媒体发布厅](https://www.u-mei.com/staticweb/#/area/beijing) \| [邮箱](https://mail.beijing.gov.cn/coremail/login.jsp)
 
-[![党政机关](https://www.beijing.gov.cn/images/ico_dzjg_ch_20190924.png)](http://bszs.conac.cn/sitename?method=show&id=17086746D1C42C2CE053022819ACAD54)
 
 移动版
 
@@ -395,7 +389,6 @@ collected_at: 2026-04-25T14:49:41.152277
 
 微信公众号
 
-![政务新媒体发布厅](https://www.beijing.gov.cn/images/zwxmtfbt_qrcode_20251201.png)
 
 政务新媒体
 

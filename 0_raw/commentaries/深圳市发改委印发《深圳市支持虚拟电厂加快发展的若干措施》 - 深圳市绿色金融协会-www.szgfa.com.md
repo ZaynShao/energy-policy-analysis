@@ -59,17 +59,13 @@ collected_at: 2026-04-25T10:09:18.924057
 - [会员中心](https://www.szgfa.com/case.aspx?nid=4&typeid=140)
 
 
-[![](https://0.rc.xiniu.com/g4/M00/31/D2/CgAG0mHT2zSAGSSPAAAEb26gkfg169.png)](https://en.szgfa.com/)
 
-![](https://0.rc.xiniu.com/g4/M00/31/D2/CgAG0mHT25uADmlAAAAFbekJlfU367.png)
 
-![](https://0.rc.xiniu.com/g4/M00/3B/E6/CgAG0mIVl0qAQbstAAfdzfMVniI499.jpg)
 
 粤港澳大湾区
 
 绿色及可持续金融生态圈的建设者与推动者
 
-![](https://0.rc.xiniu.com/g4/M00/32/31/CgAG0mHVIj-AOIFOAAAGakVEzTE168.png)
 
 您当前位置: [首页](https://www.szgfa.com/)[政策法规](https://www.szgfa.com/down.aspx?nid=14&typeid=13)[政策速递](https://www.szgfa.com/down.aspx?nid=14&typeid=13)
 
@@ -98,7 +94,6 @@ collected_at: 2026-04-25T10:09:18.924057
 
 《方案》的出台，将进一步挖掘深圳分布式资源的调节潜力，推动市级虚拟电厂的发展。
 
-![深圳市发改委印发《深圳市支持虚拟电厂加快发展的若干措施》](https://0.rc.xiniu.com/g5/M00/1E/E4/CgAGbGZxOd-AEuhKABDAMGSOQhM647.png)
 
 **深圳市发展和改革委员会关于印发**
 

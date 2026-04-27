@@ -204,5 +204,3 @@ collected_at: 2026-04-25T14:34:46.850132
     （来源：上海市人民政府网）
 
 附件：
-
-![](https://www.ndrc.gov.cn/images/icon_zhiding@2x.png)

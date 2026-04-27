@@ -19,9 +19,7 @@ collected_at: 2026-04-25T14:32:26.919129
 
 ## 正文
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15194516261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2131)
 
-[![沐光行动 点亮世界](https://img.in-en.com/file/upload/202501/06/18024145261152.jpg)](https://www.in-en.com/api/redirect.php?aid=1713)
 
 当前位置： [充换电网](https://chd.in-en.com/) » [行业政策法规](https://chd.in-en.com/policy/) » [充换电政策](https://chd.in-en.com/policy/nev/) » 正文
 
@@ -56,21 +54,13 @@ collected_at: 2026-04-25T14:32:26.919129
 
 原文如下：
 
-![](https://img.in-en.com/file/upload/202503/24/08371466260468.png)
 
-![](https://img.in-en.com/file/upload/202503/24/08371714260468.png)
 
-![](https://img.in-en.com/file/upload/202503/24/08372089260468.png)
 
-![](https://img.in-en.com/file/upload/202503/24/08372319260468.png)
 
-![](https://img.in-en.com/file/upload/202503/24/08372659260468.png)
 
-![](https://img.in-en.com/file/upload/202503/24/08372954260468.png)
 
-![](https://img.in-en.com/file/upload/202503/24/08373213260468.png)
 
-![](https://img.in-en.com/file/upload/202503/24/08373490260468.png)
 
 返回 [国际充换电网](https://chd.in-en.com/) 首页
 
@@ -179,7 +169,6 @@ _2天前_ 来源：中招联合招标采购平台 _[充电站](https://www.in-en
 - [宁德时代发布电池新品：6分钟充满电，续航1500公里](https://chd.in-en.com/html/chd-2459025.shtml "宁德时代发布电池新品：6分钟充满电，续航1500公里")
 - [6大重卡充电新品！星星充电、京能新能源、绿能慧充各出王牌](https://chd.in-en.com/html/chd-2458969.shtml "6大重卡充电新品！星星充电、京能新能源、绿能慧充各出王牌")
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15204065261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2132)
 
 ### 充换电人物
 

@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:55:43.733293
 
 ## 正文
 
-![分享](https://www.ditan.com/static/img/share.png)
 
 [新闻资讯](https://www.ditan.com/news/)
 
@@ -83,11 +82,9 @@ AI节能诊断
 
 扫一扫
 
-![](<Base64-Image-Removed>)
 
 **摘要：** 近日，国家能源局湖南监管办公室、湖南省发展和改革委员会、湖南省能源局联合印发《湖南电力中长期交易规则补充规定》，在完善市场注册、明确分时段交易、提出价格衔接机制等方面完善现行规则，促进中长期与现货市场运营衔接。
 
-![7.png](https://www.ditan.com/static/upload/image/20250225/1740476042156562.png)
 
 为认真贯彻落实党中央、国务院决策部署，有序推进电力市场建设，促进中长期与现货市场运营衔接，近日，国家能源局湖南监管办公室、湖南省发展和改革委员会、湖南省能源局联合印发了《湖南电力中长期交易规则补充规定》（以下简称《补充规定》）。
 
@@ -124,7 +121,6 @@ AI节能诊断
 
 [更多](https://www.ditan.com/carbonrank/)
 
-[![国资委发文：出台央企绿色供应链标准，绿色低碳成央企订单门槛](http://editan.oss-cn-shanghai.aliyuncs.com/images/20260331/9a4cc4c88d18566e16a77849130eaa36_0.jpg)](https://www.ditan.com/carbon/tanguanli/100825.html)
 
 [国资委发文：出台央企绿色供应链标准，绿色低碳成央企订单门槛](https://www.ditan.com/carbon/tanguanli/100825.html)
 
@@ -220,19 +216,13 @@ AI节能诊断
 
 [全国](https://www.ditan.com/all?sortby=date) [北京](https://www.ditan.com/search/?keyword=%E5%8C%97%E4%BA%AC&field=ext_province&searchtpl=search_zone.html) [天津](https://www.ditan.com/search/?keyword=%E5%A4%A9%E6%B4%A5&field=ext_province&searchtpl=search_zone.html) [河北](https://www.ditan.com/search/?keyword=%E6%B2%B3%E5%8C%97&field=ext_province&searchtpl=search_zone.html) [山西](https://www.ditan.com/search/?keyword=%E5%B1%B1%E8%A5%BF&field=ext_province&searchtpl=search_zone.html) [辽宁](https://www.ditan.com/search/?keyword=%E8%BE%BD%E5%AE%81&field=ext_province&searchtpl=search_zone.html) [吉林](https://www.ditan.com/search/?keyword=%E5%90%89%E6%9E%97&field=ext_province&searchtpl=search_zone.html) [上海](https://www.ditan.com/search/?keyword=%E4%B8%8A%E6%B5%B7&field=ext_province&searchtpl=search_zone.html) [江苏](https://www.ditan.com/search/?keyword=%E6%B1%9F%E8%8B%8F&field=ext_province&searchtpl=search_zone.html) [浙江](https://www.ditan.com/search/?keyword=%E6%B5%99%E6%B1%9F&field=ext_province&searchtpl=search_zone.html) [安徽](https://www.ditan.com/search/?keyword=%E5%AE%89%E5%BE%BD&field=ext_province&searchtpl=search_zone.html) [福建](https://www.ditan.com/search/?keyword=%E7%A6%8F%E5%BB%BA&field=ext_province&searchtpl=search_zone.html) [江西](https://www.ditan.com/search/?keyword=%E6%B1%9F%E8%A5%BF&field=ext_province&searchtpl=search_zone.html) [山东](https://www.ditan.com/search/?keyword=%E5%B1%B1%E4%B8%9C&field=ext_province&searchtpl=search_zone.html) [河南](https://www.ditan.com/search/?keyword=%E6%B2%B3%E5%8D%97&field=ext_province&searchtpl=search_zone.html) [湖北](https://www.ditan.com/search/?keyword=%E6%B9%96%E5%8C%97&field=ext_province&searchtpl=search_zone.html) [湖南](https://www.ditan.com/search/?keyword=%E6%B9%96%E5%8D%97&field=ext_province&searchtpl=search_zone.html) [广东](https://www.ditan.com/search/?keyword=%E5%B9%BF%E4%B8%9C&field=ext_province&searchtpl=search_zone.html) [广西](https://www.ditan.com/search/?keyword=%E5%B9%BF%E8%A5%BF&field=ext_province&searchtpl=search_zone.html) [海南](https://www.ditan.com/search/?keyword=%E6%B5%B7%E5%8D%97&field=ext_province&searchtpl=search_zone.html) [重庆](https://www.ditan.com/search/?keyword=%E9%87%8D%E5%BA%86&field=ext_province&searchtpl=search_zone.html) [四川](https://www.ditan.com/search/?keyword=%E5%9B%9B%E5%B7%9D&field=ext_province&searchtpl=search_zone.html) [贵州](https://www.ditan.com/search/?keyword=%E8%B4%B5%E5%B7%9E&field=ext_province&searchtpl=search_zone.html) [云南](https://www.ditan.com/search/?keyword=%E4%BA%91%E5%8D%97&field=ext_province&searchtpl=search_zone.html) [西藏](https://www.ditan.com/search/?keyword=%E8%A5%BF%E8%97%8F&field=ext_province&searchtpl=search_zone.html) [陕西](https://www.ditan.com/search/?keyword=%E9%99%95%E8%A5%BF&field=ext_province&searchtpl=search_zone.html) [甘肃](https://www.ditan.com/search/?keyword=%E7%94%98%E8%82%83&field=ext_province&searchtpl=search_zone.html) [青海](https://www.ditan.com/search/?keyword=%E9%9D%92%E6%B5%B7&field=ext_province&searchtpl=search_zone.html) [宁夏](https://www.ditan.com/search/?keyword=%E5%AE%81%E5%A4%8F&field=ext_province&searchtpl=search_zone.html) [新疆](https://www.ditan.com/search/?keyword=%E6%96%B0%E7%96%86&field=ext_province&searchtpl=search_zone.html) [内蒙古](https://www.ditan.com/search/?keyword=%E5%86%85%E8%92%99%E5%8F%A4&field=ext_province&searchtpl=search_zone.html) [黑龙江](https://www.ditan.com/search/?keyword=%E9%BB%91%E9%BE%99%E6%B1%9F&field=ext_province&searchtpl=search_zone.html) [港澳台](https://www.ditan.com/search/?keyword=%E6%B8%AF%E6%BE%B3%E5%8F%B0&field=ext_province&searchtpl=search_zone.html)
 
-[![黄金广告位招租中...](https://www.ditan.com/static/upload/image/20240620/1718863126180594.jpg)](https://www.ditan.com/adv/10/3256.html)
 
-[![低碳校园建设方案](https://www.ditan.com/static/upload/image/20240426/1714097232312227.jpg)](https://www.ditan.com/adv/9/3257.html)
 
-[![招租](http://editan.oss-cn-shanghai.aliyuncs.com/images/20260209/1770632518713330.jpg)](https://www.ditan.com/adv/43/10725.html)
 
-![AI助手](https://www.ditan.com/static/img/ai.png)
 
-![低碳网](https://www.ditan.com/static/img/ditan.png)
 
 商务合作
 
-![](https://www.ditan.com/static/upload/image/20240709/1720502702973516.png)
 
 - [**\|** 关于我们](https://www.ditan.com/info/aboutus/)
 - [**\|** 加入我们](https://www.ditan.com/info/joinus/)
@@ -243,29 +233,20 @@ AI节能诊断
 
 社交媒体
 
-![低碳网公众号](https://www.ditan.com/static/img/ditan_oa.jpg)
 
 低碳网公众号
 
-![低碳网视频号](https://www.ditan.com/static/img/ditan_video.jpg)
 
 低碳网视频号
 
-![低碳网抖音号](https://www.ditan.com/static/img/douying.jpg)
 
 低碳网抖音号
 
-[![知乎](https://www.ditan.com/static/img/zhihu.png)](https://www.zhihu.com/people/42-1-86-90-64)
 
-[![今日头条](https://www.ditan.com/static/img/jrtt.png)](https://www.toutiao.com/c/user/token/MS4wLjABAAAAlKvzLzNx8bfaNb8WGkli79z39BswpckNzF8zi7p3MAxBapPzXu1GoJJZnUeTEaPL/?source=mp_msg)
 
-[![搜狐](https://www.ditan.com/static/img/souhu.png)](https://mp.sohu.com/profile?xpt=MWNmMDkwMjItYTI5ZC00MmRhLTgwOWYtOGE4ODJkYmI1ZmQ1&scm=1019.20005.0.0.0&spm=smpc.csrpage.suggest-list.2.1723535343564TAz8KQj)
 
-[![哔哩哔哩](https://www.ditan.com/static/img/bilibili.png)](https://space.bilibili.com/3546719375591766?spm_id_from=333.1296.0.0)
 
-[![西瓜视频](https://www.ditan.com/static/img/xigua.png)](https://www.ixigua.com/home/2100514512189963/hotsoon/?preActiveKey=video&list_entrance=userdetail)
 
-[![微博](https://www.ditan.com/static/img/weibo.png)](https://weibo.com/u/7932124611)
 
 [网站地图](https://www.ditan.com/info/map/) \|
 站长邮箱：i@ditan.com

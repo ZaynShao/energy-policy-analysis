@@ -21,7 +21,6 @@ collected_at: 2026-04-25T15:00:28.196361
 
 ![](https://www.xuanzhou.gov.cn/OpennessContent/show/3598511.html)
 
-[![](https://www.xuanzhou.gov.cn/assets/dist/images/public/xxgk-logo.png)](https://www.xuanzhou.gov.cn/)
 
 - 无障碍
 - 长辈版
@@ -38,7 +37,6 @@ collected_at: 2026-04-25T15:00:28.196361
 
 ![](https://www.xuanzhou.gov.cn/assets/dist/images/public/icon-guohui.png)宣州区发展和改革委员会
 
-![](https://www.xuanzhou.gov.cn/dist/xxgk/xxgk/images/public/pic-banner.png)
 
 您现在所在的位置： [网站首页](https://www.xuanzhou.gov.cn/) >
 [政府信息公开首页](https://www.xuanzhou.gov.cn/Openness/) >
@@ -118,7 +116,6 @@ collected_at: 2026-04-25T15:00:28.196361
 
 再次感谢您对我区城镇建设和民生事业，特别是对老旧小区供电负荷增容改造工作的高度关注和宝贵建言！您所提建议对我们改进工作思路、明确工作方向具有重要价值。我们热忱期盼您继续对我区各项事业的发展给予关心、支持和监督。
 
-![Scan me!](<Base64-Image-Removed>)
 
 用微信扫描二维码
 

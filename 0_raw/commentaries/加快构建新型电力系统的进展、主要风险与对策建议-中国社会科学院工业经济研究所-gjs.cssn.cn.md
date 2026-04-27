@@ -160,13 +160,11 @@ collected_at: 2026-04-25T14:57:12.899737
 - · [新质生产力就是绿色生产力](http://gjs.cssn.cn/ztzl/ztzl_views/202402/t20240222_5734367.shtml)
 24-02-22
 
-![](http://gjs.cssn.cn/kydt/images/P020160531556785857417.jpg)
 
 - [科研成果](http://gjs.cssn.cn/kydt/kydt_kycg/)
 - [调研专栏](http://gjs.cssn.cn/kydt/kydt_kygl/)
 - [学术交流](http://gjs.cssn.cn/kydt/kydt_xsjl/)
 - [新书推荐](http://gjs.cssn.cn/kydt/xsjs/)
 
-![微信公众号](http://gjs.cass.cn/lxfs/201604/W020230215425604767799.png)
 
 分享到 [百度一下](http://www.baidu.com/s?wd=&tn=SE_hldp08010_vurs2xrp)

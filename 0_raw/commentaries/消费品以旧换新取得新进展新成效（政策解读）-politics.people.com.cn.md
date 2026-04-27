@@ -19,7 +19,6 @@ collected_at: 2026-04-25T09:59:11.926531
 
 ## 正文
 
-![](http://www.people.com.cn/img/2020peopleindex/img/logo_share_ap.jpg)
 
 - [首页](http://www.people.com.cn/)
 - 党政![](http://politics.people.com.cn/img/2020peopleindex/img/arrow2.png)
@@ -147,7 +146,6 @@ collected_at: 2026-04-25T09:59:11.926531
 - [![](http://politics.people.com.cn/img/2020peopleindex/img/sou1.png)](http://search.people.cn/)
 - [登录](http://sso.people.com.cn/login?fromUrl=http://people.com.cn)
 
-![](http://politics.people.com.cn/img/2020peopleindex/img/dltx1.png)
 
 退出
 
@@ -236,7 +234,6 @@ Copyright © 1997-2024 by www.people.com.cn. all rights reserved
 [![](http://politics.people.com.cn/img/2020peopleindex/img/copy_py2.png)](http://www.piyao.org.cn/)[![](http://politics.people.com.cn/img/2020peopleindex/img/copy_icon1.png)](http://www.people.com.cn/img/2014xuke/2018icp.html)[![](http://politics.people.com.cn/img/2020peopleindex/img/copy_icon2.png)](https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951)[![](http://politics.people.com.cn/img/2020peopleindex/img/copy_icon3.png)](http://si.trustutn.org/info?sn=470170320027574551118&certType=1)[![](http://politics.people.com.cn/img/2020peopleindex/img/copy_icon4.png)](http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html)[![](http://politics.people.com.cn/img/2020peopleindex/img/wzahg.png)](http://politics.people.com.cn/n1/2024/0926/c1001-40328241.html#)
 
 - 评论
-[![](http://politics.people.com.cn/img/2020wbc/imgs/share_bbs.png)](http://bbs1.people.com.cn/board/1.html)
 
 - 分享
 - 关注
@@ -254,5 +251,3 @@ _**微信** **微博** **快手**_
 
 
 返回顶部
-
-![](http://counter.people.cn:8000/c.gif?id=40328241)

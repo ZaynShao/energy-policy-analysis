@@ -169,7 +169,6 @@ State Council
 
 [![Tweet about this on Twitter](<Base64-Image-Removed>)](https://twitter.com/share?url=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/&text=2024-2025+Energy+conservation+and+carbon+reduction+action+plan)[![Share on Reddit](<Base64-Image-Removed>)](http://reddit.com/submit?url=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/&title=2024-2025%20Energy%20conservation%20and%20carbon%20reduction%20action%20plan)[![Share on LinkedIn](<Base64-Image-Removed>)](http://www.linkedin.com/shareArticle?mini=true&url=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/)[![Email this to someone](<Base64-Image-Removed>)](mailto:/en/?subject=2024-2025%20Energy%20conservation%20and%20carbon%20reduction%20action%20plan&body=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/)[![Print this page](<Base64-Image-Removed>)](https://chinaenergyportal.org/en/2024-2025-energy-conservation-and-carbon-reduction-action-plan/#)
 
-![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
 Original text
 

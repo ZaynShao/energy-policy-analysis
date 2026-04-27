@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:32:45.858022
 
 ## 正文
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15194516261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2131)
 
 当前位置： [储能网](https://chuneng.in-en.com/) » [储能政策](https://chuneng.in-en.com/policy/) » 正文
 
@@ -235,9 +234,7 @@ _1天前_ 来源：天启鸿源新能源 _[天启鸿源](https://www.in-en.com/t
 - [宁夏新型储能并网规模超800万千瓦](https://chuneng.in-en.com/html/chunengy-53740.shtml "宁夏新型储能并网规模超800万千瓦")
 - [西藏中长期：独立储能放电按发电企业、充电按电力用户参与交易](https://chuneng.in-en.com/html/chunengy-53767.shtml "西藏中长期：独立储能放电按发电企业、充电按电力用户参与交易")
 
-[![2026沙戈荒清洁能源大基地（三北）高质量发展大会](https://img.in-en.com/file/upload/202604/16/15204065261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2132)
 
-[![人才招聘](https://img.in-en.com/file/upload/202601/23/18413530261280.jpg)](https://www.in-en.com/api/redirect.php?aid=2108)
 
 ### 储能人物
 

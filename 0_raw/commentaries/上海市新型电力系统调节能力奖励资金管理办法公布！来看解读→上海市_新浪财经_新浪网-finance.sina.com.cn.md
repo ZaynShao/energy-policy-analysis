@@ -67,17 +67,13 @@ collected_at: 2026-04-25T14:36:44.007278
 
 请用最新版微博客户端扫码
 
-![](https://i.sso.sina.com.cn/images/login/td.png)
 
-![](https://i.sso.sina.com.cn/images/login/pre_loading.gif)
 
-![](https://i.sso.sina.com.cn/images/login/weibo_how_ot.png)
 
 扫描成功！
 
 点击手机上的确认即可登录
 
-[![](https://n.sinaimg.cn/finance/c30320b4/20190809/cj_sinafinance_app2x.png)](https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=cjzhengwen08)
 
 [滚动新闻](http://finance.sina.com.cn/roll/) >正文
 
@@ -149,7 +145,6 @@ Q2
 
 奖励标准见下表，符合政策要求的项目可连续3年获得奖励。其中，智能充电桩奖励仅适用于2024年底前，将个人自用非智能充电桩替代为智能充电桩的项目。
 
-![](https://n.sinaimg.cn/spider20250522/204/w620h384/20250522/d4bd-9e4ee3d8b4d1cc63fcf6cd7fa00c0f3c.png)
 
 3.新型储能
 
@@ -237,13 +232,11 @@ Q8
 
 （二）V2G调节能力年度奖励。对智能充（放）电桩V2G，根据电网企业调节能力考核结果（考核规则另行发布）给予奖励，奖励期3年。个人自用非智能充电桩2024年底前完成智能充电桩替代的，可获得智能充电桩奖励；2025年及以后完成智能充电桩替代的，不再奖励。具体标准详见下表。
 
-![](https://n.sinaimg.cn/spider20250522/359/w829h330/20250522/dc22-272c4a5f9165029fc7dd26206df52d07.png)
 
 （三）新型储能奖励。
 
 1.度电奖励。对纳入新型储能示范项目目录（要求见附件）管理的新型储能，根据实际放电量给予奖励，每千瓦时储能容量的年电量奖励上限600千瓦时，奖励期3年。奖励要求及标准见下表。奖励电量的起始时间以电网企业电量计量装置安装时间（从0开始计量）为准。
 
-![](https://n.sinaimg.cn/spider20250522/293/w838h255/20250522/6060-40b8976d51f07565aa56d6b5016063a5.png)
 
 2.高比例先进技术奖励。对先进技术应用比例达到要求的独立储能电站，按照先进技术设备投资高出常规锂电投资的40%，另行给予一次性奖励。每个项目奖励上限5000万元。
 
@@ -321,7 +314,6 @@ Q8
 
 （一）市财政局会同市发展改革委加强奖励资金的使用管理和监督，按照要求依法合规使用财政资金，防止挤占、挪用、虚列、套取专项资金等违法违规行为。
 
-[![广告](https://n.sinaimg.cn/news/42f7389d/20190523/JiJin300x250.jpg)](http://saxn.sina.com.cn/click?type=bottom&t=UERQUzAwMDAwMDA0NDA5OQ%3D%3D&url=https%3A%2F%2Ffinance.sina.com.cn%2Fmobile%2Fcomfinanceweb.shtml%3Fsource%3DPDPS000000044099&sign=e32b776cb8255330)
 
 （二）虚拟电厂运营商、新型储能企业对奖励资金申请材料的真实性负责，并确保获得奖励资金的项目安全稳定运行，服务年限至少达到8年。对奖励申报过程中存在弄虚作假或违法违规行为、发生生产安全事故、服务年限未达到要求的企业，一经查实市发展改革委有权追回奖励资金，3年内不得申请奖励资金，并视情节依法依规将相关企业失信信息记入市公共信用信息服务平台。
 
@@ -345,13 +337,10 @@ Q8
 
 文章关键词： [上海市](http://tags.finance.sina.com.cn/%E4%B8%8A%E6%B5%B7%E5%B8%82)
 
-[![](https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png)](http://tousu.sina.com.cn/)
 
 _[0](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=cj&newsid=comos-nexmssz1736636)_ 条评论\| _[0](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=cj&newsid=comos-nexmssz1736636)_ 人参与网友评论
 
-[![](https://img.t.sinajs.cn/t5/style/images/face/male_180.png)](https://weibo.com/ "")
 
-[![](https://img.t.sinajs.cn/t5/style/images/face/male_180.png)](https://weibo.com/)
 
 表情
 
@@ -373,15 +362,12 @@ _[0](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=cj&news
 
 ## VIP课程推荐
 
-[![](https://n.sinaimg.cn/tech/413/w264h149/20260106/be52-606bfeb05efb28e38e5261c96f531302.png)](https://live.finance.sina.com.cn/bozhu/1658605145)
 
 [大题材的引爆点](https://live.finance.sina.com.cn/bozhu/1658605145)
 
-[![](https://n.sinaimg.cn/tech/413/w264h149/20260106/c06d-e91f515c0275244acd99f11c653a4819.png)](https://live.finance.sina.com.cn/bozhu/2060480585)
 
 [科技仍是26年主线](https://live.finance.sina.com.cn/bozhu/2060480585)
 
-[![](https://n.sinaimg.cn/tech/413/w264h149/20241214/1287-013a827d7798ba4e16c253c1b78ad48a.png)](https://live.finance.sina.com.cn/bozhu/2342117515)
 
 [26年继续牛市格局](https://live.finance.sina.com.cn/bozhu/2342117515)
 
@@ -511,7 +497,6 @@ APP专享
 
 APP专享
 
-![新浪财经公众号](https://n.sinaimg.cn/finance/72219a70/20180103/_thumb_23666.png)
 
 新浪财经公众号
 
@@ -592,47 +577,36 @@ APP专享
 - [航宇科技上市！中1签赚13960元 收益率243.21%](https://finance.sina.com.cn/stock/observe/2021-07-05/doc-ikqcfnca5090860.shtml)
 - [海泰科上市！中1签赚15500元 收益率96%](https://finance.sina.com.cn/stock/observe/2021-07-02/doc-ikqciyzk3179263.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/6.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
 ### [六：凑市值打新可行 资金成本不超7.86%即可](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/7.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
 ### [七：流通股和融资仓算市值，限售股和基金等不算](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/1.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
 ### [一：打新究竟有多暴利？一签可赚26万](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/2.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 
 ### [二：中1签赚5万以内的概率是92.79%](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/3.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-05/doc-iivhuipp2669253.shtml)
 
 ### [三：账户等级越高，中签金额越高](https://finance.sina.com.cn/stock/observe/2020-09-05/doc-iivhuipp2669253.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/4.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-06/doc-iivhvpwy5049617.shtml)
 
 ### [四：创业板户中签收益率最高 普通户最低](https://finance.sina.com.cn/stock/observe/2020-09-06/doc-iivhvpwy5049617.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/5.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-07/doc-iivhuipp2933371.shtml)
 
 ### [五：科创板户无风险收益率最高 普通户最低](https://finance.sina.com.cn/stock/observe/2020-09-07/doc-iivhuipp2933371.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/6.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
 ### [六：凑市值打新可行 资金成本不超7.86%即可](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/7.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
 ### [七：流通股和融资仓算市值，限售股和基金等不算](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/1.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
 ### [一：打新究竟有多暴利？一签可赚26万](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/2.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 
 ### [二：中1签赚5万以内的概率是92.79%](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 
@@ -707,7 +681,6 @@ APP专享
 09/ [建设银行成功落地首单15年超长期限科技创新债券](https://finance.sina.com.cn/money/bank/gsdt/2025-05-22/doc-inexmwyy9575957.shtml)
 10/ [创新积分制2.0版要来了，科技部、央行等多部门解读科技金融政策](https://finance.sina.com.cn/jjxw/2025-05-22/doc-inexmwyy6915945.shtml)
 
-[![广告](https://n.sinaimg.cn/default/42f7389d/20190524/XinLangTuPianGaoQingZuiZhongYeDeFuBen.jpg)](http://saxn.sina.com.cn/click?type=bottom&t=UERQUzAwMDAwMDAyODU3Mg%3D%3D&url=https%3A%2F%2Ffinance.sina.com.cn%2Fmobile%2Fcomfinanceweb.shtml%3Fsource%3DPDPS000000028572&sign=a8d0f7cc13fdec0c)
 
 ## [7X24小时](http://live.sina.com.cn/zt/f/v/finance/globalnews1)
 
@@ -862,7 +835,6 @@ Copyright © 1996-2025 SINA Corporation
 
 All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
 
-[![广告](https://n.sinaimg.cn/default/42f7389d/20190524/XinLangTuPianGaoQingZuiZhongYeDeFuBen.jpg)](http://saxn.sina.com.cn/click?type=bottom&t=UERQUzAwMDAwMDAwNTQyNQ%3D%3D&url=https%3A%2F%2Ffinance.sina.com.cn%2Fmobile%2Fcomfinanceweb.shtml%3Fsource%3DPDPS000000005425&sign=23c421d86c3940df)
 
 [新浪首页](http://www.sina.com.cn/)语音播报相关新闻返回顶部
 

@@ -132,11 +132,8 @@ collected_at: 2026-04-25T14:40:41.550188
  多地力推工业领域设备更新-新华网
 
 
-![](https://www.news.cn/detail2020/images/ewm.png)
 
-![](https://www.news.cn/politics/20251130/c5d9c246776c4a128f3d53c9a71c947b/zxcode_20251130c5d9c246776c4a128f3d53c9a71c947b.jpg)
 
-![](https://www.news.cn/2021detail/images/qrcode-app.png)
 
 # 多地力推工业领域设备更新
 

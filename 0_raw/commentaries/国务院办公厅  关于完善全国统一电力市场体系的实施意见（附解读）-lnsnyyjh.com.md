@@ -49,7 +49,6 @@ collected_at: 2026-04-25T15:00:01.944894
 
 积分入户
 
-![](http://29960351.s21i.faiusr.com/4/ABUIABAEGAAg5Ou1vQYo2p_dkAEwuAg43gE!900x900.png)
 
 |     |     |     |
 | --- | --- | --- |

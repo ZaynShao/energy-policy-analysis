@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:25:28.643817
 
 ## 正文
 
-![](https://www.zhonglun.com/upload/image/20231207/1701947940279063619.jpeg)
 
 ## ARTICLES
 

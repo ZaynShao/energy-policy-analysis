@@ -65,7 +65,6 @@ collected_at: 2026-04-25T10:14:10.411459
 
 20版：副刊
 
-![](https://cdnpeoplefront.aikan.pdnews.cn/rmrb/official-zh-website-node/0.0.76/_nuxt/paperLine.5fa017bc.svg)
 
 01版：要闻
 

@@ -52,7 +52,6 @@ collected_at: 2026-04-25T14:33:48.327469
 
 [![](https://i.sso.sina.com.cn/images/login/thumb_default.png)登录](https://finance.sina.com.cn/roll/2024-12-05/doc-incykxcs9795474.shtml#)
 
-[![](https://n.sinaimg.cn/finance/c30320b4/20190809/cj_sinafinance_app2x.png)](https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=cjzhengwen08)
 
 [滚动新闻](http://finance.sina.com.cn/roll/) >正文
 
@@ -78,7 +77,6 @@ collected_at: 2026-04-25T14:33:48.327469
 
 原文如下：
 
-![](https://n.sinaimg.cn/spider20241205/764/w1080h484/20241205/b413-45044e34e1b716d13ef7e858eadbbe7d.jpg)
 
 国家能源局关于支持电力领域新型经营主体创新发展的指导意见
 
@@ -108,7 +106,6 @@ collected_at: 2026-04-25T14:33:48.327469
 
 2024年11月28日
 
-![](https://n.sinaimg.cn/spider20241205/582/w1080h302/20241205/742c-db1922cf244db5ca917986773f4d1cc3.jpg)
 
 国家能源局有关负责同志就《关于支持电力领域新型经营主体创新发展的指导意见》答记者问
 
@@ -146,23 +143,18 @@ collected_at: 2026-04-25T14:33:48.327469
 
 （转自：湖南省可再生能源学会）
 
-![](https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png)
 
 海量资讯、精准解读，尽在新浪财经APP
 
-[![](https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png)](http://tousu.sina.com.cn/)
 
 ## VIP课程推荐
 
-[![](https://n.sinaimg.cn/tech/413/w264h149/20260106/be52-606bfeb05efb28e38e5261c96f531302.png)](https://live.finance.sina.com.cn/bozhu/1658605145)
 
 [大题材的引爆点](https://live.finance.sina.com.cn/bozhu/1658605145)
 
-[![](https://n.sinaimg.cn/tech/413/w264h149/20260106/c06d-e91f515c0275244acd99f11c653a4819.png)](https://live.finance.sina.com.cn/bozhu/2060480585)
 
 [科技仍是26年主线](https://live.finance.sina.com.cn/bozhu/2060480585)
 
-[![](https://n.sinaimg.cn/tech/413/w264h149/20241214/1287-013a827d7798ba4e16c253c1b78ad48a.png)](https://live.finance.sina.com.cn/bozhu/2342117515)
 
 [26年继续牛市格局](https://live.finance.sina.com.cn/bozhu/2342117515)
 
@@ -176,7 +168,6 @@ collected_at: 2026-04-25T14:33:48.327469
 
 _收起_
 
-![新浪财经公众号](https://n.sinaimg.cn/finance/72219a70/20180103/_thumb_23666.png)
 
 新浪财经公众号
 
@@ -208,47 +199,36 @@ _收起_
 - [航宇科技上市！中1签赚13960元 收益率243.21%](https://finance.sina.com.cn/stock/observe/2021-07-05/doc-ikqcfnca5090860.shtml)
 - [海泰科上市！中1签赚15500元 收益率96%](https://finance.sina.com.cn/stock/observe/2021-07-02/doc-ikqciyzk3179263.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/6.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
 ### [六：凑市值打新可行 资金成本不超7.86%即可](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/7.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
 ### [七：流通股和融资仓算市值，限售股和基金等不算](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/1.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
 ### [一：打新究竟有多暴利？一签可赚26万](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/2.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 
 ### [二：中1签赚5万以内的概率是92.79%](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/3.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-05/doc-iivhuipp2669253.shtml)
 
 ### [三：账户等级越高，中签金额越高](https://finance.sina.com.cn/stock/observe/2020-09-05/doc-iivhuipp2669253.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/4.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-06/doc-iivhvpwy5049617.shtml)
 
 ### [四：创业板户中签收益率最高 普通户最低](https://finance.sina.com.cn/stock/observe/2020-09-06/doc-iivhvpwy5049617.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/5.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-07/doc-iivhuipp2933371.shtml)
 
 ### [五：科创板户无风险收益率最高 普通户最低](https://finance.sina.com.cn/stock/observe/2020-09-07/doc-iivhuipp2933371.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/6.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
 ### [六：凑市值打新可行 资金成本不超7.86%即可](https://finance.sina.com.cn/stock/observe/2020-09-08/doc-iivhvpwy5545269.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/7.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
 ### [七：流通股和融资仓算市值，限售股和基金等不算](https://finance.sina.com.cn/stock/observe/2020-09-09/doc-iivhvpwy5706486.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/1.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
 ### [一：打新究竟有多暴利？一签可赚26万](https://finance.sina.com.cn/stock/observe/2020-09-03/doc-iivhuipp2298470.shtml)
 
-[![](https://n.sinaimg.cn/news/47b4da8f/20201126/2.jpg)](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 
 ### [二：中1签赚5万以内的概率是92.79%](https://finance.sina.com.cn/stock/observe/2020-09-04/doc-iivhvpwy4816236.shtml)
 

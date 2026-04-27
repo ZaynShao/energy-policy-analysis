@@ -68,7 +68,6 @@ dedup_rule: url_match
 
 [无障碍操作说明](https://www.shqp.gov.cn/shqp/zwgk/zfwj/qzf/20230203/shuoming.html#div0 "新窗口打开无障碍操作说明页面")跳转到网站导航区跳转到主要内容区域
 
-[![上海市青浦区人民政府](https://www.shqp.gov.cn/shqp/shqp/res2022/img/lsqpsszc.png)](https://www.shqp.gov.cn/shqp/ "上海市青浦区人民政府")
 
 - [中国政府网](http://www.gov.cn/ "中国政府网")
 - [中国上海](http://www.sh.gov.cn/ "中国上海")
@@ -111,9 +110,7 @@ dedup_rule: url_match
 [公众服务](https://www.shqp.gov.cn/shqp/ggfw/ "公众服务") [便民提示](https://www.shqp.gov.cn/shqp/ggfw/bmts/ "便民提示") [青浦天气](https://www.shqp.gov.cn/shqp/ggfw/tq/ "青浦天气") [主题服务库](https://www.shqp.gov.cn/shqp/ggfw/ztfwk/ "主题服务库") [民生服务](https://www.shqp.gov.cn/shqp/ggfw/mszt/ "民生服务") [社区服务](https://www.shqp.gov.cn/shqp/sqfw/ "社区服务") [公共设施](https://www.shqp.gov.cn/shqp/ggss/ "公共设施")
 - [走进青浦](https://www.shqp.gov.cn/shqp/zjqp/ "走进青浦")
 
-[![上海市青浦区人民政府](https://www.shqp.gov.cn/shqp/shqp/res2022/img/logo-small.png)](https://www.shqp.gov.cn/shqp/ "上海市青浦区人民政府")
 
-![上海市青浦区人民政府](https://www.shqp.gov.cn/shqp/shqp/res2022/img/logo-big.png)
 
 ## 上海市青浦区人民政府
 

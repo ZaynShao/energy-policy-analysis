@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:50:15.294605
 
 ## 正文
 
-![](https://www.kingandwood.com/content/dam/kwm/insights/latest-thinking/latest-thinking-article-banner.jpg)
 
 前沿观察,
 
@@ -73,17 +72,13 @@ collected_at: 2026-04-25T14:50:15.294605
 
 根据《电力中长期交易基本规则》以及即将于2024年6月1日生效的《电力市场监管办法》，绿电交易的主要市场主体及其角色包括：
 
-![](https://www.kingandwood.com/content/dam/kwm/insights/latest-thinking/china/2024/05/lsdljy1.jpg)
 
-![](https://www.kingandwood.com/content/dam/kwm/insights/latest-thinking/china/2024/05/lsdljy1.jpg)
 
 ## **五、绿电市场化交易的关键机制**
 
 一图胜千言。根据绿电交易专章征求意见稿，并结合国家电网和南方电网经营区域的绿电交易规则，我们将绿电市场化交易的一些关键机制梳理如下图：
 
-![](https://www.kingandwood.com/content/dam/kwm/insights/latest-thinking/china/2024/05/lsdljy2.png)
 
-![](https://www.kingandwood.com/content/dam/kwm/insights/latest-thinking/china/2024/05/lsdljy2.png)
 
 ## **六、企业参加绿电交易需要注意的问题**
 
@@ -207,7 +202,6 @@ https://taxation-customs.ec.europa.eu/document/download/013fa763-5dce-4726-a204-
 
 [阅读最新文章](https://www.kingandwood.com/content/kwm/cn/zh/insights/latest-thinking.html)
 
-![](https://www.kingandwood.com/content/dam/kwm/icon/logo2026/KW_Chinese_Logo_White+Colour_Navigation.svg)
 
 专业领域
 
@@ -382,6 +376,3 @@ https://taxation-customs.ec.europa.eu/document/download/013fa763-5dce-4726-a204-
 
 ![print-white sharing button](https://platform-cdn.sharethis.com/img/print-white.svg)Print
 
-![arrow_left sharing button](https://platform-cdn.sharethis.com/img/arrow_left.svg)
-
-![arrow_right sharing button](https://platform-cdn.sharethis.com/img/arrow_right.svg)

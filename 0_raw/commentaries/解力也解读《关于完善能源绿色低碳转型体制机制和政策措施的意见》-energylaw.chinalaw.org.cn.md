@@ -179,7 +179,6 @@ collected_at: 2026-04-25T14:39:54.349512
 
 [下一篇：](https://energylaw.chinalaw.org.cn/portal/article/index/id/3249.html) [舒印彪委员：加快建设“双碳”标准提升碳排放国际标准化话语权](https://energylaw.chinalaw.org.cn/portal/article/index/id/3249.html)
 
-![](https://energylaw.chinalaw.org.cn/themes/theme_nengyuan/public/assets/img/yqlj.png)
 
 友情链接
 
@@ -215,7 +214,6 @@ collected_at: 2026-04-25T14:39:54.349512
 
 中国法学会能源法研究会 [京ICP备10012170号-9](https://beian.miit.gov.cn/)
 
-![](https://energylaw.chinalaw.org.cn/themes/theme_nengyuan/public/assets/img/ewm.png)
 
 “扫一扫”
 

@@ -32,7 +32,6 @@ collected_at: 2026-04-25T14:52:35.168162
 
 分享到微信朋友圈x
 
-![Scan me!](<Base64-Image-Removed>)
 
 打开微信，点击底部的“发现”，
 

@@ -19,7 +19,6 @@ collected_at: 2026-04-25T14:56:54.885302
 
 ## 正文
 
-![](http://www.people.com.cn/img/2020peopleindex/img/logo_share_ap.jpg)
 
 - [首页](http://www.people.com.cn/)
 - 党政![](http://sh.people.com.cn/img/2020peopleindex/img/arrow2.png)
@@ -148,7 +147,6 @@ collected_at: 2026-04-25T14:56:54.885302
 - ![](http://sh.people.com.cn/img/2020peopleindex/img/more2.png)
 - [登录](https://sso.people.com.cn/login)
 
-![](http://sh.people.com.cn/img/2020peopleindex/img/dltx1.png)
 
 退出
 
@@ -1237,7 +1235,6 @@ Copyright © 1997-2026 by www.people.com.cn. all rights reserved
 [![](http://sh.people.com.cn/img/2020peopleindex/img/copy_icon1.png)](http://www.people.com.cn/img/2014xuke/2018icp.html)[![](http://sh.people.com.cn/img/2020peopleindex/img/copy_icon2.png)](https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951)[![](http://sh.people.com.cn/img/2020peopleindex/img/copy_icon3.png)](http://si.trustutn.org/info?sn=470170320027574551118&certType=1)[![](http://sh.people.com.cn/img/2020peopleindex/img/copy_icon4.png)](http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html)
 
 - 评论
-[![](http://sh.people.com.cn/img/2020wbc/imgs/share_bbs.png)](http://bbs1.people.com.cn/board/1.html)
 
 - 分享
 - 关注
@@ -1255,5 +1252,3 @@ _**微信** **微博** **快手**_
 
 
 返回顶部
-
-![](https://counter.people.cn/f.gif?id=41498616)
