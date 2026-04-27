@@ -16,7 +16,7 @@ status: active
 
 ## 0. 设计哲学
 
-1. **raw 永远是 source of truth**:357 政策 + 338 评论是底座,所有派生品(实体页/关系/主题/大盘)都能从 raw 全量重建。raw 不写关系字段,关系外置到 1_extracted/。
+1. **raw 永远是 source of truth**:289 政策 + 338 评论是底座,所有派生品(实体页/关系/主题/大盘)都能从 raw 全量重建。raw 不写关系字段,关系外置到 1_extracted/。
 2. **canonical 优先**:每个实体只能有一个 canonical id,所有别名归并到它。**抽取阶段就规范化**,而不是事后去重(避免 backup v2 那种"充电运营商"出现 7-8 个变体的痼疾)。
 3. **observation 分层**:政策正文里的"事实"(fact)和评论里的"观点"(opinion / stance)是两类东西,schema 严格分清。
 
@@ -182,7 +182,7 @@ provenance:
 
 ---
 
-## 6. 政策 ↔ 政策 关系(7 类)
+## 6. 政策 ↔ 政策 关系(8 类)
 
 每类一份独立 jsonl,放在 `1_extracted/relations/<rel>.jsonl`。
 
@@ -195,6 +195,7 @@ provenance:
 | `references` | 引用但不修改 | 正则文号交叉引用 |
 | `aligns_with` | 不同部门同主题对齐 | LLM + 主题向量相似度 |
 | `conflicts_with` | 内容冲突(罕见但关键,如部委间口径差异) | LLM 仅扫高分政策对(成本控制) |
+| `cites_basis` | 显式"作为制定依据"引用("根据 X 政策"/"依据 X 文件" 出现在政策开头段) | 位置过滤(references 子集 + 开头段) + LLM 语义判定 + 标题引用补漏 |
 
 ### 6.1 jsonl 行格式
 
@@ -212,7 +213,97 @@ provenance:
 
 ### 6.2 反链生成
 
-每条关系自动在两端政策的派生侧栏(`1_extracted/relations/_index_by_policy/<id>.md`)互相反链,raw frontmatter 不动。
+每条关系自动在两端政策的派生侧栏(`1_extracted/relations/_index_by_policy/<id>.md`)互相反链,raw frontmatter 不动。详细文件结构见 §6.4。
+
+### 6.3 cites_basis(第 8 类)特殊性
+
+与 7 类典型 relation 不同的两点:
+
+**(1) 是 references 的严格子集 + 标题引用补漏**
+
+| 维度 | references | cites_basis |
+|---|---|---|
+| 抓取范围 | 全文所有〔YYYY〕XXX 号文号 | 仅政策开头 1-2 段"根据/依据/参照 X" |
+| 语义 | 提及/引用(弱) | **作为制定依据**(强) |
+| 位置 | 不分场合 | 限定 location=opening |
+| confidence | 0.7 | ≥ 0.85 |
+
+集合关系:
+`cites_basis ⊂ (references ∩ location=opening ∩ semantic="basis") ∪ title_match_补漏`
+
+其中 title_match 补漏:regex 抓不到的"无文号《xxx》引用"(开头段直接引政策标题、不附文号),需 canonical 别名表匹配。
+
+**(2) jsonl 行扩展两个字段**
+
+在 §6.1 标准格式基础上加 `location` 和 `semantic`:
+
+```json
+{
+  "from": "P_2025_SD_xxx",
+  "to":   "P_2025_SH_407",
+  "rel":  "cites_basis",
+  "evidence": "原文第1段:根据《上海市虚拟电厂运营管理办法》(沪经信运〔2025〕407号)...",
+  "location": "opening",
+  "semantic": "basis",
+  "confidence": 0.92,
+  "extracted_by": "regex_filter+llm_judge",
+  "extracted_at": "2026-04-27T..."
+}
+```
+
+枚举:
+- `location` ∈ {`opening`, `body`, `supplementary`}:opening = 政策正文前 ~800 字符;supplementary = 附则
+- `semantic` ∈ {`basis`, `clause_ref`, `context_mention`}:仅 `basis` 进 cites_basis;其余留在 references
+- `extracted_by` ∈ {`regex_filter`, `llm_judge`, `title_match`, 组合(以 `+` 连接)}
+
+### 6.4 反链文件结构(_index_by_policy/)
+
+§6.2 声明的 `_index_by_policy/<id>.md` 反链文件标准结构:
+
+```yaml
+---
+policy_id: P_2025_SH_407
+title: 上海市虚拟电厂运营管理办法
+inbound_edge_count: 12
+last_updated: 2026-04-27T10:30:00+08:00
+---
+
+# 入向反链:P_2025_SH_407
+
+## 被引为依据 (cited_as_basis_by) — 5
+- [[P_2025_SD_xxx]] — 山东 VPP 政策(2025-09-15)
+- ...
+
+## 被废止 (superseded_by) — 0
+(无)
+
+## 被迭代 (iterated_by) — 1
+- [[P_2026_SH_xxx]] — 2026 修订版(2026-03-10)
+
+## 被引用 (referenced_by) — 4
+- ...
+
+## 被扩展 / 被细化 / 被对齐 / 被冲突 (extended_by / clarified_by / aligns_with_by / conflicts_with_by) — 略
+```
+
+**出向 → 入向命名表**:
+
+| 出向 jsonl | 入向 section |
+|---|---|
+| supersedes | superseded_by |
+| iterates | iterated_by |
+| extends | extended_by |
+| clarifies | clarified_by |
+| references | referenced_by |
+| aligns_with | aligns_with_by |
+| conflicts_with | conflicts_with_by |
+| cites_basis | **cited_as_basis_by**(语法通顺优先) |
+
+**生成规则**:
+- 每条 `1_extracted/relations/<rel>.jsonl` 行触发两端反链更新(target 的 _index_by_policy 文件追加一条)
+- 反链文件**完全派生**,可全量重建(`policy-rebuild --reverse-links`)
+- `[[P_xxx]]` 双链格式让 Obsidian 直接可点
+- 反链生成脚本独立运行(B 阶段实施,A' 不实施)
 
 ---
 
@@ -390,14 +481,15 @@ L1 daily-scan 完成入库(0_raw 新增)
 [抽实体]  LLM 抽实体词 → 查 registry → 命中落 canonical id / 未命中进 _review_queue.yaml
         │
         ▼
-[抽关系]  7 类关系并行
+[抽关系]  8 类关系并行
    ├─ supersedes:    正则文号引用 + LLM 验证
    ├─ iterates:      标题/摘要相似度 + LLM
    ├─ extends:       region 跳变检测 + LLM
    ├─ clarifies:     标题词("实施细则/操作指引")+ LLM
    ├─ references:    正则文号交叉引用
    ├─ aligns_with:   主题向量相似度 + LLM
-   └─ conflicts_with: LLM 仅扫高分政策对
+   ├─ conflicts_with: LLM 仅扫高分政策对
+   └─ cites_basis:   位置过滤(references 子集 + 开头 800 字符) + LLM 语义判定 + 标题引用补漏
         │
         ▼
 [生成 diff]  对 supersedes / iterates / extends 关系,LLM 抽演进差异 → diffs/
@@ -456,7 +548,7 @@ L1 daily-scan 完成入库(0_raw 新增)
 |------|-----------|----------|
 | 目录布局 | `01 核心政策/` + `04 实体节点/` + `05 概念节点/` 等中文数字目录 | `0_raw/` + `1_extracted/` + `2_crystallized/` 三层 |
 | 实体规范化 | 无,导致同实体 7-8 个变体 | canonical registry,抽取阶段强制规范化 |
-| 关系类型 | 4 种(supercedes / iterates / supports / impacts) | 7 种(细化 + extends / clarifies / references / aligns_with / conflicts_with) |
+| 关系类型 | 4 种(supercedes / iterates / supports / impacts) | 8 种(细化 + extends / clarifies / references / aligns_with / conflicts_with / cites_basis) |
 | 关系存储 | 政策 frontmatter 内 | 外置到 `1_extracted/relations/*.jsonl` |
 | 演进差异 | 无 | `diffs/` 显式 LLM 抽 |
 | 观点表达 | 仅 Commentary 实体 | stance(polarity 4 档)+ 政策舆论矩阵 |
@@ -469,11 +561,11 @@ L1 daily-scan 完成入库(0_raw 新增)
 
 ## 14. 不做(明确边界)
 
-- **不迁移 backup 470 历史文件**(0_raw 只装 357 + 338,backup 仅作 registry 种子参考)
+- **不迁移 backup 470 历史文件**(0_raw 只装 289 + 338,backup 仅作 registry 种子参考)
 - **不在 raw 里写关系**(关系一律外置)
 - **不允许实体页手写**(必须经 registry 派生)
 - **不做混合搜索**(P3,留待 L3 阶段)
-- **不做 supersedes 之外的事实继承链自动推断**(本期 7 类关系够用)
+- **不做 supersedes / cites_basis 之外的事实继承链自动推断**(本期 8 类关系够用;cites_basis 仅抓政策开头段的显式声明,不做隐式继承推断)
 
 ---
 
