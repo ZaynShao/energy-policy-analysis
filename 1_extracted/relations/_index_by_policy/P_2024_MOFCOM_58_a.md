@@ -2,7 +2,7 @@
 policy_id: P_2024_MOFCOM_58_a
 title: 推动消费品以旧换新行动方案
 inbound_edge_count: 3
-last_updated: '2026-04-28T00:48:26+08:00'
+last_updated: '2026-04-28T01:43:20+08:00'
 policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0.md
 ---
 
