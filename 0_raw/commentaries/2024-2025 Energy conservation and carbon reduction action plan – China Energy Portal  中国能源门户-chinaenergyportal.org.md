@@ -167,7 +167,6 @@ State Council
 
 各地区、各部门要在党中央集中统一领导下，锚定目标任务，加大攻坚力度，狠抓工作落实，坚持先立后破，稳妥把握工作节奏，在持续推动能效提升、排放降低的同时，着力保障高质量发展用能需求，尽最大努力完成“十四五”节能降碳约束性指标。国家发展改革委要加强统筹协调，做好工作调度，强化节能目标责任评价考核。生态环境部要加强“十四五”碳排放强度降低目标管理。各有关部门要按照职责分工细化举措，压实责任，推动各项任务落实落细。地方各级人民政府对本行政区域节能降碳工作负总责，主要负责同志是第一责任人，要细化落实方案，强化部署推进。重大事项及时按程序请示报告。
 
-[![Tweet about this on Twitter](<Base64-Image-Removed>)](https://twitter.com/share?url=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/&text=2024-2025+Energy+conservation+and+carbon+reduction+action+plan)[![Share on Reddit](<Base64-Image-Removed>)](http://reddit.com/submit?url=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/&title=2024-2025%20Energy%20conservation%20and%20carbon%20reduction%20action%20plan)[![Share on LinkedIn](<Base64-Image-Removed>)](http://www.linkedin.com/shareArticle?mini=true&url=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/)[![Email this to someone](<Base64-Image-Removed>)](mailto:/en/?subject=2024-2025%20Energy%20conservation%20and%20carbon%20reduction%20action%20plan&body=https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/)[![Print this page](<Base64-Image-Removed>)](https://chinaenergyportal.org/en/2024-2025-energy-conservation-and-carbon-reduction-action-plan/#)
 
 
 Original text

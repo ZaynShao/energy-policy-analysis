@@ -195,7 +195,7 @@ collected_at: 2026-04-25T10:09:18.924057
 \
   - [公示公告](https://www.szgfa.com/casegggs.aspx?nid=4&typeid=50012)\
 \
-![](<Base64-Image-Removed>)\
+\
 \
 广东省深圳市南山区听海大道5059号前海鸿荣源中心B座1701\
 \
@@ -203,9 +203,9 @@ collected_at: 2026-04-25T10:09:18.924057
 \
 电话：(0755) 8696 9344\
 \
-![](<Base64-Image-Removed>)\
 \
-![](<Base64-Image-Removed>)\
+\
+\
 \
 协会公众号\
 \

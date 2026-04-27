@@ -29,5 +29,3 @@ Reload
 
 
 You don't have authorization to view this page.
-
-![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)

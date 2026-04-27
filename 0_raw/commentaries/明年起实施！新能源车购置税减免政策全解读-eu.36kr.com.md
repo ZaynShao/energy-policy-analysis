@@ -25,7 +25,7 @@ English
 
 Deutsch
 
-[首页](https://eu.36kr.com/zh) ![36氪](<Base64-Image-Removed>)文章详情
+[首页](https://eu.36kr.com/zh) 文章详情
 
 # 明年起实施，事关新能源车购置税减免
 
