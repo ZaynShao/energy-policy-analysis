@@ -33,6 +33,8 @@ scores:
 - 氢能产业
 - 北京
 archive: low_score
+issuer_canonical:
+- miit_beijing
 ---
 # 北京市关于支持氢能产业发展的若干政策措施(修订版)
 

@@ -33,6 +33,8 @@ scores:
 价值标签:
 - 趋势
 archive: low_score
+issuer_canonical:
+- ndrc
 ---
 # 提升需求侧协同能力加快构建新型电力系统（专家解读）
 

@@ -34,6 +34,8 @@ scores:
 价值标签:
 - 趋势
 - 机会
+issuer_canonical:
+- ndrc
 ---
 # 两新政策加力扩围(政策吹风会报道)
 

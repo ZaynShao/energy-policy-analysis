@@ -32,6 +32,8 @@ scores:
 行动分类: D
 价值标签:
 - 趋势
+issuer_canonical:
+- ndrc
 ---
 # 推动设备和消费品更新换代(政策解读)
 

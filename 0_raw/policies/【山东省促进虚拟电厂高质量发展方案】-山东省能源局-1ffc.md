@@ -34,6 +34,8 @@ scores:
 价值标签:
 - 机会
 - 壁垒
+issuer_canonical:
+- nea_shandong
 ---
 # 山东省促进虚拟电厂高质量发展方案
 

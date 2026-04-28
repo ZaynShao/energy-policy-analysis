@@ -35,6 +35,8 @@ scores:
 行动分类: D
 价值标签:
 - 趋势
+issuer_canonical:
+- nea
 ---
 # 加快建设新型能源体系
 

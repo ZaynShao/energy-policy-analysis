@@ -33,6 +33,9 @@ scores:
 价值标签:
 - 机会
 - 合规
+issuer_canonical:
+- ndrc
+- mof
 ---
 # 关于加力支持大规模设备更新和消费品以旧换新的若干措施
 

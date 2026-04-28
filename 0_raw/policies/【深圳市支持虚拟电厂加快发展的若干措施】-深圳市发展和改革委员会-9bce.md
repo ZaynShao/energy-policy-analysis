@@ -34,6 +34,8 @@ scores:
 - 机会
 - 壁垒
 - 趋势
+issuer_canonical:
+- drc_shenzhen
 ---
 # 深圳市支持虚拟电厂加快发展的若干措施
 

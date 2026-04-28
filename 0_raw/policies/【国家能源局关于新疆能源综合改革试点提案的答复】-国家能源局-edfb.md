@@ -39,6 +39,8 @@ dup_aliases:
 - P_2025_NEA_0806d696
 dedup_at: '2026-04-26T18:48:02'
 dedup_rule: url_match
+issuer_canonical:
+- nea
 ---
 # 国家能源局关于新疆能源综合改革试点提案的答复
 

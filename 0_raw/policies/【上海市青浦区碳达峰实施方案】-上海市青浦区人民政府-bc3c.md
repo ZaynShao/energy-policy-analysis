@@ -36,6 +36,8 @@ dup_aliases:
 - P_2023_SH_0203297d_a
 dedup_at: '2026-04-26T18:48:02'
 dedup_rule: url_match
+issuer_canonical:
+- gov_shanghai
 ---
 # 上海市青浦区碳达峰实施方案
 
