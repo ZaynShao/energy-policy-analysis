@@ -1119,3 +1119,95 @@ note: |
   confidence: 0.5
   review_needed: true
   note: "源数据本身就是占位词,无法归类;weekly lint 后视情况删除或重指向"
+
+
+# === THEMES (L2 themes 业务覆盖补全, 2026-04-28) ===
+
+- id: vpp_theme
+  canonical_name: 虚拟电厂
+  type: [theme]
+  aliases:
+    - 虚拟电厂
+    - VPP
+    - 需求侧响应聚合
+    - 负荷聚合
+    - 可调节负荷
+    - 需求响应
+    - 虚拟电厂运营
+    - 聚合负荷
+  desc: VPP 政策主题(国家级 + 省级试点 + 市场化运营规则)
+  added_at: 2026-04-28
+  added_by: l2_themes_expansion_v1
+  confidence: 0.95
+
+- id: energy_storage_theme
+  canonical_name: 新型储能
+  type: [theme]
+  aliases:
+    - 新型储能
+    - 电化学储能
+    - 储能电站
+    - 共享储能
+    - 储能调用
+    - 储能并网
+    - 用户侧储能
+    - 独立储能
+    - 储能调度
+    - 配储
+  desc: 新型储能政策主题(配置规模 + 调用机制 + 并网规则 + 价格政策)
+  added_at: 2026-04-28
+  added_by: l2_themes_expansion_v1
+  confidence: 0.95
+
+- id: gas_station_transition_theme
+  canonical_name: 加油站转型
+  type: [theme]
+  aliases:
+    - 加油站
+    - 油电融合
+    - 光储充换
+    - 油气电氢一体化
+    - 综合能源补给站
+    - 加油站升级
+    - 成品油零售
+    - 油站综合能源
+  desc: 加油站向综合能源服务站转型政策主题
+  added_at: 2026-04-28
+  added_by: l2_themes_expansion_v1
+  confidence: 0.95
+
+- id: equipment_renewal_theme
+  canonical_name: 以旧换新
+  type: [theme]
+  aliases:
+    - 以旧换新
+    - 汽车换新
+    - 消费品更新
+    - 设备更新
+    - 大规模设备更新
+    - 报废更新
+    - 汽车以旧换新
+    - 消费品以旧换新
+    - 旧换新
+  desc: 以旧换新与设备更新政策主题(国务院专项 + 部委细则 + 各省落实)
+  added_at: 2026-04-28
+  added_by: l2_themes_expansion_v1
+  confidence: 0.95
+
+- id: green_power_trading_theme
+  canonical_name: 绿电交易
+  type: [theme]
+  aliases:
+    - 绿电交易
+    - 绿电消费
+    - 绿色电力证书
+    - 绿证
+    - 可再生能源消纳
+    - 绿电直供
+    - 可再生能源消费承诺
+    - 绿色电力
+    - 绿色能源消费
+  desc: 绿电交易与绿证制度政策主题
+  added_at: 2026-04-28
+  added_by: l2_themes_expansion_v1
+  confidence: 0.95
