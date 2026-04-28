@@ -34,6 +34,11 @@ scores:
 - 趋势
 issuer_canonical:
 - ndrc
+type: 政策评论
+_review_needed_related_policy: true
+_migrated_from: policies
+_migrated_at: '2026-04-28'
+related_policy: []
 ---
 # 推动设备和消费品更新换代(政策解读)
 

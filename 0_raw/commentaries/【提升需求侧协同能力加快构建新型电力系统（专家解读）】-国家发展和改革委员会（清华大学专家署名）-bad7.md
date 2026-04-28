@@ -35,6 +35,11 @@ scores:
 archive: low_score
 issuer_canonical:
 - ndrc
+type: 政策评论
+_review_needed_related_policy: true
+_migrated_from: policies
+_migrated_at: '2026-04-28'
+related_policy: []
 ---
 # 提升需求侧协同能力加快构建新型电力系统（专家解读）
 

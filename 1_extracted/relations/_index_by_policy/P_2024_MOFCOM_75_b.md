@@ -2,7 +2,7 @@
 policy_id: P_2024_MOFCOM_75_b
 title: 汽车以旧换新补贴实施细则
 inbound_edge_count: 11
-last_updated: '2026-04-28T01:43:20+08:00'
+last_updated: '2026-04-28T15:29:58+08:00'
 policy_file: ../../../0_raw/policies/【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md
 ---
 

@@ -35,6 +35,11 @@ scores:
 - 机会
 issuer_canonical:
 - nea
+type: 政策评论
+_review_needed_related_policy: true
+_migrated_from: policies
+_migrated_at: '2026-04-28'
+related_policy: []
 ---
 # 提升新能源系统友好性 加快构建新型电力系统(政策解读)
 

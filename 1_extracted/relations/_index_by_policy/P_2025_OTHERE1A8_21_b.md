@@ -2,7 +2,7 @@
 policy_id: P_2025_OTHERE1A8_21_b
 title: 吕梁市综合能源站专项规划（2025-2030年）
 inbound_edge_count: 1
-last_updated: '2026-04-28T01:43:20+08:00'
+last_updated: '2026-04-28T15:29:58+08:00'
 policy_file: ../../../0_raw/policies/【吕梁市综合能源站专项规划（2025-2030年）(吕政办发〔2025〕21号)】-吕梁市人民政府办公室-7db7.md
 ---
 

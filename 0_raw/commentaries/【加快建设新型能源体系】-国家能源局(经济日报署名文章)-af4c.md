@@ -37,6 +37,11 @@ scores:
 - 趋势
 issuer_canonical:
 - nea
+type: 政策评论
+_review_needed_related_policy: true
+_migrated_from: policies
+_migrated_at: '2026-04-28'
+related_policy: []
 ---
 # 加快建设新型能源体系
 
