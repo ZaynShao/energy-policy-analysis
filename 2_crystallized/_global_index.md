@@ -1,8 +1,8 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-04-28T16:12:38+08:00
+last_updated: 2026-04-28T18:33:29+08:00
 policy_count: 263
-commentary_count: 364
+commentary_count: 150
 entity_count: 94
 edge_count: 298
 opinion_coverage_pct: 20.5
@@ -10,7 +10,7 @@ opinion_coverage_pct: 20.5
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-04-28T16:12:38+08:00
+**最后更新**: 2026-04-28T18:33:29+08:00
 
 ---
 
@@ -19,7 +19,7 @@ opinion_coverage_pct: 20.5
 | 类型 | 数量 |
 |---|:-:|
 | 政策原文 (policies/) | **263** |
-| 评论 (commentaries/) | **364** |
+| 评论 (commentaries/) | **150** |
 | 规范化实体 (entities/registry) | **94** |
 | 关系网总边数 | **298** |
 | 反链页 (_index_by_policy) | **71** |
