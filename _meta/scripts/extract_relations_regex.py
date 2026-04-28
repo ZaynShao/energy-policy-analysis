@@ -22,6 +22,7 @@ Step 6a — regex 主导的政策↔政策关系抽取(supersedes / references)�
 import re
 import json
 import yaml
+import argparse
 from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
@@ -117,6 +118,11 @@ def base_id(pid):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--references-only", action="store_true",
+                        help="只输出 references.jsonl,跳过 supersedes.jsonl(保护 v2 LLM judge 结果)")
+    args = parser.parse_args()
+
     print("Building doc number index...")
     num_index, meta, multi = build_index()
     print(f"  {len(num_index)} unique official numbers")
@@ -210,7 +216,10 @@ def main():
     sup_path = RELATIONS / "supersedes.jsonl"
     ref_path = RELATIONS / "references.jsonl"
 
-    with open(sup_path, "w", encoding="utf-8") as fsup, \
+    # references-only 模式:supersedes 写到 /dev/null(不动现有 supersedes.jsonl)
+    sup_target = "/dev/null" if args.references_only else sup_path
+
+    with open(sup_target, "w", encoding="utf-8") as fsup, \
          open(ref_path, "w", encoding="utf-8") as fref:
         for (from_base, to_base, rel), evidences in base_pair_evidence.items():
             best = max(evidences, key=lambda e: e["confidence"])
@@ -254,7 +263,7 @@ def main():
     summary.append("")
     summary.append("# Step 6a · 政策↔政策关系 (regex)")
     summary.append("")
-    summary.append(f"- 输入政策: **357**")
+    summary.append(f"- 输入政策: **{len(meta)}**")
     summary.append(f"- 文号唯一索引: **{len(num_index)}** (重复版本 {len(multi)} 组)")
     summary.append(f"- 总文号匹配: **{total_matches}**")
     summary.append(f"- 自引用过滤: {self_refs}")

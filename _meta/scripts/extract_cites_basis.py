@@ -45,7 +45,7 @@ POLICIES_DIR = VAULT_ROOT / "0_raw/policies"
 REFERENCES_JSONL = VAULT_ROOT / "1_extracted/relations/references.jsonl"
 OUTPUT_JSONL = VAULT_ROOT / "1_extracted/relations/cites_basis.draft.jsonl"
 
-OPENING_CHAR_LIMIT = 800
+OPENING_CHAR_LIMIT = 1500  # 二轮放宽 800→1500,覆盖更长开头段
 HIGH_SCORE_THRESHOLD = 4
 LLM_TEMPERATURE = 0.0
 LLM_MAX_TOKENS = 600   # M 系列是 reasoning model,需要 <think> 思考空间
