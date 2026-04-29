@@ -1,12 +1,15 @@
 ---
-title: "“巨无霸”VS“小型化”，储能系统“变脸”终结？"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/3erE3ynTS46omZJ3S4LBjA"
+title: “巨无霸”VS“小型化”，储能系统“变脸”终结？
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/3erE3ynTS46omZJ3S4LBjA
 date_published: 2026-04-26
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # “巨无霸”VS“小型化”，储能系统“变脸”终结？
 

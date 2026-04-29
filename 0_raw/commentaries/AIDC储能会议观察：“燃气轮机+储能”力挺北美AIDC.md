@@ -1,12 +1,15 @@
 ---
-title: "AIDC储能会议观察：“燃气轮机+储能”力挺北美AIDC"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/wRa6LHCpjcmV79eififQkA"
+title: AIDC储能会议观察：“燃气轮机+储能”力挺北美AIDC
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/wRa6LHCpjcmV79eififQkA
 date_published: 2026-04-17
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC储能会议观察：“燃气轮机+储能”力挺北美AIDC
 

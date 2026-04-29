@@ -1,12 +1,15 @@
 ---
-title: "综研观察｜从区块链到大模型，为什么都在谈“Token”？"
-source_account: "综合开发研究院"
-source_url: "https://mp.weixin.qq.com/s/4murdsbarDnB6af38K4V-A"
+title: 综研观察｜从区块链到大模型，为什么都在谈“Token”？
+source_account: 综合开发研究院
+source_url: https://mp.weixin.qq.com/s/4murdsbarDnB6af38K4V-A
 date_published: 2026-03-23
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 综研观察｜从区块链到大模型，为什么都在谈“Token”？
 

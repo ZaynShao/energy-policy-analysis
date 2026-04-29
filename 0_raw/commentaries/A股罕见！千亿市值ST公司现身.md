@@ -1,12 +1,15 @@
 ---
-title: "A股罕见！千亿市值ST公司现身"
-source_account: "综合开发研究院"
-source_url: "https://mp.weixin.qq.com/s/_XPqBynnVaf5uSgjdONicw"
+title: A股罕见！千亿市值ST公司现身
+source_account: 综合开发研究院
+source_url: https://mp.weixin.qq.com/s/_XPqBynnVaf5uSgjdONicw
 date_published: 2026-03-20
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # A股罕见！千亿市值ST公司现身
 

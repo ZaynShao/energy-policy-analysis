@@ -1,12 +1,15 @@
 ---
-title: "OPC必看：一只“小龙虾”的奇妙法律冒险(上)"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/ylP77qnUeyUlQby67t6pnQ"
+title: OPC必看：一只“小龙虾”的奇妙法律冒险(上)
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/ylP77qnUeyUlQby67t6pnQ
 date_published: 2026-03-25
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # OPC必看：一只“小龙虾”的奇妙法律冒险(上)
 

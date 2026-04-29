@@ -1,12 +1,15 @@
 ---
-title: "IIGF新闻 | 聚焦煤电低碳转型：中财大绿金院联合举办金融支持煤电高质量转型专题研讨会"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/depO0TrGBEl9P7b6eoRnBA"
+title: IIGF新闻 | 聚焦煤电低碳转型：中财大绿金院联合举办金融支持煤电高质量转型专题研讨会
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/depO0TrGBEl9P7b6eoRnBA
 date_published: 2026-04-22
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF新闻 | 聚焦煤电低碳转型：中财大绿金院联合举办金融支持煤电高质量转型专题研讨会
 

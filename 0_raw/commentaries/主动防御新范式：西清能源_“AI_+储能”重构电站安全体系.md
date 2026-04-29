@@ -1,12 +1,15 @@
 ---
-title: "主动防御新范式：西清能源 “AI +储能”重构电站安全体系"
-source_account: "储能与电力市场"
-source_url: "https://mp.weixin.qq.com/s/hVXCtZ7h9cuCzBrptrSpdg"
+title: 主动防御新范式：西清能源 “AI +储能”重构电站安全体系
+source_account: 储能与电力市场
+source_url: https://mp.weixin.qq.com/s/hVXCtZ7h9cuCzBrptrSpdg
 date_published: 2026-04-27
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 主动防御新范式：西清能源 “AI +储能”重构电站安全体系
 

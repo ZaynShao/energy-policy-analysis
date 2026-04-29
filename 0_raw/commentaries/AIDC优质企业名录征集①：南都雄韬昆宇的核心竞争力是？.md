@@ -1,12 +1,15 @@
 ---
-title: "AIDC优质企业名录征集①：南都/雄韬/昆宇的核心竞争力是？"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/-1n1JGptD5YphzJacYU9lg"
+title: AIDC优质企业名录征集①：南都/雄韬/昆宇的核心竞争力是？
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/-1n1JGptD5YphzJacYU9lg
 date_published: 2026-04-24
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC优质企业名录征集①：南都/雄韬/昆宇的核心竞争力是？
 

@@ -1,12 +1,15 @@
 ---
-title: "高管：智己LS8“月销目标稳定过万”"
-source_account: "电动汽车观察家"
-source_url: "https://mp.weixin.qq.com/s/E1lXTlPAn5ERigCYtxjdhQ"
+title: 高管：智己LS8“月销目标稳定过万”
+source_account: 电动汽车观察家
+source_url: https://mp.weixin.qq.com/s/E1lXTlPAn5ERigCYtxjdhQ
 date_published: 2026-03-26
-fetched_at: 2026-04-28T20:52:49+08:00
+fetched_at: 2026-04-28 20:52:49+08:00
 commentary_type: A
 business_tag: charging
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 高管：智己LS8“月销目标稳定过万”
 

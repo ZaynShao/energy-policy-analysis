@@ -1,12 +1,15 @@
 ---
-title: "准确把握虚拟货币与RWA代币监管新规，在合规基础上寻找融资新机遇"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/Ejkb94udFyom9GtJpTs7MQ"
+title: 准确把握虚拟货币与RWA代币监管新规，在合规基础上寻找融资新机遇
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/Ejkb94udFyom9GtJpTs7MQ
 date_published: 2026-03-19
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 准确把握虚拟货币与RWA代币监管新规，在合规基础上寻找融资新机遇
 

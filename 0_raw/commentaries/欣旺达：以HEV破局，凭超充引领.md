@@ -1,12 +1,15 @@
 ---
-title: "欣旺达：以HEV破局，凭超充引领"
-source_account: "电动汽车观察家"
-source_url: "https://mp.weixin.qq.com/s/nFf-B-XIitc9okPqaCAqJw"
+title: 欣旺达：以HEV破局，凭超充引领
+source_account: 电动汽车观察家
+source_url: https://mp.weixin.qq.com/s/nFf-B-XIitc9okPqaCAqJw
 date_published: 2026-04-08
-fetched_at: 2026-04-28T20:52:48+08:00
+fetched_at: 2026-04-28 20:52:48+08:00
 commentary_type: A
 business_tag: charging
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 欣旺达：以HEV破局，凭超充引领
 

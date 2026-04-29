@@ -1,12 +1,15 @@
 ---
-title: "AIDC配储潮：从方案“扎堆”到规模化落地，储能企业尚需跨越三道关"
-source_account: "储能与电力市场"
-source_url: "https://mp.weixin.qq.com/s/0hTyL3jE_nwt44oNddddUw"
+title: AIDC配储潮：从方案“扎堆”到规模化落地，储能企业尚需跨越三道关
+source_account: 储能与电力市场
+source_url: https://mp.weixin.qq.com/s/0hTyL3jE_nwt44oNddddUw
 date_published: 2026-04-10
-fetched_at: 2026-04-28T20:52:48+08:00
+fetched_at: 2026-04-28 20:52:48+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC配储潮：从方案“扎堆”到规模化落地，储能企业尚需跨越三道关
 

@@ -1,12 +1,15 @@
 ---
-title: "华为鸿蒙+Momenta，铂智7预售15.68万起，跟自主品牌一样卷"
-source_account: "电动汽车观察家"
-source_url: "https://mp.weixin.qq.com/s/XFv9NZXj5vC4xGH95_RWag"
+title: 华为鸿蒙+Momenta，铂智7预售15.68万起，跟自主品牌一样卷
+source_account: 电动汽车观察家
+source_url: https://mp.weixin.qq.com/s/XFv9NZXj5vC4xGH95_RWag
 date_published: 2026-03-05
-fetched_at: 2026-04-28T20:52:50+08:00
+fetched_at: 2026-04-28 20:52:50+08:00
 commentary_type: A
 business_tag: charging
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 华为鸿蒙+Momenta，铂智7预售15.68万起，跟自主品牌一样卷
 

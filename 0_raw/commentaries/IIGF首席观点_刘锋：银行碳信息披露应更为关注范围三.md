@@ -1,12 +1,15 @@
 ---
-title: "IIGF首席观点 | 刘锋：银行碳信息披露应更为关注范围三"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/syHzzvZv9nFeiMtdD2m8qg"
+title: IIGF首席观点 | 刘锋：银行碳信息披露应更为关注范围三
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/syHzzvZv9nFeiMtdD2m8qg
 date_published: 2026-04-16
-fetched_at: 2026-04-29T13:30:50+08:00
+fetched_at: 2026-04-29 13:30:50+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF首席观点 | 刘锋：银行碳信息披露应更为关注范围三
 

@@ -1,12 +1,15 @@
 ---
-title: "小鹏“集团”亮相北京车展，透露第二代VLA升级方向"
-source_account: "电动汽车观察家"
-source_url: "https://mp.weixin.qq.com/s/S8aiHeyGJW1T_aa7t2_9mg"
+title: 小鹏“集团”亮相北京车展，透露第二代VLA升级方向
+source_account: 电动汽车观察家
+source_url: https://mp.weixin.qq.com/s/S8aiHeyGJW1T_aa7t2_9mg
 date_published: 2026-04-25
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: charging
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 小鹏“集团”亮相北京车展，透露第二代VLA升级方向
 

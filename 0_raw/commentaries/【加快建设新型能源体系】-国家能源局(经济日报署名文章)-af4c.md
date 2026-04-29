@@ -42,6 +42,9 @@ _review_needed_related_policy: true
 _migrated_from: policies
 _migrated_at: '2026-04-28'
 related_policy: []
+not_policy_related: true
+not_policy_related_reason: R6_l1_upgrade
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 加快建设新型能源体系
 

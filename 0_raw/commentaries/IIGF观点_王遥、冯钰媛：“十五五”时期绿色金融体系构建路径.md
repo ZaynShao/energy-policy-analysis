@@ -1,12 +1,15 @@
 ---
-title: "IIGF观点 | 王遥、冯钰媛：“十五五”时期绿色金融体系构建路径"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/Z7y3zH5g4x_2pDWdMblaVg"
+title: IIGF观点 | 王遥、冯钰媛：“十五五”时期绿色金融体系构建路径
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/Z7y3zH5g4x_2pDWdMblaVg
 date_published: 2026-04-07
-fetched_at: 2026-04-29T13:31:04+08:00
+fetched_at: 2026-04-29 13:31:04+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF观点 | 王遥、冯钰媛：“十五五”时期绿色金融体系构建路径
 

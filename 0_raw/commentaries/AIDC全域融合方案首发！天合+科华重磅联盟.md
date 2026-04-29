@@ -1,12 +1,15 @@
 ---
-title: "AIDC全域融合方案首发！天合+科华重磅联盟"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/iM9j7s1AbEPGWJaBk5srcw"
+title: AIDC全域融合方案首发！天合+科华重磅联盟
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/iM9j7s1AbEPGWJaBk5srcw
 date_published: 2026-04-02
-fetched_at: 2026-04-28T20:52:48+08:00
+fetched_at: 2026-04-28 20:52:48+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC全域融合方案首发！天合+科华重磅联盟
 

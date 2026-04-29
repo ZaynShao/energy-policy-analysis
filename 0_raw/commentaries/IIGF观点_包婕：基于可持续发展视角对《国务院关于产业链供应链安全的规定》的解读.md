@@ -1,12 +1,15 @@
 ---
-title: "IIGF观点 | 包婕：基于可持续发展视角对《国务院关于产业链供应链安全的规定》的解读"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/xbkbIIfuZiB1T2Gca37Wfg"
+title: IIGF观点 | 包婕：基于可持续发展视角对《国务院关于产业链供应链安全的规定》的解读
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/xbkbIIfuZiB1T2Gca37Wfg
 date_published: 2026-04-15
-fetched_at: 2026-04-29T13:30:50+08:00
+fetched_at: 2026-04-29 13:30:50+08:00
 commentary_type: D
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF观点 | 包婕：基于可持续发展视角对《国务院关于产业链供应链安全的规定》的解读
 

@@ -1,12 +1,15 @@
 ---
-title: "AIDC优质企业名录征集②：南瑞继保/科华数能/智光综能“亮剑”"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/oQaj9RcoLbBlXEUF2Lwkmw"
+title: AIDC优质企业名录征集②：南瑞继保/科华数能/智光综能“亮剑”
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/oQaj9RcoLbBlXEUF2Lwkmw
 date_published: 2026-04-26
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC优质企业名录征集②：南瑞继保/科华数能/智光综能“亮剑”
 

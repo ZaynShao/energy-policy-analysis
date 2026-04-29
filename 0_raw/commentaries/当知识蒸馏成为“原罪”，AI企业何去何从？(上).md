@@ -1,12 +1,15 @@
 ---
-title: "当知识蒸馏成为“原罪”，AI企业何去何从？(上)"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/b3tZMsmqei0vGXI7YBpdJQ"
+title: 当知识蒸馏成为“原罪”，AI企业何去何从？(上)
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/b3tZMsmqei0vGXI7YBpdJQ
 date_published: 2026-04-09
-fetched_at: 2026-04-29T13:31:04+08:00
+fetched_at: 2026-04-29 13:31:04+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 当知识蒸馏成为“原罪”，AI企业何去何从？(上)
 

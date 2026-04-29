@@ -1,12 +1,15 @@
 ---
-title: "800V HVDC储能备电系统中国落地！AIDC储能2026“激进”创新中"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/__0ZJ5u7hoYyRBXi9O2ARQ"
+title: 800V HVDC储能备电系统中国落地！AIDC储能2026“激进”创新中
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/__0ZJ5u7hoYyRBXi9O2ARQ
 date_published: 2026-03-26
-fetched_at: 2026-04-28T20:52:49+08:00
+fetched_at: 2026-04-28 20:52:49+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 800V HVDC储能备电系统中国落地！AIDC储能2026“激进”创新中
 

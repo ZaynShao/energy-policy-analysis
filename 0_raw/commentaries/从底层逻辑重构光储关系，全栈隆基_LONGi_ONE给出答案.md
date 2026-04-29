@@ -1,12 +1,15 @@
 ---
-title: "从底层逻辑重构光储关系，全栈隆基 LONGi ONE给出答案"
-source_account: "储能与电力市场"
-source_url: "https://mp.weixin.qq.com/s/09iuXpq0x5IeacWnCCaLYw"
+title: 从底层逻辑重构光储关系，全栈隆基 LONGi ONE给出答案
+source_account: 储能与电力市场
+source_url: https://mp.weixin.qq.com/s/09iuXpq0x5IeacWnCCaLYw
 date_published: 2026-04-03
-fetched_at: 2026-04-28T20:52:48+08:00
+fetched_at: 2026-04-28 20:52:48+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 从底层逻辑重构光储关系，全栈隆基 LONGi ONE给出答案
 

@@ -1,12 +1,15 @@
 ---
-title: "COP30|促进农业领域甲烷减排及废弃物资源化利用：落基山研究所发布报告《解锁秸秆高价值利用：生物燃料与碳移除产业的破局点》"
-source_account: "落基山研究所"
-source_url: "https://mp.weixin.qq.com/s/x1FKbeS9-s5YyBKefdcRYQ"
+title: COP30|促进农业领域甲烷减排及废弃物资源化利用：落基山研究所发布报告《解锁秸秆高价值利用：生物燃料与碳移除产业的破局点》
+source_account: 落基山研究所
+source_url: https://mp.weixin.qq.com/s/x1FKbeS9-s5YyBKefdcRYQ
 date_published: 2025-11-14
-fetched_at: 2026-04-28T20:52:51+08:00
+fetched_at: 2026-04-28 20:52:51+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # COP30|促进农业领域甲烷减排及废弃物资源化利用：落基山研究所发布报告《解锁秸秆高价值利用：生物燃料与碳移除产业的破局点》
 

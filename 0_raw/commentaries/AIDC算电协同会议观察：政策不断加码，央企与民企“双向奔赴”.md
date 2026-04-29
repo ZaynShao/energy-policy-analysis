@@ -1,12 +1,15 @@
 ---
-title: "AIDC算电协同会议观察：政策不断加码，央企与民企“双向奔赴”"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/Bk5wJlf2Lf8le8egFrw_pA"
+title: AIDC算电协同会议观察：政策不断加码，央企与民企“双向奔赴”
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/Bk5wJlf2Lf8le8egFrw_pA
 date_published: 2026-04-22
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC算电协同会议观察：政策不断加码，央企与民企“双向奔赴”
 

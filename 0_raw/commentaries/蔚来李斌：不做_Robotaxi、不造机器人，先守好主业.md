@@ -1,12 +1,15 @@
 ---
-title: "蔚来李斌：不做 Robotaxi、不造机器人，先守好主业"
-source_account: "电动汽车观察家"
-source_url: "https://mp.weixin.qq.com/s/Wt2glBUq9nED8pflKZReCA"
+title: 蔚来李斌：不做 Robotaxi、不造机器人，先守好主业
+source_account: 电动汽车观察家
+source_url: https://mp.weixin.qq.com/s/Wt2glBUq9nED8pflKZReCA
 date_published: 2026-04-12
-fetched_at: 2026-04-28T20:52:47+08:00
+fetched_at: 2026-04-28 20:52:47+08:00
 commentary_type: A
 business_tag: charging
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 蔚来李斌：不做 Robotaxi、不造机器人，先守好主业
 

@@ -1,12 +1,15 @@
 ---
-title: "IIGF观点 | 王遥、庞心睿等：气候投融资赋能新质生产力——以新型城镇化建设为背景（下）"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/8AGqC1xEWseL-qx7gWV3jw"
+title: IIGF观点 | 王遥、庞心睿等：气候投融资赋能新质生产力——以新型城镇化建设为背景（下）
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/8AGqC1xEWseL-qx7gWV3jw
 date_published: 2026-04-22
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF观点 | 王遥、庞心睿等：气候投融资赋能新质生产力——以新型城镇化建设为背景（下）
 

@@ -1,12 +1,15 @@
 ---
-title: "China in a Changing World Series | A Shifting World. An Open Door"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/zrF1fdf8o7AvTSnuMDn3rA"
+title: China in a Changing World Series | A Shifting World. An Open Door
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/zrF1fdf8o7AvTSnuMDn3rA
 date_published: 2026-04-02
-fetched_at: 2026-04-29T13:31:04+08:00
+fetched_at: 2026-04-29 13:31:04+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # China in a Changing World Series | A Shifting World. An Open Door
 

@@ -1,12 +1,15 @@
 ---
-title: "AIDC算电协同会议观察：BBU“标配”起势"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/i-T7OSG8LPYFYrtgTroI4Q"
+title: AIDC算电协同会议观察：BBU“标配”起势
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/i-T7OSG8LPYFYrtgTroI4Q
 date_published: 2026-04-27
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC算电协同会议观察：BBU“标配”起势
 

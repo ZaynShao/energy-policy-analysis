@@ -1,12 +1,15 @@
 ---
-title: "绿金新闻 | 零食赛道ESG治理：从“网红”到“长红”的必修课"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/Rm7ZLkv_mX6MJ67gKYwVtg"
+title: 绿金新闻 | 零食赛道ESG治理：从“网红”到“长红”的必修课
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/Rm7ZLkv_mX6MJ67gKYwVtg
 date_published: 2026-03-25
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 绿金新闻 | 零食赛道ESG治理：从“网红”到“长红”的必修课
 

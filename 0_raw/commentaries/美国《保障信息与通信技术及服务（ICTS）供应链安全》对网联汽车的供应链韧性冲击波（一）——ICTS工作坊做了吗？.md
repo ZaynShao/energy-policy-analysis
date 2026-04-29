@@ -1,12 +1,15 @@
 ---
-title: "美国《保障信息与通信技术及服务（ICTS）供应链安全》对网联汽车的供应链韧性冲击波（一）——ICTS工作坊做了吗？"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/eWW1W9yyxvIyCeMgROUAhw"
+title: 美国《保障信息与通信技术及服务（ICTS）供应链安全》对网联汽车的供应链韧性冲击波（一）——ICTS工作坊做了吗？
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/eWW1W9yyxvIyCeMgROUAhw
 date_published: 2026-03-12
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 美国《保障信息与通信技术及服务（ICTS）供应链安全》对网联汽车的供应链韧性冲击波（一）——ICTS工作坊做了吗？
 

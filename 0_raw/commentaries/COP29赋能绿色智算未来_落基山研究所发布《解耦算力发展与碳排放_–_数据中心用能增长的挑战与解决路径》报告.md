@@ -1,12 +1,15 @@
 ---
-title: "COP29|赋能绿色智算未来 落基山研究所发布《解耦算力发展与碳排放 – 数据中心用能增长的挑战与解决路径》报告"
-source_account: "落基山研究所"
-source_url: "https://mp.weixin.qq.com/s/4_ZUXhQVj0DHh5l2gxVTAw"
+title: COP29|赋能绿色智算未来 落基山研究所发布《解耦算力发展与碳排放 – 数据中心用能增长的挑战与解决路径》报告
+source_account: 落基山研究所
+source_url: https://mp.weixin.qq.com/s/4_ZUXhQVj0DHh5l2gxVTAw
 date_published: 2024-11-18
-fetched_at: 2026-04-28T20:52:51+08:00
+fetched_at: 2026-04-28 20:52:51+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # COP29|赋能绿色智算未来 落基山研究所发布《解耦算力发展与碳排放 – 数据中心用能增长的挑战与解决路径》报告
 

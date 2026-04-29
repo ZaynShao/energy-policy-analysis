@@ -1,12 +1,15 @@
 ---
-title: "出海备帆，未雨绸缪：欧盟IAA法案解读及其对中国储能出海企业的合规影响"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/BCn5h2kv_iR3T3pfndxJDg"
+title: 出海备帆，未雨绸缪：欧盟IAA法案解读及其对中国储能出海企业的合规影响
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/BCn5h2kv_iR3T3pfndxJDg
 date_published: 2026-03-12
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: D
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 出海备帆，未雨绸缪：欧盟IAA法案解读及其对中国储能出海企业的合规影响
 

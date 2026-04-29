@@ -1,12 +1,15 @@
 ---
-title: "IIGF观点 | 吴倩茜：“十五五”规划下全面绿色转型的金融体系实践浅析"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/BwBXrKEn-PU8p0yn3L3xTQ"
+title: IIGF观点 | 吴倩茜：“十五五”规划下全面绿色转型的金融体系实践浅析
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/BwBXrKEn-PU8p0yn3L3xTQ
 date_published: 2026-03-17
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF观点 | 吴倩茜：“十五五”规划下全面绿色转型的金融体系实践浅析
 

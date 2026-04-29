@@ -1,12 +1,15 @@
 ---
-title: "宁德时代VS比亚迪：从电池战打到补能战"
-source_account: "电动汽车观察家"
-source_url: "https://mp.weixin.qq.com/s/9rEtl1Iuwqw6Y-kQWJcsKA"
+title: 宁德时代VS比亚迪：从电池战打到补能战
+source_account: 电动汽车观察家
+source_url: https://mp.weixin.qq.com/s/9rEtl1Iuwqw6Y-kQWJcsKA
 date_published: 2026-04-22
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: charging
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 宁德时代VS比亚迪：从电池战打到补能战
 

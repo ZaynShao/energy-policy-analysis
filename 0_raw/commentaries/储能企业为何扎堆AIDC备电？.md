@@ -1,12 +1,15 @@
 ---
-title: "储能企业为何扎堆AIDC备电？"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/p0b1fTuX09PKXav2CgmP2g"
+title: 储能企业为何扎堆AIDC备电？
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/p0b1fTuX09PKXav2CgmP2g
 date_published: 2026-04-16
-fetched_at: 2026-04-28T20:52:47+08:00
+fetched_at: 2026-04-28 20:52:47+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 储能企业为何扎堆AIDC备电？
 

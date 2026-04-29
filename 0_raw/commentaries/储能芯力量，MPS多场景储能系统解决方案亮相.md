@@ -1,12 +1,15 @@
 ---
-title: "储能芯力量，MPS多场景储能系统解决方案亮相"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/hIvOXB0eBHPWRJQag3k-eA"
+title: 储能芯力量，MPS多场景储能系统解决方案亮相
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/hIvOXB0eBHPWRJQag3k-eA
 date_published: 2026-04-03
-fetched_at: 2026-04-28T20:52:48+08:00
+fetched_at: 2026-04-28 20:52:48+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 储能芯力量，MPS多场景储能系统解决方案亮相
 

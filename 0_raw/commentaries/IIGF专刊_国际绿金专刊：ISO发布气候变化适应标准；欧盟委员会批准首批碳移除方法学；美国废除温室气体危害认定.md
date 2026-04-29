@@ -1,12 +1,15 @@
 ---
-title: "IIGF专刊 | 国际绿金专刊：ISO发布气候变化适应标准；欧盟委员会批准首批碳移除方法学；美国废除温室气体危害认定"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/aBHwfyVTxoyvuBccFx0kJg"
+title: IIGF专刊 | 国际绿金专刊：ISO发布气候变化适应标准；欧盟委员会批准首批碳移除方法学；美国废除温室气体危害认定
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/aBHwfyVTxoyvuBccFx0kJg
 date_published: 2026-03-16
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF专刊 | 国际绿金专刊：ISO发布气候变化适应标准；欧盟委员会批准首批碳移除方法学；美国废除温室气体危害认定
 

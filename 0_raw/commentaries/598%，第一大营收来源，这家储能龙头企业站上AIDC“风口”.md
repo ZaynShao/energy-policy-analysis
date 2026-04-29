@@ -1,12 +1,15 @@
 ---
-title: "598%，第一大营收来源，这家储能龙头企业站上AIDC“风口”"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/7ZX-lyIF49Wv-aj_Ju23Hg"
+title: 598%，第一大营收来源，这家储能龙头企业站上AIDC“风口”
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/7ZX-lyIF49Wv-aj_Ju23Hg
 date_published: 2026-03-26
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 598%，第一大营收来源，这家储能龙头企业站上AIDC“风口”
 

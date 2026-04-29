@@ -1,12 +1,15 @@
 ---
-title: "【报告分享】Pathways Study：Evaluation of Pathways to a Future Grid（第一期）"
-source_account: "电力市场与价格洞察"
-source_url: "https://mp.weixin.qq.com/s/FuE_HPAYwo0RXQaZqt18_g"
+title: 【报告分享】Pathways Study：Evaluation of Pathways to a Future Grid（第一期）
+source_account: 电力市场与价格洞察
+source_url: https://mp.weixin.qq.com/s/FuE_HPAYwo0RXQaZqt18_g
 date_published: 2026-04-13
-fetched_at: 2026-04-28T20:52:47+08:00
+fetched_at: 2026-04-28 20:52:47+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 【报告分享】Pathways Study：Evaluation of Pathways to a Future Grid（第一期）
 

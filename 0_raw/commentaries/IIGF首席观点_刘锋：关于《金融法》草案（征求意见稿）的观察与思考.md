@@ -1,12 +1,15 @@
 ---
-title: "IIGF首席观点 | 刘锋：关于《金融法》草案（征求意见稿）的观察与思考"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/svdlFuFPHekr8I_bxKRBGw"
+title: IIGF首席观点 | 刘锋：关于《金融法》草案（征求意见稿）的观察与思考
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/svdlFuFPHekr8I_bxKRBGw
 date_published: 2026-04-23
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF首席观点 | 刘锋：关于《金融法》草案（征求意见稿）的观察与思考
 

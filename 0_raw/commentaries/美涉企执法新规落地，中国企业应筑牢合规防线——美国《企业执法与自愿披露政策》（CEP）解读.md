@@ -1,12 +1,15 @@
 ---
-title: "美涉企执法新规落地，中国企业应筑牢合规防线——美国《企业执法与自愿披露政策》（CEP）解读"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/YCbaL8Uo8t5saH00foDuXQ"
+title: 美涉企执法新规落地，中国企业应筑牢合规防线——美国《企业执法与自愿披露政策》（CEP）解读
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/YCbaL8Uo8t5saH00foDuXQ
 date_published: 2026-03-14
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: D
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 美涉企执法新规落地，中国企业应筑牢合规防线——美国《企业执法与自愿披露政策》（CEP）解读
 

@@ -1,12 +1,15 @@
 ---
-title: "AIDC储能会议观察：UPS“变局”"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/HxeCA5kUXsy2SPlPlInjiQ"
+title: AIDC储能会议观察：UPS“变局”
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/HxeCA5kUXsy2SPlPlInjiQ
 date_published: 2026-04-15
-fetched_at: 2026-04-29T13:30:50+08:00
+fetched_at: 2026-04-29 13:30:50+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC储能会议观察：UPS“变局”
 

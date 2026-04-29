@@ -1,12 +1,15 @@
 ---
-title: "“AI in All” ，思格新能源全球最大单体分布式储能工厂之一启用"
-source_account: "储能与电力市场"
-source_url: "https://mp.weixin.qq.com/s/Rbh8RIYTUK-oacT7PfN-3A"
+title: “AI in All” ，思格新能源全球最大单体分布式储能工厂之一启用
+source_account: 储能与电力市场
+source_url: https://mp.weixin.qq.com/s/Rbh8RIYTUK-oacT7PfN-3A
 date_published: 2026-03-18
-fetched_at: 2026-04-28T20:52:49+08:00
+fetched_at: 2026-04-28 20:52:49+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # “AI in All” ，思格新能源全球最大单体分布式储能工厂之一启用
 

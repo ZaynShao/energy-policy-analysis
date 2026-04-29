@@ -1,12 +1,15 @@
 ---
-title: "IIGF时评 | 任国征、张涵静 ：《教育部关于全面推进健康学校建设的指导意见》的解读与建议（政策解读之十九）"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/y57z_pQEGTiZhwPkkR-mTA"
+title: IIGF时评 | 任国征、张涵静 ：《教育部关于全面推进健康学校建设的指导意见》的解读与建议（政策解读之十九）
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/y57z_pQEGTiZhwPkkR-mTA
 date_published: 2026-03-26
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: D
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF时评 | 任国征、张涵静 ：《教育部关于全面推进健康学校建设的指导意见》的解读与建议（政策解读之十九）
 

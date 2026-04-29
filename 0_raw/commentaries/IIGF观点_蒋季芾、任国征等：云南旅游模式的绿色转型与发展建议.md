@@ -1,12 +1,15 @@
 ---
-title: "IIGF观点 | 蒋季芾、任国征等：云南旅游模式的绿色转型与发展建议"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/eECZ4-Z4YYe5vnM6PRxoWg"
+title: IIGF观点 | 蒋季芾、任国征等：云南旅游模式的绿色转型与发展建议
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/eECZ4-Z4YYe5vnM6PRxoWg
 date_published: 2026-04-09
-fetched_at: 2026-04-29T13:31:04+08:00
+fetched_at: 2026-04-29 13:31:04+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF观点 | 蒋季芾、任国征等：云南旅游模式的绿色转型与发展建议
 

@@ -1,12 +1,15 @@
 ---
-title: "小米造车：初战告捷靠爆款，终战还远看AI"
-source_account: "电动汽车观察家"
-source_url: "https://mp.weixin.qq.com/s/qDasIEVb-EY3y8TapyBG7Q"
+title: 小米造车：初战告捷靠爆款，终战还远看AI
+source_account: 电动汽车观察家
+source_url: https://mp.weixin.qq.com/s/qDasIEVb-EY3y8TapyBG7Q
 date_published: 2026-03-25
-fetched_at: 2026-04-28T20:52:49+08:00
+fetched_at: 2026-04-28 20:52:49+08:00
 commentary_type: A
 business_tag: charging
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 小米造车：初战告捷靠爆款，终战还远看AI
 

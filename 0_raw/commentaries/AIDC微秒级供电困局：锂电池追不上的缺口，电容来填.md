@@ -1,12 +1,15 @@
 ---
-title: "AIDC微秒级供电困局：锂电池追不上的缺口，电容来填"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/vmj91fTNaMILW6YNWXu0Vg"
+title: AIDC微秒级供电困局：锂电池追不上的缺口，电容来填
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/vmj91fTNaMILW6YNWXu0Vg
 date_published: 2026-04-25
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AIDC微秒级供电困局：锂电池追不上的缺口，电容来填
 

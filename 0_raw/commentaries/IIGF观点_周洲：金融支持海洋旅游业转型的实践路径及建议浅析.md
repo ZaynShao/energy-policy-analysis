@@ -1,12 +1,15 @@
 ---
-title: "IIGF观点 | 周洲：金融支持海洋旅游业转型的实践路径及建议浅析"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/exwukSsQVKoJbQwpBPm62A"
+title: IIGF观点 | 周洲：金融支持海洋旅游业转型的实践路径及建议浅析
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/exwukSsQVKoJbQwpBPm62A
 date_published: 2026-04-17
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF观点 | 周洲：金融支持海洋旅游业转型的实践路径及建议浅析
 

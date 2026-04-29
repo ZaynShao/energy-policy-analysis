@@ -1,12 +1,15 @@
 ---
-title: "IIGF两会观点 | 周洲：新质生产力视角下“海洋生态保护+海洋产业”融资路径探索"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/WCaN3g2mNn1Ts8rP3-5GYA"
+title: IIGF两会观点 | 周洲：新质生产力视角下“海洋生态保护+海洋产业”融资路径探索
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/WCaN3g2mNn1Ts8rP3-5GYA
 date_published: 2026-03-13
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R5_llm_judge
+not_policy_related_marked_at: '2026-04-29'
 ---
 # IIGF两会观点 | 周洲：新质生产力视角下“海洋生态保护+海洋产业”融资路径探索
 
