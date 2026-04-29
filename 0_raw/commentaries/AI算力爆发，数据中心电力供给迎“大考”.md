@@ -7,6 +7,9 @@ fetched_at: 2026-04-29T13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+related_policy: P_2026_NPC_03132f88
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # AI算力爆发，数据中心电力供给迎“大考”
 

@@ -1,5 +1,6 @@
 ---
 id: P_2025_OTHER98DD_09231fde
+aliases: [P_2025_OTHER98DD_09231fde]
 title: 碳市场、绿证、绿电政策知识包(政策汇编)
 official_number: ''
 issuer:

@@ -7,6 +7,9 @@ fetched_at: 2026-04-28T20:52:51+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+related_policy: P_2024_SC_12_a
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # COP29|推动建筑用材低碳采购 落基山研究所发布《低碳采购撬动建筑用材减排潜力》报告
 

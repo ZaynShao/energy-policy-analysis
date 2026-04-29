@@ -1,5 +1,8 @@
 ---
 id: P_2024_NDRC_0726ba17
+_duplicate_of: P_2024_NDRC_0725ba17
+_duplicate_reason: "同政策两次采集"
+aliases: [P_2024_NDRC_0726ba17]
 title: 关于加力支持大规模设备更新和消费品以旧换新的若干措施
 official_number: ''
 issuer:

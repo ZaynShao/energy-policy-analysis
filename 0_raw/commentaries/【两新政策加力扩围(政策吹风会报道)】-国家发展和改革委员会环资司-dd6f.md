@@ -40,7 +40,7 @@ type: 政策评论
 _review_needed_related_policy: true
 _migrated_from: policies
 _migrated_at: '2026-04-28'
-related_policy: []
+related_policy: P_2025_NDRC_13_b
 ---
 # 两新政策加力扩围(政策吹风会报道)
 

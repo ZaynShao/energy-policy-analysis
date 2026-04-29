@@ -1,5 +1,6 @@
 ---
 id: P_2026_SD_03271ffc
+aliases: [P_2026_SD_03271ffc]
 title: 山东省促进虚拟电厂高质量发展方案
 official_number: ''
 issuer:

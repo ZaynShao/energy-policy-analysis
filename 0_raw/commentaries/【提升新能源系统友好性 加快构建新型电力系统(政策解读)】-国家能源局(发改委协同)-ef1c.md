@@ -39,7 +39,7 @@ type: 政策评论
 _review_needed_related_policy: true
 _migrated_from: policies
 _migrated_at: '2026-04-28'
-related_policy: []
+related_policy: [P_2024_SC_12_a, P_2024_NEA_08098f4e, P_2024_NDRC_0806117c]
 ---
 # 提升新能源系统友好性 加快构建新型电力系统(政策解读)
 

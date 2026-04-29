@@ -1,5 +1,6 @@
 ---
 id: P_2025_NEA_08060ff3
+aliases: [P_2025_NEA_08060ff3]
 title: 国家能源局关于新疆能源综合改革试点提案的答复
 official_number: ''
 issuer:

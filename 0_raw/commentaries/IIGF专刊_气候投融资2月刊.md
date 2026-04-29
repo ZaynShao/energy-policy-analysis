@@ -7,6 +7,9 @@ fetched_at: 2026-04-29T13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+related_policy: [P_2025_GD_145, P_2026_MEE_0209f3b1, P_2025_GD_0203ce87]
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # IIGF专刊 | 气候投融资2月刊
 

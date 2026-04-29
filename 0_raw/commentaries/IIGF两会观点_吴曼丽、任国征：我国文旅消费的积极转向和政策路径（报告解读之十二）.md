@@ -7,6 +7,9 @@ fetched_at: 2026-04-29T13:31:06+08:00
 commentary_type: D
 business_tag: cross
 source: wewe-rss
+related_policy: P_2021_SC_092282d6
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # IIGF两会观点 | 吴曼丽、任国征：我国文旅消费的积极转向和政策路径（报告解读之十二）
 

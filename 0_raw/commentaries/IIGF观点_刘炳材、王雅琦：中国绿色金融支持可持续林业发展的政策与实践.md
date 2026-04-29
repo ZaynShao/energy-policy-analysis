@@ -7,6 +7,9 @@ fetched_at: 2026-04-29T13:31:03+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+related_policy: P_2021_SC_23
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # IIGF观点 | 刘炳材、王雅琦：中国绿色金融支持可持续林业发展的政策与实践
 

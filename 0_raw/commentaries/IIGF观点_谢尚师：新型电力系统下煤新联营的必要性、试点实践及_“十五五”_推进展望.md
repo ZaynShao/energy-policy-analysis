@@ -7,6 +7,9 @@ fetched_at: 2026-04-29T13:31:04+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+related_policy: [P_2018_NDRC_364, P_2025_NDRC_0106e7c2, P_2024_NM_0101e295]
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # IIGF观点 | 谢尚师：新型电力系统下煤新联营的必要性、试点实践及 “十五五” 推进展望
 

@@ -1,5 +1,6 @@
 ---
 id: P_2025_OTHER3021_07310176
+aliases: [P_2025_OTHER3021_07310176]
 title: 关于推动加油站向新能源充电站转型及构建光储充多层停车综合体提案的答复
 official_number: ''
 issuer:

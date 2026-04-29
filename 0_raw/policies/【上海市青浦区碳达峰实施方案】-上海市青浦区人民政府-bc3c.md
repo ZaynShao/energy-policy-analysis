@@ -1,5 +1,6 @@
 ---
 id: P_2023_SH_0203297d_b
+aliases: [P_2023_SH_0203297d_b]
 title: 上海市青浦区碳达峰实施方案
 official_number: ''
 issuer:

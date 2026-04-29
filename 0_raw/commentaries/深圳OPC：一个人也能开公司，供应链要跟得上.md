@@ -7,6 +7,9 @@ fetched_at: 2026-04-29T13:31:04+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+related_policy: [P_2025_MIIT_24_a, P_2025_MIIT_24_b]
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # 深圳OPC：一个人也能开公司，供应链要跟得上
 

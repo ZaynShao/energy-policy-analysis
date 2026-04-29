@@ -1,5 +1,6 @@
 ---
 id: P_2024_OTHER7F45_060777c1
+aliases: [P_2024_OTHER7F45_060777c1]
 title: 深圳市支持虚拟电厂加快发展的若干措施
 official_number: ''
 issuer:

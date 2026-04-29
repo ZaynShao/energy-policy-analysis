@@ -7,6 +7,9 @@ fetched_at: 2026-04-29T13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+related_policy: P_2026_SC_0305e288
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # 绿金新闻 | 金融机构ESG披露迎大考 绿色金融实践转向“主动治理”
 

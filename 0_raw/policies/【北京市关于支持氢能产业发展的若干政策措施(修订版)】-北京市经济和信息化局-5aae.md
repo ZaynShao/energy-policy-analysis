@@ -1,5 +1,6 @@
 ---
 id: P_2024_BJ_1217fe41
+aliases: [P_2024_BJ_1217fe41]
 title: 北京市关于支持氢能产业发展的若干政策措施(修订版)
 official_number: ''
 issuer:

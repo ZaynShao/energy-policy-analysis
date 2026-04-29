@@ -7,6 +7,9 @@ fetched_at: 2026-04-28T20:52:47+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+related_policy: P_2024_NM_0101e295
+related_policy_source: B2_title_fuzzy
+related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # 中电联与IEEE智慧乡村委员会举行会谈
 
