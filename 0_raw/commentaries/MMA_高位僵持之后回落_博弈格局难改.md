@@ -1,12 +1,15 @@
 ---
-title: "MMA | 高位僵持之后回落 博弈格局难改"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/isMbG1SrtDyAMJxCpFdpyg"
+title: MMA | 高位僵持之后回落 博弈格局难改
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/isMbG1SrtDyAMJxCpFdpyg
 date_published: 2026-04-14
-fetched_at: 2026-04-29T13:31:03+08:00
+fetched_at: 2026-04-29 13:31:03+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # MMA | 高位僵持之后回落 博弈格局难改
 

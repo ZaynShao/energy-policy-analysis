@@ -1,12 +1,15 @@
 ---
-title: "PTA | 美伊停火谈判启幕 PTA产业随市逐流"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/7E7bPcmF8CopLA6zWa5Gbw"
+title: PTA | 美伊停火谈判启幕 PTA产业随市逐流
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/7E7bPcmF8CopLA6zWa5Gbw
 date_published: 2026-04-08
-fetched_at: 2026-04-29T13:31:04+08:00
+fetched_at: 2026-04-29 13:31:04+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # PTA | 美伊停火谈判启幕 PTA产业随市逐流
 

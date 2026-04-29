@@ -1,12 +1,15 @@
 ---
-title: "实务指南·ASD (Anti-Sanctions Defense) 姊妹篇1：反制裁诉讼——预防化解单边制裁的“柔”术"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/0Z-rqhixFCeO2iWI7uq_7Q"
+title: 实务指南·ASD (Anti-Sanctions Defense) 姊妹篇1：反制裁诉讼——预防化解单边制裁的“柔”术
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/0Z-rqhixFCeO2iWI7uq_7Q
 date_published: 2026-03-31
-fetched_at: 2026-04-29T13:31:04+08:00
+fetched_at: 2026-04-29 13:31:04+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 实务指南·ASD (Anti-Sanctions Defense) 姊妹篇1：反制裁诉讼——预防化解单边制裁的“柔”术
 

@@ -1,12 +1,15 @@
 ---
-title: "拿下日本“五大电力”系头部集成商：远景动力锁定GWh级储能订单"
-source_account: "储能与电力市场"
-source_url: "https://mp.weixin.qq.com/s/X6G_8o1ioMwoR8w6lg1V0w"
+title: 拿下日本“五大电力”系头部集成商：远景动力锁定GWh级储能订单
+source_account: 储能与电力市场
+source_url: https://mp.weixin.qq.com/s/X6G_8o1ioMwoR8w6lg1V0w
 date_published: 2026-03-20
-fetched_at: 2026-04-28T20:52:49+08:00
+fetched_at: 2026-04-28 20:52:49+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 拿下日本“五大电力”系头部集成商：远景动力锁定GWh级储能订单
 

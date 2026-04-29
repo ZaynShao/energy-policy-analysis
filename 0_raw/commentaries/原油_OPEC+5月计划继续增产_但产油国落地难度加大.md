@@ -1,12 +1,15 @@
 ---
-title: "原油 | OPEC+5月计划继续增产 但产油国落地难度加大"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/Hh4cGik7jW-w2hY7Ldbn6A"
+title: 原油 | OPEC+5月计划继续增产 但产油国落地难度加大
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/Hh4cGik7jW-w2hY7Ldbn6A
 date_published: 2026-04-14
-fetched_at: 2026-04-29T13:31:03+08:00
+fetched_at: 2026-04-29 13:31:03+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 原油 | OPEC+5月计划继续增产 但产油国落地难度加大
 

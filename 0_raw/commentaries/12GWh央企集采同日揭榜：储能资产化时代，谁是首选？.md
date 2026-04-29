@@ -1,12 +1,15 @@
 ---
-title: "12GWh央企集采同日揭榜：储能资产化时代，谁是首选？"
-source_account: "储能与电力市场"
-source_url: "https://mp.weixin.qq.com/s/M356h05lf99wreMM6hwijw"
+title: 12GWh央企集采同日揭榜：储能资产化时代，谁是首选？
+source_account: 储能与电力市场
+source_url: https://mp.weixin.qq.com/s/M356h05lf99wreMM6hwijw
 date_published: 2026-03-30
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 12GWh央企集采同日揭榜：储能资产化时代，谁是首选？
 

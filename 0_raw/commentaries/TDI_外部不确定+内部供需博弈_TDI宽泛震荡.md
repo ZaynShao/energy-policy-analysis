@@ -1,12 +1,15 @@
 ---
-title: "TDI | 外部不确定+内部供需博弈 TDI宽泛震荡"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/xD28_hcj3h-wDf0rhoJtFQ"
+title: TDI | 外部不确定+内部供需博弈 TDI宽泛震荡
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/xD28_hcj3h-wDf0rhoJtFQ
 date_published: 2026-03-20
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # TDI | 外部不确定+内部供需博弈 TDI宽泛震荡
 

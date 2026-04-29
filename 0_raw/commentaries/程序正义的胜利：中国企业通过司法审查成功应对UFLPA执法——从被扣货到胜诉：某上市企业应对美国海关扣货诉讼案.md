@@ -1,12 +1,15 @@
 ---
-title: "程序正义的胜利：中国企业通过司法审查成功应对UFLPA执法——从被扣货到胜诉：某上市企业应对美国海关扣货诉讼案"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/gLeBbZlfNKea8fYwF6G5oQ"
+title: 程序正义的胜利：中国企业通过司法审查成功应对UFLPA执法——从被扣货到胜诉：某上市企业应对美国海关扣货诉讼案
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/gLeBbZlfNKea8fYwF6G5oQ
 date_published: 2026-04-13
-fetched_at: 2026-04-29T13:31:03+08:00
+fetched_at: 2026-04-29 13:31:03+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 程序正义的胜利：中国企业通过司法审查成功应对UFLPA执法——从被扣货到胜诉：某上市企业应对美国海关扣货诉讼案
 

@@ -1,12 +1,15 @@
 ---
-title: "每周AI信息参考：我国低空经济发展确定五大重点"
-source_account: "人民网研究院"
-source_url: "https://mp.weixin.qq.com/s/kS_5x3NWSDg6t4PQzklfkA"
+title: 每周AI信息参考：我国低空经济发展确定五大重点
+source_account: 人民网研究院
+source_url: https://mp.weixin.qq.com/s/kS_5x3NWSDg6t4PQzklfkA
 date_published: 2026-04-20
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 每周AI信息参考：我国低空经济发展确定五大重点
 

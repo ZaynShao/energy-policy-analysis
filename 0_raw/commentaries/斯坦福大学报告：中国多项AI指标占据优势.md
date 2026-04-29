@@ -1,12 +1,15 @@
 ---
-title: "斯坦福大学报告：中国多项AI指标占据优势"
-source_account: "人民网研究院"
-source_url: "https://mp.weixin.qq.com/s/PbrkwmKQlFO8H9ww_5rfDA"
+title: 斯坦福大学报告：中国多项AI指标占据优势
+source_account: 人民网研究院
+source_url: https://mp.weixin.qq.com/s/PbrkwmKQlFO8H9ww_5rfDA
 date_published: 2026-04-17
-fetched_at: 2026-04-29T13:30:50+08:00
+fetched_at: 2026-04-29 13:30:50+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 斯坦福大学报告：中国多项AI指标占据优势
 

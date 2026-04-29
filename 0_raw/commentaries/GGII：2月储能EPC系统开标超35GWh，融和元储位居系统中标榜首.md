@@ -1,12 +1,15 @@
 ---
-title: "GGII：2月储能EPC/系统开标超35GWh，融和元储位居系统中标榜首"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/6Mbime8m5MmRagVEuSRfoA"
+title: GGII：2月储能EPC/系统开标超35GWh，融和元储位居系统中标榜首
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/6Mbime8m5MmRagVEuSRfoA
 date_published: 2026-03-23
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # GGII：2月储能EPC/系统开标超35GWh，融和元储位居系统中标榜首
 

@@ -1,12 +1,15 @@
 ---
-title: "BDO | 利好逐步兑现 供需博弈加剧 BDO市场涨后僵持"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/17FmpkRMXB2lTmvMk-MQKQ"
+title: BDO | 利好逐步兑现 供需博弈加剧 BDO市场涨后僵持
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/17FmpkRMXB2lTmvMk-MQKQ
 date_published: 2026-04-17
-fetched_at: 2026-04-29T13:30:50+08:00
+fetched_at: 2026-04-29 13:30:50+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # BDO | 利好逐步兑现 供需博弈加剧 BDO市场涨后僵持
 

@@ -1,12 +1,15 @@
 ---
-title: "超高分子量聚乙烯 | 聚焦UHMWPE强势调涨 多角度解读价格落地与关键因素"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/SOrD8lx_N29-5Fljj68npw"
+title: 超高分子量聚乙烯 | 聚焦UHMWPE强势调涨 多角度解读价格落地与关键因素
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/SOrD8lx_N29-5Fljj68npw
 date_published: 2026-04-15
-fetched_at: 2026-04-29T13:30:50+08:00
+fetched_at: 2026-04-29 13:30:50+08:00
 commentary_type: D
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 超高分子量聚乙烯 | 聚焦UHMWPE强势调涨 多角度解读价格落地与关键因素
 

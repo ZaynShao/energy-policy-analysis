@@ -26,6 +26,8 @@ package-lock.json
 *.tmp
 *.bak
 *.log
+_meta/backup/
+_meta/tmp/
 
 # Obsidian 工作区(本地配置,不入版本)
 .obsidian/workspace*

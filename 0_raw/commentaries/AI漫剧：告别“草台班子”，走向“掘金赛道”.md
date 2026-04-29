@@ -1,12 +1,15 @@
 ---
-title: "AI漫剧：告别“草台班子”，走向“掘金赛道”"
-source_account: "人民网研究院"
-source_url: "https://mp.weixin.qq.com/s/aXCr3QFzNY6QvAbrmktEHg"
+title: AI漫剧：告别“草台班子”，走向“掘金赛道”
+source_account: 人民网研究院
+source_url: https://mp.weixin.qq.com/s/aXCr3QFzNY6QvAbrmktEHg
 date_published: 2026-03-20
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # AI漫剧：告别“草台班子”，走向“掘金赛道”
 

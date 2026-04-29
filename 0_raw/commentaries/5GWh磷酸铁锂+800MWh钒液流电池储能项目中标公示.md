@@ -1,12 +1,15 @@
 ---
-title: "5GWh磷酸铁锂+800MWh钒液流电池储能项目中标公示"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/2VcTHcWDArkQkoT61ghTcQ"
+title: 5GWh磷酸铁锂+800MWh钒液流电池储能项目中标公示
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/2VcTHcWDArkQkoT61ghTcQ
 date_published: 2026-03-18
-fetched_at: 2026-04-28T20:52:49+08:00
+fetched_at: 2026-04-28 20:52:49+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 5GWh磷酸铁锂+800MWh钒液流电池储能项目中标公示
 

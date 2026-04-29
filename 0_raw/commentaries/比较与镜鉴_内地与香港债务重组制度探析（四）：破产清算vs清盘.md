@@ -1,12 +1,15 @@
 ---
-title: "比较与镜鉴 | 内地与香港债务重组制度探析（四）：破产清算vs清盘"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/PW5FEUb4rmB2hHs4xK_-zA"
+title: 比较与镜鉴 | 内地与香港债务重组制度探析（四）：破产清算vs清盘
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/PW5FEUb4rmB2hHs4xK_-zA
 date_published: 2026-04-14
-fetched_at: 2026-04-29T13:30:50+08:00
+fetched_at: 2026-04-29 13:30:50+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 比较与镜鉴 | 内地与香港债务重组制度探析（四）：破产清算vs清盘
 

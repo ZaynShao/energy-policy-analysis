@@ -1,12 +1,15 @@
 ---
-title: "BDO | 供需过剩向紧平衡转变 一季度BDO市场触底反弹"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/tjraGz_PnvxzYSrO8LPemg"
+title: BDO | 供需过剩向紧平衡转变 一季度BDO市场触底反弹
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/tjraGz_PnvxzYSrO8LPemg
 date_published: 2026-04-08
-fetched_at: 2026-04-29T13:31:04+08:00
+fetched_at: 2026-04-29 13:31:04+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # BDO | 供需过剩向紧平衡转变 一季度BDO市场触底反弹
 

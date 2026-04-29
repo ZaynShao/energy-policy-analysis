@@ -1,12 +1,15 @@
 ---
-title: "PVC | 成本驱动下 短期市场高位运行"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/k1pg-TO7JNFumJ2AkIPuig"
+title: PVC | 成本驱动下 短期市场高位运行
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/k1pg-TO7JNFumJ2AkIPuig
 date_published: 2026-03-20
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # PVC | 成本驱动下 短期市场高位运行
 

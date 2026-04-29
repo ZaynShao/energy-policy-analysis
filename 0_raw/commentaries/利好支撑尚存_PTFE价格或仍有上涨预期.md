@@ -1,12 +1,15 @@
 ---
-title: "利好支撑尚存 PTFE价格或仍有上涨预期"
-source_account: "卓创资讯"
-source_url: "https://mp.weixin.qq.com/s/uDy-3LScMNP63v5v_7gVMw"
+title: 利好支撑尚存 PTFE价格或仍有上涨预期
+source_account: 卓创资讯
+source_url: https://mp.weixin.qq.com/s/uDy-3LScMNP63v5v_7gVMw
 date_published: 2026-04-17
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 利好支撑尚存 PTFE价格或仍有上涨预期
 

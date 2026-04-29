@@ -1,12 +1,15 @@
 ---
-title: "欧盟破产条例（EIR）（三）：企业集团成员程序——当“集团军”被困"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/Ld4JUbXsUYQ9QKvtIzUQRA"
+title: 欧盟破产条例（EIR）（三）：企业集团成员程序——当“集团军”被困
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/Ld4JUbXsUYQ9QKvtIzUQRA
 date_published: 2026-03-24
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 欧盟破产条例（EIR）（三）：企业集团成员程序——当“集团军”被困
 

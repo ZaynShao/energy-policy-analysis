@@ -1,12 +1,15 @@
 ---
-title: "每周AI信息参考：我国启动“人工智能+教育”行动计划"
-source_account: "人民网研究院"
-source_url: "https://mp.weixin.qq.com/s/v3fZY7ycM3Cm4yBpf7CD6Q"
+title: 每周AI信息参考：我国启动“人工智能+教育”行动计划
+source_account: 人民网研究院
+source_url: https://mp.weixin.qq.com/s/v3fZY7ycM3Cm4yBpf7CD6Q
 date_published: 2026-04-13
-fetched_at: 2026-04-29T13:31:03+08:00
+fetched_at: 2026-04-29 13:31:03+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 每周AI信息参考：我国启动“人工智能+教育”行动计划
 

@@ -1,12 +1,15 @@
 ---
-title: "EVA：一季度EVA价格脉冲式上扬 二季度或高位调整"
-source_account: "卓创资讯"
-source_url: "https://mp.weixin.qq.com/s/5HQQExc0WCN7IMeKNmRjEQ"
+title: EVA：一季度EVA价格脉冲式上扬 二季度或高位调整
+source_account: 卓创资讯
+source_url: https://mp.weixin.qq.com/s/5HQQExc0WCN7IMeKNmRjEQ
 date_published: 2026-04-17
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # EVA：一季度EVA价格脉冲式上扬 二季度或高位调整
 

@@ -1,12 +1,15 @@
 ---
-title: "PVC粉丨2月份出口创历史新高 3月或环比再度提升"
-source_account: "卓创资讯"
-source_url: "https://mp.weixin.qq.com/s/3-5VnaGUDuMxwpam4cTaqg"
+title: PVC粉丨2月份出口创历史新高 3月或环比再度提升
+source_account: 卓创资讯
+source_url: https://mp.weixin.qq.com/s/3-5VnaGUDuMxwpam4cTaqg
 date_published: 2026-03-25
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # PVC粉丨2月份出口创历史新高 3月或环比再度提升
 

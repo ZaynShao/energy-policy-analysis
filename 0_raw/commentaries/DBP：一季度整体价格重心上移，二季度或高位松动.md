@@ -1,12 +1,15 @@
 ---
-title: "DBP：一季度整体价格重心上移，二季度或高位松动"
-source_account: "卓创资讯"
-source_url: "https://mp.weixin.qq.com/s/OVFtkF_4WXgqN5dDstPdTg"
+title: DBP：一季度整体价格重心上移，二季度或高位松动
+source_account: 卓创资讯
+source_url: https://mp.weixin.qq.com/s/OVFtkF_4WXgqN5dDstPdTg
 date_published: 2026-04-20
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # DBP：一季度整体价格重心上移，二季度或高位松动
 

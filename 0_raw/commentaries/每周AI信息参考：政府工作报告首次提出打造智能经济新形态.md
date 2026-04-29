@@ -1,12 +1,15 @@
 ---
-title: "每周AI信息参考：政府工作报告首次提出打造智能经济新形态"
-source_account: "人民网研究院"
-source_url: "https://mp.weixin.qq.com/s/t_4rR206kdmBnWeZJPh4OA"
+title: 每周AI信息参考：政府工作报告首次提出打造智能经济新形态
+source_account: 人民网研究院
+source_url: https://mp.weixin.qq.com/s/t_4rR206kdmBnWeZJPh4OA
 date_published: 2026-03-16
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 每周AI信息参考：政府工作报告首次提出打造智能经济新形态
 

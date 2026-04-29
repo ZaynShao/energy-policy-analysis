@@ -1,12 +1,15 @@
 ---
-title: "欧盟破产条例（EIR）（二）：核心机制及实务启示"
-source_account: "金杜研究"
-source_url: "https://mp.weixin.qq.com/s/IYN5LDI2m_9jUB-dIoWwBA"
+title: 欧盟破产条例（EIR）（二）：核心机制及实务启示
+source_account: 金杜研究
+source_url: https://mp.weixin.qq.com/s/IYN5LDI2m_9jUB-dIoWwBA
 date_published: 2026-03-17
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R1
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 欧盟破产条例（EIR）（二）：核心机制及实务启示
 

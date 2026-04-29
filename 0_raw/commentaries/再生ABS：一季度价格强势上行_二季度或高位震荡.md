@@ -1,12 +1,15 @@
 ---
-title: "再生ABS：一季度价格强势上行 二季度或高位震荡"
-source_account: "卓创资讯"
-source_url: "https://mp.weixin.qq.com/s/AqSXDueqDweSvqd6U1ZHWA"
+title: 再生ABS：一季度价格强势上行 二季度或高位震荡
+source_account: 卓创资讯
+source_url: https://mp.weixin.qq.com/s/AqSXDueqDweSvqd6U1ZHWA
 date_published: 2026-04-17
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 再生ABS：一季度价格强势上行 二季度或高位震荡
 

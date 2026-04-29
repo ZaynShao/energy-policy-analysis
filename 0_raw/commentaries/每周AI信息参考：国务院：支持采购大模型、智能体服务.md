@@ -1,12 +1,15 @@
 ---
-title: "每周AI信息参考：国务院：支持采购大模型、智能体服务"
-source_account: "人民网研究院"
-source_url: "https://mp.weixin.qq.com/s/MnqWQjbrmq0zSKZZKP3MQw"
+title: 每周AI信息参考：国务院：支持采购大模型、智能体服务
+source_account: 人民网研究院
+source_url: https://mp.weixin.qq.com/s/MnqWQjbrmq0zSKZZKP3MQw
 date_published: 2026-04-27
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 每周AI信息参考：国务院：支持采购大模型、智能体服务
 

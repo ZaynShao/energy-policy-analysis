@@ -1,12 +1,15 @@
 ---
-title: "液化气 | 地缘冲突升级 重塑全球VLGC贸易格局"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/nhvrGuheLNt3uU-6VL8LVQ"
+title: 液化气 | 地缘冲突升级 重塑全球VLGC贸易格局
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/nhvrGuheLNt3uU-6VL8LVQ
 date_published: 2026-04-13
-fetched_at: 2026-04-29T13:31:03+08:00
+fetched_at: 2026-04-29 13:31:03+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # 液化气 | 地缘冲突升级 重塑全球VLGC贸易格局
 

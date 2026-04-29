@@ -1,12 +1,15 @@
 ---
-title: "MMA | 2026年行情远超预期 MMA与下游价格联动性趋势如何？"
-source_account: "隆众资讯订阅号"
-source_url: "https://mp.weixin.qq.com/s/fnpxpbN8ozeG1Q4qcQeLig"
+title: MMA | 2026年行情远超预期 MMA与下游价格联动性趋势如何？
+source_account: 隆众资讯订阅号
+source_url: https://mp.weixin.qq.com/s/fnpxpbN8ozeG1Q4qcQeLig
 date_published: 2026-04-22
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: gas
 source: wewe-rss
+not_policy_related: true
+not_policy_related_reason: R2
+not_policy_related_marked_at: '2026-04-29'
 ---
 # MMA | 2026年行情远超预期 MMA与下游价格联动性趋势如何？
 
