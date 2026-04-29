@@ -48,17 +48,22 @@ ACCOUNT_BUSINESS_MAP = {
     "国网能源研究院有限公司": "power",
     "落基山研究所": "cross",
     "电动汽车观察家": "charging",
-    # 第二批 9 个(明天加完后会自动匹配)
+    # 第二批 9 个(实际公众号名,2026-04-29 实测对齐)
     "中国石油经济技术研究院": "gas",
+    "中石油经研院 智库研究中心": "gas",         # 实际订阅名
     "卓创资讯": "gas",
     "隆众资讯": "gas",
+    "隆众资讯订阅号": "gas",                   # 实际订阅名
     "36碳": "cross",
     "金杜律师事务所": "cross",
+    "金杜研究": "cross",                       # 实际订阅名
     "中央财经大学绿色金融国际研究院": "cross",
     "中央财经大学IIGF": "cross",
     "中国(深圳)综合开发研究院": "cross",
+    "综合开发研究院": "cross",                 # 实际订阅名
     "人民网研究院": "cross",
     "能源评论": "cross",
+    "能源评论•首席能源观": "cross",            # 实际订阅名
 }
 DEFAULT_BUSINESS = "cross"
 
@@ -128,17 +133,25 @@ URL_RE = re.compile(r'^source_url:\s*["\']?([^"\'\n]+)["\']?\s*$', re.M)
 
 
 def collect_existing_urls(output_dir: Path) -> set[str]:
+    """扫 commentaries 当前 + .archive 历史 (避免归档文件被重新拉回)."""
     urls = set()
-    if not output_dir.exists():
-        return urls
-    for f in output_dir.glob("*.md"):
-        try:
-            text = f.read_text(encoding="utf-8", errors="ignore")[:3000]
-            m = URL_RE.search(text)
-            if m:
-                urls.add(m.group(1).strip())
-        except Exception:
+    paths_to_scan = [output_dir]
+    archive_root = output_dir.parent / ".archive" / "commentaries"
+    if archive_root.exists():
+        for d in archive_root.iterdir():
+            if d.is_dir():
+                paths_to_scan.append(d)
+    for p in paths_to_scan:
+        if not p.exists():
             continue
+        for f in p.glob("*.md"):
+            try:
+                text = f.read_text(encoding="utf-8", errors="ignore")[:3000]
+                m = URL_RE.search(text)
+                if m:
+                    urls.add(m.group(1).strip())
+            except Exception:
+                continue
     return urls
 
 
