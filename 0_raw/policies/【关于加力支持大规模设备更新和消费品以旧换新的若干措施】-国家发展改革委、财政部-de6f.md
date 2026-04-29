@@ -1,8 +1,9 @@
 ---
 id: P_2024_NDRC_0726ba17
 _duplicate_of: P_2024_NDRC_0725ba17
-_duplicate_reason: "同政策两次采集"
-aliases: [P_2024_NDRC_0726ba17]
+_duplicate_reason: 同政策两次采集
+aliases:
+- P_2024_NDRC_0726ba17
 title: 关于加力支持大规模设备更新和消费品以旧换新的若干措施
 official_number: ''
 issuer:
@@ -20,22 +21,6 @@ provenance:
   collected_by: policy-watch
   collected_mode: build-phase-manual
   confidence: 0.95
-tags:
-- 新能源汽车
-- 节能降碳
-- 设备更新
-scores:
-  D1: 4
-  D2: 5
-  D3: 4
-  D4: 5
-  D5: 5
-  D6: 3
-重要性: 4
-行动分类: A
-价值标签:
-- 机会
-- 合规
 issuer_canonical:
 - ndrc
 - mof
@@ -46,26 +31,6 @@ issuer_canonical:
 **发文机构**: 国家发展改革委、财政部  
 **发布日期**: 2024-07-26  
 **来源**: [https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/gzdt/202407/P020240726413585348997.pdf](https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/gzdt/202407/P020240726413585348997.pdf)
-
-## 摘要
-
-两部委3000亿元超长期特别国债加力支持设备更新和消费品以旧换新,新能源乘用车补贴提至2万元、公交车补6万元,扩展至能源电力老旧电梯领域。
-
-## 初步影响分析
-
-**加油业务**: 国三柴油货车报废加速,中长期影响柴油销量  
-**充电业务**: 新能源乘用车/公交补贴拉动充电需求  
-**电力业务**: 能源电力领域设备更新可申请国债资金
-
-## 六维评分
-
-| D1 业务关联 | D2 直接影响 | D3 主体层级 | D4 紧迫性 | D5 实操性 | D6 机会窗口 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 4 | 5 | 4 | 5 | 5 | 3 |
-
-**综合分**: ⭐ × 4  
-**行动分类**: A  
-**价值标签**: 机会 + 合规
 
 ## 政策原文
 

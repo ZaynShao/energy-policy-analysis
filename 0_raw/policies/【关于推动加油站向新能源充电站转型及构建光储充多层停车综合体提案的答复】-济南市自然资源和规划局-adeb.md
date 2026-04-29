@@ -1,6 +1,7 @@
 ---
 id: P_2025_OTHER3021_07310176
-aliases: [P_2025_OTHER3021_07310176]
+aliases:
+- P_2025_OTHER3021_07310176
 title: 关于推动加油站向新能源充电站转型及构建光储充多层停车综合体提案的答复
 official_number: ''
 issuer:
@@ -18,21 +19,6 @@ provenance:
   collected_by: policy-watch
   collected_mode: build-phase-manual
   confidence: 0.85
-tags:
-- 充电基础设施
-- 加油站
-scores:
-  D1: 3
-  D2: 2
-  D3: 2
-  D4: 3
-  D5: 2
-  D6: 4
-重要性: 2
-行动分类: D
-价值标签:
-- 趋势
-archive: low_score
 ---
 # 关于推动加油站向新能源充电站转型及构建光储充多层停车综合体提案的答复
 
@@ -41,35 +27,13 @@ archive: low_score
 **发布日期**: 2025-07-31  
 **来源**: [http://nrp.jinan.gov.cn/col117338/art/2025/art_117338_34471.html](http://nrp.jinan.gov.cn/col117338/art/2025/art_117338_34471.html)
 
-## 摘要
-
-济南市自规局答复政协提案,明确将充换电站、加氢站等纳入国土空间规划保障,新建项目须配建充电设施,自有用地增建充电桩纳入许可豁免清单。
-
-## 初步影响分析
-
-**加油业务**: 地方层面释放加油站转型新能源综合体的规划支持信号,有利于场站改造立项。  
-**充电业务**: 用地、规划许可路径打通,降低充电桩、光储充综合体建设门槛。  
-**电力业务**: 光储充综合体推动分布式光伏与储能配套需求。
-
-## 六维评分
-
-| D1 业务关联 | D2 直接影响 | D3 主体层级 | D4 紧迫性 | D5 实操性 | D6 机会窗口 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 3 | 2 | 2 | 3 | 2 | 4 |
-
-**综合分**: ⭐ × 2  
-**行动分类**: D  
-**价值标签**: 趋势
-
 ## 政策原文
 
 无障碍浏览
 
-
 ![济南市自然资源和规划局](http://www.jinan.gov.cn/picture/686/2311221834532046824.png)[济南市自然资源和规划局](http://nrp.jinan.gov.cn/)
 
 政府信息公开
-
 
 |     |     |
 | --- | --- |
@@ -89,41 +53,33 @@ archive: low_score
 成文日期:
 2025-07-31
 
-
 #### 会议届次
 
 市政协十五届四次会议
-
 
 #### 编号
 
 1540288
 
-
 #### 标题
 
 关于推动加油站向新能源充电站转型及构建光储充多层停车综合体的提案
-
 
 #### 提案者
 
 张群江
 
-
 #### 政协提案领域
 
 城乡建设
-
 
 #### 承办单位
 
 市自然资源和规划局
 
-
 #### 答复时间
 
 2025-07-31
-
 
 #### 答复内容
 
@@ -155,14 +111,11 @@ archive: low_score
 
 解决
 
-
 分享到
-
 
 - 【打印此页】
 
 - 【关闭窗口】
-
 
 - [![](http://nrp.jinan.gov.cn/picture/0/1911221359551241559.png)](http://bszs.conac.cn/sitename?method=show&id=08A9E3635D8D6017E053012819AC7C3D "党政机关")
 - \| [关于本站](http://nrp.jinan.gov.cn/col/col44531/index.html "关于本站") \| [使用帮助](http://nrp.jinan.gov.cn/col/col43950/index.html "使用帮助") \| [网站声明](http://nrp.jinan.gov.cn/col/col43951/index.html "网站声明") \| [联系方式](http://nrp.jinan.gov.cn/col/col43712/index.html "联系方式") \| [网站地图](http://nrp.jinan.gov.cn/col/col43949/index.html "网站地图") \|

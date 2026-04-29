@@ -1,6 +1,7 @@
 ---
 id: P_2023_SH_0203297d_b
-aliases: [P_2023_SH_0203297d_b]
+aliases:
+- P_2023_SH_0203297d_b
 title: 上海市青浦区碳达峰实施方案
 official_number: ''
 issuer:
@@ -18,21 +19,6 @@ provenance:
   collected_by: policy-watch
   collected_mode: build-phase-manual
   confidence: 0.7
-tags:
-- 碳达峰
-- 节能降碳
-scores:
-  D1: 1
-  D2: 2
-  D3: 2
-  D4: 3
-  D5: 2
-  D6: 2
-重要性: 1
-行动分类: D
-价值标签:
-- 趋势
-archive: low_score
 dup_aliases:
 - P_2023_SH_0203297d_a
 dedup_at: '2026-04-26T18:48:02'
@@ -47,30 +33,9 @@ issuer_canonical:
 **发布日期**: 2023-02-03  
 **来源**: [https://www.shqp.gov.cn/shqp/zwgk/zfwj/qzf/20230203/1092661.html](https://www.shqp.gov.cn/shqp/zwgk/zfwj/qzf/20230203/1092661.html)
 
-## 摘要
-
-上海青浦区碳达峰实施方案,部署区域能源结构优化、节能降碳等举措。
-
-## 初步影响分析
-
-**加油业务**: 区级减碳目标渐进影响化石燃料消费。  
-**充电业务**: 区域充电基础设施建设可能纳入碳达峰配套。  
-**电力业务**: 推动地方分布式能源、储能等转型项目。
-
-## 六维评分
-
-| D1 业务关联 | D2 直接影响 | D3 主体层级 | D4 紧迫性 | D5 实操性 | D6 机会窗口 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | 2 | 2 | 3 | 2 | 2 |
-
-**综合分**: ⭐ × 1  
-**行动分类**: D  
-**价值标签**: 趋势
-
 ## 政策原文
 
 [无障碍操作说明](https://www.shqp.gov.cn/shqp/zwgk/zfwj/qzf/20230203/shuoming.html#div0 "新窗口打开无障碍操作说明页面")跳转到网站导航区跳转到主要内容区域
-
 
 - [中国政府网](http://www.gov.cn/ "中国政府网")
 - [中国上海](http://www.sh.gov.cn/ "中国上海")
@@ -112,8 +77,6 @@ issuer_canonical:
 
 [公众服务](https://www.shqp.gov.cn/shqp/ggfw/ "公众服务") [便民提示](https://www.shqp.gov.cn/shqp/ggfw/bmts/ "便民提示") [青浦天气](https://www.shqp.gov.cn/shqp/ggfw/tq/ "青浦天气") [主题服务库](https://www.shqp.gov.cn/shqp/ggfw/ztfwk/ "主题服务库") [民生服务](https://www.shqp.gov.cn/shqp/ggfw/mszt/ "民生服务") [社区服务](https://www.shqp.gov.cn/shqp/sqfw/ "社区服务") [公共设施](https://www.shqp.gov.cn/shqp/ggss/ "公共设施")
 - [走进青浦](https://www.shqp.gov.cn/shqp/zjqp/ "走进青浦")
-
-
 
 ## 上海市青浦区人民政府
 

@@ -1,6 +1,7 @@
 ---
 id: P_2024_OTHER7F45_060777c1
-aliases: [P_2024_OTHER7F45_060777c1]
+aliases:
+- P_2024_OTHER7F45_060777c1
 title: 深圳市支持虚拟电厂加快发展的若干措施
 official_number: ''
 issuer:
@@ -18,23 +19,6 @@ provenance:
   collected_by: policy-watch
   collected_mode: build-phase-manual
   confidence: 0.65
-tags:
-- 新型储能
-- 虚拟电厂
-- 需求响应
-scores:
-  D1: 5
-  D2: 4
-  D3: 2
-  D4: 5
-  D5: 3
-  D6: 4
-重要性: 4
-行动分类: A
-价值标签:
-- 机会
-- 壁垒
-- 趋势
 issuer_canonical:
 - drc_shenzhen
 ---
@@ -45,34 +29,11 @@ issuer_canonical:
 **发布日期**: 2024-06-07  
 **来源**: [https://fgw.sz.gov.cn/zwgk/zcjzcjd/zc/content/post_11351896.html](https://fgw.sz.gov.cn/zwgk/zcjzcjd/zc/content/post_11351896.html)
 
-## 摘要
-
-深圳市发改委印发支持虚拟电厂加快发展若干措施。正文片段以页面导航为主,具体条款未抓取到,但属深圳虚拟电厂关键支持政策。
-
-## 初步影响分析
-
-**加油业务**: 无影响  
-**充电业务**: 利好,充电场站作为可调负荷资源参与虚拟电厂  
-**电力业务**: 直接核心,虚拟电厂运营、聚合主体补贴及参与电力市场政策依据
-
-## 六维评分
-
-| D1 业务关联 | D2 直接影响 | D3 主体层级 | D4 紧迫性 | D5 实操性 | D6 机会窗口 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 5 | 4 | 2 | 5 | 3 | 4 |
-
-**综合分**: ⭐ × 4  
-**行动分类**: A  
-**价值标签**: 机会 + 壁垒 + 趋势
-
 ## 政策原文
 
 ![](https://fgw.sz.gov.cn/zwgk/zcjzcjd/zc/content/post_11351896.html)
 
 ![](https://fgw.sz.gov.cn/web2021/icon-old2.png)[![](https://fgw.sz.gov.cn/znyy/znyy_icon.png)](https://fgw.sz.gov.cn/znyy/znyy.html "智能语音")
-
-
-
 
 - [首页](https://fgw.sz.gov.cn/)
 
@@ -153,7 +114,6 @@ issuer_canonical:
 
   - [其他专题专栏](https://fgw.sz.gov.cn/ztzl/qtztzl/index.html)
 
-
 [我的主页](https://service.gd.gov.cn/) \|
 
 无障碍浏览 \|
@@ -161,10 +121,6 @@ issuer_canonical:
 繁体简体 \|
 [个性化订阅](https://fgw.sz.gov.cn/fzlm/gxhdy/index.html) \|
 网站支持IPv6
-
-
-
-
 
 - [首页](https://fgw.sz.gov.cn/)
 - [政务公开](https://fgw.sz.gov.cn/zwgk/index.html)
@@ -179,7 +135,6 @@ issuer_canonical:
 
 - [专题专栏](https://fgw.sz.gov.cn/ztzl/index.html)
 [政策解读](https://fgw.sz.gov.cn/ztzl/zcjd/index.html) [重点业务服务](https://fgw.sz.gov.cn/ztzl/zdywfw/index.html) [其他专题专栏](https://fgw.sz.gov.cn/ztzl/qtztzl/index.html)
-
 
 [首页](https://fgw.sz.gov.cn/) > [政务公开](https://fgw.sz.gov.cn/zwgk/) > [政策及政策解读](https://fgw.sz.gov.cn/zwgk/zcjzcjd/) > [政策](https://fgw.sz.gov.cn/zwgk/zcjzcjd/zc/)
 
@@ -267,17 +222,13 @@ issuer_canonical:
 
 分享到:
 
-
 **微信扫一扫：分享**
-
 
 扫一扫，分享给好友或朋友圈
 
 分享到:
 
-
 **微信扫一扫：分享**
-
 
 扫一扫，分享给好友或朋友圈
 

@@ -1,0 +1,23 @@
+pid: P_2025_BJ_06173e1c
+scores:
+  D1: 1
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+archive: low_score
+影响分析:
+  加油业务: 无直接影响。
+  充电业务: 无直接影响。
+  电力业务: 无直接影响。
+sanitized_at: '2026-04-29'
+sanitized_from: 0_raw/policies/【北京市进一步扩围2025年消费品以旧换新补贴商品的公告】-北京市商务局-c402.md
+business_tags:
+- 设备更新
+summary: 北京市商务局扩围2025年消费品以旧换新补贴商品范围。
+sanitized_b_at: '2026-04-29'

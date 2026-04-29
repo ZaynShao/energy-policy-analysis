@@ -1,6 +1,7 @@
 ---
 id: P_2024_BJ_1217fe41
-aliases: [P_2024_BJ_1217fe41]
+aliases:
+- P_2024_BJ_1217fe41
 title: 北京市关于支持氢能产业发展的若干政策措施(修订版)
 official_number: ''
 issuer:
@@ -18,22 +19,6 @@ provenance:
   collected_by: policy-watch
   collected_mode: build-phase-manual
   confidence: 0.7
-tags:
-- 新能源汽车
-- 氢能
-scores:
-  D1: 1
-  D2: 3
-  D3: 4
-  D4: 3
-  D5: 3
-  D6: 2
-重要性: 2
-行动分类: D
-价值标签:
-- 氢能产业
-- 北京
-archive: low_score
 issuer_canonical:
 - miit_beijing
 ---
@@ -44,30 +29,9 @@ issuer_canonical:
 **发布日期**: 2024-12-17  
 **来源**: [https://jxj.beijing.gov.cn/zwgk/2024zcwj/202412/t20241217_3968075.html](https://jxj.beijing.gov.cn/zwgk/2024zcwj/202412/t20241217_3968075.html)
 
-## 摘要
-
-北京氢能产业支持政策修订版,正文片段未充分获取,通常涵盖氢车推广、加氢站建设运营、产业链关键核心技术等支持措施。
-
-## 初步影响分析
-
-**加油业务**: 氢能补能与传统加油有部分场景互补,可能影响油氢合建站布局。  
-**充电业务**: 影响有限。  
-**电力业务**: 影响有限,可能涉及绿电制氢链条。
-
-## 六维评分
-
-| D1 业务关联 | D2 直接影响 | D3 主体层级 | D4 紧迫性 | D5 实操性 | D6 机会窗口 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | 3 | 4 | 3 | 3 | 2 |
-
-**综合分**: ⭐ × 2  
-**行动分类**: D  
-**价值标签**: 氢能产业 + 北京
-
 ## 政策原文
 
 - [要闻发布](https://jxj.beijing.gov.cn/jxdt/ "要闻发布")
-
 
   - [中央精神](https://jxj.beijing.gov.cn/jxdt/zyjs/ "中央精神")
   - [北京要闻](https://jxj.beijing.gov.cn/jxdt/bjyw/ "北京要闻")
@@ -76,7 +40,6 @@ issuer_canonical:
   - [工作动态](https://jxj.beijing.gov.cn/jxdt/gzdt/ "工作动态")
 
 - [政务公开](https://jxj.beijing.gov.cn/zwgk/ "政务公开")
-
 
   - [领导介绍](https://jxj.beijing.gov.cn/zwgk/jgxx/ldfg/ "领导介绍")
   - [机构信息](https://jxj.beijing.gov.cn/zwgk/jgxx/ "机构信息")
@@ -92,7 +55,6 @@ issuer_canonical:
 
 - [政务服务](https://jxj.beijing.gov.cn/bsfw/ "政务服务")
 
-
   - [办事通知](https://jxj.beijing.gov.cn/bsfw/bstz/ "办事通知")
   - [办事统计](https://jxj.beijing.gov.cn/bsfw/bstj/ "办事统计")
   - [政务服务事项](https://jxj.beijing.gov.cn/bsfw/ggfwsx/ "政务服务事项")
@@ -103,7 +65,6 @@ issuer_canonical:
 
 - [政民互动](https://jxj.beijing.gov.cn/zmhd/ "政民互动")
 
-
   - [我要咨询](https://jxj.beijing.gov.cn/zmhd/wyzx/ "我要咨询")
   - [纪检投诉举报](https://jxj.beijing.gov.cn/zmhd/jjjctsjb/ "纪检投诉举报")
   - [咨询回复](https://jxj.beijing.gov.cn/zmhd/zxhf/ "咨询回复")
@@ -112,14 +73,11 @@ issuer_canonical:
 
 - [经信数据](https://jxj.beijing.gov.cn/jxsj/ "经信数据")
 
-
   - [经济运行](https://jxj.beijing.gov.cn/jxsj/jjyx/ "经济运行")
   - [专题数据库](https://jxj.beijing.gov.cn/jxsj/ztsjk/ "专题数据库")
   - [北京工业年鉴](https://jxj.beijing.gov.cn/jxsj/bjgynj/ "北京工业年鉴")
 
 - 要闻发布![](https://jxj.beijing.gov.cn/images/icon_down.png)
-
-
 
 [要闻发布](https://jxj.beijing.gov.cn/jxdt/ "要闻发布")  - [中央精神](https://jxj.beijing.gov.cn/jxdt/zyjs/ "中央精神")
   - [北京要闻](https://jxj.beijing.gov.cn/jxdt/bjyw/ "北京要闻")
@@ -128,8 +86,6 @@ issuer_canonical:
   - [工作动态](https://jxj.beijing.gov.cn/jxdt/gzdt/ "工作动态")
 
 - 政务公开![](https://jxj.beijing.gov.cn/images/icon_down.png)
-
-
 
 [政务公开](https://jxj.beijing.gov.cn/zwgk/ "政务公开")  - [领导介绍](https://jxj.beijing.gov.cn/zwgk/jgxx/ldfg/ "领导介绍")
   - [机构信息](https://jxj.beijing.gov.cn/zwgk/jgxx/ "机构信息")
@@ -145,8 +101,6 @@ issuer_canonical:
 
 - 政务服务![](https://jxj.beijing.gov.cn/images/icon_down.png)
 
-
-
 [政务服务](https://jxj.beijing.gov.cn/bsfw/ "政务服务")  - [办事通知](https://jxj.beijing.gov.cn/bsfw/bstz/ "办事通知")
   - [办事统计](https://jxj.beijing.gov.cn/bsfw/bstj/ "办事统计")
   - [政务服务事项](https://jxj.beijing.gov.cn/bsfw/ggfwsx/ "政务服务事项")
@@ -157,8 +111,6 @@ issuer_canonical:
 
 - 政民互动![](https://jxj.beijing.gov.cn/images/icon_down.png)
 
-
-
 [政民互动](https://jxj.beijing.gov.cn/zmhd/ "政民互动")  - [我要咨询](https://jxj.beijing.gov.cn/zmhd/wyzx/ "我要咨询")
   - [纪检投诉举报](https://jxj.beijing.gov.cn/zmhd/jjjctsjb/ "纪检投诉举报")
   - [咨询回复](https://jxj.beijing.gov.cn/zmhd/zxhf/ "咨询回复")
@@ -166,8 +118,6 @@ issuer_canonical:
   - [视频访谈](https://jxj.beijing.gov.cn/zmhd/xwfb/ "视频访谈")
 
 - 经信数据![](https://jxj.beijing.gov.cn/images/icon_down.png)
-
-
 
 [经信数据](https://jxj.beijing.gov.cn/jxsj/ "经信数据")  - [经济运行](https://jxj.beijing.gov.cn/jxsj/jjyx/ "经济运行")
   - [专题数据库](https://jxj.beijing.gov.cn/jxsj/ztsjk/ "专题数据库")

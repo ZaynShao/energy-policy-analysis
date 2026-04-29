@@ -1,0 +1,23 @@
+pid: P_2024_BJ_04024e0d
+scores:
+  D1: 1
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+archive: low_score
+影响分析:
+  加油业务: 无直接影响
+  充电业务: 无直接影响
+  电力业务: 无直接影响
+sanitized_at: '2026-04-29'
+sanitized_from: 0_raw/policies/【北京市绿色低碳发展国民教育体系建设实施方案】-北京市教育委员会-2c7b.md
+business_tags:
+- 碳达峰
+summary: 北京市绿色低碳教育体系建设方案
+sanitized_b_at: '2026-04-29'
