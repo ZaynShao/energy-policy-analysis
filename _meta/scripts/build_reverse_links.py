@@ -32,7 +32,7 @@ OUTPUT_DIR = RELATIONS_DIR / "_index_by_policy"
 
 CST = timezone(timedelta(hours=8))
 
-# 8 类出向 → 入向 section 标签 (按 schema_v3.md §6.4 命名表)
+# 9 类出向 → 入向 section 标签 (按 schema_v3.md §6.4 命名表)
 REL_TO_SECTION_LABEL = {
     "cites_basis":    "被引为依据 (cited_as_basis_by)",
     "supersedes":     "被废止 (superseded_by)",
@@ -42,9 +42,10 @@ REL_TO_SECTION_LABEL = {
     "references":     "被引用 (referenced_by)",
     "aligns_with":    "被对齐 (aligns_with_by)",
     "conflicts_with": "被冲突 (conflicts_with_by)",
+    "derives_from":   "被落地 (landed_by)",
 }
 
-# 反链文件内 section 出现顺序 (cites_basis 优先,演进类次之,引用/对齐类靠后)
+# 反链文件内 section 出现顺序 (cites_basis 优先,演进类次之,派生类压轴)
 SECTION_ORDER = [
     "cites_basis",
     "supersedes",
@@ -54,6 +55,7 @@ SECTION_ORDER = [
     "references",
     "aligns_with",
     "conflicts_with",
+    "derives_from",
 ]
 
 
@@ -130,6 +132,7 @@ def main():
                     "from_id": from_id,
                     "from_title": from_meta.get("title", ""),
                     "from_date": from_meta.get("date", ""),
+                    "linkage_type": edge.get("linkage_type"),
                 })
                 total_edges += 1
 
@@ -190,10 +193,12 @@ def main():
                 fid = e["from_id"]
                 ftitle = (e["from_title"] or "").strip()
                 fdate = (e["from_date"] or "")[:10] or "—"
+                lt = e.get("linkage_type")
+                suffix = f" [{lt}]" if lt else ""
                 if ftitle:
-                    lines.append(f"- [[{fid}]] — {ftitle} ({fdate})")
+                    lines.append(f"- [[{fid}]] — {ftitle} ({fdate}){suffix}")
                 else:
-                    lines.append(f"- [[{fid}]] ({fdate})")
+                    lines.append(f"- [[{fid}]] ({fdate}){suffix}")
             lines.append("")
 
         out_file = OUTPUT_DIR / f"{target_id}.md"
