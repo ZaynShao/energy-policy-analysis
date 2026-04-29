@@ -32,3 +32,8 @@ _meta/tmp/
 # Obsidian 工作区(本地配置,不入版本)
 .obsidian/workspace*
 .obsidian/cache
+
+# macOS Finder/iCloud sync cruft (numbered duplicate filenames)
+* 2.md
+* 2.yaml
+* 2.json
