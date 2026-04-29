@@ -1,8 +1,8 @@
 {
   "report_date": "2026-03-31",
   "meta": {
-    "total_in_force_ge4_national": 58,
-    "total_expired_ge4_national": 19,
+    "total_in_force_ge4_national": 54,
+    "total_expired_ge4_national": 18,
     "march_count": 11,
     "march_strong": 4,
     "march_medium": 5,
@@ -21,7 +21,7 @@
     },
     {
       "month": "2025-12",
-      "count": 19,
+      "count": 17,
       "high_imp": 12
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "month": "2026-02",
-      "count": 9,
+      "count": 8,
       "high_imp": 4
     },
     {
@@ -52,21 +52,7 @@
       "region": "全国",
       "region_level": "国家",
       "importance": 5,
-      "tags": [
-        "双碳",
-        "碳达峰",
-        "碳中和",
-        "新型储能",
-        "新能源",
-        "非化石能源",
-        "电力市场",
-        "绿电",
-        "充电基础设施",
-        "氢能",
-        "设备更新",
-        "以旧换新",
-        "数字经济"
-      ],
+      "tags": [],
       "biz_kws": [
         "充电",
         "电力市场",
@@ -91,9 +77,9 @@
       ],
       "national_source": {
         "is_national_level_originated": true,
-        "national_source_id_or_title": "本政策即顶层国家级(国务院《2026年政府工作报告》)",
-        "linkage": "本政策为国家级文件本身",
-        "evidence": "国务院总理李强代国务院作政府工作报告,十四届全国人大四次会议审议"
+        "national_source_id_or_title": "",
+        "linkage": "",
+        "evidence": ""
       },
       "reading_value": "2026业务OKR必读锚点"
     },
@@ -109,21 +95,7 @@
       "region": "全国",
       "region_level": "国家",
       "importance": 5,
-      "tags": [
-        "双碳",
-        "新型储能",
-        "新能源",
-        "电力市场",
-        "绿色转型",
-        "现代化产业",
-        "数字经济",
-        "乡村振兴",
-        "充电基础设施",
-        "新能源汽车",
-        "氢能",
-        "高水平科技自立自强",
-        "美丽中国"
-      ],
+      "tags": [],
       "biz_kws": [
         "充电",
         "电力市场",
@@ -147,9 +119,9 @@
       ],
       "national_source": {
         "is_national_level_originated": true,
-        "national_source_id_or_title": "本政策即顶层国家级(《十五五规划纲要》,全国人大2026-03-12表决通过)",
-        "linkage": "本政策为国家级文件本身",
-        "evidence": "第十四届全国人大四次会议表决通过,新华社受权播发"
+        "national_source_id_or_title": "",
+        "linkage": "",
+        "evidence": ""
       },
       "reading_value": "5年战略级必读纲领"
     },
@@ -164,10 +136,7 @@
       "region": "宁夏回族自治区",
       "region_level": "省",
       "importance": 4,
-      "tags": [
-        "充电基础设施",
-        "新能源汽车"
-      ],
+      "tags": [],
       "biz_kws": [
         "充电",
         "新能源汽车"
@@ -205,12 +174,7 @@
       "region": "山东省",
       "region_level": "省",
       "importance": 4,
-      "tags": [
-        "新型储能",
-        "电力现货",
-        "虚拟电厂",
-        "需求响应"
-      ],
+      "tags": [],
       "biz_kws": [
         "虚拟电厂",
         "现货",
@@ -251,16 +215,7 @@
       "region": "全国",
       "region_level": "国家",
       "importance": 3,
-      "tags": [
-        "乡村振兴",
-        "农村能源",
-        "农村充电基础设施",
-        "农网",
-        "农村风电",
-        "农村光伏",
-        "北方清洁取暖",
-        "县域"
-      ],
+      "tags": [],
       "biz_kws": [
         "充电"
       ],
@@ -280,9 +235,9 @@
       ],
       "national_source": {
         "is_national_level_originated": true,
-        "national_source_id_or_title": "上承《2026年中央一号文件》+ 政府工作报告关于乡村振兴部署",
-        "linkage": "国家部委专项落地——上承中央一号文件,横向呼应十五五规划第八篇",
-        "evidence": "会议明确『贯彻落实2026年中央一号文件部署要求』"
+        "national_source_id_or_title": "",
+        "linkage": "",
+        "evidence": ""
       },
       "reading_value": "乡村充电信号位,具体待落地"
     },
@@ -297,14 +252,7 @@
       "region": "上海市松江区",
       "region_level": "区",
       "importance": 3,
-      "tags": [
-        "充电基础设施",
-        "分布式能源",
-        "新型储能",
-        "新能源汽车",
-        "碳达峰",
-        "虚拟电厂"
-      ],
+      "tags": [],
       "biz_kws": [
         "虚拟电厂",
         "充电",
@@ -345,12 +293,7 @@
       "region": "全国",
       "region_level": "国家",
       "importance": 3,
-      "tags": [
-        "充电基础设施",
-        "分布式能源",
-        "新型储能",
-        "虚拟电厂"
-      ],
+      "tags": [],
       "biz_kws": [
         "虚拟电厂",
         "充电",
@@ -372,9 +315,9 @@
       ],
       "national_source": {
         "is_national_level_originated": true,
-        "national_source_id_or_title": "国家能源局年度行业标准计划(支撑十五五规划纲要+政府工作报告『加快智能电网建设』)",
-        "linkage": "国家部委专项——上承十五五规划绿色转型主线 / 政府工作报告新型电力系统部署",
-        "evidence": "PDF原文未抽取出文字,linkage基于发文机构与文件性质判断"
+        "national_source_id_or_title": "",
+        "linkage": "",
+        "evidence": ""
       },
       "reading_value": "标准前瞻,具体内容待OCR"
     },
@@ -389,9 +332,7 @@
       "region": "重庆市",
       "region_level": "省",
       "importance": 3,
-      "tags": [
-        "新能源汽车"
-      ],
+      "tags": [],
       "biz_kws": [
         "新能源汽车"
       ],
@@ -429,12 +370,7 @@
       "region": "北京市丰台区",
       "region_level": "区",
       "importance": 3,
-      "tags": [
-        "充电基础设施",
-        "新能源汽车",
-        "氢能",
-        "节能降碳"
-      ],
+      "tags": [],
       "biz_kws": [
         "充电",
         "新能源汽车"
@@ -470,12 +406,10 @@
       "issuer": [
         "南京日报"
       ],
-      "region": "南京日报",
-      "region_level": "未知",
+      "region": "南京市",
+      "region_level": "市",
       "importance": 1,
-      "tags": [
-        "加油站"
-      ],
+      "tags": [],
       "biz_kws": [
         "加油"
       ],
@@ -509,8 +443,8 @@
       "issuer": [
         "国家林业和草原局(转载)"
       ],
-      "region": "国家林业和草原局",
-      "region_level": "未知",
+      "region": "全国",
+      "region_level": "国家",
       "importance": 1,
       "tags": [],
       "biz_kws": [],
@@ -529,9 +463,9 @@
       ],
       "national_source": {
         "is_national_level_originated": true,
-        "national_source_id_or_title": "七部委联合发文(本身国家级)+ 上承十五五规划纲要绿色转型主线",
-        "linkage": "国家部委专项——上承十五五规划第十三篇绿色转型",
-        "evidence": "水利部、发改委、自然资源部、生态环境部、农业农村部、国家能源局、国家林草局联合印发"
+        "national_source_id_or_title": "",
+        "linkage": "",
+        "evidence": ""
       },
       "reading_value": "低优先级,绿电供给基本面"
     }
@@ -585,6 +519,15 @@
         "march_region": "北京市丰台区",
         "march_region_level": "区",
         "march_importance": 3,
+        "linkage_type": "主题对应*",
+        "evidence": "政府工作报告 3-5 发布,本月省级政策尚未直接引用,但与其顶层定调主题对应"
+      },
+      {
+        "march_id": "P_2026_OTHERD5E7_03169880",
+        "march_title": "南京市优化消费环境十项行动新闻",
+        "march_region": "南京市",
+        "march_region_level": "市",
+        "march_importance": 1,
         "linkage_type": "主题对应*",
         "evidence": "政府工作报告 3-5 发布,本月省级政策尚未直接引用,但与其顶层定调主题对应"
       }
@@ -1142,19 +1085,6 @@
       "status": "in_force"
     },
     {
-      "id": "P_2024_NEA_11",
-      "title": "关于加快推进充电基础设施建设的提案答复",
-      "official": "国能提电力〔2024〕11号",
-      "issuer": "国家能源局",
-      "effective_date": "2024-07-11",
-      "expires_at": null,
-      "effective_source": "提案答复函,制发日期2024-07-11,无生效条款",
-      "importance": 4,
-      "days_in_force": 628,
-      "days_until_expire": null,
-      "status": "in_force"
-    },
-    {
       "id": "P_2024_NDRC_0806117c",
       "title": "加快构建新型电力系统行动方案(2024—2027年)",
       "official": "",
@@ -1207,19 +1137,6 @@
       "status": "in_force"
     },
     {
-      "id": "P_2024_NEA_12055c06",
-      "title": "支持电力领域新型经营主体创新发展指导意见答记者问",
-      "official": "",
-      "issuer": "国家能源局",
-      "effective_date": "2025-01-04",
-      "expires_at": null,
-      "effective_source": "答记者问稿件，无生效条款，默认 date+30 天",
-      "importance": 4,
-      "days_in_force": 451,
-      "days_until_expire": null,
-      "status": "in_force"
-    },
-    {
       "id": "P_2025_NDRC_0106e7c2",
       "title": "电力系统调节能力优化专项行动实施方案(2025—2027年)",
       "official": "",
@@ -1230,32 +1147,6 @@
       "importance": 4,
       "days_in_force": 449,
       "days_until_expire": 640,
-      "status": "in_force"
-    },
-    {
-      "id": "P_2025_NEA_010675e0",
-      "title": "电力系统调节能力优化专项行动实施方案(2025—2027年)政策解读",
-      "official": "",
-      "issuer": "国家能源局",
-      "effective_date": "2025-01-06",
-      "expires_at": "2027-12-31",
-      "effective_source": "",
-      "importance": 4,
-      "days_in_force": 449,
-      "days_until_expire": 640,
-      "status": "in_force"
-    },
-    {
-      "id": "P_2025_NEA_0418065b",
-      "title": "全国虚拟电厂建设加快推进(人民日报海外版报道)",
-      "official": "",
-      "issuer": "国家能源局(转载人民日报海外版)",
-      "effective_date": "2025-04-18",
-      "expires_at": null,
-      "effective_source": "新闻报道,无生效条款,取发布日2025-04-18",
-      "importance": 4,
-      "days_in_force": 347,
-      "days_until_expire": null,
       "status": "in_force"
     },
     {
@@ -1443,20 +1334,6 @@
       "effective_source": "发布日期2025-02-28(年度典型案例征集通知,无明确施行日,取发布日)",
       "importance": 4,
       "days_in_force": 396,
-      "days_until_expire": null,
-      "status": "expired",
-      "days_expired": 90
-    },
-    {
-      "id": "P_2024_SC_12_a",
-      "title": "2024—2025年节能降碳行动方案",
-      "official": "国发〔2024〕12号",
-      "issuer": "国务院",
-      "effective_date": "2024-05-23",
-      "expires_at": "2025-12-31",
-      "effective_source": "2024-05-23印发(行动方案无明确施行日,取发布日)",
-      "importance": 5,
-      "days_in_force": 677,
       "days_until_expire": null,
       "status": "expired",
       "days_expired": 90
@@ -1910,7 +1787,7 @@
     {
       "march_pid": "P_2026_OTHERD5E7_03169880",
       "march_title": "南京市优化消费环境十项行动新闻",
-      "march_region": "南京日报",
+      "march_region": "南京市",
       "march_official": "",
       "march_date": "2026-03-16",
       "march_importance": 1,
@@ -2089,7 +1966,7 @@
     }
   ],
   "data_health": {
-    "vault_policies": 289,
+    "vault_policies": 263,
     "commentaries": 338,
     "entity_canonical": 88,
     "relations_total": 198,

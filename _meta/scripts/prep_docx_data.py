@@ -13,6 +13,13 @@ from collections import Counter, defaultdict
 
 VAULT = Path("/Users/shaoziyuan/Documents/Zayn Main/政策分析")
 BATCHES = VAULT / "_meta" / "march_report_batches"
+BUSINESS_VIEW_DIR = VAULT / "_meta" / "business_view"
+SUMMARIES_PATH = VAULT / "1_extracted" / "policy_summaries.jsonl"
+DERIVES_FROM_PATH = VAULT / "1_extracted" / "relations" / "derives_from.jsonl"
+# 过渡:business_tags 用作 relevance() 输入(L1 frontmatter tags 已下沉),待 B1 任务把 tags canonical 化进 entities/_extractions.jsonl(type=theme)后切换
+LEGACY_TAGS_PATH = VAULT / "_meta" / "business_tags_legacy.jsonl"
+# TODO: effective_data 后续也应迁出到 1_extracted/effective_dates.jsonl,目前过渡仍读 _consolidated.json
+EFFECTIVE_DATA_PATH = BATCHES / "_consolidated.json"
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 
 REPORT_DATE = "2026-03-31"
@@ -55,7 +62,7 @@ def sanitize_biz_framing(text):
     return text
 
 
-# 加载所有政策
+# 加载所有政策 (raw)
 all_p = {}
 for f in (VAULT / "0_raw" / "policies").glob("*.md"):
     text = f.read_text(encoding='utf-8')
@@ -63,14 +70,63 @@ for f in (VAULT / "0_raw" / "policies").glob("*.md"):
     if fm and fm.get('id'):
         all_p[fm['id']] = {'fm': fm, 'body': body, 'filename': f.name}
 
-# 加载 consolidated
-with open(BATCHES / "_consolidated.json", encoding='utf-8') as f:
+# L2 业务私有 yaml — 重要性/影响分析/行动建议/价值标签/scores/didi_impact_one_liner
+business_view = {}
+for p in BUSINESS_VIEW_DIR.glob("*.yaml"):
+    try:
+        bv = yaml.safe_load(p.read_text(encoding='utf-8')) or {}
+    except yaml.YAMLError:
+        continue
+    pid = bv.get('pid') or p.stem
+    business_view[pid] = bv
+
+# L2 通用 summaries — summary / summary_one_liner / reading_value
+summaries = {}
+if SUMMARIES_PATH.exists():
+    for line in SUMMARIES_PATH.read_text(encoding='utf-8').splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            r = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        summaries[r['policy_id']] = r
+
+# L2 通用关系层 — derives_from(国家级追溯,第 9 类)
+derives_from_by_pid = {}
+if DERIVES_FROM_PATH.exists():
+    for line in DERIVES_FROM_PATH.read_text(encoding='utf-8').splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            r = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        derives_from_by_pid[r['from']] = r
+
+# 过渡:business_tags 用于 relevance()(待 B1 后切到 entities theme)
+business_tags_by_pid = {}
+if LEGACY_TAGS_PATH.exists():
+    for line in LEGACY_TAGS_PATH.read_text(encoding='utf-8').splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            r = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        business_tags_by_pid[r['policy_id']] = r.get('business_tags', []) or []
+
+# 过渡:effective_data 仍从 _consolidated.json 读(TODO: 迁出)
+with open(EFFECTIVE_DATA_PATH, encoding='utf-8') as f:
     cdata = json.load(f)
 eff_data = cdata['effective_data']
-march_detail = cdata['march_detail']
 
-# Build march detail by id
-march_by_id = {d['id']: d for d in march_detail}
+print(f"loaded: {len(all_p)} raw policies | {len(business_view)} business_view yaml | "
+      f"{len(summaries)} summaries | {len(derives_from_by_pid)} derives_from | "
+      f"{len(eff_data)} effective dates")
 
 # 业务关键词
 BIZ_STRONG = ["V2G", "车网", "虚拟电厂", "充电", "充换电", "电力市场", "电力交易",
@@ -87,7 +143,7 @@ for pid, d in all_p.items():
     dt = str(d['fm'].get('date') or '')
     if len(dt) >= 7:
         month_count[dt[:7]] += 1
-        if (d['fm'].get('重要性', 0) or 0) >= 4:
+        if (business_view.get(pid, {}).get('重要性', 0) or 0) >= 4:
             month_high[dt[:7]] += 1
 
 
@@ -96,23 +152,47 @@ for pid, d in all_p.items():
 # ============================================================
 march_pids = [pid for pid in all_p if str(all_p[pid]['fm'].get('date', '')).startswith('2026-03')]
 
-def relevance(fm):
-    title = fm.get('title', '')
-    tags = ' '.join(str(t) for t in (fm.get('tags') or []))
-    return [k for k in BIZ_STRONG if k in (title + ' ' + tags)]
+def relevance(title, pid):
+    """从 title + business_tags(L2 tags legacy 暂存)提 BIZ_STRONG 关键词。
+    L1 frontmatter tags 已下沉,过渡期靠 _meta/business_tags_legacy.jsonl 喂入。"""
+    tags = business_tags_by_pid.get(pid, [])
+    pool = title + ' ' + ' '.join(str(t) for t in tags)
+    return [k for k in BIZ_STRONG if k in pool]
+
+
+def reconstruct_national_source(pid, fm, df_row):
+    """从 derives_from 行 + raw 政策 region 重建 prep 用的 national_source dict。"""
+    if df_row:
+        return {
+            'is_national_level_originated': False,
+            'national_source_id_or_title': df_row.get('to_title', '') or '',
+            'linkage': df_row.get('linkage_full', '') or df_row.get('linkage_type', '') or '',
+            'evidence': df_row.get('evidence', '') or '',
+        }
+    region_level = (fm.get('region') or {}).get('level', '')
+    return {
+        'is_national_level_originated': region_level == '国家',
+        'national_source_id_or_title': '',
+        'linkage': '',
+        'evidence': '',
+    }
+
 
 march_list = []
 for pid in march_pids:
     fm = all_p[pid]['fm']
-    imp = fm.get('重要性', 0) or 0
-    kws = relevance(fm)
-    detail = march_by_id.get(pid, {})
+    bv = business_view.get(pid, {})
+    sm = summaries.get(pid, {})
+    df = derives_from_by_pid.get(pid)
+    imp = bv.get('重要性', 0) or 0
+    kws = relevance(fm.get('title', ''), pid)
     if imp >= 4 and kws:
         cat = 'strong'
     elif imp == 3 and kws:
         cat = 'medium'
     else:
         cat = 'weak'
+    impact = bv.get('影响分析') or {}
     march_list.append({
         'id': pid,
         'title': fm.get('title', ''),
@@ -122,19 +202,20 @@ for pid in march_pids:
         'region': fm.get('region', {}).get('name', '?') or '?',
         'region_level': fm.get('region', {}).get('level', '?') or '?',
         'importance': imp,
-        'tags': fm.get('tags', []) or [],
+        'tags': [],
         'biz_kws': kws,
         'category': cat,
-        'core_one_line': sanitize_biz_framing(detail.get('core_in_one_line', '')),
-        'didi_impact_one_line': sanitize_biz_framing(detail.get('didi_impact_in_one_line', '')),
-        'summary_2_3': sanitize_biz_framing(detail.get('summary_2_3_lines', '')),
-        'biz_impact': {k: sanitize_biz_framing(v) for k, v in (detail.get('biz_impact', {}) or {}).items()},
-        'action_recommendations': [sanitize_biz_framing(a) for a in detail.get('action_recommendations', [])],
-        'national_source': detail.get('national_source', {}),
-        'reading_value': detail.get('reading_value', ''),
+        'core_one_line': sanitize_biz_framing(sm.get('summary_one_liner', '') or ''),
+        'didi_impact_one_line': sanitize_biz_framing(bv.get('didi_impact_one_liner', '') or ''),
+        'summary_2_3': sanitize_biz_framing(sm.get('summary', '') or ''),
+        'biz_impact': {k: sanitize_biz_framing(v) for k, v in (impact if isinstance(impact, dict) else {}).items()},
+        'action_recommendations': [sanitize_biz_framing(a) for a in (bv.get('行动建议') or [])],
+        'national_source': reconstruct_national_source(pid, fm, df),
+        'reading_value': sm.get('reading_value', '') or '',
     })
 
 march_list.sort(key=lambda p: (-p['importance'], p['date']))
+march_list_by_id = {m['id']: m for m in march_list}
 
 
 # ============================================================
@@ -144,7 +225,7 @@ march_list.sort(key=lambda p: (-p['importance'], p['date']))
 # 省级政策当作"国家级落地证据"展示
 DEEP_DIVE_IDS = []
 for pid in ['P_2026_SC_0305e288', 'P_2026_NPC_03132f88', 'P_2026_NEA_0304ed54']:
-    if pid in march_by_id:
+    if pid in march_list_by_id:
         DEEP_DIVE_IDS.append(pid)
 
 # 给每篇国家级新政追加"省级落地证据"清单
@@ -221,7 +302,7 @@ in_force_national = []
 expired_national = []
 for pid, fm_d in all_p.items():
     fm = fm_d['fm']
-    imp = fm.get('重要性', 0) or 0
+    imp = business_view.get(pid, {}).get('重要性', 0) or 0
     if imp < 4: continue
     if (fm.get('region') or {}).get('level') != '国家': continue
     e = eff_data.get(pid)
@@ -298,10 +379,9 @@ for theme_id, theme_zh in THEMES:
 # ============================================================
 # 6. § 5 省级落地证据(国家级追溯)— 窄口径 ⭐≥4 + 业务线
 # ============================================================
-# 用 march_detail 的 national_source 字段构建
-# 窄口径:仅省/市/区级 + ⭐≥4 OR linkage 非空(从 Agent national_source 抽出的)
+# 数据源:1_extracted/relations/derives_from.jsonl(L2 通用关系层,第 9 类)
+# 窄口径:仅省/市/区级 march 政策 + ⭐≥4 OR derives_from 行存在
 # Taxonomy 重命名:借鉴框架 → 补充细化, 主题对应 → 同向部署(更准确表述追溯关系)
-march_list_by_id = {m['id']: m for m in march_list}
 
 def derive_biz_line(kws):
     if any(k in kws for k in ['V2G', '车网']):
@@ -324,30 +404,19 @@ LINKAGE_RENAME = {
 }
 
 evolution_chains = []
-for d in march_detail:
-    ns = d.get('national_source', {})
-    if not ns: continue
-    if ns.get('is_national_level_originated'):
-        # 本身是国家级 — 跳过(它们是源头不是落地)
-        continue
-    pid = d['id']
+for pid, df in derives_from_by_pid.items():
     march_item = march_list_by_id.get(pid)
-    if not march_item: continue
-
-    linkage = ns.get('linkage', '')
-    # 窄口径:⭐≥4 或 linkage 非空(Agent 抽出即非空)
-    if march_item['importance'] < 4 and not linkage:
+    if not march_item:
+        continue
+    if march_item['region_level'] not in ['省', '市', '区']:
+        continue
+    if march_item['importance'] < 4 and not df.get('linkage_type'):
         continue
 
-    if '直接落地' in linkage:
-        raw_type = '直接落地'
-    elif '借鉴框架' in linkage:
-        raw_type = '借鉴框架'
-    elif '主题对应' in linkage:
-        raw_type = '主题对应'
-    else:
-        raw_type = '其他'
-    linkage_type = LINKAGE_RENAME[raw_type]
+    raw_type = df.get('linkage_type') or '其他'
+    linkage_type = LINKAGE_RENAME.get(raw_type, '同向部署')
+    linkage_full = df.get('linkage_full', '') or ''
+    evidence = df.get('evidence', '') or ''
 
     evolution_chains.append({
         'march_pid': pid,
@@ -357,10 +426,10 @@ for d in march_detail:
         'march_date': march_item['date'],
         'march_importance': march_item['importance'],
         'biz_line': derive_biz_line(march_item['biz_kws']),
-        'national_source': ns.get('national_source_id_or_title', ''),
+        'national_source': df.get('to_title', '') or '',
         'linkage_type': linkage_type,
-        'linkage_full': linkage[:120],
-        'evidence': ns.get('evidence', '')[:140],
+        'linkage_full': linkage_full[:120],
+        'evidence': evidence[:140],
     })
 
 # 按重要性 + 日期排序
