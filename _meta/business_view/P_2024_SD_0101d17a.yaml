@@ -1,20 +1,20 @@
 pid: P_2024_SD_0101d17a
 scores:
-  D1: 5
-  D2: 2
-  D3: 2
-  D4: 3
-  D5: 3
-  D6: 3
-重要性: 3
-行动分类: C
-价值标签:
-- 合规
-- 机会
-影响分析:
-  加油业务: 无直接影响
-  充电业务: 充电运营可结合绿证打造绿色充电产品
-  电力业务: 绿电交易业务的地方实操参考
+  D1: 2
+  D2: 1
+  D3: 3
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【可再生能源绿色电力证书管理实施细则(地方答复)】-山东省能源局-4e8d.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+archive: low_score

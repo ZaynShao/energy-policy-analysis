@@ -1,19 +1,19 @@
 pid: P_2024_MEE_1101f119
 scores:
-  D1: 3
-  D2: 1
+  D1: 2
+  D2: 3
   D3: 4
   D4: 2
-  D5: 2
-  D6: 2
-重要性: 2
-行动分类: D
-价值标签:
-- 趋势
-影响分析:
-  加油业务: 碳达峰双控趋势对燃油消费有长期约束
-  充电业务: 新能源汽车增长趋势确认,对充电需求有长期支撑
-  电力业务: 全国碳市场扩容、能耗双控向碳排放双控转型方向利好绿电、储能业务
+  D5: 1
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【中国应对气候变化的政策与行动2024年度报告】-中华人民共和国生态环境部-d4f0.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

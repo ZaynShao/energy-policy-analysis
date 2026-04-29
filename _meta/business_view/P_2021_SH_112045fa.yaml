@@ -1,21 +1,24 @@
 pid: P_2021_SH_112045fa
 scores:
-  D1: 1
+  D1: 2
   D2: 1
-  D3: 4
+  D3: 3
   D4: 1
   D5: 1
-  D6: 1
+  D6: 2
 重要性: 2
 行动分类: D
-价值标签:
-- 环保督察
-- 历史报告
+价值标签: []
 archive: low_score
 影响分析:
-  加油业务: 可能涉及加油站油气治理与船舶燃油监管,对加油业务有边缘合规要求。
-  充电业务: 无直接影响。
-  电力业务: 无直接影响。
+  加油: 未涉及
+  充电: 未涉及
+  电力_储能_V2G_交易: 未涉及
+  乡村: 未涉及
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海市关于贯彻落实第二轮中央生态环境保护督察反馈意见整改情况的报告】-上海市委、市政府-45fa.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

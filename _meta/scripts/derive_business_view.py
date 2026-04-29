@@ -43,7 +43,7 @@ DERIVES_FROM = VAULT / "1_extracted" / "relations" / "derives_from.jsonl"
 
 API_URL = "https://api.anthropic.com/v1/messages"
 API_VERSION = "2023-06-01"
-MODEL = "claude-opus-4-5-20250929"
+MODEL = "claude-opus-4-7"
 SCRIPT_TAG = "_meta/scripts/derive_business_view.py"
 
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n(.*)$", re.DOTALL)

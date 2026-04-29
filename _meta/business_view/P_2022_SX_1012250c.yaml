@@ -1,20 +1,24 @@
 pid: P_2022_SX_1012250c
 scores:
-  D1: 1
-  D2: 2
-  D3: 2
-  D4: 3
-  D5: 2
-  D6: 3
-重要性: 0
+  D1: 2
+  D2: 3
+  D3: 3
+  D4: 2
+  D5: 3
+  D6: 2
+重要性: 3
 行动分类: D
-价值标签:
-- 趋势
+价值标签: []
 archive: low_score
 影响分析:
-  加油业务: 氢能加注与加油站融合是潜在方向
-  充电业务: 无直接影响
-  电力业务: 氢储能是绿电消纳新方向
+  加油: 未涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 可再生能源制氢与储能耦合是新能源消纳新场景,但与公司主营业务联系较弱。
+  乡村: 未涉及
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【山西省氢能产业发展中长期规划(2022-2035年)】-山西省人民政府(方山县转载)-ab87.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

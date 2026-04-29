@@ -1,19 +1,20 @@
 pid: P_2021_OTHER203C_1001d59f
 scores:
-  D1: 5
+  D1: 2
   D2: 3
   D3: 2
   D4: 1
-  D5: 3
-  D6: 1
-重要性: 3
+  D5: 1
+  D6: 3
+重要性: 2
 行动分类: D
-价值标签:
-- 合规
-影响分析:
-  加油业务: 六安市加油站新增准入受规划约束,影响合规边界
-  充电业务: 间接为加油站综合能源化提供布局参考
-  电力业务: 无影响
+价值标签: []
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【六安市成品油零售网点“十四五”发展规划(征求意见稿)】-六安市商务局-45a0.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+archive: low_score

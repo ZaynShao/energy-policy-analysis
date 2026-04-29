@@ -1,19 +1,23 @@
 pid: P_2024_MIIT_33
 scores:
-  D1: 3
+  D1: 2
   D2: 3
   D3: 4
-  D4: 4
-  D5: 3
-  D6: 3
+  D4: 2
+  D5: 4
+  D6: 2
 重要性: 3
-行动分类: C
-价值标签:
-- 趋势
+行动分类: D
+价值标签: []
 影响分析:
-  加油业务: 无直接影响。
-  充电业务: 无直接影响。
-  电力业务: 涉及工业用能设备更新,带动节能改造与电气化升级。
+  加油: 未直接涉及
+  充电: 工业用能设备更新对配套电力设施需求增加,可能间接影响工业园区充电业务规划。
+  电力_储能_V2G_交易: 工业领域大规模设备更新提升了电气化水平,有助于扩大需求侧响应、虚拟电厂的资源池。
+  乡村: 未涉及
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【工业重点行业领域设备更新和技术改造指南(工信厅规〔2024〕33号)】-工业和信息化部办公厅-c53b.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

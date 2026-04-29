@@ -1,19 +1,25 @@
 pid: P_2017_NDRC_09206e37
 scores:
-  D1: 4
+  D1: 3
   D2: 2
   D3: 4
-  D4: 1
+  D4: 3
   D5: 3
-  D6: 1
+  D6: 2
 重要性: 3
 行动分类: D
-价值标签:
-- 趋势
+价值标签: []
 影响分析:
-  加油业务: 无直接影响
-  充电业务: 电能替代基础政策
-  电力业务: 老版本,已被新办法替代,参考价值有限
+  加油: 未涉及
+  充电: 间接,智能用电、智能充换电等列入框架
+  电力_储能_V2G_交易: 奠定需求响应、电能服务、智能用电的早期制度,3%调峰目标为虚拟电厂铺路
+  乡村: 未涉及
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【电力需求侧管理办法(2017年修订版)】-国家发展改革委等六部门-dd8c.md
 split_at: '2026-04-29'
+行动建议:
+- 'B 研究: 与2023年版及2025年负荷管理新规对比衔接,梳理历史依据'
+- 'C 关注: 该版后续被2023年版替代的程度'
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

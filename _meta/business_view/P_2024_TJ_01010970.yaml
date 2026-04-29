@@ -1,19 +1,20 @@
 pid: P_2024_TJ_01010970
 scores:
-  D1: 5
-  D2: 3
-  D3: 2
-  D4: 4
-  D5: 3
-  D6: 3
-重要性: 3
-行动分类: C
-价值标签:
-- 机会
-影响分析:
-  加油业务: 加油站可申请改造为充电站
-  充电业务: 天津地区充电投资部署的明确指引
-  电力业务: 影响有限
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【天津市电动汽车充电设施服务能力「质效双增」实施方案】-天津市发展和改革委员会等-daf7.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+archive: low_score

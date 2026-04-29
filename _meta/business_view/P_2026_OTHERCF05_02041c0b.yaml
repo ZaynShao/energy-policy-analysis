@@ -1,20 +1,20 @@
 pid: P_2026_OTHERCF05_02041c0b
 scores:
-  D1: 5
-  D2: 4
+  D1: 2
+  D2: 1
   D3: 2
-  D4: 5
-  D5: 5
-  D6: 3
-重要性: 4
-行动分类: A
-价值标签:
-- 合规
-- 机会
-影响分析:
-  加油业务: 赣州本地加油站合规要求,撮合业务油源核查需对应
-  充电业务: 年检表新增充电设施统计,反映加油站充电融合趋势
-  电力业务: 无直接影响
+  D4: 4
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【关于开展2025年度全市成品油零售经营企业年检工作的通知(赣州)】-赣州市商务局-eedf.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+archive: low_score

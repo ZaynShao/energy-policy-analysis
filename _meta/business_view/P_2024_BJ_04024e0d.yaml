@@ -1,20 +1,20 @@
 pid: P_2024_BJ_04024e0d
 scores:
   D1: 1
-  D2: 2
+  D2: 1
   D3: 2
-  D4: 2
-  D5: 2
+  D4: 3
+  D5: 1
   D6: 1
 重要性: 1
 行动分类: D
-价值标签:
-- 趋势
+价值标签: []
 archive: low_score
-影响分析:
-  加油业务: 无直接影响
-  充电业务: 无直接影响
-  电力业务: 无直接影响
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【北京市绿色低碳发展国民教育体系建设实施方案】-北京市教育委员会-2c7b.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

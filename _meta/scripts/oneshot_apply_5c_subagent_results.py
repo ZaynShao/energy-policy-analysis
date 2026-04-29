@@ -1,0 +1,275 @@
+#!/usr/bin/env python3
+"""
+oneshot_apply_5c_subagent_results.py — 接 subagent 派生结果 → split 写 3 处(2026-04-29 一次性)
+
+输入:多个 subagent results jsonl(默认 /tmp/5c_results_*.jsonl),每行一篇政策的派生 JSON。
+
+每行 schema(由 subagent 按新 5C prompt 产出):
+{
+  "pid": "P_xxx",
+  "summary": "...",
+  "summary_one_liner": "...",
+  "reading_value": "...",
+  "national_source": {is_national_level_originated, source_title, linkage_type, evidence},
+  "scores": {D1..D6},
+  "影响分析": {加油, 充电, 电力_储能_V2G_交易, 乡村} 或 null,
+  "行动建议": [...] 或 []
+}
+
+行为:
+  - business_view yaml: scores / 重要性(算)/ 行动分类(算)/ 价值标签(空)/ 影响分析 / 行动建议 — merge 不动 march 已有精品(11 篇)
+  - 1_extracted/policy_summaries.jsonl: upsert by policy_id
+  - 1_extracted/relations/derives_from.jsonl: upsert by from(仅省/市级派生写入)
+  - march 11 篇 yaml 用 --skip-march 跳过(默认开)
+
+跑完即归档。
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+from datetime import datetime
+from pathlib import Path
+
+import yaml
+
+VAULT = Path("/Users/shaoziyuan/Documents/Zayn Main/政策分析")
+RAW = VAULT / "0_raw" / "policies"
+BV = VAULT / "_meta" / "business_view"
+SUMMARIES = VAULT / "1_extracted" / "policy_summaries.jsonl"
+DERIVES_FROM = VAULT / "1_extracted" / "relations" / "derives_from.jsonl"
+
+FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
+SCRIPT_TAG = "_meta/scripts/oneshot_apply_5c_subagent_results.py"
+NOW_ISO = datetime.now().isoformat(timespec="seconds")
+NOW_DATE = datetime.now().strftime("%Y-%m-%d")
+MARCH_DETAIL_PIDS = {
+    "P_2026_SC_0305e288", "P_2026_NPC_03132f88", "P_2026_NEA_0304ed54",
+    "P_2026_NEA_0324cd2a", "P_2026_OTHER2D4E_0327e7ba", "P_2026_NX_0320e07e",
+    "P_2026_SD_03271ffc", "P_2026_SH_03132bad", "P_2026_BJ_4",
+    "P_2026_CQ_16", "P_2026_OTHERD5E7_03169880",
+}
+
+
+def compute_importance(scores: dict) -> int:
+    d1, d2, d3 = scores.get("D1", 0), scores.get("D2", 0), scores.get("D3", 0)
+    return round(d1 * 0.4 + d2 * 0.4 + d3 * 0.2)
+
+
+def compute_action(importance: int, d6: int) -> str:
+    base = {5: "A", 4: "B", 3: "C", 2: "D", 1: "D", 0: "D"}.get(importance, "D")
+    if d6 >= 4 and base != "A":
+        return {"B": "A", "C": "B", "D": "C"}[base]
+    if d6 <= 2 and base != "D":
+        return {"A": "B", "B": "C", "C": "D"}[base]
+    return base
+
+
+def build_pid_index() -> dict:
+    idx = {}
+    for p in RAW.glob("*.md"):
+        try:
+            text = p.read_text(encoding="utf-8")
+            m = FM_RE.match(text)
+            if not m:
+                continue
+            fm = yaml.safe_load(m.group(1)) or {}
+        except Exception:
+            continue
+        pid = fm.get("id") or p.stem
+        title = (fm.get("title") or "").strip()
+        official = (fm.get("official_number") or "").strip()
+        if title:
+            idx.setdefault(title, pid)
+        if official:
+            idx.setdefault(official, pid)
+    return idx
+
+
+def resolve_pid(s: str, idx: dict):
+    if not s or not idx:
+        return None
+    s = s.strip()
+    if s in idx:
+        return idx[s]
+    for k, v in idx.items():
+        if len(k) >= 6 and (k in s or s in k):
+            return v
+    return None
+
+
+def upsert_jsonl(path: Path, key: str, row: dict):
+    rows = []
+    if path.exists():
+        for line in path.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                r = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if r.get(key) != row.get(key):
+                rows.append(r)
+    rows.append(row)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in rows) + "\n",
+        encoding="utf-8",
+    )
+
+
+def merge_business_view(pid: str, fields: dict, rerun: bool = True):
+    bv_path = BV / f"{pid}.yaml"
+    if bv_path.exists():
+        existing = yaml.safe_load(bv_path.read_text(encoding="utf-8")) or {}
+    else:
+        existing = {"pid": pid}
+    for k, v in fields.items():
+        if not rerun and k in existing and existing[k] not in (None, "", [], {}):
+            continue
+        existing[k] = v
+    BV.mkdir(parents=True, exist_ok=True)
+    bv_path.write_text(
+        yaml.safe_dump(existing, allow_unicode=True, sort_keys=False, default_flow_style=False),
+        encoding="utf-8",
+    )
+
+
+def apply_one(rec: dict, pid_index: dict, stats: dict, skip_march: bool = True):
+    pid = rec.get("pid")
+    if not pid:
+        stats["error_no_pid"] += 1
+        return
+
+    if skip_march and pid in MARCH_DETAIL_PIDS:
+        stats["skipped_march"] += 1
+        return
+
+    summary = rec.get("summary", "") or ""
+    summary_one_liner = rec.get("summary_one_liner", "") or ""
+    reading_value = rec.get("reading_value", "") or ""
+    national_source = rec.get("national_source") or {}
+    scores = rec.get("scores") or {}
+    impact = rec.get("影响分析")
+    actions = rec.get("行动建议") or []
+
+    if not scores:
+        stats["error_no_scores"] += 1
+        return
+
+    importance = compute_importance(scores)
+    action_class = compute_action(importance, scores.get("D6", 0))
+
+    # 1) business_view yaml
+    bv_fields = {
+        "scores": scores,
+        "重要性": importance,
+        "行动分类": action_class,
+        "价值标签": [],
+        "影响分析": impact,
+        "行动建议": actions,
+        "extracted_at": NOW_DATE,
+        "extracted_by": SCRIPT_TAG,
+        "extracted_model": "claude-opus-4-7-via-subagent",
+    }
+    if importance < 3:
+        bv_fields["archive"] = "low_score"
+    merge_business_view(pid, bv_fields, rerun=True)
+    stats["yaml_upgraded"] += 1
+
+    # 2) policy_summaries.jsonl
+    upsert_jsonl(
+        SUMMARIES,
+        "policy_id",
+        {
+            "policy_id": pid,
+            "summary": summary,
+            "summary_one_liner": summary_one_liner,
+            "reading_value": reading_value,
+            "extracted_at": NOW_ISO,
+            "extracted_by": SCRIPT_TAG,
+            "extracted_model": "claude-opus-4-7-via-subagent",
+        },
+    )
+    stats["summaries_upgraded"] += 1
+
+    # 3) derives_from.jsonl(仅 is_national_level_originated=False 且有 source_title + linkage_type)
+    if national_source and not national_source.get("is_national_level_originated"):
+        source_title = (national_source.get("source_title") or "").strip()
+        linkage_type = national_source.get("linkage_type")
+        evidence = (national_source.get("evidence") or "")[:300]
+        if source_title and linkage_type in ("直接落地", "借鉴框架", "主题对应"):
+            target_pid = resolve_pid(source_title, pid_index)
+            row = {
+                "from": pid,
+                "to": target_pid,
+                "to_title": source_title,
+                "rel": "derives_from",
+                "linkage_type": linkage_type,
+                "evidence": evidence,
+                "confidence": 0.85,
+                "extracted_by": SCRIPT_TAG,
+                "extracted_at": NOW_ISO,
+            }
+            upsert_jsonl(DERIVES_FROM, "from", row)
+            stats["derives_written"] += 1
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--input-glob", default="/tmp/5c_results_*.jsonl",
+                    help="glob 读 subagent 产出 jsonl(默认 /tmp/5c_results_*.jsonl)")
+    ap.add_argument("--no-skip-march", action="store_true",
+                    help="不跳过 march 11 篇精品(默认跳过)")
+    args = ap.parse_args()
+
+    skip_march = not args.no_skip_march
+
+    # 收集所有 results
+    from glob import glob
+    files = sorted(glob(args.input_glob))
+    if not files:
+        print(f"[fatal] no input files match {args.input_glob}")
+        return
+
+    all_records = []
+    for f in files:
+        for line in Path(f).read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rec = json.loads(line)
+            except json.JSONDecodeError as e:
+                print(f"[warn] {f}: bad line ({e}): {line[:80]}")
+                continue
+            all_records.append(rec)
+    print(f"total records: {len(all_records)} from {len(files)} files")
+
+    pid_index = build_pid_index()
+    print(f"pid index: {len(pid_index)} entries")
+
+    stats = {
+        "yaml_upgraded": 0,
+        "summaries_upgraded": 0,
+        "derives_written": 0,
+        "skipped_march": 0,
+        "error_no_pid": 0,
+        "error_no_scores": 0,
+    }
+    for rec in all_records:
+        try:
+            apply_one(rec, pid_index, stats, skip_march=skip_march)
+        except Exception as e:
+            print(f"[error] {rec.get('pid', '?')}: {e}")
+
+    print("\n=== stats ===")
+    for k, v in stats.items():
+        print(f"  {k}: {v}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,20 +1,20 @@
 pid: P_2023_SH_07077c12
 scores:
   D1: 2
-  D2: 2
-  D3: 2
+  D2: 3
+  D3: 1
   D4: 2
   D5: 2
-  D6: 2
-重要性: 1
+  D6: 3
+重要性: 2
 行动分类: D
-价值标签:
-- 趋势
+价值标签: []
 archive: low_score
-影响分析:
-  加油业务: 无直接影响
-  充电业务: 区内充电与综合能源服务配套支持
-  电力业务: 分布式光伏、储能区级试点机会
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海普陀区深入打好污染防治攻坚战实施意见】-上海市普陀区人民政府-9c5f.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

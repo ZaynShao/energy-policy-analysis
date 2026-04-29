@@ -1,19 +1,24 @@
 pid: P_2024_BJ_05274abd
 scores:
-  D1: 3
-  D2: 3
-  D3: 2
+  D1: 2
+  D2: 2
+  D3: 1
   D4: 2
-  D5: 4
-  D6: 3
-重要性: 3
-行动分类: C
-价值标签:
-- 机会
+  D5: 3
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
 影响分析:
-  加油业务: 无直接影响。
-  充电业务: 绿电采购对充电场站碳标签有正面信号,但补贴范围限于园区。
-  电力业务: 释放地方绿电消费激励信号,推动绿证交易活跃。
+  加油: 未涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 区级补贴绿电消费,可作为公司在园区企业绿电采购服务的辅助营销点,但金额有限。
+  乡村: 未涉及
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【延庆区中关村延庆园企业绿电、绿证交易补贴措施（征求意见稿）】-北京市延庆区发展和改革委员会-b98a.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+archive: low_score

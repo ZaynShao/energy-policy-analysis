@@ -1,19 +1,24 @@
 pid: P_2025_OTHERCD44_1
 scores:
-  D1: 4
-  D2: 4
-  D3: 2
-  D4: 4
-  D5: 4
-  D6: 3
-重要性: 4
-行动分类: B
-价值标签:
-- 机会
+  D1: 2
+  D2: 2
+  D3: 1
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
 影响分析:
-  加油业务: 无直接影响
-  充电业务: 对充电场站影响有限，但储储一体化或可叠加资助
-  电力业务: 对在光明区布局储能/虚拟电厂业务是直接补贴机会，金额需查若干措施
+  加油: 未涉及
+  充电: 未涉及
+  电力_储能_V2G_交易: 对储能创新平台、技术攻关、产业化等多场景的财政补贴明确,产业链投资与合作机会清晰
+  乡村: 未涉及
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【深圳市光明区支持新型储能产业加快发展扶持计划操作规程(深光发改规〔2025〕1号)】-深圳市光明区发展和改革局-22df.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+archive: low_score

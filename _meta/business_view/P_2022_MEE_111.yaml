@@ -2,3 +2,23 @@ pid: P_2022_MEE_111
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【2021、2022年度全国碳排放权交易配额总量设定与分配实施方案(征求意见稿)(环办气候函〔2022〕111号)】-生态环境部-016b.md
 split_at: '2026-04-29'
+scores:
+  D1: 3
+  D2: 2
+  D3: 4
+  D4: 1
+  D5: 2
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 未涉及
+  电力_储能_V2G_交易: 基准值持续下降推高燃煤机组履约成本,利好燃气、热电联产与电力市场调峰资源,间接利好需求响应
+  乡村: 未涉及
+行动建议:
+- 'C 关注: 持续跟踪发电行业碳成本对市场化电价及现货价差的传导,识别储能/虚拟电厂调峰套利机会'
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

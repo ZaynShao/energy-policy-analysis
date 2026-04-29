@@ -1,20 +1,25 @@
 pid: P_2026_HL_0101ffa7
 scores:
-  D1: 4
-  D2: 3
-  D3: 2
-  D4: 5
-  D5: 4
-  D6: 3
-重要性: 2
-行动分类: C
-价值标签:
-- 趋势
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 3
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签: []
 archive: low_score
 影响分析:
-  加油业务: 传统燃油车更换间接影响加油需求
-  充电业务: 新能源车销量增长拉动充电需求
-  电力业务: 无直接影响
+  加油: 黑龙江老旧燃油车换购加速,本地加油需求中长期下降;但寒冷地区燃油车短期仍占主流,影响相对温和
+  充电: 新能源乘用车补贴释放将推动黑龙江公共充电网络建设,东北寒区低温充电技术需求上升
+  电力_储能_V2G_交易: 未直接涉及
+  乡village: 未直接涉及
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【2026年黑龙江省汽车以旧换新补贴实施细则】-黑龙江省商务厅、黑龙江省人民政府-ffa7.md
 split_at: '2026-04-29'
+行动建议:
+- 'B 研究: 评估东北寒区低温快充与新能源车保有量增长曲线,优化加油+充电一体站布局'
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

@@ -1,20 +1,20 @@
 pid: P_2019_MEE_04038d15
 scores:
-  D1: 3
-  D2: 2
-  D3: 3
-  D4: 1
-  D5: 3
-  D6: 1
-重要性: 2
+  D1: 2
+  D2: 3
+  D3: 4
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 3
 行动分类: D
-价值标签:
-- 合规
+价值标签: []
 archive: low_score
-影响分析:
-  加油业务: 无直接影响
-  充电业务: 无直接影响
-  电力业务: 碳市场顶层立法早期版本,已被正式条例覆盖
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【碳排放权交易管理暂行条例(征求意见稿)】-生态环境部-d1f2.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

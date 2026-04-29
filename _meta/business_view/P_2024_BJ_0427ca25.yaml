@@ -1,19 +1,20 @@
 pid: P_2024_BJ_0427ca25
 scores:
-  D1: 4
-  D2: 4
-  D3: 4
-  D4: 3
-  D5: 4
-  D6: 3
-重要性: 4
-行动分类: B
-价值标签:
-- 北京两新方案
-影响分析:
-  加油业务: 燃油车以旧换新短期销售拉动。
-  充电业务: 新能源车以旧换新和公交电动化更新利好充电场站需求。
-  电力业务: 影响有限,涉及局部能效设备更新。
+  D1: 2
+  D2: 1
+  D3: 3
+  D4: 4
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-6363.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+archive: low_score

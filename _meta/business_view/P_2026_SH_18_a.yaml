@@ -1,20 +1,20 @@
 pid: P_2026_SH_18_a
 scores:
   D1: 2
-  D2: 2
-  D3: 2
+  D2: 3
+  D3: 1
   D4: 3
-  D5: 2
-  D6: 2
+  D5: 3
+  D6: 3
 重要性: 2
 行动分类: D
-价值标签:
-- 趋势
+价值标签: []
 archive: low_score
-影响分析:
-  加油业务: 无直接影响
-  充电业务: 间接相关,松江区或加大充电设施部署
-  电力业务: 算力基础设施、绿色园区可能带动综合能源需求
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海市松江区国民经济和社会发展第十五个五年规划纲要(沪松府〔2026〕18号)】-上海市松江区人民政府-264a.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent

@@ -1,20 +1,20 @@
 pid: P_2023_SH_0203297d_b
 scores:
   D1: 1
-  D2: 2
-  D3: 2
-  D4: 3
-  D5: 2
-  D6: 2
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
 重要性: 1
 行动分类: D
-价值标签:
-- 趋势
+价值标签: []
 archive: low_score
-影响分析:
-  加油业务: 区级减碳目标渐进影响化石燃料消费。
-  充电业务: 区域充电基础设施建设可能纳入碳达峰配套。
-  电力业务: 推动地方分布式能源、储能等转型项目。
+影响分析: null
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海市青浦区碳达峰实施方案】-上海市青浦区人民政府-bc3c.md
 split_at: '2026-04-29'
+行动建议: []
+extracted_at: '2026-04-29'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
