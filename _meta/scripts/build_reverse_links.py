@@ -19,6 +19,7 @@ Step 6d / B 阶段 — 生成 _index_by_policy/<P_id>.md 反链文件 (按 schem
 """
 
 import json
+import re
 import sys
 import yaml
 from pathlib import Path
@@ -27,8 +28,13 @@ from collections import defaultdict
 
 VAULT_ROOT = Path.home() / "Documents/Zayn Main/政策分析"
 POLICIES_DIR = VAULT_ROOT / "0_raw/policies"
+COMMENTARIES_DIR = VAULT_ROOT / "0_raw/commentaries"
 RELATIONS_DIR = VAULT_ROOT / "1_extracted/relations"
 OUTPUT_DIR = RELATIONS_DIR / "_index_by_policy"
+
+# wikilink-as-pid 形如 [[...XXXX]],XXXX 是 4 位 hex 后缀
+WIKILINK_SUFFIX_RE = re.compile(r"\[\[.*?-([0-9a-f]{4})\]\]\s*$", re.IGNORECASE)
+PID_RE = re.compile(r"^P_[\w]+$")
 
 CST = timezone(timedelta(hours=8))
 
@@ -106,6 +112,112 @@ def build_id_to_meta():
             "file_name": md.name,
         }
     return id_to_meta
+
+
+def collect_commentary_inbound(id_to_meta):
+    """扫 0_raw/commentaries/*.md 的 related_policy → {policy_pid: [commentary_edge,...]}
+
+    related_policy 字段两种格式:
+      1. 规范:  P_xxx_xxxx   → 直接用
+      2. 历史 bug: [[【title】-机构-XXXX]]  → 按后缀 4 位 hex 解析,唯一匹配才接受
+    无法 resolve 的不渲染(P4 audit 处理)。
+    """
+    pid_by_suffix = defaultdict(list)
+    for pid in id_to_meta:
+        suffix = pid[-4:].lower()
+        pid_by_suffix[suffix].append(pid)
+
+    inbound = defaultdict(list)
+    skipped_dangling = 0
+    skipped_ambiguous = 0
+    resolved_via_suffix = 0
+    resolved_direct = 0
+
+    for cfile in sorted(COMMENTARIES_DIR.glob("*.md")):
+        text = cfile.read_text(encoding="utf-8", errors="ignore")
+        m = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
+        if not m:
+            continue
+        try:
+            fm = yaml.safe_load(m.group(1)) or {}
+        except yaml.YAMLError:
+            continue
+        if fm.get("not_policy_related"):
+            continue
+        rp = fm.get("related_policy")
+        if not rp:
+            continue
+        if isinstance(rp, str):
+            rp = [rp]
+
+        ctitle = (fm.get("title") or cfile.stem).strip()
+        cdate = fm.get("date_published") or ""
+        if hasattr(cdate, "isoformat"):
+            cdate = cdate.isoformat()
+        cdate = str(cdate)
+        csrc = fm.get("related_policy_source", "")
+
+        for entry in rp:
+            if not isinstance(entry, str):
+                continue
+            entry = entry.strip()
+            if not entry:
+                continue
+            target_pid = None
+            if PID_RE.match(entry):
+                if entry in id_to_meta:
+                    target_pid = entry
+                    resolved_direct += 1
+                else:
+                    skipped_dangling += 1
+                    continue
+            else:
+                sm = WIKILINK_SUFFIX_RE.match(entry)
+                if not sm:
+                    skipped_dangling += 1
+                    continue
+                suffix = sm.group(1).lower()
+                cands = pid_by_suffix.get(suffix, [])
+                if len(cands) == 1:
+                    target_pid = cands[0]
+                    resolved_via_suffix += 1
+                elif len(cands) > 1:
+                    skipped_ambiguous += 1
+                    continue
+                else:
+                    skipped_dangling += 1
+                    continue
+
+            inbound[target_pid].append({
+                "commentary_file": cfile.stem,
+                "commentary_title": ctitle,
+                "commentary_date": cdate,
+                "source": csrc,
+            })
+
+    print(f"[commentary] direct P_id 解析: {resolved_direct}")
+    print(f"[commentary] 后缀匹配解析:    {resolved_via_suffix}")
+    print(f"[commentary] dangling 跳过:    {skipped_dangling}")
+    print(f"[commentary] 后缀歧义跳过:    {skipped_ambiguous}")
+    print(f"[commentary] 唯一 inbound 政策: {len(inbound)}")
+    return inbound
+
+
+def render_commentary_section(lines, edges):
+    """渲染评论入向段(被评论 commented_by)"""
+    lines.append(f"## 被评论 (commented_by) — {len(edges)}")
+    lines.append("")
+    for e in edges:
+        cfile = e["commentary_file"]
+        ctitle = e.get("commentary_title", "")
+        cdate = (e.get("commentary_date") or "")[:10] or "—"
+        src = e.get("source") or ""
+        suffix = f" [{src}]" if src else ""
+        if ctitle and ctitle != cfile:
+            lines.append(f"- [[{cfile}]] — {ctitle} ({cdate}){suffix}")
+        else:
+            lines.append(f"- [[{cfile}]] ({cdate}){suffix}")
+    lines.append("")
 
 
 def render_section(lines, label, edges, peer_key):
@@ -187,6 +299,9 @@ def main():
     print(f"[init] unique inbound targets:  {len(inbound)}")
     print(f"[init] unique outbound sources: {len(outbound)}")
 
+    # commentary inbound (P3 双向化补:评论→政策也进反链页)
+    commentary_inbound = collect_commentary_inbound(id_to_meta)
+
     # 安全检查 + 清空旧反链
     if "_index_by_policy" not in str(OUTPUT_DIR):
         print(f"[fatal] OUTPUT_DIR 路径异常,中止: {OUTPUT_DIR}", file=sys.stderr)
@@ -199,8 +314,8 @@ def main():
     if old_count:
         print(f"[init] removed {old_count} old reverse-link files")
 
-    # 生成双向反链页:任何 pid 在 inbound ∪ outbound 任一非空就生成
-    all_pids = set(inbound.keys()) | set(outbound.keys())
+    # 生成双向反链页:任何 pid 在 inbound ∪ outbound ∪ commentary_inbound 任一非空就生成
+    all_pids = set(inbound.keys()) | set(outbound.keys()) | set(commentary_inbound.keys())
     written = 0
     for pid in all_pids:
         meta = id_to_meta.get(pid, {})
@@ -208,20 +323,24 @@ def main():
         file_name = meta.get("file_name", "")
         in_rels = inbound.get(pid, {})
         out_rels = outbound.get(pid, {})
+        comm_edges = commentary_inbound.get(pid, [])
         in_count = sum(len(v) for v in in_rels.values())
         out_count = sum(len(v) for v in out_rels.values())
+        comm_count = len(comm_edges)
 
         # 各 section 内按 peer_date 倒序
         for rel_key in in_rels:
             in_rels[rel_key].sort(key=lambda e: e.get("peer_date") or "", reverse=True)
         for rel_key in out_rels:
             out_rels[rel_key].sort(key=lambda e: e.get("peer_date") or "", reverse=True)
+        comm_edges.sort(key=lambda e: e.get("commentary_date") or "", reverse=True)
 
         fm = {
             "policy_id": pid,
             "title": title,
             "inbound_edge_count": in_count,
             "outbound_edge_count": out_count,
+            "commentary_inbound_count": comm_count,
             "last_updated": cn_now_iso(),
         }
         if file_name:
@@ -236,7 +355,7 @@ def main():
         lines = ["---", fm_yaml, "---", ""]
 
         # 入向区
-        if in_count:
+        if in_count or comm_count:
             lines.append(f"# 入向反链:{pid}")
             lines.append("")
             for rel_key in SECTION_ORDER:
@@ -244,6 +363,8 @@ def main():
                     continue
                 render_section(lines, REL_TO_INBOUND_LABEL[rel_key],
                                in_rels[rel_key], peer_key="from_id")
+            if comm_count:
+                render_commentary_section(lines, comm_edges)
 
         # 出向区(双向化新增,2026-04-29)
         if out_count:
@@ -270,6 +391,9 @@ def main():
         out_t = sum(1 for r in outbound.values() if rel in r)
         out_e = sum(len(r[rel]) for r in outbound.values() if rel in r)
         print(f"  {rel:<16}  {in_t:4d} T / {in_e:4d} E       {out_t:4d} T / {out_e:4d} E")
+    comm_t = len(commentary_inbound)
+    comm_e = sum(len(v) for v in commentary_inbound.values())
+    print(f"  {'commented_by':<16}  {comm_t:4d} T / {comm_e:4d} E       — N/A")
 
 
 if __name__ == "__main__":
