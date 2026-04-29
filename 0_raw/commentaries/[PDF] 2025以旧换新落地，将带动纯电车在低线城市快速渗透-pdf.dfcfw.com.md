@@ -1,16 +1,15 @@
 ---
-title: "[PDF] 2025以旧换新落地，将带动纯电车在低线城市快速渗透"
+title: '[PDF] 2025以旧换新落地，将带动纯电车在低线城市快速渗透'
 type: 政策评论
 source: pdf.dfcfw.com
 source_type: B
 url: https://pdf.dfcfw.com/pdf/H3_AP202502071642857051_1.pdf
 date: 未知
-related_policy: "[[【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:27:38.732353
+collected_at: 2026-04-25 14:27:38.732353
+not_policy_related: true
 ---
-
 # [PDF] 2025以旧换新落地，将带动纯电车在低线城市快速渗透
 
 **来源**: pdf.dfcfw.com  

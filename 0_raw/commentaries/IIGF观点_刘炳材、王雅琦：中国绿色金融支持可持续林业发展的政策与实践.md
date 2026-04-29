@@ -1,15 +1,12 @@
 ---
-title: "IIGF观点 | 刘炳材、王雅琦：中国绿色金融支持可持续林业发展的政策与实践"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/IsfUfDVmK5kKt8WHuewXSw"
+title: IIGF观点 | 刘炳材、王雅琦：中国绿色金融支持可持续林业发展的政策与实践
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/IsfUfDVmK5kKt8WHuewXSw
 date_published: 2026-04-13
-fetched_at: 2026-04-29T13:31:03+08:00
+fetched_at: 2026-04-29 13:31:03+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: P_2021_SC_23
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
 ---
 # IIGF观点 | 刘炳材、王雅琦：中国绿色金融支持可持续林业发展的政策与实践
 

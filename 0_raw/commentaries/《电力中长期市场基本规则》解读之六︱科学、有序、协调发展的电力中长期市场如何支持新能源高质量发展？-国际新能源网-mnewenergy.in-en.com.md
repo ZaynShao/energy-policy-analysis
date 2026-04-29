@@ -1,16 +1,20 @@
 ---
-title: "《电力中长期市场基本规则》解读之六︱科学、有序、协调发展的电力中长期市场如何支持新能源高质量发展？-国际新能源网"
+title: 《电力中长期市场基本规则》解读之六︱科学、有序、协调发展的电力中长期市场如何支持新能源高质量发展？-国际新能源网
 type: 政策评论
 source: mnewenergy.in-en.com
 source_type: B
 url: https://mnewenergy.in-en.com/html/newenergy-2447628.shtml
 date: 未知
-related_policy: "[[【电力中长期交易基本规则(2020 版)(发改能源规〔2020〕889号)】-国家发展改革委、国家能源局-47a1]]"
+related_policy:
+- P_2025_NDRC_1656_a
+- P_2020_NDRC_889
 confidence: 0.7
 collected_by: policy-watch
-collected_at: 2026-04-25T14:41:27.789329
+collected_at: 2026-04-25 14:41:27.789329
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《电力中长期市场基本规则》解读之六︱科学、有序、协调发展的电力中长期市场如何支持新能源高质量发展？-国际新能源网
 
 **来源**: mnewenergy.in-en.com  

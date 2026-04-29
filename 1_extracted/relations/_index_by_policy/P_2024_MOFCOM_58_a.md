@@ -3,7 +3,8 @@ policy_id: P_2024_MOFCOM_58_a
 title: 推动消费品以旧换新行动方案
 inbound_edge_count: 3
 outbound_edge_count: 1
-last_updated: '2026-04-29T23:30:52+08:00'
+commentary_inbound_count: 5
+last_updated: '2026-04-30T02:37:21+08:00'
 policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0.md
 ---
 
@@ -17,6 +18,14 @@ policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(
 ## 被细化 (clarified_by) — 1
 
 - [[P_2024_MOFCOM_75_b]] — 汽车以旧换新补贴实施细则 (2024-04-24)
+
+## 被评论 (commented_by) — 5
+
+- [[[PDF] 汽车以旧换新政策解读：补贴细则正式落地，助推新能源车市场需求 ...-www.spdbi.com]] — [PDF] 汽车以旧换新政策解读：补贴细则正式落地，助推新能源车市场需求 ... (—) [B4_llm_body_review]
+- [[国家发展改革委专题新闻发布会 介绍消费品以旧换新行动进展成效和典型做法-国家发展和改革委员会-www.ndrc.gov.cn]] — 国家发展改革委专题新闻发布会 介绍消费品以旧换新行动进展成效和典型做法-国家发展和改革委员会 (—) [B4_llm_body_review]
+- [[国家发展改革委专题新闻发布会介绍消费品以旧换新行动进展成效和 ...-www.ndrc.gov.cn]] — 国家发展改革委专题新闻发布会介绍消费品以旧换新行动进展成效和 ... (—) [B4_llm_body_review]
+- [[消费品以旧换新取得新进展新成效（政策解读）-politics.people.com.cn]] — 消费品以旧换新取得新进展新成效（政策解读） (—) [B4_llm_body_review]
+- [[金台论策：以旧换新扩品类、简流程，消费者期待这些改变--传媒--人民网-yjy.people.com.cn]] — 金台论策：以旧换新扩品类、简流程，消费者期待这些改变--传媒--人民网 (—) [B4_llm_body_review]
 
 # 出向引用:P_2024_MOFCOM_58_a
 

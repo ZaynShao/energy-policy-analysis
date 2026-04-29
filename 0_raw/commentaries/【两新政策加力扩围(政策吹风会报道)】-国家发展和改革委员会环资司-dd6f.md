@@ -40,7 +40,11 @@ type: 政策评论
 _review_needed_related_policy: true
 _migrated_from: policies
 _migrated_at: '2026-04-28'
-related_policy: P_2025_NDRC_13_b
+related_policy:
+- P_2025_NDRC_13_b
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
 # 两新政策加力扩围(政策吹风会报道)
 

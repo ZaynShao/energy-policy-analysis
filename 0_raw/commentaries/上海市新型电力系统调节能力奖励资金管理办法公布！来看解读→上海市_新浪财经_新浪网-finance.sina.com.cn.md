@@ -1,16 +1,22 @@
 ---
-title: "上海市新型电力系统调节能力奖励资金管理办法公布！来看解读→上海市_新浪财经_新浪网"
+title: 上海市新型电力系统调节能力奖励资金管理办法公布！来看解读→上海市_新浪财经_新浪网
 type: 政策评论
 source: finance.sina.com.cn
 source_type: B
 url: https://finance.sina.com.cn/roll/2025-05-22/doc-inexmssz1736636.shtml
 date: 未知
-related_policy: "[[【上海市新型电力系统调节能力奖励资金管理办法(沪发改规范〔2025〕5号)】-上海市发展和改革委员会、经济和信息化委员会、财政局-3898]]"
+related_policy:
+- P_2025_SH_5_c
+- P_2024_SH_28
+- P_2024_NDRC_1721
+- P_2023_NDRC_092751f2_a
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:36:44.007278
+collected_at: 2026-04-25 14:36:44.007278
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 上海市新型电力系统调节能力奖励资金管理办法公布！来看解读→上海市_新浪财经_新浪网
 
 **来源**: finance.sina.com.cn  

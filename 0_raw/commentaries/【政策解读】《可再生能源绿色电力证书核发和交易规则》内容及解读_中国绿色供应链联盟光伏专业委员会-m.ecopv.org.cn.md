@@ -1,16 +1,19 @@
 ---
-title: "【政策解读】《可再生能源绿色电力证书核发和交易规则》内容及解读_中国绿色供应链联盟光伏专业委员会"
+title: 【政策解读】《可再生能源绿色电力证书核发和交易规则》内容及解读_中国绿色供应链联盟光伏专业委员会
 type: 政策评论
 source: m.ecopv.org.cn
 source_type: B
 url: http://m.ecopv.org.cn/site/content/1557.html
 date: 未知
-related_policy: "[[【关于绿电、绿证政策咨询答复(资质中心)】-国家能源局电力业务资质管理中心-6816]]"
+related_policy:
+- P_2023_NDRC_1044_b
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:50:44.429914
+collected_at: 2026-04-25 14:50:44.429914
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 【政策解读】《可再生能源绿色电力证书核发和交易规则》内容及解读_中国绿色供应链联盟光伏专业委员会
 
 **来源**: m.ecopv.org.cn  

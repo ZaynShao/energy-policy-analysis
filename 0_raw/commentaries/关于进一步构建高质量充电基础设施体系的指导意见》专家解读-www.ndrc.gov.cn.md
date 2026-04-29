@@ -1,16 +1,19 @@
 ---
-title: "关于进一步构建高质量充电基础设施体系的指导意见》专家解读"
+title: 关于进一步构建高质量充电基础设施体系的指导意见》专家解读
 type: 政策评论
 source: www.ndrc.gov.cn
 source_type: B
 url: https://www.ndrc.gov.cn/xxgk/jd/jd/202306/t20230629_1358020_ext.html
 date: 未知
-related_policy: "[[【湖南省进一步构建高质量充电基础设施体系的实施意见(湘发改能源规〔2023〕848号)】-湖南省发展和改革委员会-a813]]"
+related_policy:
+- P_2023_GO_19_b
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T10:10:35.204425
+collected_at: 2026-04-25 10:10:35.204425
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.98
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 关于进一步构建高质量充电基础设施体系的指导意见》专家解读
 
 **来源**: www.ndrc.gov.cn  

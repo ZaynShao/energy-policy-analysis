@@ -3,13 +3,17 @@ type: 政策评论
 source: www.mofcom.gov.cn
 source_type: A
 url: https://www.mofcom.gov.cn/zcjd/gnmy/art/2025/art_94acad465ca44c4e867869bee21a57b1.html
-date: 
-related_policy: [[【成品油流通管理办法(征求意见稿)】-商务部-2d80]]
+date: null
+related_policy:
+- P_2025_MOFCOM_4_a
+- P_2025_OTHERBDE4_5
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:49.372236
+collected_at: 2026-04-25 19:30:49.372236
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 商务部消费促进司负责人解读《成品油流通管理办法》
 
 近日，商务部印发了《成品油流通管理办法》（以下简称《办法》），商务部消费促进司负责人就《办法》进行解读。

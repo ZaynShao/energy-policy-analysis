@@ -1,16 +1,14 @@
 ---
-title: "国家能源局新闻发布会文字实录"
+title: 国家能源局新闻发布会文字实录
 type: 政策评论
 source: www.nea.gov.cn
 source_type: B
 url: https://www.nea.gov.cn/20260130/b5b729cb7ad74723bcd614b663c75da6/c.html
 date: 未知
-related_policy: "[[【国家能源局关于组织开展新型电力系统建设第一批试点工作的通知(国能发电力〔2025〕53号)】-国家能源局-53a6]]"
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T14:44:25.507420
+collected_at: 2026-04-25 14:44:25.507420
 ---
-
 # 国家能源局新闻发布会文字实录
 
 **来源**: www.nea.gov.cn  

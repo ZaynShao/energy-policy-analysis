@@ -1,16 +1,19 @@
 ---
-title: "电力中长期市场基本规则印发 - 经济"
+title: 电力中长期市场基本规则印发 - 经济
 type: 政策评论
 source: finance.people.com.cn
 source_type: B
 url: http://finance.people.com.cn/n1/2026/0101/c1004-40637094.html
 date: 未知
-related_policy: "[[【电力中长期市场基本规则答记者问(发改能源规〔2025〕1656号)】-国家发展改革委 国家能源局-01c8]]"
+related_policy:
+- P_2025_NDRC_1810
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T14:24:35.700665
+collected_at: 2026-04-25 14:24:35.700665
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 电力中长期市场基本规则印发 - 经济
 
 **来源**: finance.people.com.cn  

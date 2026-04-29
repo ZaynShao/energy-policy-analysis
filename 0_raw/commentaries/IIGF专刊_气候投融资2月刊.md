@@ -1,15 +1,17 @@
 ---
-title: "IIGF专刊 | 气候投融资2月刊"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/eHrgvL1WkwEg806jewrtgQ"
+title: IIGF专刊 | 气候投融资2月刊
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/eHrgvL1WkwEg806jewrtgQ
 date_published: 2026-03-20
-fetched_at: 2026-04-29T13:31:05+08:00
+fetched_at: 2026-04-29 13:31:05+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: [P_2025_GD_145, P_2026_MEE_0209f3b1, P_2025_GD_0203ce87]
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+related_policy:
+- P_2026_MEE_0209f3b1
+related_policy_source: B4_llm_body_review
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+related_policy_confidence: 0.6
 ---
 # IIGF专刊 | 气候投融资2月刊
 

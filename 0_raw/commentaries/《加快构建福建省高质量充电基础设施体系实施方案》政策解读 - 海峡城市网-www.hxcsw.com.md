@@ -1,16 +1,20 @@
 ---
-title: "《加快构建福建省高质量充电基础设施体系实施方案》政策解读 - 海峡城市网"
+title: 《加快构建福建省高质量充电基础设施体系实施方案》政策解读 - 海峡城市网
 type: 政策评论
 source: www.hxcsw.com
 source_type: B
 url: http://www.hxcsw.com/haixiamingjia/huiqizhengce/2024/0320/c_123606808.html
 date: 未知
-related_policy: "[[【加快构建福建省高质量充电基础设施体系实施方案(闽发改规〔2024〕5号)】-福建省发展和改革委员会-c061]]"
+related_policy:
+- P_2024_FJ_5
+- P_2023_GO_19_b
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T10:13:48.572915
+collected_at: 2026-04-25 10:13:48.572915
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《加快构建福建省高质量充电基础设施体系实施方案》政策解读 - 海峡城市网
 
 **来源**: www.hxcsw.com  

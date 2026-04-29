@@ -3,7 +3,8 @@ policy_id: P_2025_MOFCOM_8_a
 title: 做好2025年汽车以旧换新工作的通知
 inbound_edge_count: 11
 outbound_edge_count: 4
-last_updated: '2026-04-29T23:30:52+08:00'
+commentary_inbound_count: 0
+last_updated: '2026-04-30T02:37:21+08:00'
 policy_file: ../../../0_raw/policies/【做好2025年汽车以旧换新工作的通知(商办消费函〔2025〕8号)】-商务部、发改委、工信部、公安部、生态环境部、财政部、税务总局、市场监管总局-91ee.md
 ---
 

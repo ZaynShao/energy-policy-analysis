@@ -1,16 +1,19 @@
 ---
-title: "定了！福州将建大量公共充电桩（全文+解读） - 时代智慧科技（福建）有限公司"
+title: 定了！福州将建大量公共充电桩（全文+解读） - 时代智慧科技（福建）有限公司
 type: 政策评论
 source: fjcitl.com
 source_type: B
 url: https://fjcitl.com/nd.jsp?id=85
 date: 未知
-related_policy: "[[【加快构建福建省高质量充电基础设施体系实施方案(闽发改规〔2024〕5号)】-福建省发展和改革委员会-c061]]"
+related_policy:
+- P_2023_GO_19_b
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T10:13:19.358533
+collected_at: 2026-04-25 10:13:19.358533
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.8
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 定了！福州将建大量公共充电桩（全文+解读） - 时代智慧科技（福建）有限公司
 
 **来源**: fjcitl.com  

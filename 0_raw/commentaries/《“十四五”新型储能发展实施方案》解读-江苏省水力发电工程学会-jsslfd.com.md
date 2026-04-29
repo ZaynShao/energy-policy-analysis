@@ -3,13 +3,16 @@ type: 政策评论
 source: jsslfd.com
 source_type: B
 url: http://jsslfd.com/news_detail/41345310.html
-date: 
-related_policy: [[【「十四五」新型储能发展实施方案】-国家发展和改革委员会、国家能源局-6623]]
+date: null
+related_policy:
+- P_2022_NDRC_03213b6e_a
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:59.268458
+collected_at: 2026-04-25 19:30:59.268458
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《“十四五”新型储能发展实施方案》解读-江苏省水力发电工程学会
 
 # 《“十四五”新型储能发展实施方案》解读

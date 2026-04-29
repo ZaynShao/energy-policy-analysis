@@ -3,13 +3,18 @@ type: 政策评论
 source: xxgk.jcgov.gov.cn
 source_type: A
 url: https://xxgk.jcgov.gov.cn/szfgzbm/jcsnyj/fdzdgknr_31618/zcjd_snyj/202404/t20240425_1974880.shtml
-date: 
-related_policy: [[【关于促进新型储能并网和调度运用的通知】-国家能源局(河北省发改委转载)-d977]]
+date: null
+related_policy:
+- P_2024_NEA_0528d977
+- P_2021_NDRC_0421ce4f
+- P_2022_NDRC_475
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:55.660849
+collected_at: 2026-04-25 19:32:55.660849
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 【政策解读】加快推动新型储能调度运用提升
 
 # 【政策解读】加快推动新型储能调度运用提升

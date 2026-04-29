@@ -1,16 +1,19 @@
 ---
-title: "补贴细则正式落地，助推新能源车市场需求释放"
+title: 补贴细则正式落地，助推新能源车市场需求释放
 type: 政策评论
 source: www.spdbi.com
 source_type: B
 url: https://www.spdbi.com/getfile/index/action/images/name/662f62034ddec.pdf
 date: 未知
-related_policy: "[[【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部 财政部等7部门-1d35]]"
+related_policy:
+- P_2024_MOFCOM_75_b
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:30:43.206038
+collected_at: 2026-04-25 14:30:43.206038
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 补贴细则正式落地，助推新能源车市场需求释放
 
 **来源**: www.spdbi.com  

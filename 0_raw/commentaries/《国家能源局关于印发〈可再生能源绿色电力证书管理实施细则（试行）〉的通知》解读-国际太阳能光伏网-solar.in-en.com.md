@@ -3,13 +3,17 @@ type: 政策评论
 source: solar.in-en.com
 source_type: B
 url: https://solar.in-en.com/html/solar-2457195.shtml
-date: 
-related_policy: [[【可再生能源绿色电力证书管理实施细则(地方答复)】-山东省能源局-4e8d]]
+date: null
+related_policy:
+- P_2025_NEA_107
+- P_2025_NDRC_262
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:51.906443
+collected_at: 2026-04-25 19:30:51.906443
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《国家能源局关于印发〈可再生能源绿色电力证书管理实施细则（试行）〉的通知》解读-国际太阳能光伏网
 
 为规范可再生能源绿色电力证书（以下简称“绿证”）全生命周期管理，促进绿证市场高质量发展，国家能源局近日印发了《可再生能源绿色电力证书管理实施细则（试行）》（以下简称《实施细则》）。有关内容解读如下。

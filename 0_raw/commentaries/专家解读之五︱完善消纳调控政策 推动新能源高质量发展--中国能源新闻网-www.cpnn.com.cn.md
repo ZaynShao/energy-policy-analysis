@@ -1,16 +1,19 @@
 ---
-title: "专家解读之五︱完善消纳调控政策 推动新能源高质量发展--中国能源新闻网"
+title: 专家解读之五︱完善消纳调控政策 推动新能源高质量发展--中国能源新闻网
 type: 政策评论
 source: www.cpnn.com.cn
 source_type: B
 url: https://www.cpnn.com.cn/news/nytt/202511/t20251113_1846279.html
 date: 未知
-related_policy: "[[【国家发展改革委 国家能源局关于促进新能源消纳和调控的指导意见(发改能源〔2025〕1360号)】-国家发展改革委、国家能源局-7280]]"
+related_policy:
+- P_2025_NDRC_1360
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:54:51.326363
+collected_at: 2026-04-25 14:54:51.326363
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.98
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 专家解读之五︱完善消纳调控政策 推动新能源高质量发展--中国能源新闻网
 
 **来源**: www.cpnn.com.cn  

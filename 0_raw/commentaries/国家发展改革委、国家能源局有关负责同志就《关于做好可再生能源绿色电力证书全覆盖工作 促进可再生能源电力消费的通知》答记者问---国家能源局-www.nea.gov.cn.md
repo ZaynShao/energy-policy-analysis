@@ -1,16 +1,19 @@
 ---
-title: "国家发展改革委、国家能源局有关负责同志就《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》答记者问---国家能源局"
+title: 国家发展改革委、国家能源局有关负责同志就《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》答记者问---国家能源局
 type: 政策评论
 source: www.nea.gov.cn
 source_type: B
 url: http://www.nea.gov.cn/2023-08/03/c_1310735436.htm
 date: 未知
-related_policy: "[[【国家发展改革委 财政部 国家能源局关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)】-国家发展改革委、财政部、国家能源局-4274]]"
+related_policy:
+- P_2023_NDRC_1044_b
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T14:39:57.874199
+collected_at: 2026-04-25 14:39:57.874199
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 国家发展改革委、国家能源局有关负责同志就《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》答记者问---国家能源局
 
 **来源**: www.nea.gov.cn  

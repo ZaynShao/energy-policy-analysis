@@ -1,16 +1,21 @@
 ---
-title: "《电力中长期市场基本规则》解读丨广州电力交易中心副总经理陈玮-时代储能网"
+title: 《电力中长期市场基本规则》解读丨广州电力交易中心副总经理陈玮-时代储能网
 type: 政策评论
 source: eraes.com.cn
 source_type: B
 url: https://eraes.com.cn/newsinfo/8899202.html
 date: 未知
-related_policy: "[[【电力中长期市场基本规则答记者问(发改能源规〔2025〕1656号)】-国家发展改革委 国家能源局-01c8]]"
+related_policy:
+- P_2025_NDRC_1656_a
+- P_2020_NDRC_889
+- P_2024_NDRC_1123_a
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:24:45.910419
+collected_at: 2026-04-25 14:24:45.910419
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《电力中长期市场基本规则》解读丨广州电力交易中心副总经理陈玮-时代储能网
 
 **来源**: eraes.com.cn  

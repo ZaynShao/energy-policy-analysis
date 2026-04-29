@@ -3,13 +3,16 @@ type: 政策评论
 source: www.climatebridge.com
 source_type: B
 url: https://www.climatebridge.com/publication/164.html
-date: 
-related_policy: [[【碳排放权交易管理办法(试行)(生态环境部令第19号)】-生态环境部-ed28]]
+date: null
+related_policy:
+- P_2021_MEE_19
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:33:02.516678
+collected_at: 2026-04-25 19:33:02.516678
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《碳排放交易管理暂行条例》解读及应对建议
 
 发布时间：2024-07-27 浏览量：6475

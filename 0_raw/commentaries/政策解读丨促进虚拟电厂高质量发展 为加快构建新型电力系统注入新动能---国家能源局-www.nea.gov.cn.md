@@ -3,13 +3,16 @@ type: 政策评论
 source: www.nea.gov.cn
 source_type: A
 url: https://www.nea.gov.cn/20250415/a4ebf89bcaf94195accac88e7a7c9c59/c.html
-date: 
-related_policy: [[【山东省促进虚拟电厂高质量发展方案】-山东省能源局-1ffc]]
+date: null
+related_policy:
+- P_2025_NDRC_357_a
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:42.515685
+collected_at: 2026-04-25 19:30:42.515685
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 政策解读丨促进虚拟电厂高质量发展 为加快构建新型电力系统注入新动能---国家能源局
 
 2025年能源工作指导意见提出“统筹推进新型电力系统建设，推进虚拟电厂高质量发展”。近日，国家发展改革委、国家能源局联合印发**《关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号，以下简称《意见》**），提出面向“十五五”时期的虚拟电厂发展总体方针，从行业层面规范虚拟电厂定义和定位，更好统筹虚拟电厂创新发展和安全运行、市场交易和需求响应、技术升级和管理提升，系统性部署了18项任务举措，为全面落实新型电力系统需求侧协同能力提升行动要求、加快推动虚拟电厂发展提质扩围提供了政策引领。

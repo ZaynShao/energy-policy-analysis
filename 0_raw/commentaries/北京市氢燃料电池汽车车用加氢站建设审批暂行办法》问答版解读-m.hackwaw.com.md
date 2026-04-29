@@ -1,16 +1,19 @@
 ---
-title: "北京市氢燃料电池汽车车用加氢站建设审批暂行办法》问答版解读"
+title: 北京市氢燃料电池汽车车用加氢站建设审批暂行办法》问答版解读
 type: 政策评论
 source: m.hackwaw.com
 source_type: B
 url: https://m.hackwaw.com/zhengce/zcjd/202410/t20241014_3918449.html
 date: 未知
-related_policy: "[[【北京市氢燃料电池汽车车用加氢站建设审批暂行办法】-北京市城市管理委员会等-68c3]]"
+related_policy:
+- P_2024_BJ_07187684
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:51:38.579884
+collected_at: 2026-04-25 14:51:38.579884
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.55
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 北京市氢燃料电池汽车车用加氢站建设审批暂行办法》问答版解读
 
 **来源**: m.hackwaw.com  

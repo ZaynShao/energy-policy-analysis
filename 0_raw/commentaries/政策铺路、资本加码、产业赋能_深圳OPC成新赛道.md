@@ -1,15 +1,13 @@
 ---
-title: "政策铺路、资本加码、产业赋能 深圳OPC成新赛道"
-source_account: "综合开发研究院"
-source_url: "https://mp.weixin.qq.com/s/CVhcM4pIkQX8Jf7CzkqSFg"
+title: 政策铺路、资本加码、产业赋能 深圳OPC成新赛道
+source_account: 综合开发研究院
+source_url: https://mp.weixin.qq.com/s/CVhcM4pIkQX8Jf7CzkqSFg
 date_published: 2026-03-17
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: [P_2025_MIIT_24_a, P_2025_MIIT_24_b]
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+not_policy_related: true
 ---
 # 政策铺路、资本加码、产业赋能 深圳OPC成新赛道
 

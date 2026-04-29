@@ -1,16 +1,14 @@
 ---
-title: "[PDF] 2025电力市场化改革与电价体系洞察 - 落基山研究所"
+title: '[PDF] 2025电力市场化改革与电价体系洞察 - 落基山研究所'
 type: 政策评论
 source: rmi.org.cn
 source_type: B
 url: https://rmi.org.cn/wp-content/uploads/2025/05/final-0508-2025%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E5%8C%96%E6%94%B9%E9%9D%A9%E4%B8%8E%E7%94%B5%E4%BB%B7%E4%BD%93%E7%B3%BB%E6%B4%9E%E5%AF%9F.pdf
 date: 未知
-related_policy: "[[【2025年福建省电力中长期市场交易方案】-福建省发展和改革委员会、国家能源局福建监管办公室-a54c]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T10:10:09.850145
+collected_at: 2026-04-25 10:10:09.850145
 ---
-
 # [PDF] 2025电力市场化改革与电价体系洞察 - 落基山研究所
 
 **来源**: rmi.org.cn  

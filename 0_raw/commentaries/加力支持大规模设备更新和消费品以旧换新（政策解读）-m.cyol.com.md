@@ -3,13 +3,16 @@ type: 政策评论
 source: m.cyol.com
 source_type: B
 url: http://m.cyol.com/gb/articles/2024-07/26/content_wd0o2JuRVK.html
-date: 
-related_policy: [[【关于加力支持大规模设备更新和消费品以旧换新的若干措施】-国家发展和改革委员会、财政部-ba17]]
+date: null
+related_policy:
+- P_2024_NDRC_0725ba17
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:31:22.864639
+collected_at: 2026-04-25 19:31:22.864639
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 加力支持大规模设备更新和消费品以旧换新（政策解读）
 
 《关于加力支持大规模设备更新和消费品以旧换新的若干措施》（以下简称《措施》）7月25日对外发布。《措施》提出，统筹安排3000亿元左右超长期特别国债资金，加力支持大规模设备更新和消费品以旧换新。

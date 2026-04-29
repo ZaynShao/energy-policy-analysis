@@ -1,16 +1,21 @@
 ---
-title: "“两新”政策的主要变化与优化方向 - 理论"
+title: “两新”政策的主要变化与优化方向 - 理论
 type: 政策评论
 source: theory.people.com.cn
 source_type: B
 url: http://theory.people.com.cn/n1/2026/0128/c40531-40654394.html
 date: 未知
-related_policy: "[[【2026年实施大规模设备更新和消费品以旧换新政策解读(发改环资〔2025〕1745号)】-国家发展改革委 财政部-20e4]]"
+related_policy:
+- P_2024_SC_7
+- P_2024_NDRC_0725ba17
+- P_2025_NDRC_1745_c
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T14:31:25.564810
+collected_at: 2026-04-25 14:31:25.564810
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # “两新”政策的主要变化与优化方向 - 理论
 
 **来源**: theory.people.com.cn  

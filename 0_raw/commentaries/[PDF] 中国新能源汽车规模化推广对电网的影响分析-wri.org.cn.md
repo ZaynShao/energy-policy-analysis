@@ -1,16 +1,15 @@
 ---
-title: "[PDF] 中国新能源汽车规模化推广对电网的影响分析"
+title: '[PDF] 中国新能源汽车规模化推广对电网的影响分析'
 type: 政策评论
 source: wri.org.cn
 source_type: B
 url: https://wri.org.cn/sites/default/files/2021-11/quantifying-grid-impacts-large-adoption-electric-vehicles-china-CN.pdf
 date: 未知
-related_policy: "[[【重庆市新能源汽车与电网融合互动工作方案(渝经信发〔2024〕86号)】-重庆市经济和信息化委员会、重庆市发展和改革委员会、重庆市能源局、重庆市市场监督管理局、国网重庆市电力公司-1411]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T09:58:27.092281
+collected_at: 2026-04-25 09:58:27.092281
+not_policy_related: true
 ---
-
 # [PDF] 中国新能源汽车规模化推广对电网的影响分析
 
 **来源**: wri.org.cn  

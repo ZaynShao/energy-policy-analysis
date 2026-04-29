@@ -1,15 +1,17 @@
 ---
-title: "COP30|推动风光氢储协同发展 落基山研究所发布《氢电耦合发展报告：长时储氢在并网与离网绿氢项目中的配置与运行策略研究》报告"
-source_account: "落基山研究所"
-source_url: "https://mp.weixin.qq.com/s/leT3RPFdFnYq1FGUL3_0jw"
+title: COP30|推动风光氢储协同发展 落基山研究所发布《氢电耦合发展报告：长时储氢在并网与离网绿氢项目中的配置与运行策略研究》报告
+source_account: 落基山研究所
+source_url: https://mp.weixin.qq.com/s/leT3RPFdFnYq1FGUL3_0jw
 date_published: 2025-11-18
-fetched_at: 2026-04-28T20:52:51+08:00
+fetched_at: 2026-04-28 20:52:51+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: P_2025_NEA_93
-related_policy_source: B1_official_number_match
-related_policy_matched_at: '2026-04-29T16:30:03+08:00'
+related_policy:
+- P_2025_NEA_93
+related_policy_source: B4_llm_body_review
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+related_policy_confidence: 0.95
 ---
 # COP30|推动风光氢储协同发展 落基山研究所发布《氢电耦合发展报告：长时储氢在并网与离网绿氢项目中的配置与运行策略研究》报告
 

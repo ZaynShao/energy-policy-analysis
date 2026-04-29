@@ -1,16 +1,14 @@
 ---
-title: "虚拟电厂在上海的实践探索与前景分析"
+title: 虚拟电厂在上海的实践探索与前景分析
 type: 政策评论
 source: www.electricpower.com.cn
 source_type: B
 url: https://www.electricpower.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3900
 date: 未知
-related_policy: "[[【上海市用户侧虚拟电厂建设实施方案(2025-2027年)(沪经信运〔2025〕407号)】-上海市经济和信息化委员会-5d8d]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:47:14.970392
+collected_at: 2026-04-25 14:47:14.970392
 ---
-
 # 虚拟电厂在上海的实践探索与前景分析
 
 **来源**: www.electricpower.com.cn  

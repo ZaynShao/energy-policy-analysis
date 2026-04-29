@@ -3,13 +3,16 @@ type: 政策评论
 source: wincon.com.cn
 source_type: B
 url: https://wincon.com.cn/major/14535.html
-date: 
-related_policy: [[【碳排放权交易管理办法(试行)(生态环境部令第19号)】-生态环境部-ed28]]
+date: null
+related_policy:
+- P_2021_MEE_19
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:33:04.065825
+collected_at: 2026-04-25 19:33:04.065825
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.7
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《碳排放权交易管理暂行条例》要点解读 - 专业文章 - 文康律师事务所
 
 2024年5月1日，历时近五年、两度征求意见的《碳排放权交易管理暂行条例》（以下简称《条例》）即将正式实施，这是我国应对气候变化领域的第一部专门的法规，首次以行政法规的形式明确了碳排放权市场交易制度，对全国碳交易市场的发展具有里程碑意义。 上一篇文章，带大家**从宏观视角了解什么是碳排放权交易**，本篇笔者将参照司法部、生态环境部负责人就《条例》答记者问，国务院政策例行吹风会的相关解读，围绕即将实施的《条例》，拆解《条例》的基本制度框架、并结合碳交易实务解读《条例》重点条款，以期帮助大家快速了解和学习《条例》的具体内容。

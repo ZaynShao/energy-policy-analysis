@@ -3,13 +3,16 @@ type: 政策评论
 source: www.eastups.com
 source_type: B
 url: https://www.eastups.com/xyzx/7943.jhtml
-date: 
-related_policy: [[【做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)】-国家发展和改革委员会、财政部、国家能源局-a4e9]]
+date: null
+related_policy:
+- P_2023_NDRC_1044_b
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:31:28.411023
+collected_at: 2026-04-25 19:31:28.411023
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 解读 | 发改委、能源局《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》答记者问 - 易事特集团股份有限公司
 
 ## 解读 | 发改委、能源局《关于做好可再生能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》答记者问

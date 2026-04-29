@@ -1,16 +1,19 @@
 ---
-title: "政策解读 - 光明区政府在线"
+title: 政策解读 - 光明区政府在线
 type: 政策评论
 source: www.szgm.gov.cn
 source_type: B
 url: https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/zcfg_116521/zcjd_116524/index_2.html
 date: 未知
-related_policy: "[[【深圳市光明区支持新型储能产业加快发展扶持计划操作规程(深光发改规〔2025〕1号)】-深圳市光明区发展和改革局-22df]]"
+related_policy:
+- P_2025_OTHERCD44_1
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T09:59:48.692689
+collected_at: 2026-04-25 09:59:48.692689
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.5
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 政策解读 - 光明区政府在线
 
 **来源**: www.szgm.gov.cn  

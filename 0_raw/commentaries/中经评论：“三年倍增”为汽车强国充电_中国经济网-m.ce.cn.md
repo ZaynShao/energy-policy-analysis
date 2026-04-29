@@ -3,13 +3,16 @@ type: 政策评论
 source: m.ce.cn
 source_type: B
 url: http://m.ce.cn/bwzg/202510/t20251023_2533128.shtml
-date: 
-related_policy: [[【电动汽车充电设施服务能力「三年倍增」行动方案(2025—2027年)】-国家发展和改革委员会、国家能源局-6066]]
+date: null
+related_policy:
+- P_2025_NDRC_101520b2
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:56.744310
+collected_at: 2026-04-25 19:30:56.744310
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 中经评论：“三年倍增”为汽车强国充电_中国经济网
 
 充电基础设施好不好，是影响新能源汽车消费的关键之一。国家发展改革委、国家能源局等部门近期联合印发《电动汽车充电设施服务能力“三年倍增”行动方案（2025—2027年）》（以下简称《行动方案》），明确到2027年底，在全国范围内建成2800万个充电设施，提供超3亿千瓦的公共充电容量，满足超过8000万辆电动汽车充电需求，实现充电服务能力的翻番增长。《行动方案》不仅是对充电短板的精准补齐，更为新能源汽车产业高速发展清扫障碍、铺设跑道，持续巩固和扩大我国新能源汽车强国优势。

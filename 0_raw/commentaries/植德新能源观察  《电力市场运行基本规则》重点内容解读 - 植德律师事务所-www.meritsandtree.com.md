@@ -3,13 +3,17 @@ type: 政策评论
 source: www.meritsandtree.com
 source_type: B
 url: https://www.meritsandtree.com/Content/2024/10-28/1050415433.html
-date: 
-related_policy: [[【电力市场运行基本规则(国家发展改革委、国家能源局令第15号)】-国家发展和改革委员会、国家能源局-bf3d]]
+date: null
+related_policy:
+- P_2024_NDRC_15
+- P_2024_NEA_76
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:31:48.578890
+collected_at: 2026-04-25 19:31:48.578890
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 植德新能源观察 | 《电力市场运行基本规则》重点内容解读 - 植德律师事务所
 
 2024年4月，国家发展改革委员会发布《电力市场运行基本规则》（“《新规》”），该规则已于2024年7月1日正式生效，取代了2005年12月生效的《电力市场运营基本规则》（“10号令”，原国家电力监管委员会令第10号），此举标志着近20年来电力市场迎来又一次重大变革。《新规》的修订旨在规范电力市场行为，保护市场成员的合法权益，并确保电力市场的统一、开放、竞争和有序发展。

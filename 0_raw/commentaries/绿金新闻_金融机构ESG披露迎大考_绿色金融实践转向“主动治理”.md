@@ -1,15 +1,17 @@
 ---
-title: "绿金新闻 | 金融机构ESG披露迎大考 绿色金融实践转向“主动治理”"
-source_account: "中央财经大学绿色金融国际研究院"
-source_url: "https://mp.weixin.qq.com/s/t2ryf1zlyBBzhA_wZpMg-g"
+title: 绿金新闻 | 金融机构ESG披露迎大考 绿色金融实践转向“主动治理”
+source_account: 中央财经大学绿色金融国际研究院
+source_url: https://mp.weixin.qq.com/s/t2ryf1zlyBBzhA_wZpMg-g
 date_published: 2026-04-22
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: P_2026_SC_0305e288
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+related_policy:
+- P_2026_SC_0305e288
+related_policy_source: B4_llm_body_review
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+related_policy_confidence: 0.7
 ---
 # 绿金新闻 | 金融机构ESG披露迎大考 绿色金融实践转向“主动治理”
 

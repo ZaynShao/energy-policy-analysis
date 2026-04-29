@@ -3,13 +3,18 @@ type: 政策评论
 source: szlyden.com
 source_type: B
 url: https://szlyden.com/sys-nd/40.html
-date: 
-related_policy: [[【关于促进新型储能并网和调度运用的通知】-国家能源局(河北省发改委转载)-d977]]
+date: null
+related_policy:
+- P_2024_NEA_26
+- P_2024_NEA_0528d977
+- P_2022_NDRC_475
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:54.617137
+collected_at: 2026-04-25 19:32:54.617137
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 国家能源局：关于促进新型储能并网和调度运用的通知（及解读） - 深圳莱顿能源科技有限公司
 
 **国家能源局关于促进新型储能并网和调度运用的通知**

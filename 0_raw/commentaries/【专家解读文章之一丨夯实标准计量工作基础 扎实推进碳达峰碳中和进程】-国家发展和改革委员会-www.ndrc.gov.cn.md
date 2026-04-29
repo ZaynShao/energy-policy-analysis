@@ -1,16 +1,19 @@
 ---
-title: "【专家解读文章之一丨夯实标准计量工作基础 扎实推进碳达峰碳中和进程】-国家发展和改革委员会"
+title: 【专家解读文章之一丨夯实标准计量工作基础 扎实推进碳达峰碳中和进程】-国家发展和改革委员会
 type: 政策评论
 source: www.ndrc.gov.cn
 source_type: B
 url: https://www.ndrc.gov.cn/xxgk/jd/jd/202408/t20240808_1392298.html
 date: 未知
-related_policy: "[[【进一步强化碳达峰碳中和标准计量体系建设行动方案（2024-2025年）(发改环资〔2024〕1046号)】-国家发展和改革委员会、市场监督管理总局、生态环境部-670e]]"
+related_policy:
+- P_2024_NDRC_1046_b
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T10:04:03.352393
+collected_at: 2026-04-25 10:04:03.352393
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 【专家解读文章之一丨夯实标准计量工作基础 扎实推进碳达峰碳中和进程】-国家发展和改革委员会
 
 **来源**: www.ndrc.gov.cn  

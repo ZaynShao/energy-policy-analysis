@@ -3,13 +3,17 @@ type: 政策评论
 source: www.nea.gov.cn
 source_type: A
 url: https://www.nea.gov.cn/20250411/1c7f1f1b87b946af95b6a3aacdfcc1f3/c.html
-date: 
-related_policy: [[【加快推进虚拟电厂发展的指导意见(发改能源〔2025〕357号)】-国家发展和改革委员会、国家能源局-0058]]
+date: null
+related_policy:
+- P_2025_NDRC_357_a
+- P_2024_NDRC_0806117c
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:38.140400
+collected_at: 2026-04-25 19:30:38.140400
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《关于加快推进虚拟电厂发展的指导意见》政策解读---国家能源局
 
 随着新型电力系统建设和电力市场建设的加快推进，虚拟电厂作为电力系统新业态、新模式，作用日益显著，需求日益增长，发展条件日益成熟。为落实《加快构建新型电力系统行动方案（2024—2027年）》（发改能源〔2024〕1128号，以下简称《行动方案》）有关要求，加快推进虚拟电厂发展，国家发展改革委、国家能源局印发了**《关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号**，以下简称《意见》）。现从四个方面对《意见》进行解读。

@@ -1,15 +1,13 @@
 ---
-title: "“一个人+AI+外包协作”成为创业领域新热点 深圳加速培育一人公司新生态"
-source_account: "综合开发研究院"
-source_url: "https://mp.weixin.qq.com/s/qZXbhzMvgKOoGa-v892WcQ"
+title: “一个人+AI+外包协作”成为创业领域新热点 深圳加速培育一人公司新生态
+source_account: 综合开发研究院
+source_url: https://mp.weixin.qq.com/s/qZXbhzMvgKOoGa-v892WcQ
 date_published: 2026-03-16
-fetched_at: 2026-04-29T13:31:06+08:00
+fetched_at: 2026-04-29 13:31:06+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: [P_2025_MIIT_24_a, P_2025_MIIT_24_b]
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+not_policy_related: true
 ---
 # “一个人+AI+外包协作”成为创业领域新热点 深圳加速培育一人公司新生态
 

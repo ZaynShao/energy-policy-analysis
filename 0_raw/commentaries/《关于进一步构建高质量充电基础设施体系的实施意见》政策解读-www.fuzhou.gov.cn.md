@@ -3,13 +3,16 @@ type: 政策评论
 source: www.fuzhou.gov.cn
 source_type: A
 url: https://www.fuzhou.gov.cn/zcjd/bs/202311/t20231106_4712173.htm
-date: 
-related_policy: [[【进一步构建高质量充电基础设施体系的指导意见(国办发〔2023〕19号)】-国务院办公厅-d2db]]
+date: null
+related_policy:
+- P_2023_GO_19_b
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:50.002360
+collected_at: 2026-04-25 19:32:50.002360
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《关于进一步构建高质量充电基础设施体系的实施意见》政策解读
 
 ## 《关于进一步构建高质量充电基础设施体系的实施意见》政策解读

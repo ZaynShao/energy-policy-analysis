@@ -1,16 +1,15 @@
 ---
-title: "[PDF] 年度可持续发展报告"
+title: '[PDF] 年度可持续发展报告'
 type: 政策评论
 source: pdf.dfcfw.com
 source_type: B
 url: https://pdf.dfcfw.com/pdf/H2_AN202603301820874480_1.pdf
 date: 未知
-related_policy: "[[【深圳市光明区支持新型储能产业加快发展扶持计划操作规程(深光发改规〔2025〕1号)】-深圳市光明区发展和改革局-22df]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T09:59:42.961250
+collected_at: 2026-04-25 09:59:42.961250
+not_policy_related: true
 ---
-
 # [PDF] 年度可持续发展报告
 
 **来源**: pdf.dfcfw.com  

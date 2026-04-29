@@ -1,16 +1,15 @@
 ---
-title: "车网互动正加速车网互动正加速 - 要闻 - 低碳网"
+title: 车网互动正加速车网互动正加速 - 要闻 - 低碳网
 type: 政策评论
 source: www.ditan.com
 source_type: B
 url: https://www.ditan.com/news/hot/7778.html
 date: 未知
-related_policy: "[[【广州市建设国家车网互动规模化应用试点城市工作方案(2025-2027年)(穗工信函〔2025〕255号)】-广州市工业和信息化局-6bda]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:51:56.569673
+collected_at: 2026-04-25 14:51:56.569673
+not_policy_related: true
 ---
-
 # 车网互动正加速车网互动正加速 - 要闻 - 低碳网
 
 **来源**: www.ditan.com  

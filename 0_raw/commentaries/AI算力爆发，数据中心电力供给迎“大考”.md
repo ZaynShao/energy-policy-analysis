@@ -1,15 +1,13 @@
 ---
-title: "AI算力爆发，数据中心电力供给迎“大考”"
-source_account: "能源评论•首席能源观"
-source_url: "https://mp.weixin.qq.com/s/Jlbyih5LFwh2RX2h3NnIlQ"
+title: AI算力爆发，数据中心电力供给迎“大考”
+source_account: 能源评论•首席能源观
+source_url: https://mp.weixin.qq.com/s/Jlbyih5LFwh2RX2h3NnIlQ
 date_published: 2026-04-24
-fetched_at: 2026-04-29T13:30:49+08:00
+fetched_at: 2026-04-29 13:30:49+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: P_2026_NPC_03132f88
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+not_policy_related: true
 ---
 # AI算力爆发，数据中心电力供给迎“大考”
 

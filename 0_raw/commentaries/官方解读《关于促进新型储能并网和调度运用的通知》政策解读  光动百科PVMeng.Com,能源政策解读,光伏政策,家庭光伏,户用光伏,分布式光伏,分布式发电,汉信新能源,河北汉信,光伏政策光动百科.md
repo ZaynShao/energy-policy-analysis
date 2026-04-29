@@ -3,13 +3,17 @@ type: 政策评论
 source: www.pvmeng.com
 source_type: B
 url: https://www.pvmeng.com/2024/04/12/25647/
-date: 
-related_policy: [[【关于促进新型储能并网和调度运用的通知】-国家能源局(河北省发改委转载)-d977]]
+date: null
+related_policy:
+- P_2024_NEA_26
+- P_2024_NEA_0528d977
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:53.635617
+collected_at: 2026-04-25 19:32:53.635617
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 官方解读||《关于促进新型储能并网和调度运用的通知》政策解读 | 光动百科PVMeng.Com,能源政策解读,光伏政策,家庭光伏,户用光伏,分布式光伏,分布式发电,汉信新能源,河北汉信,光伏政策|光动百科|PVMeng.com
 
 近日，国家能源局印发《关于促进新型储能并网和调度运用的通知》（国能发科技〔2024〕26号，以下简称《通知》）。《通知》规范新型储能并网接入管理，优化调度运行机制，有助于充分发挥新型储能作用，支撑构建新型电力系统。就社会和行业关注的问题，国家能源局有关负责同志接受记者采访，回答记者提问。

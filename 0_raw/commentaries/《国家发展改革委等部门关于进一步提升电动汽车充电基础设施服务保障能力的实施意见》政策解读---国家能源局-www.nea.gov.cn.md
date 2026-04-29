@@ -3,13 +3,11 @@ type: 政策评论
 source: www.nea.gov.cn
 source_type: A
 url: http://www.nea.gov.cn/2022-01/25/c_1310442213.htm
-date: 
-related_policy: [[【进一步提升电动汽车充电基础设施服务保障能力的实施意见(政策解读)(发改能源规〔2022〕53号)】-国家能源局-08a3]]
+date: null
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:36.092419
+collected_at: 2026-04-25 19:30:36.092419
 ---
-
 # 《国家发展改革委等部门关于进一步提升电动汽车充电基础设施服务保障能力的实施意见》政策解读---国家能源局
 
 |

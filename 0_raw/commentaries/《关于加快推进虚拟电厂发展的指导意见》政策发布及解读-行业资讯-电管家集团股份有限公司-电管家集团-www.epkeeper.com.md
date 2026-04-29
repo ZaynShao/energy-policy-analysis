@@ -3,13 +3,17 @@ type: 政策评论
 source: www.epkeeper.com
 source_type: B
 url: https://www.epkeeper.com/?list_13/516.html
-date: 
-related_policy: [[【加快推进虚拟电厂发展的指导意见(发改能源〔2025〕357号)】-国家发展和改革委员会、国家能源局-0058]]
+date: null
+related_policy:
+- P_2025_NDRC_357_a
+- P_2024_NDRC_0806117c
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:38.623001
+collected_at: 2026-04-25 19:30:38.623001
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《关于加快推进虚拟电厂发展的指导意见》政策发布及解读-行业资讯-电管家集团股份有限公司-电管家集团
 
 国家发展改革委 国家能源局关于加快推进虚拟电厂发展的指导意见

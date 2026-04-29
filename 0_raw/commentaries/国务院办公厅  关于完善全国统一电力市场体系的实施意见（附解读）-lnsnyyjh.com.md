@@ -1,16 +1,19 @@
 ---
-title: "国务院办公厅  关于完善全国统一电力市场体系的实施意见（附解读）"
+title: 国务院办公厅  关于完善全国统一电力市场体系的实施意见（附解读）
 type: 政策评论
 source: lnsnyyjh.com
 source_type: B
 url: http://lnsnyyjh.com/nd.jsp?id=529
 date: 未知
-related_policy: "[[【完善全国统一电力市场体系实施意见解读访谈】-国家发展改革委-84ee]]"
+related_policy:
+- P_2025_GO_1201e389
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T15:00:01.944894
+collected_at: 2026-04-25 15:00:01.944894
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 国务院办公厅  关于完善全国统一电力市场体系的实施意见（附解读）
 
 **来源**: lnsnyyjh.com  

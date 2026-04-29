@@ -1,16 +1,19 @@
 ---
-title: "深圳市发改委印发《深圳市支持虚拟电厂加快发展的若干措施》 - 深圳市绿色金融协会"
+title: 深圳市发改委印发《深圳市支持虚拟电厂加快发展的若干措施》 - 深圳市绿色金融协会
 type: 政策评论
 source: www.szgfa.com
 source_type: B
 url: https://www.szgfa.com/down_view.aspx?nid=14&typeid=13&id=313
 date: 未知
-related_policy: "[[【深圳市支持虚拟电厂加快发展的若干措施】-深圳市发展和改革委员会-9bce]]"
+related_policy:
+- P_2024_OTHER7F45_060777c1
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T10:09:18.924057
+collected_at: 2026-04-25 10:09:18.924057
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 深圳市发改委印发《深圳市支持虚拟电厂加快发展的若干措施》 - 深圳市绿色金融协会
 
 **来源**: www.szgfa.com  

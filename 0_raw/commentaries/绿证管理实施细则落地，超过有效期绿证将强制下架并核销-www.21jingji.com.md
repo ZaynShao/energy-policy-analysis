@@ -1,16 +1,20 @@
 ---
-title: "绿证管理实施细则落地，超过有效期绿证将强制下架并核销"
+title: 绿证管理实施细则落地，超过有效期绿证将强制下架并核销
 type: 政策评论
 source: www.21jingji.com
 source_type: B
 url: https://www.21jingji.com/article/20260109/herald/f956f0c72c322014a6105fe923c2e654.html
 date: 未知
-related_policy: "[[【可再生能源绿色电力证书管理实施细则(试行)(国能发资质规〔2025〕107号)】-国家能源局-620d]]"
+related_policy:
+- P_2025_NEA_107
+- P_2025_NDRC_262
 confidence: 0.7
 collected_by: policy-watch
-collected_at: 2026-04-25T14:49:04.859834
+collected_at: 2026-04-25 14:49:04.859834
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 绿证管理实施细则落地，超过有效期绿证将强制下架并核销
 
 **来源**: www.21jingji.com  

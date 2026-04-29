@@ -3,13 +3,11 @@ type: 政策评论
 source: www.pwccn.com
 source_type: B
 url: https://www.pwccn.com/zh/services/issues-based/esg/interpretation-carbon-emissions-trading-management-interim-rules-feb2024.html
-date: 
-related_policy: [[【碳排放权交易管理办法(试行)(生态环境部令第19号)】-生态环境部-ed28]]
+date: null
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:33:01.482645
+collected_at: 2026-04-25 19:33:01.482645
 ---
-
 # 普华永道中国：解读《碳排放权交易管理暂行条例》
 
 随着气候变化成为国际关注的焦点，世界各国都采取了积极行动。中国作为负责任的大国，正在积极稳妥推进“碳达峰”与“碳中和”相关工作，加快产业绿色低碳转型。碳排放权交易体系是指以控制温室气体排放为目的，以温室气体排放权利为标的物所进行的市场交易，它既是实现双碳目标的政策工具，也是一种市场化机制，它既能将减排责任落实到企业，又提供了相应的激励机制，降低了全社会的减排成本。为进一步健全碳排放权交易管理基本制度框架，国务院总理李强于近期签署了国务院令，公布了《碳排放权交易管理暂行条例》，自2024年5月1日实施。本文将**解读并归纳该条例的重点内容，研判其对碳市场相关参与主体的影响，以期为企业合规履约与低碳转型战略布局提供参考**。

@@ -1,16 +1,14 @@
 ---
-title: "[PDF] 电力中长期交易与现货交易解析"
+title: '[PDF] 电力中长期交易与现货交易解析'
 type: 政策评论
 source: pdf.dfcfw.com
 source_type: B
 url: https://pdf.dfcfw.com/pdf/H3_AP202602281820143571_1.pdf?1772312966000.pdf
 date: 未知
-related_policy: "[[【电力中长期市场基本规则(发改能源规〔2025〕1656号)】-国家发展改革委、国家能源局-d021]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T10:21:57.033555
+collected_at: 2026-04-25 10:21:57.033555
 ---
-
 # [PDF] 电力中长期交易与现货交易解析
 
 **来源**: pdf.dfcfw.com  

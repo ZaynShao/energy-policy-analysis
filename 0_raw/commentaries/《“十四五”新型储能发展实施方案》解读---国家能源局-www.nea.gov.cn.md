@@ -3,13 +3,16 @@ type: 政策评论
 source: www.nea.gov.cn
 source_type: A
 url: http://www.nea.gov.cn/2022-03/21/c_1310523223.htm
-date: 
-related_policy: [[【「十四五」新型储能发展实施方案】-国家发展和改革委员会、国家能源局-6623]]
+date: null
+related_policy:
+- P_2021_NDRC_0421ce4f
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:30:59.469336
+collected_at: 2026-04-25 19:30:59.469336
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.6
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《“十四五”新型储能发展实施方案》解读---国家能源局
 
 |

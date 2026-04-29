@@ -1,16 +1,19 @@
 ---
-title: "车购税新政如何影响新能源汽车市场_行业资讯_全国工商联汽车经销商商会"
+title: 车购税新政如何影响新能源汽车市场_行业资讯_全国工商联汽车经销商商会
 type: 政策评论
 source: www.cadcc.com.cn
 source_type: B
 url: https://www.cadcc.com.cn/article/2842.html
 date: 未知
-related_policy: "[[【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc]]"
+related_policy:
+- P_2025_MIIT_24_b
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:58:31.898914
+collected_at: 2026-04-25 14:58:31.898914
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 车购税新政如何影响新能源汽车市场_行业资讯_全国工商联汽车经销商商会
 
 **来源**: www.cadcc.com.cn  

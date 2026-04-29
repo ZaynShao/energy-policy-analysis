@@ -3,13 +3,16 @@ type: 政策评论
 source: www.ndrc.gov.cn
 source_type: A
 url: https://www.ndrc.gov.cn/xxgk/jd/jd/202306/t20230629_1358020_ext.html
-date: 
-related_policy: [[【进一步构建高质量充电基础设施体系的指导意见(国办发〔2023〕19号)】-国务院办公厅-d2db]]
+date: null
+related_policy:
+- P_2023_GO_19_b
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:42.192254
+collected_at: 2026-04-25 19:32:42.192254
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 【构建高质量充电基础设施体系 支撑新能源汽车高质量发展——《关于进一步构建高质量充电基础设施体系的指导意见》专家解读】-国家发展和改革委员会
 
 经过近十年来的高速发展，中国新能源汽车和动力电池产业引领全球，产量和保有量稳居世界第一，并实现大规模出口，成为中国经济的一大亮点。

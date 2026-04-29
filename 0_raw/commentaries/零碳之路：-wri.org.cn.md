@@ -1,16 +1,14 @@
 ---
-title: "零碳之路："
+title: 零碳之路：
 type: 政策评论
 source: wri.org.cn
 source_type: B
 url: https://wri.org.cn/sites/default/files/2021-11/accelerating-the-net-zero-transition-strategic-action-for-china%E2%80%99s-14th-five-year-plan-CN.pdf
 date: 未知
-related_policy: "[[【上海碳市场全面深化改革行动方案2026-2030(沪府办发〔2025〕16号)】-上海市人民政府办公厅-342f]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:35:53.684773
+collected_at: 2026-04-25 14:35:53.684773
 ---
-
 # 零碳之路：
 
 **来源**: wri.org.cn  

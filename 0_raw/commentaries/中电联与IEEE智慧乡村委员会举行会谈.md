@@ -1,15 +1,13 @@
 ---
-title: "中电联与IEEE智慧乡村委员会举行会谈"
-source_account: "中国电力企业联合会"
-source_url: "https://mp.weixin.qq.com/s/OETHT-1kETz7Xv0LGlShvA"
+title: 中电联与IEEE智慧乡村委员会举行会谈
+source_account: 中国电力企业联合会
+source_url: https://mp.weixin.qq.com/s/OETHT-1kETz7Xv0LGlShvA
 date_published: 2026-04-14
-fetched_at: 2026-04-28T20:52:47+08:00
+fetched_at: 2026-04-28 20:52:47+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
-related_policy: P_2024_NM_0101e295
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+not_policy_related: true
 ---
 # 中电联与IEEE智慧乡村委员会举行会谈
 

@@ -1,16 +1,19 @@
 ---
-title: "《电力中长期市场基本规则》解读之六︱科学、有序 - 国际新能源网"
+title: 《电力中长期市场基本规则》解读之六︱科学、有序 - 国际新能源网
 type: 政策评论
 source: mnewenergy.in-en.com
 source_type: B
 url: https://mnewenergy.in-en.com/html/newenergy-2447628.shtml
 date: 未知
-related_policy: "[[【电力中长期市场基本规则(发改能源规〔2025〕1656号)】-国家发展改革委、国家能源局-6fc7]]"
+related_policy:
+- P_2025_NDRC_1656_a
 confidence: 0.7
 collected_by: policy-watch
-collected_at: 2026-04-25T14:53:02.034919
+collected_at: 2026-04-25 14:53:02.034919
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《电力中长期市场基本规则》解读之六︱科学、有序 - 国际新能源网
 
 **来源**: mnewenergy.in-en.com  

@@ -3,13 +3,16 @@ type: 政策评论
 source: www.infoobs.com
 source_type: B
 url: https://www.infoobs.com/article/20230823/60619.html
-date: 
-related_policy: [[【做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)】-国家发展和改革委员会、财政部、国家能源局-a4e9]]
+date: null
+related_policy:
+- P_2023_NDRC_1044_b
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:31:20.477587
+collected_at: 2026-04-25 19:31:20.477587
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 可再生能源绿色电力证书”新政分析与解读 | 信息化观察网 - 引领行业变革
 
 本文来自微信公众号“天翼智库”，作者/梁建君。

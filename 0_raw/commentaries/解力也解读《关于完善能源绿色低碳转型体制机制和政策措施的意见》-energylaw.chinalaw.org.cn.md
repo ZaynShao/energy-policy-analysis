@@ -1,16 +1,14 @@
 ---
-title: "解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》"
+title: 解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》
 type: 政策评论
 source: energylaw.chinalaw.org.cn
 source_type: B
 url: https://energylaw.chinalaw.org.cn/portal/article/index/id/3242.html
 date: 未知
-related_policy: "[[【国家发展改革委 财政部 国家能源局关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)】-国家发展改革委、财政部、国家能源局-4274]]"
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:39:54.349512
+collected_at: 2026-04-25 14:39:54.349512
 ---
-
 # 解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》
 
 **来源**: energylaw.chinalaw.org.cn  

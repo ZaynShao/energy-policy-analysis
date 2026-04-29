@@ -3,13 +3,16 @@ type: 政策评论
 source: mm.chinapower.com.cn
 source_type: B
 url: http://mm.chinapower.com.cn/chuneng/dongtai1/20240312/238629.html
-date: 
-related_policy: [[【加强电网调峰储能和智能化调度能力建设的指导意见】-国家发展和改革委员会、国家能源局-ca91]]
+date: null
+related_policy:
+- P_2024_NDRC_02276bf1
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:36.597713
+collected_at: 2026-04-25 19:32:36.597713
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《关于加强电网调峰储能和智能化调度能力建设的指导意见》文件解读_电力网
 
 新型电力系统是新型能源体系的重要组成和实现“双碳”目标的关键载体。在构建新型电力系统的过程中，源网荷储各环节发生系统性变革，电力系统的调节能力面临更高要求，电网调度的智能化水平亟须进一步提升。近日，国家发展改革委、国家能源局印发《关于加强电网调峰储能和智能化调度能力建设的指导意见》(以下简称《指导意见》)，针对性提出相关工作要求，对提升电力系统调节能力和电网调度智能化水平，保障电力安全稳定供应和推动能源清洁低碳转型具有重要意义。

@@ -3,13 +3,16 @@ type: 政策评论
 source: www.cnblogs.com
 source_type: B
 url: https://www.cnblogs.com/ceiloruz/p/19608524
-date: 
-related_policy: [[【关于完善全国统一电力市场体系的实施意见】-国务院办公厅-e389]]
+date: null
+related_policy:
+- P_2025_GO_1201e389
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:58.689075
+collected_at: 2026-04-25 19:32:58.689075
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # deepseek-解读《关于完善全国统一电力市场体系的实施意见》 - ceiloruz - 博客园
 
 # deepseek-解读《关于完善全国统一电力市场体系的实施意见》

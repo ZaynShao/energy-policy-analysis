@@ -1,16 +1,19 @@
 ---
-title: "明年起实施！新能源车购置税减免政策全解读"
+title: 明年起实施！新能源车购置税减免政策全解读
 type: 政策评论
 source: eu.36kr.com
 source_type: B
 url: https://eu.36kr.com/zh/p/3504154318625666
 date: 未知
-related_policy: "[[【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc]]"
+related_policy:
+- P_2025_MIIT_24_b
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:58:35.498703
+collected_at: 2026-04-25 14:58:35.498703
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 明年起实施！新能源车购置税减免政策全解读
 
 **来源**: eu.36kr.com  

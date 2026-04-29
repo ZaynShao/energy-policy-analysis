@@ -1,15 +1,13 @@
 ---
-title: "COP29|推动可持续投融资生态系统建设 落基山研究所发布《中国气候科技投融资市场洞察与展望》报告"
-source_account: "落基山研究所"
-source_url: "https://mp.weixin.qq.com/s/lpvSYKVEYOU4L_-y5ijrjw"
+title: COP29|推动可持续投融资生态系统建设 落基山研究所发布《中国气候科技投融资市场洞察与展望》报告
+source_account: 落基山研究所
+source_url: https://mp.weixin.qq.com/s/lpvSYKVEYOU4L_-y5ijrjw
 date_published: 2024-11-22
-fetched_at: 2026-04-28T20:52:51+08:00
+fetched_at: 2026-04-28 20:52:51+08:00
 commentary_type: A
 business_tag: cross
 source: wewe-rss
-related_policy: P_2024_MEE_1101f119
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+not_policy_related: true
 ---
 # COP29|推动可持续投融资生态系统建设 落基山研究所发布《中国气候科技投融资市场洞察与展望》报告
 

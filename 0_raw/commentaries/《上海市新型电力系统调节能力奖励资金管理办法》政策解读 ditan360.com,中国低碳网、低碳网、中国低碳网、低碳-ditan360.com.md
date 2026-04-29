@@ -1,16 +1,20 @@
 ---
-title: "《上海市新型电力系统调节能力奖励资金管理办法》政策解读 ditan360.com,中国低碳网、低碳网、中国低碳网、低碳"
+title: 《上海市新型电力系统调节能力奖励资金管理办法》政策解读 ditan360.com,中国低碳网、低碳网、中国低碳网、低碳
 type: 政策评论
 source: ditan360.com
 source_type: B
 url: http://ditan360.com/forum/info-188816.html
 date: 未知
-related_policy: "[[【上海市新型电力系统调节能力奖励资金管理办法(沪发改规范〔2025〕5号)】-上海市发展和改革委员会、经济和信息化委员会、财政局-3898]]"
+related_policy:
+- P_2025_SH_5_c
+- P_2024_SH_28
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:36:53.137596
+collected_at: 2026-04-25 14:36:53.137596
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《上海市新型电力系统调节能力奖励资金管理办法》政策解读 ditan360.com,中国低碳网、低碳网、中国低碳网、低碳
 
 **来源**: ditan360.com  

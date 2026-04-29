@@ -3,13 +3,16 @@ type: 政策评论
 source: www.ncsti.gov.cn
 source_type: A
 url: https://www.ncsti.gov.cn/zcfg/zcjd/202404/t20240429_155206.html
-date: 
-related_policy: [[【北京市积极推动设备更新和消费品以旧换新行动方案】-北京市人民政府-ca25]]
+date: null
+related_policy:
+- P_2024_BJ_0427ca25
 confidence: 0.9
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:11.765119
+collected_at: 2026-04-25 19:32:11.765119
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《北京市积极推动设备更新和消费品以旧换新行动方案》政策解读
 
 设备更新和消费品以旧换新能够增加先进产能、提高生产效率，促进节能降碳、消除安全隐患，对推动产业高端化、智能化、绿色化发展具有重要作用，既利企业、又惠民生，既利当前、又利长远，既稳增长、又促转型，一举多得。

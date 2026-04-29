@@ -1,16 +1,19 @@
 ---
-title: "消费品以旧换新取得新进展新成效（政策解读）"
+title: 消费品以旧换新取得新进展新成效（政策解读）
 type: 政策评论
 source: politics.people.com.cn
 source_type: B
 url: http://politics.people.com.cn/n1/2024/0926/c1001-40328241.html
 date: 未知
-related_policy: "[[【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0]]"
+related_policy:
+- P_2024_MOFCOM_58_a
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T09:59:11.926531
+collected_at: 2026-04-25 09:59:11.926531
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.8
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 消费品以旧换新取得新进展新成效（政策解读）
 
 **来源**: politics.people.com.cn  

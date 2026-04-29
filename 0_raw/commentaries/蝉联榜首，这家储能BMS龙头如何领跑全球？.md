@@ -1,15 +1,13 @@
 ---
-title: "蝉联榜首，这家储能BMS龙头如何领跑全球？"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/UOvq2aFno51x9lGisRXVUw"
+title: 蝉联榜首，这家储能BMS龙头如何领跑全球？
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/UOvq2aFno51x9lGisRXVUw
 date_published: 2026-04-07
-fetched_at: 2026-04-28T20:52:48+08:00
+fetched_at: 2026-04-28 20:52:48+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
-related_policy: P_2024_NM_0101e295
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+not_policy_related: true
 ---
 # 蝉联榜首，这家储能BMS龙头如何领跑全球？
 

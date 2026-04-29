@@ -1,16 +1,19 @@
 ---
-title: "国家能源局有关负责同志就《关于促进新能源集成融合发展的指导意见》答记者问---国家能源局"
+title: 国家能源局有关负责同志就《关于促进新能源集成融合发展的指导意见》答记者问---国家能源局
 type: 政策评论
 source: www.nea.gov.cn
 source_type: B
 url: https://www.nea.gov.cn/20251112/03dc9ef6112a45be9712aa2e7dc17597/c.html
 date: 未知
-related_policy: "[[【国家能源局关于促进新能源集成融合发展的指导意见(国能发新能〔2025〕93号)】-国家能源局-70b8]]"
+related_policy:
+- P_2025_NEA_93
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T14:54:19.263162
+collected_at: 2026-04-25 14:54:19.263162
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 国家能源局有关负责同志就《关于促进新能源集成融合发展的指导意见》答记者问---国家能源局
 
 **来源**: www.nea.gov.cn  

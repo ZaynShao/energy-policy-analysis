@@ -1,15 +1,13 @@
 ---
-title: "8GW+出货背后，构网型储能如何实现从“展出来”到“用明白”？"
-source_account: "高工储能"
-source_url: "https://mp.weixin.qq.com/s/7R56w56AJGqczxDzqBoFrg"
+title: 8GW+出货背后，构网型储能如何实现从“展出来”到“用明白”？
+source_account: 高工储能
+source_url: https://mp.weixin.qq.com/s/7R56w56AJGqczxDzqBoFrg
 date_published: 2026-04-22
-fetched_at: 2026-04-28T20:52:46+08:00
+fetched_at: 2026-04-28 20:52:46+08:00
 commentary_type: A
 business_tag: power
 source: wewe-rss
-related_policy: P_2024_NM_0101e295
-related_policy_source: B2_title_fuzzy
-related_policy_matched_at: '2026-04-29T16:30:42+08:00'
+not_policy_related: true
 ---
 # 8GW+出货背后，构网型储能如何实现从“展出来”到“用明白”？
 

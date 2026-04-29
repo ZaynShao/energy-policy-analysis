@@ -1,16 +1,19 @@
 ---
-title: "政策解读丨加快落地 推进建设——《电力辅助服务市场基本规则》解读--中国能源新闻网"
+title: 政策解读丨加快落地 推进建设——《电力辅助服务市场基本规则》解读--中国能源新闻网
 type: 政策评论
 source: www.cpnn.com.cn
 source_type: B
 url: https://www.cpnn.com.cn/news/zngc/202505/t20250507_1796652.html
 date: 未知
-related_policy: "[[【电力辅助服务市场基本规则(发改能源规〔2025〕411号)】-国家发展改革委、国家能源局-61fd]]"
+related_policy:
+- P_2025_NDRC_411
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:48:49.307546
+collected_at: 2026-04-25 14:48:49.307546
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 政策解读丨加快落地 推进建设——《电力辅助服务市场基本规则》解读--中国能源新闻网
 
 **来源**: www.cpnn.com.cn  

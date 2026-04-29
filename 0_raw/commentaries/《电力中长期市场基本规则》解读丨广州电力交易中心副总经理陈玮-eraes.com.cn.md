@@ -3,13 +3,18 @@ type: 政策评论
 source: eraes.com.cn
 source_type: B
 url: https://eraes.com.cn/newsinfo/8899202.html
-date: 
-related_policy: [[【电力中长期市场基本规则(发改能源规〔2025〕1810号)】-国家发展和改革委员会、国家能源局-c6bb]]
+date: null
+related_policy:
+- P_2025_NDRC_1810
+- P_2020_NDRC_889
+- P_2024_NDRC_1123_a
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:32:50.533054
+collected_at: 2026-04-25 19:32:50.533054
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《电力中长期市场基本规则》解读丨广州电力交易中心副总经理陈玮
 
 # 《电力中长期市场基本规则》解读丨广州电力交易中心副总经理陈玮

@@ -1,16 +1,19 @@
 ---
-title: "[PDF] 行业总量专题：2026 年购置税补贴减半"
+title: '[PDF] 行业总量专题：2026 年购置税补贴减半'
 type: 政策评论
 source: pdf.dfcfw.com
 source_type: B
 url: https://pdf.dfcfw.com/pdf/H301_AP202511031774417594_1.pdf
 date: 未知
-related_policy: "[[【2026—2027年减免车辆购置税新能源汽车产品技术要求(公告2025年第24号)】-工业和信息化部 财政部 税务总局-7bcc]]"
+related_policy:
+- P_2025_MIIT_24_a
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:58:26.463832
+collected_at: 2026-04-25 14:58:26.463832
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # [PDF] 行业总量专题：2026 年购置税补贴减半
 
 **来源**: pdf.dfcfw.com  

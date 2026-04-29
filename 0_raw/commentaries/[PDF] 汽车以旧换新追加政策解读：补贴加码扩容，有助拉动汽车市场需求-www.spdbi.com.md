@@ -1,16 +1,19 @@
 ---
-title: "[PDF] 汽车以旧换新追加政策解读：补贴加码扩容，有助拉动汽车市场需求"
+title: '[PDF] 汽车以旧换新追加政策解读：补贴加码扩容，有助拉动汽车市场需求'
 type: 政策评论
 source: www.spdbi.com
 source_type: B
 url: https://www.spdbi.com/getfile/index/action/images/name/%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E8%BF%BD%E5%8A%A0%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB%EF%BC%9A%E8%A1%A5%E8%B4%B4%E5%8A%A0%E7%A0%81%E6%89%A9%E5%AE%B9%EF%BC%8C%E6%9C%89%E5%8A%A9%E6%8B%89%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82_%E6%B5%A6%E9%93%B6%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6.pdf
 date: 未知
-related_policy: "[[【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部 财政部等7部门-1d35]]"
+related_policy:
+- P_2024_MOFCOM_75_b
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:30:44.948260
+collected_at: 2026-04-25 14:30:44.948260
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # [PDF] 汽车以旧换新追加政策解读：补贴加码扩容，有助拉动汽车市场需求
 
 **来源**: www.spdbi.com  

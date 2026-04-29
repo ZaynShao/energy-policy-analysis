@@ -1,16 +1,19 @@
 ---
-title: "《湖南省电动汽车充电基础设施建设与运营管理办法》政策解读"
+title: 《湖南省电动汽车充电基础设施建设与运营管理办法》政策解读
 type: 政策评论
 source: chd.in-en.com
 source_type: B
 url: https://chd.in-en.com/html/chd-2452898.shtml
 date: 未知
-related_policy: "[[【湖南省电动汽车充换电基础设施建设与运营管理办法(湘发改能源规〔2025〕289号)】-湖南省发展和改革委员会-2964]]"
+related_policy:
+- P_2025_HN_289
 confidence: 0.7
 collected_by: policy-watch
-collected_at: 2026-04-25T14:32:21.660131
+collected_at: 2026-04-25 14:32:21.660131
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 《湖南省电动汽车充电基础设施建设与运营管理办法》政策解读
 
 **来源**: chd.in-en.com  

@@ -1,16 +1,21 @@
 ---
-title: "[PDF] 福建电力市场中长期交易实施细则（2026 年修订版） （征求意见稿）"
+title: '[PDF] 福建电力市场中长期交易实施细则（2026 年修订版） （征求意见稿）'
 type: 政策评论
 source: editan.oss-cn-shanghai.aliyuncs.com
 source_type: B
 url: http://editan.oss-cn-shanghai.aliyuncs.com/other/20260127/1769481430753888.pdf
 date: 未知
-related_policy: "[[【2025年福建省电力中长期市场交易方案】-福建省发展和改革委员会、国家能源局福建监管办公室-a54c]]"
+related_policy:
+- P_2024_NDRC_15
+- P_2024_NEA_76
+- P_2025_NDRC_1810
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T10:09:58.956833
+collected_at: 2026-04-25 10:09:58.956833
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # [PDF] 福建电力市场中长期交易实施细则（2026 年修订版） （征求意见稿）
 
 **来源**: editan.oss-cn-shanghai.aliyuncs.com  

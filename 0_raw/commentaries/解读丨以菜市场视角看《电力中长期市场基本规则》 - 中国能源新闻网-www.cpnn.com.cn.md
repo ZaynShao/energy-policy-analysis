@@ -3,13 +3,16 @@ type: 政策评论
 source: www.cpnn.com.cn
 source_type: B
 url: https://www.cpnn.com.cn/news/hg/202601/t20260109_1858974.html
-date: 
-related_policy: [[【电力中长期交易基本规则(暂行)】-国家发展和改革委员会、国家能源局-eaa5]]
+date: null
+related_policy:
+- P_2025_NDRC_1656_a
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:33:01.394510
+collected_at: 2026-04-25 19:33:01.394510
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 解读丨以菜市场视角看《电力中长期市场基本规则》 - 中国能源新闻网
 
 来源：中国电力报 时间：2026-01-09 17:40

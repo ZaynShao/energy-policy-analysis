@@ -3,13 +3,16 @@ type: 政策评论
 source: cj.sina.cn
 source_type: B
 url: https://cj.sina.cn/articles/view/2343698037/8bb1fe7502701e1uw?froms=ggmp
-date: 
-related_policy: [[【电力中长期交易基本规则(暂行)】-国家发展和改革委员会、国家能源局-eaa5]]
+date: null
+related_policy:
+- P_2025_NDRC_1656_a
 confidence: 0.7
 collected_by: policy-watch typeA
-collected_at: 2026-04-25T19:33:00.267416
+collected_at: 2026-04-25 19:33:00.267416
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.95
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 湖北电力交易中心董事长詹智民解读《电力中长期市场基本规则》__财经头条__新浪财经
 
 电力中长期市场迈向“建设与运营并重”新阶段

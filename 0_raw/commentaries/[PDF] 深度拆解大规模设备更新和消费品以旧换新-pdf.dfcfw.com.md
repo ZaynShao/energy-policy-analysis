@@ -1,16 +1,19 @@
 ---
-title: "[PDF] 深度拆解大规模设备更新和消费品以旧换新"
+title: '[PDF] 深度拆解大规模设备更新和消费品以旧换新'
 type: 政策评论
 source: pdf.dfcfw.com
 source_type: B
 url: https://pdf.dfcfw.com/pdf/H3_AP202406021635184547_1.pdf
 date: 未知
-related_policy: "[[【国家发展改革委 财政部关于2026年实施大规模设备更新和消费品以旧换新政策的通知(发改环资〔2025〕1745号)】-国家发展改革委、财政部-6825]]"
+related_policy:
+- P_2025_NDRC_1745_c
 confidence: 0.6
 collected_by: policy-watch
-collected_at: 2026-04-25T14:51:12.669181
+collected_at: 2026-04-25 14:51:12.669181
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.85
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # [PDF] 深度拆解大规模设备更新和消费品以旧换新
 
 **来源**: pdf.dfcfw.com  

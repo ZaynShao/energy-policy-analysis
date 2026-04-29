@@ -1,16 +1,19 @@
 ---
-title: "【专家解读之二｜推动工业领域大规模设备更新 加快推进新型工业化】-国家发展和改革委员会"
+title: 【专家解读之二｜推动工业领域大规模设备更新 加快推进新型工业化】-国家发展和改革委员会
 type: 政策评论
 source: www.ndrc.gov.cn
 source_type: B
 url: https://www.ndrc.gov.cn/xxgk/jd/jd/202403/t20240315_1364972.html
 date: 未知
-related_policy: "[[【推动工业领域设备更新实施方案(工信部联规〔2024〕53号)】-工信部、发改委、财政部、央行、税务总局、市场监管总局、金融监管总局-45f1]]"
+related_policy:
+- P_2024_SC_7
 confidence: 0.9
 collected_by: policy-watch
-collected_at: 2026-04-25T14:40:47.018912
+collected_at: 2026-04-25 14:40:47.018912
+related_policy_source: B4_llm_body_review
+related_policy_confidence: 0.9
+related_policy_matched_at: '2026-04-30T02:37:12+08:00'
 ---
-
 # 【专家解读之二｜推动工业领域大规模设备更新 加快推进新型工业化】-国家发展和改革委员会
 
 **来源**: www.ndrc.gov.cn  
