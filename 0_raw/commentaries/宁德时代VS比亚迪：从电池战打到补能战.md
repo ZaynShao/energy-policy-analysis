@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/9rEtl1Iuwqw6Y-kQWJcsKA"
 date_published: 2026-04-22
 fetched_at: 2026-04-28T20:52:46+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 宁德时代VS比亚迪：从电池战打到补能战
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/RaRCbSicibjeWFFdFFvyKgLyZtGaFiaJFCcrU13wJPs5RmMf66DK0ia4MsrqCH3557aPW7ta5Bh5xkTGlq4AtHNyLTWfuajmtCmRGXhrUe5lxjw/640?wx_fmt=png&from=appmsg)

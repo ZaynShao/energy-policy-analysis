@@ -4,11 +4,10 @@ source_account: "落基山研究所"
 source_url: "https://mp.weixin.qq.com/s/i-QJJunKmOI-FMOGlpOPvA"
 date_published: 2024-11-16
 fetched_at: 2026-04-28T20:52:51+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: cross
 source: wewe-rss
 ---
-
 # COP29|为甲烷控排赋能  落基山研究所发布《瓦斯回收利用技术发展展望》报告
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/hCTyPplPRu0iaDeiaFadwgeNBaLFibuhCiczROI8yNwMgpgPy6DPuEVlY44ZiaRt64dmyzr54MkJLaQc8nVVIPlnSnQ/640?wx_fmt=png&from=appmsg)

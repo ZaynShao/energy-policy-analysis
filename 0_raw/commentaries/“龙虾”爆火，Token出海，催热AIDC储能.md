@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/bitgFsGPy4nll9O49mBWdA"
 date_published: 2026-03-17
 fetched_at: 2026-04-28T20:52:50+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # “龙虾”爆火，Token出海，催热AIDC储能
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/bhqZZ4eZhIsObEicAfPoPHXgQLMx1qD0j6fWU8kkJ1X209ibq41RqZeLA8aSlknFVWyHJJASB6poD0X5XibIm3vZkqW6OBgrr0sHFvehqQ8WNg/640?wx_fmt=png&from=appmsg)

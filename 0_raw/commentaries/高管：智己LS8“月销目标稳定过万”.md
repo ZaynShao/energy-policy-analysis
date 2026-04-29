@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/E1lXTlPAn5ERigCYtxjdhQ"
 date_published: 2026-03-26
 fetched_at: 2026-04-28T20:52:49+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 高管：智己LS8“月销目标稳定过万”
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/RaRCbSicibjeX4LIHGP3soh9ial5OjpbQCCxlWLy20x8XBibOrRQasYF9kudPo9AgSTSvLMic6G3emEB1F7s7qzIh3lrsjria3sRElc5EJ5HSHAcc/640?wx_fmt=png&from=appmsg)****

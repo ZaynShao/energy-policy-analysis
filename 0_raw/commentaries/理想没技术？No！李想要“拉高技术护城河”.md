@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/P1x7Mx65XoP6EtbPSUvwfQ"
 date_published: 2026-03-12
 fetched_at: 2026-04-28T20:52:50+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 理想没技术？No！李想要“拉高技术护城河”
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/RaRCbSicibjeU5zfF5Ylic8zC1SlxS84WkjBBmozc5YB4XLbpz3Gicx5sDRuSdlPQKRZaOqCibawgrrRZic8y7dcJqUKso9vCJiaZHNI1J6W9jY1t8/640?wx_fmt=png&from=appmsg)

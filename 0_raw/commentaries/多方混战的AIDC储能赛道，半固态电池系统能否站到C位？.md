@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/1CCtLd5oAeYeFxl-UOp6hA"
 date_published: 2026-04-21
 fetched_at: 2026-04-28T20:52:46+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 多方混战的AIDC储能赛道，半固态电池系统能否站到C位？
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/bhqZZ4eZhIvkAen9S6XF07oChz9czicgoxuFy48ObpkYF6lP8W7UtX3eX0rjovr5qDaEmMpATXU3aLFpP4FX0T7uQgQ5gBD1fftqW9rS3wpg/640?wx_fmt=png&from=appmsg)

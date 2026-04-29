@@ -4,11 +4,10 @@ source_account: "储能与电力市场"
 source_url: "https://mp.weixin.qq.com/s/z-qvTA38aaIVobVAuN3ivg"
 date_published: 2026-03-22
 fetched_at: 2026-04-28T20:52:49+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 陕西独立储能：现货/调频二选一，组织试点按容量比例同时参与，现货出清上限1元/kWh
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_gif/UlFs2V2deGGKEDibhk7Eia22LDrNLxB6OgxVpll7E3b0mibBZia8uXbfbUsDemdSQhPzJ5VCQ9X8EPp3zQWJ5kCafQ/640?wx_fmt=gif&from=appmsg)  

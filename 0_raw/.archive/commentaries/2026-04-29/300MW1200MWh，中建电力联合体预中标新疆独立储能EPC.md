@@ -1,0 +1,79 @@
+---
+title: "300MW/1200MWh，中建电力联合体预中标新疆独立储能EPC"
+source_account: "储能与电力市场"
+source_url: "https://mp.weixin.qq.com/s/WxbzNrg_4F4bQ_nz39D_Eg"
+date_published: 2026-04-18
+fetched_at: 2026-04-28T20:52:47+08:00
+commentary_type: C
+business_tag: power
+source: wewe-rss
+---
+# 300MW/1200MWh，中建电力联合体预中标新疆独立储能EPC
+
+![image](https://mmbiz.qpic.cn/sz_mmbiz_gif/UlFs2V2deGGKEDibhk7Eia22LDrNLxB6OgxVpll7E3b0mibBZia8uXbfbUsDemdSQhPzJ5VCQ9X8EPp3zQWJ5kCafQ/640?wx_fmt=gif&from=appmsg)
+
+「储能与电力市场」获悉，4月14日，伟润克州阿图什市300MW/1200MWh独立共享储能项目EPC工程总承包中标候选人公示发布。中建电力工程（深圳）有限公司联合体预中标。工期/交货期/服务期为210天。  
+中标候选人详情如下：
+
+  
+
+中建电力工程(深圳)有限公司（牵头人）、中国能源建设集团新疆电力设计院有限公司（联合体成员），其他类型投标报价工程总承包费下浮：1.5%，设计费下浮：1.5%，成为第一中标候选人；
+
+  
+
+陕西长科电力技术设备有限公司（牵头人）、河南省启源电力勘测设计有限公司（联合体成员），其他类型投标报价总承包费下浮：3.2%，设计费下浮：2.2%，成为第二中标候选人；  
+
+  
+
+中盛万安建设集团有限公司（牵头人）、河南绿电时代规划设计研究有限公司（联合体成员），其他类型投标报价：总承包费下浮4%，设计费下浮：3%，成为第三中标候选人。  
+
+![image](https://mmbiz.qpic.cn/mmbiz_png/nJIHJiauQqnzP9pWUUVGp3WenAiadG9ic1BCmgIbAHjSeeZDxicD8LX9Rbo3viaInFL9CrI5q8PGwicX4tKF9jf4ib7crWHiankLyvpqCg2pvjf7icibg/640?wx_fmt=png&from=appmsg)  
+
+看个广告休息一下![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibQ6Q066YicvUrISt2HTHibzQLHagVXTI0icHuu8j9l7VicIMYkGQ4a0sZubzCiaYLVbnQtvbYmZqkYcicIBJRaHbpdXQ/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=1)
+
+  
+
+根据招标公告显示，项目位于新疆维吾尔自治区，克孜勒苏柯尔克孜自治州，阿图什市。招标人为伟润新能源（克州）有限公司。投资金额94000万元，折合单价0.78元/Wh。
+
+  
+
+项目概况：伟润克州阿图什市300MW/1200MWh独立共享储能项目EPC工程总承包，包括但不限于磷酸铁锂电池储能系统设备设施、构筑物及其他辅助设施、总图布置设施等的手续办理、勘察设计、设备采购、土建工程施工、设备安装调试、试运行、竣工验收、并网试验等项目正式投产运营涉及的所有工作等。
+
+  
+
+计划工期：自合同签订生效之日起210日历天内完成EPC工程总承包所有工作，全容量并网完成，达到交付运营条件。
+
+  
+
+原文如下：
+
+![image](https://mmbiz.qpic.cn/mmbiz_png/nJIHJiauQqnxMaHKVqxyCpkohewQR82wPRUGGSJicQlAUhZDkwbznJrrdFGicgPsGsKxnLjaWgYJ5icnwnQUxmjLDhCsLLDSibicyRZMKubLpliaYs/640?wx_fmt=png&from=appmsg)
+
+![image](https://mmbiz.qpic.cn/mmbiz_png/nJIHJiauQqnwrbibJqOnLHJxFHBicP3qDx2wJpPHGQg6NGyq8P52WBVCeia8LH8fkuHo0JIsBI3qDOjffumopMT19pbDKic0gYLjZSkTEqicJpUXI/640?wx_fmt=png&from=appmsg)
+
+![image](https://mmbiz.qpic.cn/sz_mmbiz_png/nJIHJiauQqnws3PvxJgAFC7XeHCmYXwv1PBTEsmIloq6b6UHjq5YCBqdrWGafxO6ujKBOiaOMKsdQUCIN5IMN0l2dlPQNALmm7cfLjWicoeXMY/640?wx_fmt=png&from=appmsg)
+
+![image](https://mmbiz.qpic.cn/sz_mmbiz_png/nJIHJiauQqnzXSV9yzSITBljiaZkibxjaGUoD4e7yLVvbIiallkBiaF65pNS3W5UOdorUPVuBFG0CxGWZeP5x14ZMXJFv4TmZMIO9Zibxj2yhudcY/640?wx_fmt=png&from=appmsg)
+
+  
+
+责任编辑：尹思琦
+
+欢迎订阅寻熵研究院研究报告《中国储能市场2025年分析与2026年展望》《2025年储能市场招投标及价格全景分析》《2025年储能市场政策及典型收益模式分析》《中国用户侧储能发展报告2025》《中国独立储能发展报告2025》。
+
+  
+
+可联系「储能与电力市场」小助手，储储，获取相关报告信息。
+
+  
+
+联系电话：**15801531578**（微信同号）
+
+微信账号：**ESSpartners**
+
+  
+
+![image](https://mmbiz.qpic.cn/mmbiz_png/nJIHJiauQqnwPpHRnIub7mUN6ziaJjk14c13uT9rMI3RkTr9vficCicosT2D03OQhUzVmzutY1W5mUlRgO9czmlhNsG5iae3nnicFBA6yYeZWwcyc/640?wx_fmt=png&from=appmsg)[
+
+#新疆储能项目][#2026储能中标]
+

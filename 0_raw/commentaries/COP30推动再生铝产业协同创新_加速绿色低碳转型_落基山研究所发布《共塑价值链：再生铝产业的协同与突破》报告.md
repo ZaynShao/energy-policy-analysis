@@ -4,11 +4,10 @@ source_account: "落基山研究所"
 source_url: "https://mp.weixin.qq.com/s/ui_puk8Wk7uQmwpEZ3WXAQ"
 date_published: 2025-11-19
 fetched_at: 2026-04-28T20:52:51+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: cross
 source: wewe-rss
 ---
-
 # COP30|推动再生铝产业协同创新 加速绿色低碳转型 落基山研究所发布《共塑价值链：再生铝产业的协同与突破》报告
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/hCTyPplPRu0Enibmdauq5SIUicfLVCLiao21Fzs7az0Xs7UT9TSN6FVl46HciaTMkoMbD4iade4flYic9L5SWTKiaKnVQ/640?wx_fmt=png&from=appmsg)

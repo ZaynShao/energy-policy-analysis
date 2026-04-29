@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/6w7_n2l4lpGy7vWQum5uPw"
 date_published: 2026-04-15
 fetched_at: 2026-04-28T20:52:47+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 小鹏造了“广州揽胜”，还要能跑Robotaxi
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/RaRCbSicibjeX1Ee9FRCc9C3yDhJwXFCQC6V5agPMyXzxe4icpzibT7TNYEMASbr3yw1d2gOofA0GFfBTWGMOBRtSWqfWk1xIleTfQVF2HeDdSo/640?wx_fmt=png&from=appmsg)

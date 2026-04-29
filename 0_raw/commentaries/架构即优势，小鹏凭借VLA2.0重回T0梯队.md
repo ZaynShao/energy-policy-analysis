@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/zUPLUFzKvMPMnNKeKsWWsQ"
 date_published: 2026-03-04
 fetched_at: 2026-04-28T20:52:50+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 架构即优势，小鹏凭借VLA2.0重回T0梯队
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/RaRCbSicibjeWukd3ibuH4Eic9kxjrYcjfDdXJ4vzibWoqrFKZ169pdoyqzSvoC7XCyiaQOZ3EviaIZHiaTvIplAiatFCCvFibxR9XDszpxK954Y1Uvu8/640?wx_fmt=jpeg&from=appmsg)

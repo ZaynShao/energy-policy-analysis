@@ -4,11 +4,10 @@ source_account: "落基山研究所"
 source_url: "https://mp.weixin.qq.com/s/lpvSYKVEYOU4L_-y5ijrjw"
 date_published: 2024-11-22
 fetched_at: 2026-04-28T20:52:51+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: cross
 source: wewe-rss
 ---
-
 # COP29|推动可持续投融资生态系统建设 落基山研究所发布《中国气候科技投融资市场洞察与展望》报告
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/hCTyPplPRu0iaDeiaFadwgeNBaLFibuhCiczROI8yNwMgpgPy6DPuEVlY44ZiaRt64dmyzr54MkJLaQc8nVVIPlnSnQ/640?wx_fmt=png&from=appmsg)

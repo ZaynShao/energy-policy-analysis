@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/Ky-QWUUXUtLMu69H4casnQ"
 date_published: 2026-03-19
 fetched_at: 2026-04-28T20:52:49+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 智己也来“养龙虾” ：拿下汽车行业首个AI 智能体，大模型同步上车
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/RaRCbSicibjeUxnCjvM4FgU7ZfCIyTFWTrt4JASPDaicxbqHqCicaUQ8mGehrl6eew3D9KAGmA5VoQag7L0tmc1O6QQTHcmqqQiaichcae4VX3sfM/640?wx_fmt=jpeg)

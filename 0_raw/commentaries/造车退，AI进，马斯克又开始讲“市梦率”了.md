@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/8zOpjsCXVD-QJb3f67yS6Q"
 date_published: 2026-01-29
 fetched_at: 2026-04-28T20:52:51+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 造车退，AI进，马斯克又开始讲“市梦率”了
 
 ![image](https://mmbiz.qpic.cn/mmbiz_jpg/mHwO9ygJ1KjyDn5icX4vQGM8Stlzh26t7VqbwQvHreewktnLibtCZlicnUtviavIm8IA8X4LaLKicVLVHTQAvwmM6nw/640?wx_fmt=jpeg&from=appmsg)

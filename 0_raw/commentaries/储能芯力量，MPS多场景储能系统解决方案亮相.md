@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/hIvOXB0eBHPWRJQag3k-eA"
 date_published: 2026-04-03
 fetched_at: 2026-04-28T20:52:48+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 储能芯力量，MPS多场景储能系统解决方案亮相
 
 ![image](http://mmbiz.qpic.cn/mmbiz_gif/NKyhsaKovicKztoic7EG3v5AFw4MHpvajcPhBKeD3tELicseb6XCAM8X3orcFBZSQjZGZq1QyPiaUzdia7uTasrmDMA/640?wx_fmt=gif)

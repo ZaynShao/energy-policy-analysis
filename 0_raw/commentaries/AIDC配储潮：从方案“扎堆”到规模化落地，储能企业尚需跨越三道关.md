@@ -4,11 +4,10 @@ source_account: "储能与电力市场"
 source_url: "https://mp.weixin.qq.com/s/0hTyL3jE_nwt44oNddddUw"
 date_published: 2026-04-10
 fetched_at: 2026-04-28T20:52:48+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # AIDC配储潮：从方案“扎堆”到规模化落地，储能企业尚需跨越三道关
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_gif/UlFs2V2deGGKEDibhk7Eia22LDrNLxB6OgxVpll7E3b0mibBZia8uXbfbUsDemdSQhPzJ5VCQ9X8EPp3zQWJ5kCafQ/640?wx_fmt=gif&from=appmsg)  

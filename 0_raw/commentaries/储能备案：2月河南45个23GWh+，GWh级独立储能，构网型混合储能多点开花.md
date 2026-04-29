@@ -4,11 +4,10 @@ source_account: "储能与电力市场"
 source_url: "https://mp.weixin.qq.com/s/RPv_314DBzQJwU9f3Lojng"
 date_published: 2026-03-28
 fetched_at: 2026-04-28T20:52:49+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 储能备案：2月河南45个23GWh+，GWh级独立储能，构网型/混合储能多点开花
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_gif/UlFs2V2deGGKEDibhk7Eia22LDrNLxB6OgxVpll7E3b0mibBZia8uXbfbUsDemdSQhPzJ5VCQ9X8EPp3zQWJ5kCafQ/640?wx_fmt=gif&from=appmsg)  

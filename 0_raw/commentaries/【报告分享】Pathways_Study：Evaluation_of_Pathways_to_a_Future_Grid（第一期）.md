@@ -4,11 +4,10 @@ source_account: "电力市场与价格洞察"
 source_url: "https://mp.weixin.qq.com/s/FuE_HPAYwo0RXQaZqt18_g"
 date_published: 2026-04-13
 fetched_at: 2026-04-28T20:52:47+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 【报告分享】Pathways Study：Evaluation of Pathways to a Future Grid（第一期）
 
 美国新英格兰独立系统运营商（ISO New England）作为美国新英格兰地区六个州（康涅狄格、缅因、马萨诸塞、新罕布什尔、罗德岛、佛蒙特）的区域电网运营商，负责该地区电力系统的可靠运行与批发市场的组织管理。随着各州陆续出台具有法律约束力的温室气体减排目标（多数要求2050年较1990年减排80%），其意识到传统的电力市场设计可能难以承接大规模新能源接入和终端用能电气化带来的深刻变革，亟需前瞻性地评估不同市场政策机制在实现深度减碳目标过程中的经济性、可行性及潜在风险。

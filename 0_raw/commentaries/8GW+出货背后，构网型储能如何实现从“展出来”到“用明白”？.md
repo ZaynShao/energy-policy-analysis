@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/7R56w56AJGqczxDzqBoFrg"
 date_published: 2026-04-22
 fetched_at: 2026-04-28T20:52:46+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 8GW+出货背后，构网型储能如何实现从“展出来”到“用明白”？
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/bhqZZ4eZhIum4ulrdM7cOPMmaLiblRT4WDIYq2ibcw4w8xgHicp5kcha0raKhEYhEJcoja9N9JgW46MtqKTick3HaUdoUAuhgKel5MV6iceSrLe8/640?wx_fmt=jpeg&from=appmsg)

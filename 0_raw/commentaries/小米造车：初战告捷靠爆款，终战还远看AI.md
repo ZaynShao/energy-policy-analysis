@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/qDasIEVb-EY3y8TapyBG7Q"
 date_published: 2026-03-25
 fetched_at: 2026-04-28T20:52:49+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 小米造车：初战告捷靠爆款，终战还远看AI
 
 ![image](https://mmbiz.qpic.cn/mmbiz_jpg/RaRCbSicibjeXHBMEQ2ibtvicbuGia3pElHlz1wuVPiaVrX9gSsB2vickibM7SSSFOmMGAjP9pwMSgiamuyyeicXhr0XiaQkXTQtHCWQYibP1yBtMXbqxic8/640?wx_fmt=jpeg&from=appmsg)

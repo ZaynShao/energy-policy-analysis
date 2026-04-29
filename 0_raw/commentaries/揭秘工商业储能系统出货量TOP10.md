@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/QD-FmyClArA_joY-JmSHHg"
 date_published: 2026-03-30
 fetched_at: 2026-04-28T20:52:48+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 揭秘工商业储能系统出货量TOP10
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/bhqZZ4eZhIuJ3cDxiaaCbu8sELRXIlnSppAaDYfwlCK3KtRcuKYZnricCeSUs6cmB2abCpdgswIxRXUeiczPyjpql32ibT6vqiaB5uUKhYwaYWA8/640?wx_fmt=png&from=appmsg)

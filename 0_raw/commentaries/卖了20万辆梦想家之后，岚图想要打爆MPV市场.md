@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/2T3_D6cgM9KD4oTQVjHdEg"
 date_published: 2026-03-10
 fetched_at: 2026-04-28T20:52:50+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 卖了20万辆梦想家之后，岚图想要打爆MPV市场
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/RaRCbSicibjeV43JwILgxxutTcqzWaokjibIIc2n26Erv4MyP7HvPBEGaJwxVoTp86PDDgwic6IYx6gxp5tAiaqJODW3qZ7trmxuGoAV1Ibibhgibg/640?wx_fmt=png&from=appmsg)

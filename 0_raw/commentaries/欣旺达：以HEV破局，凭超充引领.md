@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/nFf-B-XIitc9okPqaCAqJw"
 date_published: 2026-04-08
 fetched_at: 2026-04-28T20:52:48+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 欣旺达：以HEV破局，凭超充引领
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/RaRCbSicibjeWvH1pjqQRqnhcWYdHhevBw7GIBibPwmXjicdjsnplG89u8P2k75fqooTiaa5M8PJKj9bvibnibkticoS373sno4RibXpT3lOOTg1icH68/640?wx_fmt=png&from=appmsg)

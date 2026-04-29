@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/vmj91fTNaMILW6YNWXu0Vg"
 date_published: 2026-04-25
 fetched_at: 2026-04-28T20:52:46+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # AIDC微秒级供电困局：锂电池追不上的缺口，电容来填
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/bhqZZ4eZhIvwLt8WmpzNTG6MicaHWQlAn2L583UxZVGdmRrJBBUCWC76w7p7zzkE5j7icOgiaVF3DJudLDsiag4qhfjahMUWEcTMXW5ykZO1Gc4/640?wx_fmt=png&from=appmsg)

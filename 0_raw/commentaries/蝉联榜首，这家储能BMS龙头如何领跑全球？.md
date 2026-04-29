@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/UOvq2aFno51x9lGisRXVUw"
 date_published: 2026-04-07
 fetched_at: 2026-04-28T20:52:48+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 蝉联榜首，这家储能BMS龙头如何领跑全球？
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/bhqZZ4eZhIuw5dRdD2ohJbNJKXm1kPibVILV03ibxepYLU1xb5QMVBY4NDia5bC9VJxHsY6aYswW1w9oNb0qPNJUOvZ5DKZibia6cpIgicP1Hv4rM/640?wx_fmt=png&from=appmsg)

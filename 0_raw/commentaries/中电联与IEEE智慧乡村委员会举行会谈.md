@@ -4,11 +4,10 @@ source_account: "中国电力企业联合会"
 source_url: "https://mp.weixin.qq.com/s/OETHT-1kETz7Xv0LGlShvA"
 date_published: 2026-04-14
 fetched_at: 2026-04-28T20:52:47+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 中电联与IEEE智慧乡村委员会举行会谈
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_gif/3f8yKfXErDpYxZHc3XfQCDhYFxL97zuUGTibrVEuiaPD2aj5UzcLiaYyvearkD9RvkkYu4kic8SVu9TL4loSq4XZicQ/640?wx_fmt=gif&from=appmsg)

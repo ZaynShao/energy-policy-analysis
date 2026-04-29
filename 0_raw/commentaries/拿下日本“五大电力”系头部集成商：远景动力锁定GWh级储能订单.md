@@ -4,11 +4,10 @@ source_account: "储能与电力市场"
 source_url: "https://mp.weixin.qq.com/s/X6G_8o1ioMwoR8w6lg1V0w"
 date_published: 2026-03-20
 fetched_at: 2026-04-28T20:52:49+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 拿下日本“五大电力”系头部集成商：远景动力锁定GWh级储能订单
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_gif/UlFs2V2deGGKEDibhk7Eia22LDrNLxB6OgxVpll7E3b0mibBZia8uXbfbUsDemdSQhPzJ5VCQ9X8EPp3zQWJ5kCafQ/640?wx_fmt=gif&from=appmsg)  

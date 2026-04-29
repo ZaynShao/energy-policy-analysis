@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/p0b1fTuX09PKXav2CgmP2g"
 date_published: 2026-04-16
 fetched_at: 2026-04-28T20:52:47+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 储能企业为何扎堆AIDC备电？
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/bhqZZ4eZhItBtlGJ95r0bemU7qI250LySmvwwaeibs3u1ibMpLPjZCuvmlxhSKGpxVJMZ8xrFGwRHic5JNsLrJLP5KQnl0wa12aD4CBOuhAp6I/640?wx_fmt=png&from=appmsg)

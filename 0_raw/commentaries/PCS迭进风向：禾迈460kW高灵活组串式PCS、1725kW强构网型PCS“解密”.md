@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/oszWWIfVGboAMYYE-bT-Tw"
 date_published: 2026-04-08
 fetched_at: 2026-04-28T20:52:48+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # PCS迭进风向：禾迈460kW高灵活组串式PCS、1725kW强构网型PCS“解密”
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/bhqZZ4eZhItBtlGJ95r0bemU7qI250LySmvwwaeibs3u1ibMpLPjZCuvmlxhSKGpxVJMZ8xrFGwRHic5JNsLrJLP5KQnl0wa12aD4CBOuhAp6I/640?wx_fmt=png&from=appmsg)

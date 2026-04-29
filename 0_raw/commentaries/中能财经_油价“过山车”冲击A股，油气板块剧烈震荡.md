@@ -4,11 +4,10 @@ source_account: "中能传媒研究院"
 source_url: "https://mp.weixin.qq.com/s/8Z72cL7ZKyid0bw1rDDbdw"
 date_published: 2026-03-26
 fetched_at: 2026-04-28T20:52:49+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 中能财经 | 油价“过山车”冲击A股，油气板块剧烈震荡
 
 **油价“过山车”冲击A股，油气板块剧烈震荡****  

@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/iM9j7s1AbEPGWJaBk5srcw"
 date_published: 2026-04-02
 fetched_at: 2026-04-28T20:52:48+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # AIDC全域融合方案首发！天合+科华重磅联盟
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/bhqZZ4eZhIvqJic9kCTC7jolAuxxwZxFtET17bYUBicdiarx6AVDoB31abH6ugicB8bSD6f1yc66bT04xbYLmCdTSfKUbxDNJC0ictGt0HZXpXT8/640?wx_fmt=jpeg&from=appmsg)

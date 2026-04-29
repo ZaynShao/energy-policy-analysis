@@ -4,11 +4,10 @@ source_account: "储能与电力市场"
 source_url: "https://mp.weixin.qq.com/s/hVXCtZ7h9cuCzBrptrSpdg"
 date_published: 2026-04-27
 fetched_at: 2026-04-28T20:52:46+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # 主动防御新范式：西清能源 “AI +储能”重构电站安全体系
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/UlFs2V2deGGKEDibhk7Eia22LDrNLxB6OgxVpll7E3b0mibBZia8uXbfbUsDemdSQhPzJ5VCQ9X8EPp3zQWJ5kCafQ/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)

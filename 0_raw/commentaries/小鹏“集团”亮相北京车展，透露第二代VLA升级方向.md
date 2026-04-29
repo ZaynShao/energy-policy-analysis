@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/S8aiHeyGJW1T_aa7t2_9mg"
 date_published: 2026-04-25
 fetched_at: 2026-04-28T20:52:46+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 小鹏“集团”亮相北京车展，透露第二代VLA升级方向
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/RaRCbSicibjeWdbT4TQCYUK0bHOUkez9VrNbgpXyhIPRxLRTIYw1vKjJVnugiaMxeSxK14UIhzsP0sVbPnGQvPo0fmZf1Vy9LsIia2oibz9brC3M/640?wx_fmt=png&from=appmsg)

@@ -4,11 +4,10 @@ source_account: "高工储能"
 source_url: "https://mp.weixin.qq.com/s/4ry38cuoA1z6zIyM9g-_Kg"
 date_published: 2026-04-25
 fetched_at: 2026-04-28T20:52:46+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: power
 source: wewe-rss
 ---
-
 # AIDC算电协同会议观察：千亿级液冷“风暴”
 
 ![image](https://mmbiz.qpic.cn/sz_mmbiz_png/bhqZZ4eZhIvkAen9S6XF07oChz9czicgoxuFy48ObpkYF6lP8W7UtX3eX0rjovr5qDaEmMpATXU3aLFpP4FX0T7uQgQ5gBD1fftqW9rS3wpg/640?wx_fmt=png&from=appmsg)

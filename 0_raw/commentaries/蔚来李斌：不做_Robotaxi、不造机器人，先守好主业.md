@@ -4,11 +4,10 @@ source_account: "电动汽车观察家"
 source_url: "https://mp.weixin.qq.com/s/Wt2glBUq9nED8pflKZReCA"
 date_published: 2026-04-12
 fetched_at: 2026-04-28T20:52:47+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: charging
 source: wewe-rss
 ---
-
 # 蔚来李斌：不做 Robotaxi、不造机器人，先守好主业
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/RaRCbSicibjeVcZgQm9jMY7yy1snnkkLjvpsvo76iaF55E9fPFyqm6JbQ2cWZ8MibsVd5A1eh17D8KicTGanYgRYYwqjnIhXDpic4pfNbVXE3SElE/640?wx_fmt=png&from=appmsg)****

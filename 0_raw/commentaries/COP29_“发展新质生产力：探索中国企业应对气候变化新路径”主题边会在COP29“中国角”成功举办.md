@@ -4,11 +4,10 @@ source_account: "落基山研究所"
 source_url: "https://mp.weixin.qq.com/s/uMDhugYhLuYOW0n9Ix6I4g"
 date_published: 2024-11-21
 fetched_at: 2026-04-28T20:52:51+08:00
-commentary_type: 待分类
+commentary_type: A
 business_tag: cross
 source: wewe-rss
 ---
-
 # COP29| “发展新质生产力：探索中国企业应对气候变化新路径”主题边会在COP29“中国角”成功举办
 
 ![image](https://mmbiz.qpic.cn/mmbiz_png/hCTyPplPRu0iaDeiaFadwgeNBaLFibuhCiczROI8yNwMgpgPy6DPuEVlY44ZiaRt64dmyzr54MkJLaQc8nVVIPlnSnQ/640?wx_fmt=png&from=appmsg)
