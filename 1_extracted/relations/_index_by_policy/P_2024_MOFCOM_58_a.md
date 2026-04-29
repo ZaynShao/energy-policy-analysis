@@ -2,7 +2,8 @@
 policy_id: P_2024_MOFCOM_58_a
 title: 推动消费品以旧换新行动方案
 inbound_edge_count: 3
-last_updated: '2026-04-29T22:40:05+08:00'
+outbound_edge_count: 1
+last_updated: '2026-04-29T23:30:52+08:00'
 policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0.md
 ---
 
@@ -16,3 +17,9 @@ policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(
 ## 被细化 (clarified_by) — 1
 
 - [[P_2024_MOFCOM_75_b]] — 汽车以旧换新补贴实施细则 (2024-04-24)
+
+# 出向引用:P_2024_MOFCOM_58_a
+
+## 引用为依据 — 1
+
+- [[P_2024_SC_7]] — 推动大规模设备更新和消费品以旧换新行动方案 (2024-03-07)

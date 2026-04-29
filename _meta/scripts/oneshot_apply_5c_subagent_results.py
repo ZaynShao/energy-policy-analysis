@@ -121,6 +121,29 @@ def upsert_jsonl(path: Path, key: str, row: dict):
     )
 
 
+def replace_jsonl_group(path: Path, group_key: str, group_value, new_rows: list):
+    """删除所有 row[group_key] == group_value 的旧行,append new_rows(可多行)。
+    用于 derives_from 这种"一个 from 可派生多条 to"的关系。"""
+    rows = []
+    if path.exists():
+        for line in path.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                r = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if r.get(group_key) != group_value:
+                rows.append(r)
+    rows.extend(new_rows)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in rows) + "\n",
+        encoding="utf-8",
+    )
+
+
 def merge_business_view(pid: str, fields: dict, rerun: bool = True):
     bv_path = BV / f"{pid}.yaml"
     if bv_path.exists():
@@ -196,26 +219,54 @@ def apply_one(rec: dict, pid_index: dict, stats: dict, skip_march: bool = True):
     )
     stats["summaries_upgraded"] += 1
 
-    # 3) derives_from.jsonl(仅 is_national_level_originated=False 且有 source_title + linkage_type)
+    # 3) derives_from.jsonl - 支持新版 (primary + secondary list) 和旧版 (单一 source_title) 两种 schema
     if national_source and not national_source.get("is_national_level_originated"):
-        source_title = (national_source.get("source_title") or "").strip()
-        linkage_type = national_source.get("linkage_type")
         evidence = (national_source.get("evidence") or "")[:300]
-        if source_title and linkage_type in ("直接落地", "借鉴框架", "主题对应"):
+        sources = []  # 收集所有 (title, linkage_type) 待 resolve
+
+        # 新版 schema: primary_source + secondary_sources
+        primary = national_source.get("primary_source")
+        if primary and isinstance(primary, dict):
+            t = (primary.get("title_or_official") or "").strip()
+            lt = primary.get("linkage_type")
+            if t and lt in ("直接落地", "借鉴框架", "主题对应"):
+                sources.append((t, lt, "primary"))
+        for s in (national_source.get("secondary_sources") or []):
+            if not isinstance(s, dict):
+                continue
+            t = (s.get("title_or_official") or "").strip()
+            lt = s.get("linkage_type")
+            if t and lt in ("直接落地", "借鉴框架", "主题对应"):
+                sources.append((t, lt, "secondary"))
+
+        # 旧版 schema fallback: 单一 source_title + linkage_type
+        if not sources:
+            source_title = (national_source.get("source_title") or "").strip()
+            linkage_type = national_source.get("linkage_type")
+            if source_title and linkage_type in ("直接落地", "借鉴framework", "借鉴框架", "主题对应"):
+                sources.append((source_title, linkage_type, "primary"))
+
+        # resolve 每条 source 并产生多行
+        new_rows = []
+        for source_title, linkage_type, role in sources:
             target_pid = resolve_pid(source_title, pid_index)
-            row = {
+            new_rows.append({
                 "from": pid,
                 "to": target_pid,
                 "to_title": source_title,
                 "rel": "derives_from",
                 "linkage_type": linkage_type,
+                "role": role,  # primary / secondary
                 "evidence": evidence,
-                "confidence": 0.85,
+                "confidence": 0.85 if role == "primary" else 0.7,
                 "extracted_by": SCRIPT_TAG,
                 "extracted_at": NOW_ISO,
-            }
-            upsert_jsonl(DERIVES_FROM, "from", row)
-            stats["derives_written"] += 1
+            })
+
+        if new_rows:
+            # 替换该 from 的所有旧行,append 新行(支持一对多)
+            replace_jsonl_group(DERIVES_FROM, "from", pid, new_rows)
+            stats["derives_written"] += len(new_rows)
 
 
 def main():

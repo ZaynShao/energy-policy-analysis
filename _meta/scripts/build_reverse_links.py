@@ -32,8 +32,8 @@ OUTPUT_DIR = RELATIONS_DIR / "_index_by_policy"
 
 CST = timezone(timedelta(hours=8))
 
-# 9 类出向 → 入向 section 标签 (按 schema_v3.md §6.4 命名表)
-REL_TO_SECTION_LABEL = {
+# 9 类入向 section 标签(被动式,target 视角)
+REL_TO_INBOUND_LABEL = {
     "cites_basis":    "被引为依据 (cited_as_basis_by)",
     "supersedes":     "被废止 (superseded_by)",
     "iterates":       "被迭代 (iterated_by)",
@@ -45,7 +45,20 @@ REL_TO_SECTION_LABEL = {
     "derives_from":   "被落地 (landed_by)",
 }
 
-# 反链文件内 section 出现顺序 (cites_basis 优先,演进类次之,派生类压轴)
+# 9 类出向 section 标签(主动式,source 视角)
+REL_TO_OUTBOUND_LABEL = {
+    "cites_basis":    "引用为依据",
+    "supersedes":     "废止了",
+    "iterates":       "迭代了",
+    "extends":        "扩展了",
+    "clarifies":      "细化了",
+    "references":     "引用了",
+    "aligns_with":    "对齐了",
+    "conflicts_with": "冲突于",
+    "derives_from":   "派生自",
+}
+
+# section 出现顺序
 SECTION_ORDER = [
     "cites_basis",
     "supersedes",
@@ -95,6 +108,23 @@ def build_id_to_meta():
     return id_to_meta
 
 
+def render_section(lines, label, edges, peer_key):
+    """渲染单个 section,edges 已排序。peer_key='from_id'(入向)或 'to_id'(出向)"""
+    lines.append(f"## {label} — {len(edges)}")
+    lines.append("")
+    for e in edges:
+        pid = e[peer_key]
+        ptitle = (e.get("peer_title") or "").strip()
+        pdate = (e.get("peer_date") or "")[:10] or "—"
+        lt = e.get("linkage_type")
+        suffix = f" [{lt}]" if lt else ""
+        if ptitle:
+            lines.append(f"- [[{pid}]] — {ptitle} ({pdate}){suffix}")
+        else:
+            lines.append(f"- [[{pid}]] ({pdate}){suffix}")
+    lines.append("")
+
+
 def main():
     print(f"[init] vault:    {VAULT_ROOT}")
     print(f"[init] output:   {OUTPUT_DIR}")
@@ -102,8 +132,11 @@ def main():
     id_to_meta = build_id_to_meta()
     print(f"[init] policies indexed: {len(id_to_meta)}")
 
-    # 收集 inbound: target_id → {rel: [edges...]}
+    # 双向收集:
+    #   inbound[to_id][rel]   = list of edges (peer = from)
+    #   outbound[from_id][rel] = list of edges (peer = to)
     inbound = defaultdict(lambda: defaultdict(list))
+    outbound = defaultdict(lambda: defaultdict(list))
     rel_files_seen = 0
     total_edges = 0
 
@@ -125,20 +158,34 @@ def main():
                     continue
                 from_id = edge.get("from")
                 to_id = edge.get("to")
-                if not (from_id and to_id):
+                linkage_type = edge.get("linkage_type")
+
+                if not from_id:
                     continue
+
+                # 出向:always 收集(只要 from_id 存在;to 可 null e.g. derives_from to=null)
                 from_meta = id_to_meta.get(from_id, {})
-                inbound[to_id][rel].append({
-                    "from_id": from_id,
-                    "from_title": from_meta.get("title", ""),
-                    "from_date": from_meta.get("date", ""),
-                    "linkage_type": edge.get("linkage_type"),
-                })
-                total_edges += 1
+                if to_id:
+                    to_meta = id_to_meta.get(to_id, {})
+                    outbound[from_id][rel].append({
+                        "to_id": to_id,
+                        "peer_title": to_meta.get("title", ""),
+                        "peer_date": to_meta.get("date", ""),
+                        "linkage_type": linkage_type,
+                    })
+                    # 入向:仅 to_id 存在时
+                    inbound[to_id][rel].append({
+                        "from_id": from_id,
+                        "peer_title": from_meta.get("title", ""),
+                        "peer_date": from_meta.get("date", ""),
+                        "linkage_type": linkage_type,
+                    })
+                    total_edges += 1
 
     print(f"[init] relation files seen:   {rel_files_seen}/{len(SECTION_ORDER)}")
-    print(f"[init] total inbound edges:   {total_edges}")
-    print(f"[init] unique targets:        {len(inbound)}")
+    print(f"[init] total edges (with to): {total_edges}")
+    print(f"[init] unique inbound targets:  {len(inbound)}")
+    print(f"[init] unique outbound sources: {len(outbound)}")
 
     # 安全检查 + 清空旧反链
     if "_index_by_policy" not in str(OUTPUT_DIR):
@@ -152,27 +199,33 @@ def main():
     if old_count:
         print(f"[init] removed {old_count} old reverse-link files")
 
-    # 生成反链
+    # 生成双向反链页:任何 pid 在 inbound ∪ outbound 任一非空就生成
+    all_pids = set(inbound.keys()) | set(outbound.keys())
     written = 0
-    for target_id, rels in inbound.items():
-        target_meta = id_to_meta.get(target_id, {})
-        target_title = target_meta.get("title", "")
-        target_file_name = target_meta.get("file_name", "")
-        total_inbound = sum(len(v) for v in rels.values())
+    for pid in all_pids:
+        meta = id_to_meta.get(pid, {})
+        title = meta.get("title", "")
+        file_name = meta.get("file_name", "")
+        in_rels = inbound.get(pid, {})
+        out_rels = outbound.get(pid, {})
+        in_count = sum(len(v) for v in in_rels.values())
+        out_count = sum(len(v) for v in out_rels.values())
 
-        # 每个 section 内按 from_date 倒序
-        for rel_key in rels:
-            rels[rel_key].sort(key=lambda e: e["from_date"] or "", reverse=True)
+        # 各 section 内按 peer_date 倒序
+        for rel_key in in_rels:
+            in_rels[rel_key].sort(key=lambda e: e.get("peer_date") or "", reverse=True)
+        for rel_key in out_rels:
+            out_rels[rel_key].sort(key=lambda e: e.get("peer_date") or "", reverse=True)
 
-        # frontmatter dict (保插入顺序,sort_keys=False)
         fm = {
-            "policy_id": target_id,
-            "title": target_title,
-            "inbound_edge_count": total_inbound,
+            "policy_id": pid,
+            "title": title,
+            "inbound_edge_count": in_count,
+            "outbound_edge_count": out_count,
             "last_updated": cn_now_iso(),
         }
-        if target_file_name:
-            fm["policy_file"] = f"../../../0_raw/policies/{target_file_name}"
+        if file_name:
+            fm["policy_file"] = f"../../../0_raw/policies/{file_name}"
         else:
             fm["target_in_vault"] = False
 
@@ -180,45 +233,43 @@ def main():
             fm, allow_unicode=True, default_flow_style=False, sort_keys=False
         ).rstrip()
 
-        lines = ["---", fm_yaml, "---", "", f"# 入向反链:{target_id}", ""]
+        lines = ["---", fm_yaml, "---", ""]
 
-        for rel_key in SECTION_ORDER:
-            if rel_key not in rels:
-                continue
-            edges = rels[rel_key]
-            label = REL_TO_SECTION_LABEL[rel_key]
-            lines.append(f"## {label} — {len(edges)}")
+        # 入向区
+        if in_count:
+            lines.append(f"# 入向反链:{pid}")
             lines.append("")
-            for e in edges:
-                fid = e["from_id"]
-                ftitle = (e["from_title"] or "").strip()
-                fdate = (e["from_date"] or "")[:10] or "—"
-                lt = e.get("linkage_type")
-                suffix = f" [{lt}]" if lt else ""
-                if ftitle:
-                    lines.append(f"- [[{fid}]] — {ftitle} ({fdate}){suffix}")
-                else:
-                    lines.append(f"- [[{fid}]] ({fdate}){suffix}")
-            lines.append("")
+            for rel_key in SECTION_ORDER:
+                if rel_key not in in_rels:
+                    continue
+                render_section(lines, REL_TO_INBOUND_LABEL[rel_key],
+                               in_rels[rel_key], peer_key="from_id")
 
-        out_file = OUTPUT_DIR / f"{target_id}.md"
+        # 出向区(双向化新增,2026-04-29)
+        if out_count:
+            lines.append(f"# 出向引用:{pid}")
+            lines.append("")
+            for rel_key in SECTION_ORDER:
+                if rel_key not in out_rels:
+                    continue
+                render_section(lines, REL_TO_OUTBOUND_LABEL[rel_key],
+                               out_rels[rel_key], peer_key="to_id")
+
+        out_file = OUTPUT_DIR / f"{pid}.md"
         out_file.write_text("\n".join(lines), encoding="utf-8")
         written += 1
 
-    print(f"\n[done] {written} 反链页生成")
+    print(f"\n[done] {written} 反链页生成 (双向化)")
 
     # breakdown
-    section_target_count = defaultdict(int)
-    for target_id, rels in inbound.items():
-        for rel_key in rels:
-            section_target_count[rel_key] += 1
-    print("\n[breakdown] (target 数 = 有该入向的政策数)")
+    print("\n[breakdown] (target 数 = 有该方向边的 pid 数)")
+    print(f"  {'rel':<16}  {'inbound (T/E)':<20}  {'outbound (T/E)':<20}")
     for rel in SECTION_ORDER:
-        n_targets = section_target_count.get(rel, 0)
-        n_edges = sum(
-            len(rels[rel]) for target_id, rels in inbound.items() if rel in rels
-        )
-        print(f"  {rel:<16}  {n_targets:4d} targets  /  {n_edges:4d} edges")
+        in_t = sum(1 for r in inbound.values() if rel in r)
+        in_e = sum(len(r[rel]) for r in inbound.values() if rel in r)
+        out_t = sum(1 for r in outbound.values() if rel in r)
+        out_e = sum(len(r[rel]) for r in outbound.values() if rel in r)
+        print(f"  {rel:<16}  {in_t:4d} T / {in_e:4d} E       {out_t:4d} T / {out_e:4d} E")
 
 
 if __name__ == "__main__":
