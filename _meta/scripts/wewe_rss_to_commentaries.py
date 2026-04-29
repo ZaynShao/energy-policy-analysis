@@ -69,6 +69,9 @@ DEFAULT_BUSINESS = "cross"
 
 # 标题噪音黑名单(2026-04-28 实测分布定的中度版,粗过滤)
 # 命中 → wrapper 直接跳过,不入库。剩下的进库 + 后续 audit + LLM 精判 A 类
+# 2026-04-29 + 共享 A1/B1 行情/月报/法律/化工正则(_noise_patterns.JUNK_TITLE_REGEXES)
+from _noise_patterns import JUNK_TITLE_REGEXES  # noqa: E402
+
 NOISE_PATTERNS = [
     # === 行政通报型(高确定 C) ===
     (re.compile(r"召开|工作会议|工作会|座谈会|联席会|协调会|动员会|交流会|会议召开|圆满举办"), "会议通报"),
@@ -86,6 +89,8 @@ NOISE_PATTERNS = [
     (re.compile(r"^\s*【\s*媒体报道\s*】"), "转发媒体"),
     (re.compile(r"^\s*行业要闻\s*[|｜]"), "转发行业要闻"),
     (re.compile(r"招标[^a-zA-Z]|招标$|招标投标|招标公告|招标采购"), "商业招标"),
+    # === 行情/月报/法律/化工(2026-04-29 共享自 _noise_patterns,A1/B1 同源) ===
+    *JUNK_TITLE_REGEXES,
 ]
 
 
@@ -211,6 +216,70 @@ def write_item(item: dict, output_dir: Path, business_tag: str) -> Path | None:
     return dest
 
 
+def run_dry_run_against_existing(commentaries_dir: Path) -> None:
+    """扫现有 commentaries title 跑新 NOISE_PATTERNS,验证黑名单升级是否合理。
+
+    输出:命中数 / 各 bucket 分布 / FP(命中但已 linked)/ 抽样
+    """
+    import yaml as _yaml
+
+    fm_re = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
+    files = sorted(commentaries_dir.glob("*.md"))
+    total = len(files)
+    hits = 0
+    bucket_counts: dict[str, int] = {}
+    fp_count = 0
+    fp_samples: list[tuple[str, str, str]] = []
+    hit_samples: dict[str, list[tuple[str, str]]] = {}
+
+    for f in files:
+        text = f.read_text(encoding="utf-8", errors="ignore")
+        m = fm_re.match(text)
+        if not m:
+            continue
+        try:
+            fm = _yaml.safe_load(m.group(1)) or {}
+        except _yaml.YAMLError:
+            continue
+        title = (fm.get("title") or f.stem).strip()
+        bucket = title_noise_bucket(title)
+        if not bucket:
+            continue
+        hits += 1
+        bucket_counts[bucket] = bucket_counts.get(bucket, 0) + 1
+
+        is_linked = fm.get("related_policy") not in (None, "", [], "~")
+        if is_linked:
+            fp_count += 1
+            if len(fp_samples) < 10:
+                fp_samples.append((f.name, fm.get("source_account") or "", title))
+        else:
+            samples = hit_samples.setdefault(bucket, [])
+            if len(samples) < 3:
+                samples.append((fm.get("source_account") or "", title))
+
+    print(f"\n=== dry-run against existing {total} commentaries ===")
+    print(f"命中 NOISE_PATTERNS: {hits} / {total} = {hits/total*100:.1f}%")
+    print(f"FP(命中 但 已 linked): {fp_count} / {hits} = {fp_count/max(hits,1)*100:.1f}%")
+    print(f"  门槛: 命中 ≥ 20%(≥{int(total*0.20)})且 FP ≤ 5%")
+    print("\n  各 bucket 分布:")
+    for name, n in sorted(bucket_counts.items(), key=lambda x: -x[1]):
+        print(f"    {name}: {n}")
+
+    if fp_samples:
+        print("\n  FP 抽样(命中但已 linked,可能误伤):")
+        for fname, acc, title in fp_samples:
+            print(f"    • [{acc}] {title[:80]}")
+
+    print("\n  命中抽样(按 bucket 各 3 条,未 linked):")
+    for bucket, sams in sorted(hit_samples.items()):
+        if not sams:
+            continue
+        print(f"    [{bucket}]")
+        for acc, title in sams:
+            print(f"      • [{acc}] {title[:80]}")
+
+
 def main():
     p = argparse.ArgumentParser(
         description=__doc__,
@@ -223,7 +292,16 @@ def main():
     p.add_argument("--timeout", type=int, default=300, help="HTTP 超时秒数")
     p.add_argument("--dry-run", action="store_true", help="只打印不写文件")
     p.add_argument("--no-filter", action="store_true", help="禁用标题噪音黑名单(不推荐)")
+    p.add_argument(
+        "--dry-run-against-existing",
+        action="store_true",
+        help="不连 feed,扫现有 0_raw/commentaries/ 跑新 NOISE_PATTERNS,统计命中数 + FP",
+    )
     args = p.parse_args()
+
+    if args.dry_run_against_existing:
+        run_dry_run_against_existing(Path(args.output_dir))
+        return
 
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
