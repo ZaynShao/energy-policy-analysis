@@ -182,7 +182,7 @@ provenance:
 
 ---
 
-## 6. 政策 ↔ 政策 关系(8 类)
+## 6. 政策 ↔ 政策 关系(9 类)
 
 每类一份独立 jsonl,放在 `1_extracted/relations/<rel>.jsonl`。
 
@@ -196,6 +196,7 @@ provenance:
 | `aligns_with` | 不同部门同主题对齐 | LLM + 主题向量相似度 |
 | `conflicts_with` | 内容冲突(罕见但关键,如部委间口径差异) | LLM 仅扫高分政策对(成本控制) |
 | `cites_basis` | 显式"作为制定依据"引用("根据 X 政策"/"依据 X 文件" 出现在政策开头段) | 位置过滤(references 子集 + 开头段) + LLM 语义判定 + 标题引用补漏 |
+| `derives_from` | 国家级追溯(省/市级政策派生自国家级文件) | Step 5C LLM 输出 `national_source` 字段后,脚本 resolve `source_title` → `to_pid`(或 `to=null` + `to_title`) |
 
 ### 6.1 jsonl 行格式
 
@@ -347,6 +348,71 @@ vault 263 政策(2026-04-29 实测):双向 58 / 仅入向 47 / 仅出向 70 / �
 ```
 
 仅出向政策(70 个)也会**生成反链页**(只有出向区,无入向区),让"新政策视角"可见。
+
+### 6.7 derives_from(第 9 类)特殊性
+
+2026-04-29 A+ 重构引入。与典型 8 类 relation 不同的两点:
+
+**(1) Step 5C LLM 一次产出,脚本 split 写**
+
+不像 cites_basis / supersedes 等是独立 regex+LLM 抽取流程,`derives_from` 是 Step 5C 业务侧派生 LLM 调用的副产物。LLM 输出 `national_source.{is_national_level_originated, source_title, linkage_type, evidence}`,脚本 resolve `source_title` → `to_pid`(用 raw 政策的 title / official_number 索引)。
+
+**(2) jsonl 行扩展两个字段**
+
+```json
+{
+  "from": "P_2026_SD_03271ffc",
+  "to":   "P_2025_NDRC_357_a",
+  "to_title": "NDRC 357 号《关于加快推进虚拟电厂发展的指导意见》",
+  "rel":  "derives_from",
+  "linkage_type": "直接落地",
+  "evidence": "原文:『根据国家发展改革委、国家能源局《...》(发改能源〔2025〕357号)等文件要求』",
+  "confidence": 0.85,
+  "extracted_by": "_meta/scripts/derive_business_view.py",
+  "extracted_at": "..."
+}
+```
+
+枚举:
+- `linkage_type` ∈ {`直接落地`, `借鉴框架`, `主题对应`}
+  - 直接落地 = 逐条对应执行国家文件
+  - 借鉴框架 = 参考国家方向自定细则
+  - 主题对应 = 同向部署但无明确引用
+- `to`:resolve 成功填 pid,失败填 `null`(LLM 给的 source_title 是组合表述时常见)
+- `to_title`:**永远保留 LLM 原文**,即使 to=null 也能展示语境
+
+**(3) 反链 section 命名**
+
+入向 section 标签:`## 被落地 (landed_by) — N`,跟其他类一致风格。每条入向条目末尾展示 `[linkage_type]` 标签:
+```
+- [[P_2026_SD_03271ffc]] — 山东省 VPP 方案 (2026-03-27) [直接落地]
+```
+
+### 6.8 政策摘要 jsonl(L2 通用,非关系层)
+
+放置于 **关系层并列位置**:`1_extracted/policy_summaries.jsonl`。每行一条政策的客观描述,Step 5C LLM 输出后脚本 split 写入(详见 §11)。
+
+**行格式**:
+```json
+{
+  "policy_id": "P_2024_NDRC_718",
+  "summary": "2-3 句客观摘要,描述政策范围/对象/截止日/数量目标",
+  "summary_one_liner": "≤25 字一句话精髓",
+  "reading_value": "≤25 字阅读价值描述",
+  "extracted_at": "2026-04-29T...",
+  "extracted_by": "_meta/scripts/derive_business_view.py"
+}
+```
+
+**性质**:
+- L2 通用层(公开),与 `_meta/business_view/{pid}.yaml`(L2 业务私有)严格分层
+- 内容**不含**业务策略判断、跨政策对比、公司业务关联 — 那些是 business_view 范畴
+- 重抽:同 `policy_id` upsert 覆盖,raw 不动
+
+**消费者**:
+- L3 月报 `prep_docx_data.py`(读 summary_one_liner / summary / reading_value)
+- 主题结晶页(读 summary)
+- Obsidian 全文搜索(jsonl 一行可索引)
 
 ---
 

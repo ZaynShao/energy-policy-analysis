@@ -30,16 +30,24 @@
 
 ### 2. 派生分层(derivation layers)
 
-所有对 raw 的解读、评分、关系、对比、业务判断、**LLM 生成内容(摘要/语义标签/分类)** — 都属派生层,落到独立目录:
-- `_meta/business_view/{pid}.yaml` — 业务侧字段:
-  - `summary`(2-3 句摘要,LLM 生成)
-  - `business_tags`(V2G/储能/充电... 语义分类,LLM 推断)
-  - `scores` / `重要性` / `行动分类` / `价值标签`(评分体系)
-  - `影响分析`(分业务三段判断)
-- `1_extracted/relations/*.jsonl` — 关系层(supersedes/cites_basis/iterates 等)
-- `1_extracted/entities/` — 实体抽取
+所有对 raw 的解读、评分、关系、对比、业务判断、**LLM 生成内容(摘要/语义标签/分类)** — 都属派生层,按字段性质 split 到对应位置(2026-04-29 A+ 严格分层):
+
+**L2 通用层**(公开,`1_extracted/`):
+- `1_extracted/policy_summaries.jsonl` — 政策客观描述(`summary` / `summary_one_liner` / `reading_value`,LLM 生成但中性)
+- `1_extracted/relations/*.jsonl` — 9 类关系(supersedes/cites_basis/iterates/extends/clarifies/references/aligns_with/conflicts_with/**derives_from** 国家级追溯)
+- `1_extracted/entities/` — 实体抽取(stakeholder/org/region/concept/theme,业务标签 canonical 化在此处)
 - `2_crystallized/themes/` — 主题结晶
-- `_meta/march_report_batches/` 或类似目录 — L3 月报中间产物
+
+**L2 业务私有层**(`_meta/business_view/`,可加 .gitignore):
+- `_meta/business_view/{pid}.yaml` — 公司视角判断:
+  - `scores` / `重要性` / `行动分类` / `价值标签`(评分体系)
+  - `影响分析`(分业务四段判断:加油 / 充电 / 电力_储能_V2G_交易 / 乡村)
+  - `行动建议`(A 立即 / B 研究 / C 关注)
+  - `didi_impact_one_liner`(可选,业务一句话精髓)
+
+**过渡 / 中间产物**:
+- `_meta/business_tags_legacy.jsonl` — L1.2 旧 LLM 推断的业务标签暂存,等 B1 任务 canonical 化进 entities theme 后退役
+- `_meta/march_report_batches/` 等月报中间产物
 
 派生文件可以无限重抽、覆盖、删除 — 都不影响 raw。
 
