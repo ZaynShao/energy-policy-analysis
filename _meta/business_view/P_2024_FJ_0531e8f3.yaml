@@ -17,13 +17,4 @@ archive: low_score
   电力业务: 政策面层面影响
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【国务院节能降碳行动方案落地新闻】-新华日报(福建省国资委转载)-96e5.md
-business_tags:
-- 分布式能源
-- 新型储能
-- 新能源汽车
-- 氢能
-- 节能降碳
-- 设备更新
-- 需求响应
-summary: 新华日报报道国发〔2024〕12号节能降碳行动方案利好行业的解读文章。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

@@ -17,5 +17,4 @@ archive: low_score
   电力业务: 无直接影响
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md
-summary: 重庆市2024年预算执行与2025年草案报告，反映财政整体收支状况，与能源业务关联较弱。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

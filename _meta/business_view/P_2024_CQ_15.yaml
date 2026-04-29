@@ -17,8 +17,4 @@ archive: low_score
   电力业务: 工业用能结构优化,带动储能与节能改造。
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【重庆市空气质量持续改善行动实施方案(渝府发〔2024〕15号)】-重庆市人民政府-cc63.md
-business_tags:
-- 节能降碳
-- 设备更新
-summary: 重庆空气质量持续改善行动方案,涉及能源、工业、交通等领域节能降碳与设备更新。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

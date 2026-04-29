@@ -17,7 +17,4 @@ archive: low_score
   电力业务: 氢储能远期方向
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【吕梁市氢能产业中长期发展规划(2022-2035)】-吕梁市人民政府-bf65.md
-business_tags:
-- 氢能
-summary: 山西吕梁市级氢能产业中长期规划。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

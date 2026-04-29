@@ -13,6 +13,4 @@ scores:
 archive: low_score
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【河南省推动工业领域设备更新实施方案】-河南省工业和信息化厅等14部门-df96.md
-business_tags:
-- 设备更新
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

@@ -17,9 +17,4 @@ archive: low_score
   电力业务: 绿氢制取拉动绿电消纳与储能配套。
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【关于加快重庆氢能产业高质量发展的政协提案复函】-重庆市发展和改革委员会-e762.md
-business_tags:
-- 新型储能
-- 氢能
-- 综合能源服务
-summary: 重庆市发改委答复政协提案,介绍氢能产业规划进展、加氢站建设、氢能技术创新及未来产业培育,川渝累计建成加氢站30座。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

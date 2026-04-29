@@ -16,7 +16,4 @@ scores:
   电力业务: 无直接影响
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【成品油流通管理办法(征求意见稿)】-商务部-2d80.md
-business_tags:
-- 加油站
-summary: 商务部就成品油流通管理办法修订公开征求意见,涉及加油站经营资质、批发零售管理、撮合合规等核心规则。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

@@ -17,10 +17,4 @@ archive: low_score
   电力业务: 蒙西储能、绿电交易布局的省级依据
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【蒙西新型电力系统建设行动方案(1.0版)解读】-内蒙古自治区能源局-8db6.md
-business_tags:
-- 新型储能
-- 电力现货
-- 绿电交易
-- 虚拟电厂
-summary: 内蒙古蒙西新型电力系统建设方案的解读,涉及新能源消纳、储能、市场建设。本批为解读,综合分降 1。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

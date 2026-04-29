@@ -17,8 +17,4 @@ scores:
   电力业务: 无直接影响。
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【北京市氢燃料电池汽车车用加氢站建设审批暂行办法】-北京市城市管理委员会等-68c3.md
-business_tags:
-- 加油站
-- 氢能
-summary: 北京市加氢站建设审批暂行办法,正文片段以门户导航为主,主要规范车用加氢站建设的审批流程、选址和安全管理。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

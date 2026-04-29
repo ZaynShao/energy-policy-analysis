@@ -17,8 +17,4 @@ archive: low_score
   电力业务: 工业用能设备节能改造,影响有限
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【怀化市鹤城区工业和信息化领域大规模设备更新实施方案】-怀化市鹤城区工业和信息化局-249d.md
-business_tags:
-- 节能降碳
-- 设备更新
-summary: 湖南怀化市鹤城区工业领域设备更新地方实施方案,2027年规上工业高端化智能化绿色化改造率达50%以上。属县区级文件。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

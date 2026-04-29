@@ -17,8 +17,4 @@ archive: low_score
   电力业务: 推动地方分布式能源、储能等转型项目。
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海市青浦区碳达峰实施方案】-上海市青浦区人民政府-bc3c.md
-business_tags:
-- 碳达峰
-- 节能降碳
-summary: 上海青浦区碳达峰实施方案,部署区域能源结构优化、节能降碳等举措。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

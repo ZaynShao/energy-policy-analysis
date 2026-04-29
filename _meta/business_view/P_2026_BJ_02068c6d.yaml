@@ -17,7 +17,4 @@ archive: low_score
   电力业务: 间接利好高能效家电用电结构优化
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【北京市2026年家电以旧换新、数码和智能产品购新补贴实施细则】-北京市商务局-15cc.md
-business_tags:
-- 设备更新
-summary: 北京市2026年家电以旧换新及数码智能产品购新补贴实施细则,聚焦消费品类,与汽车与能源核心业务关联弱。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

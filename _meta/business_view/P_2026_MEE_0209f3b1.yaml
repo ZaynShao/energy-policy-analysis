@@ -17,8 +17,4 @@ scores:
   电力业务: 电力企业碳市场参与年度工作依据
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【做好2026年全国碳排放权交易市场有关工作的通知】-生态环境部-f135.md
-business_tags:
-- 碳排放权
-- 碳达峰
-summary: 生态环境部关于 2026 年全国碳排放权交易市场具体工作的通知,含纳管行业扩围、配额分配、清缴等。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

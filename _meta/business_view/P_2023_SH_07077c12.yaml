@@ -17,10 +17,4 @@ archive: low_score
   电力业务: 分布式光伏、储能区级试点机会
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海普陀区深入打好污染防治攻坚战实施意见】-上海市普陀区人民政府-9c5f.md
-business_tags:
-- 充电基础设施
-- 分布式能源
-- 新型储能
-- 碳达峰
-summary: 普陀区印发污染防治攻坚战实施意见，部署区域绿色低碳转型，含分布式光伏与新型储能探索(直辖市下辖区)。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

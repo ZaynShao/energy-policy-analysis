@@ -17,7 +17,4 @@ archive: low_score
   电力业务: 间接相关
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【重庆市城市更新提升十四五行动计划】-重庆市人民政府-324d.md
-business_tags:
-- 设备更新
-summary: 重庆市城市更新提升十四五行动计划。原文为DOC文档,正文乱码无法解析,从标题判断为城市更新综合性文件。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

@@ -18,8 +18,4 @@ archive: low_score
   电力业务: 区级方案对储能、分布式能源有局部影响。
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【北京市海淀区碳达峰实施方案】-北京市海淀区人民政府-49d9.md
-business_tags:
-- 碳达峰
-- 节能降碳
-summary: 海淀区碳达峰实施方案,正文片段为门户导航,主要部署区内能源、产业、建筑、交通等领域低碳行动。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

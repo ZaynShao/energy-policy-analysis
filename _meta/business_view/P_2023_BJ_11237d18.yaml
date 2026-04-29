@@ -17,7 +17,4 @@ scores:
   电力业务: 对储能业务在京布局形成政策利好
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【北京市关于支持新型储能产业发展的若干措施】-北京市经济和信息化局-29e1.md
-business_tags:
-- 新型储能
-summary: 北京市支持新型储能产业发展若干措施。正文片段为页面框架,核心条款缺失,但标题表明为储能产业专项支持文件。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

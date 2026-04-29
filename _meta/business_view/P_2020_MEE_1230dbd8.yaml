@@ -1,7 +1,4 @@
 pid: P_2020_MEE_1230dbd8
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【2019-2020年全国碳排放权交易配额总量设定与分配实施方案(发电行业)】-生态环境部-45ea.md
-business_tags:
-- 碳排放权
-summary: 生态环境部首个全国碳市场配额分配方案,适用发电行业,按四类机组分别设碳排放基准值并按机组实际产出量核定。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

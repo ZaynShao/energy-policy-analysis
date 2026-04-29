@@ -17,8 +17,4 @@ archive: low_score
   电力业务: 间接相关
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【2024年北京市汽车以旧换新补贴实施细则相关问答】-北京市商务局-1d0c.md
-business_tags:
-- 新能源汽车
-- 设备更新
-summary: 北京市汽车以旧换新补贴细则的政策问答页,正文为门户导航,核心问答内容缺失。属解读类。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

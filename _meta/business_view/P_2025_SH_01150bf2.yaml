@@ -17,8 +17,4 @@ archive: low_score
   电力业务: 新型电力系统、储能等长期方向有继续支持
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海市2024年计划执行情况与2025年计划草案报告】-上海市发展和改革委员会-95e3.md
-business_tags:
-- 碳达峰
-- 设备更新
-summary: 上海市发改委报告2024经济社会发展执行与2025计划草案，涉及双控、设备更新、能源结构等约束性指标。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

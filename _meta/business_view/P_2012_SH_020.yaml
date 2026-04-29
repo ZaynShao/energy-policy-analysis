@@ -17,7 +17,4 @@ archive: low_score
   电力业务: 老规则,峰谷分时机制基础参考
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【上海市居民生活用电试行阶梯电价实施方案(沪发改价管(2012)020号)】-上海市发展改革委-f559.md
-business_tags:
-- 分时电价
-summary: 上海居民阶梯电价方案,三档电量、年度结算,加价幅度与峰谷分时挂钩,低保户免费15度/月。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

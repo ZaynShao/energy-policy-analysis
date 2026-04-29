@@ -17,8 +17,4 @@ archive: low_score
   电力业务: 间接相关,可能涉及储能/氢能技术研发
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【辽宁省科技支撑碳达峰碳中和实施方案2023-2030】-辽宁省科技厅等-26ca.md
-business_tags:
-- 碳达峰
-- 节能降碳
-summary: 辽宁省科技支撑双碳方案,正文片段未抓全,标题判断为省级科技领域支撑双碳的方案性文件。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

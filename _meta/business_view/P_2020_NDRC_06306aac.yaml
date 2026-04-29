@@ -16,8 +16,4 @@ scores:
   电力业务: 电力交易合规历史依据
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【电力中长期交易基本规则(暂行)】-国家发展和改革委员会、国家能源局-eaa5.md
-business_tags:
-- 电力现货
-- 绿电交易
-summary: 电力中长期交易基本规则的暂行版本,已被 2025 年 1810 号文替代。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

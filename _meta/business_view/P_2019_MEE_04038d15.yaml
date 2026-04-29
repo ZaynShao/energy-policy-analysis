@@ -17,7 +17,4 @@ archive: low_score
   电力业务: 碳市场顶层立法早期版本,已被正式条例覆盖
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【碳排放权交易管理暂行条例(征求意见稿)】-生态环境部-d1f2.md
-business_tags:
-- 碳排放权
-summary: 生态环境部碳排放权交易暂行条例征求意见稿,确立全国碳市场监管框架与法律责任,后被国务院碳排放权交易管理暂行条例正式采用。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

@@ -17,8 +17,4 @@ archive: low_score
   电力业务: 电解水制氢拉动绿电消纳与新型储能配套需求。
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【武汉市氢能产业发展三年行动方案（2025—2027年）(武政规〔2025〕9号)】-武汉市人民政府-a959.md
-business_tags:
-- 氢能
-- 综合能源服务
-summary: 武汉市部署氢能制储运加用全产业链,构建一核一都两翼布局,推进加氢站及综合能源站建设。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

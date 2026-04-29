@@ -16,8 +16,4 @@ scores:
   电力业务: 虚拟电厂、需求响应业务参考
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【电力需求侧管理办法(征求意见稿正文)】-国家发展和改革委员会-8c09.md
-business_tags:
-- 虚拟电厂
-- 需求响应
-summary: 电力需求侧管理办法征求意见稿正文,提出虚拟电厂、需求响应资源管理框架。后被 2023 年版正式稿替代。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

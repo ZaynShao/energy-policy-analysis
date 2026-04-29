@@ -17,7 +17,4 @@ archive: low_score
   电力业务: 氢储能是绿电消纳新方向
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【山西省氢能产业发展中长期规划(2022-2035年)】-山西省人民政府(方山县转载)-ab87.md
-business_tags:
-- 氢能
-summary: 山西省氢能产业中长期规划。本批为转载,综合分降 1。
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'

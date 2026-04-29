@@ -13,6 +13,4 @@ scores:
 archive: low_score
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【依托光伏光热资源优势推动新能源开发利用】-青海省人民政府-0a60.md
-business_tags:
-- 分布式能源
-sanitized_b_at: '2026-04-29'
+split_at: '2026-04-29'
