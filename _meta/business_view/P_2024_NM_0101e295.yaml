@@ -1,20 +1,26 @@
 pid: P_2024_NM_0101e295
 scores:
-  D1: 1
-  D2: 1
-  D3: 1
-  D4: 1
-  D5: 1
-  D6: 1
-重要性: 1
-行动分类: D
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 2
+  D6: 4
+重要性: 3
+行动分类: B
 价值标签: []
 archive: low_score
-影响分析: null
+影响分析:
+  加油: 未涉及。
+  充电: 电动汽车充电网络被列为系统调节资源之一,蒙西可作为车网互动与负荷聚合的西部试验场。
+  电力_储能_V2G_交易: 新型储能装机2500万千瓦、需求侧响应8%、蒙西电力市场建设,为储能、虚拟电厂、聚合商提供西部规模化窗口。
+  乡村: 未涉及。
 sanitized_at: '2026-04-29'
 sanitized_from: 0_raw/policies/【蒙西新型电力系统建设行动方案(1.0版)解读】-内蒙古自治区能源局-8db6.md
 split_at: '2026-04-29'
-行动建议: []
-extracted_at: '2026-04-29'
+行动建议:
+- 'C 关注: 跟踪蒙西电力市场建设节奏,评估储能/聚合商参与机会。'
+- 'C 关注: 关注蒙西2500万千瓦新型储能项目机会与商业模式。'
+extracted_at: '2026-04-30'
 extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
 extracted_model: claude-opus-4-7-via-subagent
