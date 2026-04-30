@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-04-30T12:15:08+08:00
+last_updated: 2026-04-30T12:28:37+08:00
 policy_count: 271
 commentary_count: 283
 entity_count: 95
 edge_count: 352
-opinion_coverage_pct: 7.7
+opinion_coverage_pct: 29.2
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-04-30T12:15:08+08:00
+**最后更新**: 2026-04-30T12:28:37+08:00
 
 ---
 
@@ -23,7 +23,7 @@ opinion_coverage_pct: 7.7
 | 规范化实体 (entities/registry) | **95** |
 | 关系网总边数 | **352** |
 | 反链页 (_index_by_policy) | **230** |
-| 政策舆论矩阵 (opinions) | **21** (7.7% 覆盖率) |
+| 政策舆论矩阵 (opinions) | **79** (29.2% 覆盖率) |
 | 演进差异页 (diffs) | **22** |
 
 ---
@@ -151,7 +151,7 @@ opinion_coverage_pct: 7.7
 
 ## 10. 数据健康指标
 
-- **opinion 覆盖率**: 7.7% (21/271) ⚠️
+- **opinion 覆盖率**: 29.2% (79/271) ⚠️
 - **issuer_canonical 覆盖**: 245/271
 - **5 星政策(高重要性)**: 40
 - **冲突边密度**: 0/352 ⚠️ 0 条
