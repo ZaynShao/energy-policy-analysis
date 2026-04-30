@@ -24,10 +24,40 @@ RELATIONS = VAULT / "1_extracted/relations"
 OPINIONS = VAULT / "1_extracted/opinions"
 THEMES = VAULT / "2_crystallized/themes"
 REGIONS = VAULT / "2_crystallized/regions"
+BUSINESS_VIEW = VAULT / "_meta/business_view"
 OUT = VAULT / "2_crystallized/_global_index.md"
 
 CST = timezone(timedelta(hours=8))
 fm_re = re.compile(r'^---\s*\n(.*?)\n---\s*\n', re.DOTALL)
+
+
+def load_importance_by_pid() -> dict:
+    """读 _meta/business_view/{pid}.yaml 的「重要性」(L1.2 已迁移)。"""
+    out = {}
+    if not BUSINESS_VIEW.exists():
+        return out
+    for f in BUSINESS_VIEW.glob("*.yaml"):
+        try:
+            data = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+            imp = data.get("重要性")
+            if imp is not None:
+                out[f.stem] = int(imp)
+        except (yaml.YAMLError, ValueError, OSError):
+            continue
+    return out
+
+
+_IMPORTANCE_CACHE = None
+
+
+def get_importance(pid: str, fm: dict) -> int:
+    """统一入口:优先 business_view yaml,fallback raw fm 的重要性"""
+    global _IMPORTANCE_CACHE
+    if _IMPORTANCE_CACHE is None:
+        _IMPORTANCE_CACHE = load_importance_by_pid()
+    if pid and pid in _IMPORTANCE_CACHE:
+        return _IMPORTANCE_CACHE[pid]
+    return fm.get("重要性") or 0
 
 
 def cn_now_iso():
@@ -49,7 +79,7 @@ def main():
             'id': fm.get('id'),
             'title': fm.get('title', ''),
             'date': str(fm.get('date') or '')[:10],
-            'importance': fm.get('重要性') or 0,
+            'importance': get_importance(fm.get('id'), fm),
             'tags': fm.get('tags') or [],
             'issuer': fm.get('issuer') or [],
             'issuer_canonical': fm.get('issuer_canonical') or [],

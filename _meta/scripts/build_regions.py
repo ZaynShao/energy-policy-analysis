@@ -17,11 +17,40 @@ from datetime import datetime, timezone, timedelta
 
 VAULT = Path("/Users/shaoziyuan/Documents/Zayn Main/政策分析")
 POL = VAULT / "0_raw/policies"
+BUSINESS_VIEW = VAULT / "_meta/business_view"
 OUT = VAULT / "2_crystallized/regions"
 OUT.mkdir(parents=True, exist_ok=True)
 
 CST = timezone(timedelta(hours=8))
 fm_re = re.compile(r'^---\s*\n(.*?)\n---\s*\n', re.DOTALL)
+
+
+def load_importance_by_pid() -> dict:
+    """读 _meta/business_view/{pid}.yaml 的「重要性」(L1.2 已迁移)。"""
+    out = {}
+    if not BUSINESS_VIEW.exists():
+        return out
+    for f in BUSINESS_VIEW.glob("*.yaml"):
+        try:
+            data = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+            imp = data.get("重要性")
+            if imp is not None:
+                out[f.stem] = int(imp)
+        except (yaml.YAMLError, ValueError, OSError):
+            continue
+    return out
+
+
+_IMPORTANCE_CACHE = None
+
+
+def get_importance(pid: str, fm: dict) -> int:
+    global _IMPORTANCE_CACHE
+    if _IMPORTANCE_CACHE is None:
+        _IMPORTANCE_CACHE = load_importance_by_pid()
+    if pid and pid in _IMPORTANCE_CACHE:
+        return _IMPORTANCE_CACHE[pid]
+    return fm.get("重要性") or 0
 
 
 def cn_now_iso():
@@ -52,7 +81,7 @@ def main():
             'id': fm.get('id'),
             'title': fm.get('title', '').strip(),
             'date': str(fm.get('date') or '')[:10],
-            'importance': fm.get('重要性') or 0,
+            'importance': get_importance(fm.get('id'), fm),
             'tags': fm.get('tags') or [],
             'issuer': fm.get('issuer') or [],
             'filename': f.name,

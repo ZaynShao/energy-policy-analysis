@@ -35,8 +35,26 @@ RELATIONS = VAULT / "1_extracted" / "relations"
 DIFFS = VAULT / "1_extracted" / "diffs"
 OPINIONS = VAULT / "1_extracted" / "opinions"
 THEMES = VAULT / "2_crystallized" / "themes"
+BUSINESS_VIEW = VAULT / "_meta" / "business_view"
 
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
+
+
+def load_business_view_importance() -> dict:
+    """读 _meta/business_view/{pid}.yaml 的「重要性」字段(L1.2 后该字段从 raw 迁到此)。
+    返回 {pid: int}。"""
+    out = {}
+    if not BUSINESS_VIEW.exists():
+        return out
+    for f in BUSINESS_VIEW.glob("*.yaml"):
+        try:
+            data = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+            imp = data.get("重要性")
+            if imp is not None:
+                out[f.stem] = int(imp)
+        except (yaml.YAMLError, ValueError, OSError):
+            continue
+    return out
 
 # 31 省级行政区(用于"空白省份"分析)
 ALL_PROVINCES = [
@@ -62,6 +80,9 @@ def parse_fm(text):
 
 def collect_theme_data(theme_id, aliases):
     """收集一个主题的所有数据"""
+    # 0. 业务侧重要性(L1.2 已从 raw 迁到 _meta/business_view/{pid}.yaml)
+    importance_by_pid = load_business_view_importance()
+
     # 1. 通过 entity 反向找:命中该 canonical 的政策
     pids_via_entity = set()
     with open(EXTRACTIONS, encoding="utf-8") as f:
@@ -104,7 +125,7 @@ def collect_theme_data(theme_id, aliases):
             "official": fm.get("official_number") or "",
             "issuer": fm.get("issuer", []) or [],
             "region": fm.get("region", {}) or {},
-            "importance": fm.get("重要性", 0) or 0,
+            "importance": importance_by_pid.get(pid, fm.get("重要性", 0) or 0),
             "tags": fm.get("tags", []) or [],
             "filename": fname,
         })
