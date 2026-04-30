@@ -1,0 +1,93 @@
+# themes_registry.yaml — 主题集中配置(被 crystallize_theme.py --all + rebuild_l2.py 读)
+# 加新主题:在此加 1 块,然后 (1) 在 entities/registry.yaml 加同 id 的 type=theme entity
+# (2) 跑 rebuild_l2.py deterministic --scope themes
+schema_version: 1.0
+generated_at: 2026-04-30
+themes:
+  - id: v2g
+    dir_name: V2G
+    zh: V2G(车网互动)
+    aliases:
+      - V2G
+      - 车网互动
+      - 车网融合
+
+  - id: vpp_theme
+    dir_name: VPP_THEME
+    zh: 虚拟电厂
+    aliases:
+      - 虚拟电厂
+      - VPP
+      - 需求侧响应聚合
+      - 负荷聚合
+      - 可调节负荷
+
+  - id: energy_storage_theme
+    dir_name: ENERGY_STORAGE_THEME
+    zh: 新型储能
+    aliases:
+      - 新型储能
+      - 电化学储能
+      - 储能电站
+      - 共享储能
+      - 储能调用
+
+  - id: gas_station_transition_theme
+    dir_name: GAS_STATION_TRANSITION_THEME
+    zh: 加油站转型
+    aliases:
+      - 加油站
+      - 油电融合
+      - 光储充换
+      - 油气电氢一体化
+      - 综合能源补给站
+
+  - id: equipment_renewal_theme
+    dir_name: EQUIPMENT_RENEWAL_THEME
+    zh: 设备更新与以旧换新
+    aliases:
+      - 以旧换新
+      - 汽车换新
+      - 消费品更新
+      - 设备更新
+      - 大规模设备更新
+
+  - id: green_power_trading_theme
+    dir_name: GREEN_POWER_TRADING_THEME
+    zh: 绿电交易
+    aliases:
+      - 绿电交易
+      - 绿电消费
+      - 绿色电力证书
+      - 绿证
+      - 可再生能源消纳
+
+  - id: charging_infra
+    dir_name: CHARGING_INFRA
+    zh: 充电基础设施
+    aliases:
+      - 充电基础设施
+      - 充电桩
+      - 充电设施
+      - 公共充电
+      - 慢充
+
+  - id: power_market
+    dir_name: POWER_MARKET
+    zh: 电力市场
+    aliases:
+      - 电力市场
+      - 电力交易
+      - 中长期交易
+      - 现货交易
+
+  - id: carbon_market_theme
+    dir_name: CARBON_MARKET_THEME
+    zh: 碳市场
+    aliases:
+      - 碳市场
+      - 碳排放权交易
+      - 碳排放配额
+      - 全国碳排放权交易市场
+      - CCER
+      - 碳排放权

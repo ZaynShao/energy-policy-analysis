@@ -28,23 +28,6 @@
       "filename": "【碳排放权交易管理暂行条例(征求意见稿)】-生态环境部-d1f2.md"
     },
     {
-      "id": "P_2020_GO_1020e9f0",
-      "title": "新能源汽车产业发展规划（2021—2035年）",
-      "date": "2020-10-20",
-      "official": "",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
-    },
-    {
       "id": "P_2020_GO_39_b",
       "title": "新能源汽车产业发展规划(2021—2035年)",
       "date": "2020-10-20",
@@ -60,6 +43,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
+    },
+    {
+      "id": "P_2020_GO_1020e9f0",
+      "title": "新能源汽车产业发展规划（2021—2035年）",
+      "date": "2020-10-20",
+      "official": "",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
     },
     {
       "id": "P_2020_MEE_1230dbd8",
@@ -96,23 +96,6 @@
       "filename": "【碳排放权交易管理办法(试行)(部令第19号)】-生态环境部-ed28.md"
     },
     {
-      "id": "P_2021_SC_0922fb2b",
-      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
-      "date": "2021-09-22",
-      "official": "",
-      "issuer": [
-        "中共中央、国务院"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
-    },
-    {
       "id": "P_2021_SC_092282d6",
       "title": "中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见(转载)",
       "date": "2021-09-22",
@@ -128,6 +111,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见(转载)】-中共中央、国务院(商务部转载)-f2a1.md"
+    },
+    {
+      "id": "P_2021_SC_0922fb2b",
+      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
+      "date": "2021-09-22",
+      "official": "",
+      "issuer": [
+        "中共中央、国务院"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
     },
     {
       "id": "P_2021_SC_23",
@@ -385,23 +385,6 @@
       "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
     },
     {
-      "id": "P_2024_BJ_01265eb0",
-      "title": "2024年北京市政府工作报告重点任务清单",
-      "date": "2024-01-26",
-      "official": "",
-      "issuer": [
-        "北京市人民政府"
-      ],
-      "region": {
-        "level": "省",
-        "code": "110000",
-        "name": "北京市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
-    },
-    {
       "id": "P_2024_BJ_0126a2e6",
       "title": "2024年市政府工作报告重点任务清单",
       "date": "2024-01-26",
@@ -417,6 +400,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【2024年市政府工作报告重点任务清单】-北京市人民政府-0079.md"
+    },
+    {
+      "id": "P_2024_BJ_01265eb0",
+      "title": "2024年北京市政府工作报告重点任务清单",
+      "date": "2024-01-26",
+      "official": "",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
     },
     {
       "id": "P_2024_GO_L775",
@@ -810,23 +810,6 @@
       "filename": "【上海市2024年计划执行情况与2025年计划草案报告】-上海市发展和改革委员会-95e3.md"
     },
     {
-      "id": "P_2025_CQ_01267b4b",
-      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
-      "date": "2025-01-26",
-      "official": "",
-      "issuer": [
-        "重庆市财政局"
-      ],
-      "region": {
-        "level": "省",
-        "code": "500000",
-        "name": "重庆市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
-    },
-    {
       "id": "P_2025_CQ_0126e838",
       "title": "重庆市2024年预算执行情况和2025年预算草案的报告",
       "date": "2025-01-26",
@@ -842,6 +825,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【重庆市2024年预算执行情况和2025年预算草案的报告】-重庆市人民政府-c35f.md"
+    },
+    {
+      "id": "P_2025_CQ_01267b4b",
+      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
+      "date": "2025-01-26",
+      "official": "",
+      "issuer": [
+        "重庆市财政局"
+      ],
+      "region": {
+        "level": "省",
+        "code": "500000",
+        "name": "重庆市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
     },
     {
       "id": "P_2025_NDRC_262",
@@ -1238,7 +1238,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_SH_407",
@@ -1249,7 +1249,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1260,7 +1260,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1271,7 +1271,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_NEA_77",
@@ -1282,7 +1282,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -1293,7 +1293,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -1304,7 +1304,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -1315,7 +1315,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_SD_0101d17a",
@@ -1326,7 +1326,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_NEA_107",
@@ -1337,7 +1337,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -1348,7 +1348,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -1359,7 +1359,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2026_NEA_16",
@@ -1370,7 +1370,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -1381,7 +1381,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1392,7 +1392,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -1403,7 +1403,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1414,7 +1414,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2020_GO_1020e9f0",
@@ -1425,7 +1425,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1436,7 +1436,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1447,7 +1447,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -1458,7 +1458,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_NM_0101e295",
@@ -1469,7 +1469,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1480,7 +1480,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1491,7 +1491,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1502,7 +1502,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1513,7 +1513,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1524,7 +1524,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T11:28:45"
+      "extracted_at": "2026-04-30T12:57:36"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2049,29 +2049,12 @@
     "上海市发展和改革委员会": 2,
     "重庆市人民政府": 2,
     "国家发展和改革委员会、国家能源局": 2,
-    "中共中央、国务院": 1,
     "中共中央、国务院(商务部转载)": 1,
+    "中共中央、国务院": 1,
     "国务院国有资产监督管理委员会": 1,
     "北京市发展和改革委员会": 1
   },
   "top_5_importance": [
-    {
-      "id": "P_2020_GO_1020e9f0",
-      "title": "新能源汽车产业发展规划（2021—2035年）",
-      "date": "2020-10-20",
-      "official": "",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
-    },
     {
       "id": "P_2020_GO_39_b",
       "title": "新能源汽车产业发展规划(2021—2035年)",
@@ -2090,12 +2073,12 @@
       "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
     },
     {
-      "id": "P_2021_SC_0922fb2b",
-      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
-      "date": "2021-09-22",
+      "id": "P_2020_GO_1020e9f0",
+      "title": "新能源汽车产业发展规划（2021—2035年）",
+      "date": "2020-10-20",
       "official": "",
       "issuer": [
-        "中共中央、国务院"
+        "国务院办公厅"
       ],
       "region": {
         "level": "国家",
@@ -2104,7 +2087,7 @@
       },
       "importance": 5,
       "tags": [],
-      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
+      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
     },
     {
       "id": "P_2021_SC_092282d6",
@@ -2122,6 +2105,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见(转载)】-中共中央、国务院(商务部转载)-f2a1.md"
+    },
+    {
+      "id": "P_2021_SC_0922fb2b",
+      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
+      "date": "2021-09-22",
+      "official": "",
+      "issuer": [
+        "中共中央、国务院"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
     },
     {
       "id": "P_2021_SC_23",

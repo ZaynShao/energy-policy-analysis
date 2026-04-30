@@ -334,14 +334,97 @@ def render_regional_coverage(theme_id, theme_zh, policies):
     return "\n".join(lines)
 
 
+REGISTRY = VAULT / "_meta" / "themes_registry.yaml"
+
+
+def load_themes_registry() -> list:
+    """读 _meta/themes_registry.yaml,返回 [{id, dir_name, zh, aliases}, ...]"""
+    if not REGISTRY.exists():
+        return []
+    data = yaml.safe_load(REGISTRY.read_text(encoding="utf-8")) or {}
+    return data.get("themes", [])
+
+
+def crystallize_one(theme_id: str, theme_zh: str, aliases: list, dir_name: str = None):
+    """跑单主题 — 提到 main 外便于 --all 循环复用"""
+    out_dir = THEMES / (dir_name or theme_id.upper())
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"Crystallizing theme: {theme_id}({theme_zh})")
+    print(f"  aliases: {aliases}")
+    policies, relations, diff_files, opinion_pids = collect_theme_data(theme_id, aliases)
+    print(f"  政策: {len(policies)}  关系: {len(relations)}  diff: {len(diff_files)}  opinion: {len(opinion_pids)}")
+
+    (out_dir / "timeline.md").write_text(
+        render_timeline(theme_id, theme_zh, policies), encoding="utf-8"
+    )
+    (out_dir / "regional-coverage.md").write_text(
+        render_regional_coverage(theme_id, theme_zh, policies), encoding="utf-8"
+    )
+
+    region_dist = defaultdict(lambda: defaultdict(int))
+    for p in policies:
+        lvl = (p["region"] or {}).get("level", "未知")
+        name = (p["region"] or {}).get("name", "?")
+        region_dist[lvl][name] += 1
+    issuer_count = Counter()
+    for p in policies:
+        for iss in (p.get("issuer") or []):
+            issuer_count[iss] += 1
+
+    payload = {
+        "theme": theme_id,
+        "theme_zh": theme_zh,
+        "aliases": aliases,
+        "policies": policies,
+        "policies_count": len(policies),
+        "relations": relations,
+        "relations_count": len(relations),
+        "diff_files": diff_files,
+        "opinion_policy_ids": opinion_pids,
+        "region_distribution": {lvl: dict(d) for lvl, d in region_dist.items()},
+        "top_issuers": dict(issuer_count.most_common(15)),
+        "top_5_importance": sorted(policies, key=lambda p: -p["importance"])[:5],
+    }
+    input_path = VAULT / "_meta" / f"{theme_id}_theme_input.json"
+    input_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    (out_dir / "_input.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  → {out_dir}/_input.json")
+    print(f"  → {input_path}")
+    print("  === Done ===\n")
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--theme", required=True, help="canonical_id (如 power_market / charging_infra)")
-    ap.add_argument("--aliases", required=True, help="逗号分隔(如 '电力市场,电力交易')")
-    ap.add_argument("--theme_zh", required=True, help="中文展示名(如 '电力市场')")
+    ap.add_argument("--theme", help="canonical_id (如 power_market / charging_infra)")
+    ap.add_argument("--aliases", help="逗号分隔(如 '电力市场,电力交易')")
+    ap.add_argument("--theme_zh", help="中文展示名(如 '电力市场')")
+    ap.add_argument("--all", action="store_true", help="循环跑 _meta/themes_registry.yaml 中全部主题")
     args = ap.parse_args()
 
+    if args.all:
+        themes = load_themes_registry()
+        if not themes:
+            print("[fatal] _meta/themes_registry.yaml 不存在或为空")
+            return
+        print(f"=== 循环跑 {len(themes)} 主题(from registry)===\n")
+        for t in themes:
+            crystallize_one(
+                theme_id=t["id"],
+                theme_zh=t["zh"],
+                aliases=t.get("aliases", []),
+                dir_name=t.get("dir_name"),
+            )
+        print(f"=== 全 {len(themes)} 主题完成 ===")
+        return
+
+    if not (args.theme and args.aliases and args.theme_zh):
+        ap.error("非 --all 模式需 --theme + --aliases + --theme_zh")
     aliases = [a.strip() for a in args.aliases.split(",") if a.strip()]
+    crystallize_one(args.theme, args.theme_zh, aliases)
+    return
+
+    # ↓↓↓ 旧 main 单条流程已迁到 crystallize_one,以下保留为参考但不可达
     out_dir = THEMES / args.theme.upper()  # 大写以醒目
     out_dir.mkdir(parents=True, exist_ok=True)
 
