@@ -5,44 +5,45 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **289**
-- registry 实体: **88**
-- 命中实体的政策: **282**
-- 零实体命中政策: **7**(召回缺口,LLM 补抽 candidate)
-- 平均每政策命中实体: **8.1**
-- 已被引用的 canonical: **60/88**
-- 孤儿 canonical(0 政策引用): **28**
+- 输入政策: **271**
+- registry 实体: **94**
+- 命中实体的政策: **269**
+- 零实体命中政策: **2**(召回缺口,LLM 补抽 candidate)
+- 平均每政策命中实体: **9.7**
+- 已被引用的 canonical: **67/94**
+- 孤儿 canonical(0 政策引用): **27**
 
 ## type 分布(有政策引用的)
-- stakeholder: 29
+- stakeholder: 30
 - org: 18
 - region: 9
 - concept: 7
+- theme: 6
 
 ## Top 20 引用最多的实体
 
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
-| 1 | `nev` | 新能源汽车 | concept | 141 |
-| 2 | `state_council` | 国务院 | org | 138 |
-| 3 | `nea` | 国家能源局 | org | 107 |
+| 1 | `state_council` | 国务院 | org | 139 |
+| 2 | `nev` | 新能源汽车 | concept | 132 |
+| 3 | `nea` | 国家能源局 | org | 101 |
 | 4 | `region_shanghai` | 上海 | region | 97 |
-| 5 | `equipment_renewal` | 设备更新 | concept | 95 |
-| 6 | `region_beijing` | 北京 | region | 94 |
-| 7 | `mof` | 财政部 | org | 86 |
-| 8 | `vpp` | 虚拟电厂 | concept | 83 |
-| 9 | `region_xinjiang` | 新疆 | region | 82 |
-| 10 | `consumer` | 消费者 | stakeholder | 82 |
-| 11 | `new_ess` | 新型储能 | concept | 80 |
-| 12 | `power_market` | 电力市场 | concept | 75 |
-| 13 | `mofcom` | 商务部 | org | 74 |
-| 14 | `v2g` | 车网互动 | concept | 71 |
-| 15 | `grid_company` | 电网企业 | stakeholder / org | 65 |
-| 16 | `mee` | 生态环境部 | org | 63 |
-| 17 | `charging_infra` | 充电基础设施 | concept | 59 |
-| 18 | `region_tianjin` | 天津 | region | 54 |
-| 19 | `region_liaoning` | 辽宁 | region | 54 |
-| 20 | `local_gov` | 地方政府 | org | 53 |
+| 5 | `region_beijing` | 北京 | region | 92 |
+| 6 | `region_xinjiang` | 新疆 | region | 88 |
+| 7 | `equipment_renewal_theme` | 以旧换新 | theme | 87 |
+| 8 | `mof` | 财政部 | org | 82 |
+| 9 | `new_ess` | 新型储能 | concept | 76 |
+| 10 | `consumer` | 消费者 | stakeholder | 75 |
+| 11 | `power_market` | 电力市场 | concept | 74 |
+| 12 | `grid_company` | 电网企业 | stakeholder / org | 72 |
+| 13 | `green_power_trading_theme` | 绿电交易 | theme | 71 |
+| 14 | `carbon_market_theme` | 碳市场 | theme | 70 |
+| 15 | `mofcom` | 商务部 | org | 70 |
+| 16 | `vpp` | 虚拟电厂 | concept | 68 |
+| 17 | `mee` | 生态环境部 | org | 64 |
+| 18 | `local_gov` | 地方政府 | org | 55 |
+| 19 | `region_liaoning` | 辽宁 | region | 55 |
+| 20 | `equipment_renewal` | 设备更新 | concept | 54 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 
@@ -56,7 +57,6 @@ date: 2026-04-25
 - `charging_equipment_manufacturer` (充换电设备制造商)
 - `ess_industry_company` (新型储能产业企业)
 - `load_aggregator` (负荷聚合商)
-- `high_energy_user` (重点用能企业)
 - `green_power_user` (绿电消费用户)
 - `ice_oem` (燃油车企业)
 - `commercial_property` (商业地产及商贸流通企业)
@@ -79,10 +79,5 @@ date: 2026-04-25
 
 这些政策正文里没有任何 alias 命中,LLM 补抽时优先处理。
 
-- `P_2025_OTHERE27E_24`
 - `P_2022_SX_1012250c`
-- `P_0000_OTHERDA8B_0000bc05`
-- `P_2024_NM_0101e295`
-- `P_2024_CQ_162`
-- `P_2026_CQ_0130f748`
-- `P_2022_CQ_08252433`
+- `P_2023_NDRC_0704ee90`

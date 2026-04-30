@@ -1211,3 +1211,25 @@ note: |
   added_at: 2026-04-28
   added_by: l2_themes_expansion_v1
   confidence: 0.95
+
+- id: carbon_market_theme
+  canonical_name: 碳市场
+  type: [theme]
+  aliases:
+    - 碳市场
+    - 碳排放权交易
+    - 碳排放配额
+    - 全国碳排放权交易市场
+    - 碳排放权
+    - 碳交易
+    - 碳排放管理
+    - CCER
+    - 国家核证自愿减排量
+    - 自愿减排
+    - 碳排放权登记
+    - 碳排放权结算
+    - 重点排放单位
+  desc: 全国碳排放权交易市场及配套制度(暂行条例 / 管理办法 / 核查指南 / CCER)
+  added_at: 2026-04-30
+  added_by: l2_themes_expansion_v2_carbon
+  confidence: 0.95
