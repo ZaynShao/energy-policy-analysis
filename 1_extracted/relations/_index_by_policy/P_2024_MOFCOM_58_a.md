@@ -1,10 +1,10 @@
 ---
 policy_id: P_2024_MOFCOM_58_a
 title: 推动消费品以旧换新行动方案
-inbound_edge_count: 3
-outbound_edge_count: 1
+inbound_edge_count: 5
+outbound_edge_count: 2
 commentary_inbound_count: 5
-last_updated: '2026-04-30T10:37:33+08:00'
+last_updated: '2026-04-30T10:57:09+08:00'
 policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0.md
 ---
 
@@ -19,6 +19,11 @@ policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(
 
 - [[P_2024_MOFCOM_75_b]] — 汽车以旧换新补贴实施细则 (2024-04-24)
 
+## 被引用 (referenced_by) — 2
+
+- [[P_2024_MOF_129]] — 2024年汽车以旧换新补贴中央财政预拨资金预算 (2024-05-28)
+- [[P_2024_MOFCOM_75_b]] — 汽车以旧换新补贴实施细则 (2024-04-24)
+
 ## 被评论 (commented_by) — 5
 
 - [[[PDF] 汽车以旧换新政策解读：补贴细则正式落地，助推新能源车市场需求 ...-www.spdbi.com]] — [PDF] 汽车以旧换新政策解读：补贴细则正式落地，助推新能源车市场需求 ... (—) [B4_llm_body_review]
@@ -30,5 +35,9 @@ policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(
 # 出向引用:P_2024_MOFCOM_58_a
 
 ## 引用为依据 — 1
+
+- [[P_2024_SC_7]] — 推动大规模设备更新和消费品以旧换新行动方案 (2024-03-07)
+
+## 引用了 — 1
 
 - [[P_2024_SC_7]] — 推动大规模设备更新和消费品以旧换新行动方案 (2024-03-07)
