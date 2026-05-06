@@ -269,22 +269,22 @@ def validate_commentary(path: Path, fm: dict[str, Any], report: Report) -> None:
             f"`not_policy_related` 必须是 boolean,实际 {fm['not_policy_related']!r}",
         )
 
-    # commentary_type enum (T1 仅 warn,T12 收紧)
+    # commentary_type enum(T12 收紧:warn → error)
     if "commentary_type" in fm and fm["commentary_type"] is not None:
         ct = fm["commentary_type"]
         if ct not in COMMENTARY_TYPE_ENUM:
             add(
-                "warn",
+                "error",
                 "enum_violation",
                 f"`commentary_type` 取值 {ct!r} 不在 {sorted(COMMENTARY_TYPE_ENUM)}",
             )
 
-    # related_policy_source 命名格式
+    # related_policy_source 命名格式(T12 收紧:warn → error)
     rps = fm.get("related_policy_source")
     if rps is not None and rps != "":
         if not (isinstance(rps, str) and RELATED_POLICY_SOURCE_PATTERN.match(rps)):
             add(
-                "warn",
+                "error",
                 "bad_pattern",
                 f"`related_policy_source` 不符合 `^(B[1-4]_|manual_).+$`: {rps!r}",
             )

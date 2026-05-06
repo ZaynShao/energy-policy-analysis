@@ -174,6 +174,7 @@ def apply_one(rec: dict, pid_index: dict, stats: dict, skip_march: bool = True):
     summary = rec.get("summary", "") or ""
     summary_one_liner = rec.get("summary_one_liner", "") or ""
     reading_value = rec.get("reading_value", "") or ""
+    didi_impact_one_liner = rec.get("didi_impact_one_liner", "") or ""
     national_source = rec.get("national_source") or {}
     scores = rec.get("scores") or {}
     impact = rec.get("影响分析")
@@ -198,6 +199,8 @@ def apply_one(rec: dict, pid_index: dict, stats: dict, skip_march: bool = True):
         "extracted_by": SCRIPT_TAG,
         "extracted_model": "claude-opus-4-7-via-subagent",
     }
+    if didi_impact_one_liner:
+        bv_fields["didi_impact_one_liner"] = didi_impact_one_liner
     if importance < 3:
         bv_fields["archive"] = "low_score"
     merge_business_view(pid, bv_fields, rerun=True)

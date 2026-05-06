@@ -1233,3 +1233,22 @@ note: |
   added_at: 2026-04-30
   added_by: l2_themes_expansion_v2_carbon
   confidence: 0.95
+
+- id: rural_revitalization_theme
+  canonical_name: 乡村振兴
+  type: [theme]
+  aliases:
+    - 乡村振兴
+    - 农村
+    - 新能源汽车下乡
+    - 农村电网
+    - 县域充电
+    - 农村充电基础设施
+    - 充电下乡
+    - 县域新能源
+    - 农村能源
+    - 乡村清洁能源
+  desc: 乡村振兴 / 县域 / 农村相关能源政策主题(充电下乡 / 农村电网 / 县域充电基建)
+  added_at: 2026-05-06
+  added_by: l2_themes_expansion_v3_rural_T15
+  confidence: 0.95

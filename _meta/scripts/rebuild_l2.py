@@ -740,6 +740,7 @@ output: {state_dir}/results/results.jsonl
     "summary": "2-3 句客观摘要,不含品牌名",
     "summary_one_liner": "≤25 字精髓",
     "reading_value": "≤25 字阅读价值",
+    "didi_impact_one_liner": "≤30 字滴滴业务核心影响一句话(月报段标题候选,允许提滴滴)",
     "national_source": {{
       "is_national_level_originated": true|false,
       "primary_source": {{"title_or_official": "...", "linkage_type": null|"直接落地"|"借鉴框架"|"主题对应"}},

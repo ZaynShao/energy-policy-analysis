@@ -6,19 +6,19 @@ date: 2026-04-25
 # Step 5 · 实体抽取汇总
 
 - 输入政策: **273**
-- registry 实体: **94**
+- registry 实体: **95**
 - 命中实体的政策: **271**
 - 零实体命中政策: **2**(召回缺口,LLM 补抽 candidate)
-- 平均每政策命中实体: **9.7**
-- 已被引用的 canonical: **67/94**
+- 平均每政策命中实体: **10.1**
+- 已被引用的 canonical: **68/95**
 - 孤儿 canonical(0 政策引用): **27**
 
 ## type 分布(有政策引用的)
 - stakeholder: 30
 - org: 18
 - region: 9
+- theme: 7
 - concept: 7
-- theme: 6
 
 ## Top 20 引用最多的实体
 
@@ -26,24 +26,24 @@ date: 2026-04-25
 |---|--------------|------|------|:-----:|
 | 1 | `state_council` | 国务院 | org | 141 |
 | 2 | `nev` | 新能源汽车 | concept | 133 |
-| 3 | `nea` | 国家能源局 | org | 103 |
-| 4 | `region_shanghai` | 上海 | region | 97 |
-| 5 | `region_beijing` | 北京 | region | 92 |
-| 6 | `region_xinjiang` | 新疆 | region | 88 |
-| 7 | `equipment_renewal_theme` | 以旧换新 | theme | 87 |
-| 8 | `mof` | 财政部 | org | 82 |
-| 9 | `new_ess` | 新型储能 | concept | 77 |
-| 10 | `consumer` | 消费者 | stakeholder | 75 |
-| 11 | `power_market` | 电力市场 | concept | 75 |
-| 12 | `grid_company` | 电网企业 | stakeholder / org | 74 |
-| 13 | `green_power_trading_theme` | 绿电交易 | theme | 72 |
-| 14 | `carbon_market_theme` | 碳市场 | theme | 71 |
-| 15 | `mofcom` | 商务部 | org | 70 |
-| 16 | `vpp` | 虚拟电厂 | concept | 69 |
-| 17 | `mee` | 生态环境部 | org | 64 |
-| 18 | `equipment_renewal` | 设备更新 | concept | 56 |
-| 19 | `local_gov` | 地方政府 | org | 56 |
-| 20 | `region_liaoning` | 辽宁 | region | 55 |
+| 3 | `rural_revitalization_theme` | 乡村振兴 | theme | 112 |
+| 4 | `nea` | 国家能源局 | org | 103 |
+| 5 | `region_shanghai` | 上海 | region | 97 |
+| 6 | `region_beijing` | 北京 | region | 92 |
+| 7 | `region_xinjiang` | 新疆 | region | 88 |
+| 8 | `equipment_renewal_theme` | 以旧换新 | theme | 87 |
+| 9 | `mof` | 财政部 | org | 82 |
+| 10 | `new_ess` | 新型储能 | concept | 77 |
+| 11 | `consumer` | 消费者 | stakeholder | 75 |
+| 12 | `power_market` | 电力市场 | concept | 75 |
+| 13 | `grid_company` | 电网企业 | stakeholder / org | 74 |
+| 14 | `green_power_trading_theme` | 绿电交易 | theme | 72 |
+| 15 | `carbon_market_theme` | 碳市场 | theme | 71 |
+| 16 | `mofcom` | 商务部 | org | 70 |
+| 17 | `vpp` | 虚拟电厂 | concept | 69 |
+| 18 | `mee` | 生态环境部 | org | 64 |
+| 19 | `equipment_renewal` | 设备更新 | concept | 56 |
+| 20 | `local_gov` | 地方政府 | org | 56 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 
