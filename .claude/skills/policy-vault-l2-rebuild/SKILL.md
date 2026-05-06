@@ -22,9 +22,11 @@ description: 在「政策分析」vault(0_raw/policies + 0_raw/commentaries 路�
 | L1 dedup / 文件名改(pid 不变) | **C. 仅跑 deterministic post-llm** | "dedup"、"文件名规范化" |
 | 全量校验或 deterministic 全跑 | **D. deterministic --scope all** | "全部重跑一遍"、"audit"、"vault 体检" |
 | 上位政策反向 inbound 边补全 | **E. reverse_cites** | "P_xxx inbound 偏低"、"反向 cites_basis"、"上位政策反向边" |
+| 关系层 isolated 政策一次清账(已入库政策重审) | **F. rel_judge_rerun** | "isolated 政策"、"重审已入库 rel_judge"、"召回率 audit"、"P_xxx outbound 0" |
 
 **关键判定**:看用户是否动了 `0_raw/`。raw 没动只是 deterministic 重跑的(C/D)不需要 LLM subagent。
 **reverse_cites 与 trigger A 不同**:不动 raw,只对已有 vault 政策派 LLM judge 找未抽到的反向 cites_basis 边(基于关系层覆盖率 metric 诊断的缺口)。
+**rel_judge_rerun 与 reverse_cites / trigger A 不同**:对**已入库 isolated 政策**(metric 报双 0)从 outbound 视角重跑 5 类关系 LLM judge。不动 raw,不动 5C(business_view yaml 不重写),纯关系层重审。判别 isolated 政策是真孤儿还是召回不足。
 
 ---
 
@@ -217,6 +219,85 @@ python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 
 ---
 
+## 4c. Trigger F: rel_judge_rerun(2026-05-06 加入,isolated 政策一次清账)
+
+诊断:跑 `relations_coverage_metric.py` 看 isolated 政策清单(0 inbound + 0 outbound)。这些政策可能是:
+  - **真孤儿**:政策本身边缘 / 行业目录,vault 内确无关联(承认是孤儿即可)
+  - **召回不足**:旧 prompt rel_judge 没识别出与 vault 内某些政策的真实 5 类关系
+
+trigger F 用 LLM(新 prompt + 新模型)对每个 isolated 政策从 outbound 视角重审 5 类关系,**0 边输出 acceptable**(不会强迫 LLM 硬编)。同时通过履历表(§4d)记录"已审"标记,后续 metric 看到 isolated 时能区分"已审 + 真孤儿" vs "未审"。
+
+完整 3 步:
+
+### F.1 准备(`prepare`)
+
+```bash
+# 拿 isolated 清单
+python3 _meta/scripts/relations_coverage_metric.py --json | python3 -c "
+import json, sys
+d = json.load(sys.stdin)
+print(','.join(sorted(d['quadrants']['isolated'])))
+" > /tmp/isolated_pids.txt
+
+# 派活
+PIDS=$(cat /tmp/isolated_pids.txt)
+python3 _meta/scripts/rebuild_l2.py prepare --trigger rel_judge_rerun \
+  --pids "$PIDS" --batch-count 3
+```
+
+脚本自动:
+- 加载 51 isolated 的 raw body 前 20000 字 + 273 vault_index
+- 拆 N batch(默认 3,可 `--batch-count` 调,典型 ≤17 pids/batch 让 prompt ≤500k chars)
+- stage `_l2_rebuild_state/rel_judge_rerun/{batch_{1..N}.jsonl, vault_index.jsonl, inputs.jsonl, prompt.md}`
+
+prompt 模板**显式写"0 边输出 acceptable"**,防 LLM 为了产出而硬编关系。
+
+### F.2 派 N subagent(opus 4.7,并行后台)
+
+读 `_l2_rebuild_state/rel_judge_rerun/prompt.md`,派 N 个 subagent 各 1 batch(`run_in_background: true` 并行)。每个 subagent 用 Write tool 写 results 到:
+- `_l2_rebuild_state/rel_judge_rerun/results/batch_{1..N}.jsonl`
+- 同时把整份 jsonl 贴到 final_report ```jsonl 块里(冗余备份,主 session 提取兜底)
+
+### F.3 应用(`apply --stage rel_judge_rerun`)
+
+```bash
+python3 _meta/scripts/rebuild_l2.py apply --stage rel_judge_rerun
+python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
+```
+
+apply 行为:
+- 合 N batch results.jsonl
+- dangling 校验(from/to 必须 vault 内,from != to,rel ∈ 5 类)
+- 按 rel 分组,防重 (from, to) 写入 5 类 `1_extracted/relations/*.jsonl`
+- **履历追踪**:对所有 input pid append 履历(包括 0 边的 — 标"已审 + 0 edges")
+- post-llm 刷反链 / 主题 / regions / global_index
+
+---
+
+## 4d. rel_judge 履历追踪(2026-05-06 加入)
+
+文件:`_meta/audit/rel_judge_history.jsonl`(append-only,每行一次 LLM 跑)
+
+字段:
+```jsonl
+{"pid": "P_xxx", "ran_at": "ISO ts", "trigger": "trigger_A_pid_change|trigger_E_reverse_cites|trigger_F_rel_judge_rerun|build_phase_legacy",
+ "prompt_version": "v3.1_2026-05-06|unknown_legacy", "model": "claude-opus-4-7|unknown_legacy",
+ "edges_outbound_added": int, "edges_inbound_added": int}
+```
+
+**自动写入**:apply --stage rel / rev_cites / rel_judge_rerun 末尾自动 append 一行 / 参与本次审的 pid(包括 0 边的)。
+
+**用法**:metric 看 isolated 时 join 履历,知道每 isolated 是:
+- `unknown_legacy + edges=0` → 旧版未审过的疑似召回不足(候选 trigger F)
+- `trigger_F_rel_judge_rerun + edges=0` → 已用新 prompt 审过 + 真孤儿(无需重审)
+- `trigger_A_pid_change + edges>0` → 新政策入库时已审 + 有边(健康)
+
+**backfill 已跑一次**(commit 3cf26cc 起):273 政策都标 `build_phase_legacy + unknown_legacy`,后续每次 trigger A/E/F 跑时再覆盖履历(append,以最近一次为准)。**重复跑 backfill 拒抗**(已含 build_phase_legacy 行就 abort)。
+
+**升级 prompt 时**:改 `REL_JUDGE_PROMPT_VERSION` 常量(`_meta/scripts/rebuild_l2.py` 顶部),后续履历自动标新版本。
+
+---
+
 ## 5. LLM Wiki 5 原则速查(每次操作前自查)
 
 | # | 原则 | 操作时检查 |
@@ -353,6 +434,29 @@ python3 _meta/scripts/rebuild_l2.py prepare --trigger reverse_cites \
 python3 _meta/scripts/rebuild_l2.py apply --stage rev_cites
 python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 
+# trigger F (isolated 政策一次清账)
+PIDS=$(python3 _meta/scripts/relations_coverage_metric.py --json | python3 -c "
+import json, sys
+d = json.load(sys.stdin); print(','.join(sorted(d['quadrants']['isolated'])))
+")
+python3 _meta/scripts/rebuild_l2.py prepare --trigger rel_judge_rerun \
+  --pids "$PIDS" --batch-count 3
+# (派 N subagent: rel_judge_rerun batch_{1..N},opus 4.7,并行后台)
+python3 _meta/scripts/rebuild_l2.py apply --stage rel_judge_rerun
+python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
+
+# 履历追踪
+ls _meta/audit/rel_judge_history.jsonl    # append-only,自动写入
+# 看 isolated 政策的"已审"状态
+python3 -c "
+import json
+hist = {}
+with open('_meta/audit/rel_judge_history.jsonl') as f:
+    for line in f:
+        r = json.loads(line); hist[r['pid']] = r  # 保留最新一行
+# 报 trigger=build_phase_legacy + edges=0 的 pid(候选 trigger F)
+"
+
 # 独立审计工具(可单跑或被 trigger A step 0 自动调用)
 python3 _meta/scripts/validate_l1.py [--pid X,Y] [--strict] [--json]
 python3 _meta/scripts/oneshot_l1_body_audit.py [--pid X,Y] [--json]
@@ -386,6 +490,10 @@ ls -la _l2_rebuild_state/ 2>/dev/null  # 看是否有未完成的 staging
     ├─ 关系层覆盖率 metric 显示某上位 pid inbound 偏低/=0? ──→ trigger E (reverse_cites)
     │   (跑 relations_coverage_metric.py 看上位政策 inbound section,
     │   选 inbound ≤ 3 的几个作 target-pids)
+    │
+    ├─ 关系层 metric 报 isolated 政策(0 in + 0 out)? ──→ trigger F (rel_judge_rerun)
+    │   (查 _meta/audit/rel_judge_history.jsonl 看 isolated 政策是否已用
+    │   新 prompt 审过;若大多数仍 build_phase_legacy,trigger F 一次清账)
     │
     ├─ 提到 stale (opinions / themes / 反链 / 主题)? ──→ 看哪一层 stale
     │   ├─ opinions / opinions-summary stale ──→ trigger B
