@@ -969,7 +969,7 @@ def apply_stance():
     import time
     opn = VAULT / "1_extracted/opinions"
     cleaned = 0
-    for f in opn.glob("P_*.md"):
+    for f in opn.glob("_op_P_*.md"):
         if time.time() - f.stat().st_mtime > 60:
             f.unlink()
             cleaned += 1
@@ -996,7 +996,7 @@ def _stage_opinions_summary_inputs():
             continue
         d = json.loads(inp.read_text(encoding="utf-8"))
         opinion_pids = d.get("opinion_policy_ids", [])
-        opinions = {pid: (OPN / f"{pid}.md").read_text(encoding="utf-8") for pid in opinion_pids if (OPN / f"{pid}.md").exists()}
+        opinions = {pid: (OPN / f"_op_{pid}.md").read_text(encoding="utf-8") for pid in opinion_pids if (OPN / f"_op_{pid}.md").exists()}
         all_pids = [p["id"] for p in d.get("policies", [])]
         uncovered = [p for p in all_pids if p not in set(opinion_pids)]
         theme_specs.append({

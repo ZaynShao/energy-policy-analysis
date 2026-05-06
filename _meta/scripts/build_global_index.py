@@ -117,7 +117,7 @@ def main():
     density = total_edges / max(1, n_policies * (n_policies - 1))
 
     # 4. opinions
-    n_opinions = sum(1 for _ in OPINIONS.glob('P_*.md'))
+    n_opinions = sum(1 for _ in OPINIONS.glob('_op_P_*.md'))
     opinion_pct = n_opinions / max(1, n_policies) * 100
 
     # 5. tags / region / issuer 分布

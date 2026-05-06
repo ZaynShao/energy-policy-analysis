@@ -376,7 +376,12 @@ def main():
                 render_section(lines, REL_TO_OUTBOUND_LABEL[rel_key],
                                out_rels[rel_key], peer_key="to_id")
 
-        out_file = OUTPUT_DIR / f"{pid}.md"
+        # 文件名加 _rev_ 前缀避免与 raw 政策的 alias `P_xxx` 命名冲突。
+        # Obsidian wiki link 解析优先级:文件名 > alias。同名反链页会"截胡"
+        # 所有 [[P_xxx]] 引用,导致 raw 政策本身在 graph view 显示孤立。
+        # _rev_ 前缀让 [[P_xxx]] 解析到 raw 政策 alias,反链页通过 [[_rev_P_xxx]]
+        # 显式访问(或 Dataview 查 vault)。
+        out_file = OUTPUT_DIR / f"_rev_{pid}.md"
         out_file.write_text("\n".join(lines), encoding="utf-8")
         written += 1
 

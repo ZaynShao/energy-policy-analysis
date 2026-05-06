@@ -425,6 +425,33 @@ hook 行为:
 
 hook 不会让既有违规 commit 越来越多 — 只阻断**新引入**的违规。
 
+## 8c. 派生文件命名约定 — 防 wiki link alias 冲突(2026-05-06 加入)
+
+**背景**:Obsidian wiki link 解析优先级是**文件名 > alias**。如果派生文件用 `P_xxx.md` 命名,会与 raw 政策的 `aliases: [P_xxx]` 冲突 — 所有 `[[P_xxx]]` 引用被派生文件"截胡",raw 政策在 graph view 显示孤立(即便有 5+ 关系边)。
+
+**修复(已生效)**:派生文件统一加前缀:
+- 反链页 `1_extracted/relations/_index_by_policy/_rev_P_xxx.md`(build_reverse_links.py)
+- opinion 聚合页 `1_extracted/opinions/_op_P_xxx.md`(aggregate_opinions.py)
+- diff 页本来就是 `P_xxx__from__P_yyy.md` 格式,**不冲突**(无需改)
+
+**新写派生文件脚本时的命名规则**:
+- 输出文件名**不可**精确等于 `P_\d{4}_[A-Za-z0-9_]+`(raw 政策 alias 模式)
+- 必须加前缀(`_rev_` / `_op_` / 其他语义前缀)或后缀
+- 入库前用以下脚本验证全 vault 无冲突:
+  ```python
+  import re
+  from pathlib import Path
+  ALIAS_PATTERN = re.compile(r'^P_\d{4}_[A-Za-z0-9]+(?:_[a-zA-Z0-9]+)?$')
+  for p in Path('.').rglob('*.md'):
+      if '.git' in p.parts: continue
+      if ALIAS_PATTERN.match(p.stem):
+          print(f'collision: {p}')
+  ```
+
+**用户体验改善**:修完后 `[[P_xxx]]` 引用(在 opinions-summary / themes / 其他反链页等)正确解析到 raw 政策原文,而不是派生 hub 页。raw 政策 graph view 显示其全部关系边。
+
+---
+
 ## 9. 不要做的事
 
 - ❌ 用 `git add .` 或 `git add -A`(可能纳入 macOS cruft / 临时文件;用具体路径)

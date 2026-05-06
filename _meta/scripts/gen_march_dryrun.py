@@ -105,7 +105,7 @@ def main():
 
     # 3 月 ≥4 是否有 opinions
     op_dir = VAULT / "1_extracted" / "opinions"
-    march_with_opinions = [pid for pid in march_pids if (op_dir / f"{pid}.md").exists()]
+    march_with_opinions = [pid for pid in march_pids if (op_dir / f"_op_{pid}.md").exists()]
 
     # 主题 → 31 省覆盖
     PROV = {"北京市", "天津市", "上海市", "重庆市", "河北省", "山西省", "内蒙古自治区",
@@ -119,6 +119,8 @@ def main():
                                 ("equipment_renewal", "设备更新")]:
         covered = set()
         for pid in policy_entities:
+            if pid not in all_p:
+                continue
             if theme_id in policy_entities[pid]:
                 r = all_p[pid]["fm"].get("region") or {}
                 if r.get("level") == "省" and r.get("name") in PROV:

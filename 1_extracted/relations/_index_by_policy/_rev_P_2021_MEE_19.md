@@ -1,0 +1,25 @@
+---
+policy_id: P_2021_MEE_19
+title: 碳排放权交易管理办法(试行)
+inbound_edge_count: 3
+outbound_edge_count: 0
+commentary_inbound_count: 2
+last_updated: '2026-05-06T15:35:27+08:00'
+policy_file: ../../../0_raw/policies/【碳排放权交易管理办法(试行)(部令第19号)】-生态环境部-ed28.md
+---
+
+# 入向反链:P_2021_MEE_19
+
+## 被细化 (clarified_by) — 2
+
+- [[P_2024_MEE_1101f119]] — 中国应对气候变化的政策与行动2024年度报告 (2024-11-01)
+- [[P_2022_MEE_111]] — 2021、2022年度全国碳排放权交易配额总量设定与分配实施方案(征求意见稿) (2022-11-03)
+
+## 被落地 (landed_by) — 1
+
+- [[P_2024_CQ_162]] — 重庆市2023年度碳排放配额分配实施方案 (2024-09-14) [借鉴框架]
+
+## 被评论 (commented_by) — 2
+
+- [[《碳排放交易管理暂行条例》解读及应对建议-www.climatebridge.com]] (—) [B4_llm_body_review]
+- [[《碳排放权交易管理暂行条例》要点解读 - 专业文章 - 文康律师事务所-wincon.com.cn]] (—) [B4_llm_body_review]

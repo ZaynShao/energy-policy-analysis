@@ -1,0 +1,15 @@
+---
+policy_id: P_2023_NDRC_1294_b
+title: 国家发展改革委 国家能源局关于加强新形势下电力系统稳定工作的指导意见
+inbound_edge_count: 0
+outbound_edge_count: 1
+commentary_inbound_count: 0
+last_updated: '2026-05-06T15:35:27+08:00'
+policy_file: ../../../0_raw/policies/【国家发展改革委 国家能源局关于加强新形势下电力系统稳定工作的指导意见(发改能源〔2023〕1294号)】-国家发展改革委、国家能源局-49f1.md
+---
+
+# 出向引用:P_2023_NDRC_1294_b
+
+## 对齐了 — 1
+
+- [[P_2018_NDRC_364]] — 关于提升电力系统调节能力的指导意见 (2018-03-23)

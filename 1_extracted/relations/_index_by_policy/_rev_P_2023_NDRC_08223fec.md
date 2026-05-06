@@ -1,0 +1,16 @@
+---
+policy_id: P_2023_NDRC_08223fec
+title: 绿色低碳先进技术示范工程实施方案
+inbound_edge_count: 0
+outbound_edge_count: 2
+commentary_inbound_count: 0
+last_updated: '2026-05-06T15:35:27+08:00'
+policy_file: ../../../0_raw/policies/【绿色低碳先进技术示范工程实施方案】-国家发展改革委等十部门-5f08.md
+---
+
+# 出向引用:P_2023_NDRC_08223fec
+
+## 细化了 — 2
+
+- [[P_2021_SC_23]] — 2030年前碳达峰行动方案 (2021-10-24)
+- [[P_2021_SC_0922fb2b]] — 中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见 (2021-09-22)

@@ -1,0 +1,27 @@
+---
+policy_id: P_2024_NEA_76
+title: 电力市场注册基本规则
+inbound_edge_count: 3
+outbound_edge_count: 0
+commentary_inbound_count: 4
+last_updated: '2026-05-06T15:35:27+08:00'
+policy_file: ../../../0_raw/policies/【电力市场注册基本规则(国能发监管规〔2024〕76号)】-国家能源局-7b68.md
+---
+
+# 入向反链:P_2024_NEA_76
+
+## 被引为依据 (cited_as_basis_by) — 1
+
+- [[P_2025_NDRC_357_a]] — 关于加快推进虚拟电厂发展的指导意见 (2025-04-11)
+
+## 被引用 (referenced_by) — 2
+
+- [[P_2025_BJ_4]] — 北京市2026年电力市场化交易方案、绿色电力交易方案 (2025-12-09)
+- [[P_2025_NEA_58]] — 2025年电力市场秩序突出问题专项监管 (2025-04-11)
+
+## 被评论 (commented_by) — 4
+
+- [[智库视野｜近五年中国电力市场政策体系的演变历程：“1+6+N”规则体系解读]] (2026-03-27) [B4_llm_body_review]
+- [[年度重磅_2025中国能源大事年鉴——电力市场篇]] — 年度重磅 | 2025中国能源大事年鉴——电力市场篇 (2026-01-20) [B4_llm_body_review]
+- [[[PDF] 福建电力市场中长期交易实施细则（2026 年修订版） （征求意见稿）-editan.oss-cn-shanghai.aliyuncs.com]] — [PDF] 福建电力市场中长期交易实施细则（2026 年修订版） （征求意见稿） (—) [B4_llm_body_review]
+- [[植德新能源观察  《电力市场运行基本规则》重点内容解读 - 植德律师事务所-www.meritsandtree.com]] (—) [B4_llm_body_review]

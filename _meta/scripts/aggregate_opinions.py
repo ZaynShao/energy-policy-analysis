@@ -7,7 +7,7 @@ Step 8b — 合并 5 个 agent 的 stance jsonl,按 policy_id 聚合 → 政策�
   - _meta/stance_batches/agent_{1..5}_stances.jsonl
 
 输出:
-  - 1_extracted/opinions/<policy_id>.md  (每政策一个舆论矩阵)
+  - 1_extracted/opinions/_op_<policy_id>.md  (每政策一个舆论矩阵,_op_ 前缀避免与 raw 政策 alias 冲突)
   - 1_extracted/opinions/_summary.md     (整体统计)
 
 聚合规则(schema_v3.md 第 8.3 节):
@@ -240,10 +240,18 @@ def main():
     print(f"  polarity dist: {dict(polarity_dist)}")
 
     print("\nWriting per-policy opinion pages...")
+    # cleanup 旧的 P_xxx.md(2026-05-06 改名前的同名命名,会与 raw 政策 alias 冲突)
+    import re as _re
+    _alias_pat = _re.compile(r'^P_\d{4}_[A-Za-z0-9]+(?:_[a-zA-Z0-9]+)?$')
+    for old in OPINIONS.glob('P_*.md'):
+        if _alias_pat.match(old.stem):
+            old.unlink()
     written = 0
     for pid, stances in by_policy.items():
         page = render_opinion_page(pid, stances)
-        out = OPINIONS / f"{pid}.md"
+        # 文件名加 _op_ 前缀避免与 raw 政策 alias `P_xxx` 命名冲突。
+        # 同 build_reverse_links.py 的 _rev_ 前缀处理。
+        out = OPINIONS / f"_op_{pid}.md"
         out.write_text(page, encoding="utf-8")
         written += 1
     print(f"  {written} opinion pages → {OPINIONS}")
