@@ -4,7 +4,7 @@ title: 做好2025年汽车以旧换新工作的通知
 inbound_edge_count: 13
 outbound_edge_count: 7
 commentary_inbound_count: 0
-last_updated: '2026-05-06T13:48:11+08:00'
+last_updated: '2026-05-06T14:27:47+08:00'
 policy_file: ../../../0_raw/policies/【做好2025年汽车以旧换新工作的通知(商办消费函〔2025〕8号)】-商务部、发改委、工信部、公安部、生态环境部、财政部、税务总局、市场监管总局-91ee.md
 ---
 
