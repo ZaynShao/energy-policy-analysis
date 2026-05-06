@@ -1,18 +1,21 @@
 ---
 type: 政策评论
-source: swj.lasa.gov.cn
 source_type: A
-url: http://swj.lasa.gov.cn/swj/zcjd/202510/13f06bfd830b4b4eb24aeb59ccd7fee6.shtml
-date: null
 related_policy:
 - P_2025_MOFCOM_4_a
 - P_2025_OTHERBDE4_5
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:49.662707
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://swj.lasa.gov.cn/swj/zcjd/202510/13f06bfd830b4b4eb24aeb59ccd7fee6.shtml
+date_published: null
+source_account: swj.lasa.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:49.662707
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 商务部消费促进司负责人解读《成品油流通管理办法》_政策解读_拉萨市商务局
 

@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: mm.chinapower.com.cn
 source_type: B
-url: http://mm.chinapower.com.cn/chuneng/dongtai1/20240312/238629.html
-date: null
 related_policy:
 - P_2024_NDRC_02276bf1
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:36.597713
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://mm.chinapower.com.cn/chuneng/dongtai1/20240312/238629.html
+date_published: null
+source_account: mm.chinapower.com.cn
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:36.597713
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《关于加强电网调峰储能和智能化调度能力建设的指导意见》文件解读_电力网
 

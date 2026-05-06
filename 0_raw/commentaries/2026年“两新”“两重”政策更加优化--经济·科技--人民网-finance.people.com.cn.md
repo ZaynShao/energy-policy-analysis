@@ -1,18 +1,21 @@
 ---
 title: 2026年“两新”“两重”政策更加优化--经济·科技--人民网
 type: 政策评论
-source: finance.people.com.cn
 source_type: B
-url: http://finance.people.com.cn/n1/2026/0101/c1004-40637155.html
-date: 未知
 related_policy:
 - P_2025_NDRC_1745_c
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 14:51:09.504839
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://finance.people.com.cn/n1/2026/0101/c1004-40637155.html
+date_published: null
+source_account: finance.people.com.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:51:09.504839
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 2026年“两新”“两重”政策更加优化--经济·科技--人民网
 

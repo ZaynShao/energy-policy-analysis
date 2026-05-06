@@ -1,18 +1,21 @@
 ---
 type: 政策评论
-source: www.mofcom.gov.cn
 source_type: A
-url: https://www.mofcom.gov.cn/zcjd/gnmy/art/2025/art_94acad465ca44c4e867869bee21a57b1.html
-date: null
 related_policy:
 - P_2025_MOFCOM_4_a
 - P_2025_OTHERBDE4_5
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:49.372236
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.mofcom.gov.cn/zcjd/gnmy/art/2025/art_94acad465ca44c4e867869bee21a57b1.html
+date_published: null
+source_account: www.mofcom.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:49.372236
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 商务部消费促进司负责人解读《成品油流通管理办法》
 

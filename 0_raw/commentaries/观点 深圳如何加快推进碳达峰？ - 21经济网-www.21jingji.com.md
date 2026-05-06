@@ -1,18 +1,21 @@
 ---
 title: 观点 深圳如何加快推进碳达峰？ - 21经济网
 type: 政策评论
-source: www.21jingji.com
 source_type: B
-url: https://www.21jingji.com/article/20241009/herald/b582a98c379ec7765168658b2e9a4527.html
-date: 未知
 related_policy:
 - P_2024_OTHER764F_337
-confidence: 0.7
-collected_by: policy-watch
-collected_at: 2026-04-25 10:00:51.887251
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.21jingji.com/article/20241009/herald/b582a98c379ec7765168658b2e9a4527.html
+date_published: null
+source_account: www.21jingji.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 10:00:51.887251
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 观点 深圳如何加快推进碳达峰？ - 21经济网
 

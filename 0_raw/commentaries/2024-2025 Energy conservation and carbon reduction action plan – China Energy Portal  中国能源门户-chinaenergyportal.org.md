@@ -2,18 +2,21 @@
 title: 2024-2025 Energy conservation and carbon reduction action plan – China Energy
   Portal  中国能源门户
 type: 政策评论
-source: chinaenergyportal.org
 source_type: B
-url: https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/
-date: 未知
 related_policy:
 - P_2024_SC_12_a
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 10:05:22.321575
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.98
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://chinaenergyportal.org/2024-2025-energy-conservation-and-carbon-reduction-action-plan/
+date_published: null
+source_account: chinaenergyportal.org
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 10:05:22.321575
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 2024-2025 Energy conservation and carbon reduction action plan – China Energy Portal  中国能源门户
 

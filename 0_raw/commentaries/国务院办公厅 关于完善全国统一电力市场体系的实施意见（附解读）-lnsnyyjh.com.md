@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: lnsnyyjh.com
 source_type: B
-url: http://lnsnyyjh.com/nd.jsp?id=529
-date: null
 related_policy:
 - P_2025_GO_1201e389
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:57.136937
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://lnsnyyjh.com/nd.jsp?id=529
+date_published: null
+source_account: lnsnyyjh.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:57.136937
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 国务院办公厅| 关于完善全国统一电力市场体系的实施意见（附解读）
 

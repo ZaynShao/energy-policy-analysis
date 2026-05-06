@@ -1,13 +1,16 @@
 ---
 title: 解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》
 type: 政策评论
-source: energylaw.chinalaw.org.cn
 source_type: B
-url: https://energylaw.chinalaw.org.cn/portal/article/index/id/3242.html
-date: 未知
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 14:39:54.349512
+source_url: https://energylaw.chinalaw.org.cn/portal/article/index/id/3242.html
+date_published: null
+source_account: energylaw.chinalaw.org.cn
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:39:54.349512
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 解力也解读《关于完善能源绿色低碳转型体制机制和政策措施的意见》
 

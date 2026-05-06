@@ -1,18 +1,21 @@
 ---
 title: 【专家解读之二｜推动工业领域大规模设备更新 加快推进新型工业化】-国家发展和改革委员会
 type: 政策评论
-source: www.ndrc.gov.cn
 source_type: B
-url: https://www.ndrc.gov.cn/xxgk/jd/jd/202403/t20240315_1364972.html
-date: 未知
 related_policy:
 - P_2024_SC_7
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 14:40:47.018912
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.ndrc.gov.cn/xxgk/jd/jd/202403/t20240315_1364972.html
+date_published: null
+source_account: www.ndrc.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:40:47.018912
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 【专家解读之二｜推动工业领域大规模设备更新 加快推进新型工业化】-国家发展和改革委员会
 

@@ -1,18 +1,21 @@
 ---
 title: '[PDF] 行业总量专题：2026 年购置税补贴减半'
 type: 政策评论
-source: pdf.dfcfw.com
 source_type: B
-url: https://pdf.dfcfw.com/pdf/H301_AP202511031774417594_1.pdf
-date: 未知
 related_policy:
 - P_2025_MIIT_24_a
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 14:58:26.463832
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://pdf.dfcfw.com/pdf/H301_AP202511031774417594_1.pdf
+date_published: null
+source_account: pdf.dfcfw.com
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:58:26.463832
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # [PDF] 行业总量专题：2026 年购置税补贴减半
 

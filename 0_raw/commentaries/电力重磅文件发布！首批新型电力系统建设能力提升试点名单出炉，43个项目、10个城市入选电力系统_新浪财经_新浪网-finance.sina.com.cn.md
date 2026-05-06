@@ -1,12 +1,15 @@
 ---
 type: 政策评论
-source: finance.sina.com.cn
 source_type: B
-url: https://finance.sina.com.cn/roll/2026-02-27/doc-inhphqny6532624.shtml
-date: null
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:31:52.318303
+source_url: https://finance.sina.com.cn/roll/2026-02-27/doc-inhphqny6532624.shtml
+date_published: null
+source_account: finance.sina.com.cn
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:31:52.318303
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 电力重磅文件发布！首批新型电力系统建设能力提升试点名单出炉，43个项目、10个城市入选|电力系统_新浪财经_新浪网
 

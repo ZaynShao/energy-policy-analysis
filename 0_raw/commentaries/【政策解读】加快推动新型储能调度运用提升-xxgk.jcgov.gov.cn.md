@@ -1,19 +1,22 @@
 ---
 type: 政策评论
-source: xxgk.jcgov.gov.cn
 source_type: A
-url: https://xxgk.jcgov.gov.cn/szfgzbm/jcsnyj/fdzdgknr_31618/zcjd_snyj/202404/t20240425_1974880.shtml
-date: null
 related_policy:
 - P_2024_NEA_0528d977
 - P_2021_NDRC_0421ce4f
 - P_2022_NDRC_475
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:55.660849
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://xxgk.jcgov.gov.cn/szfgzbm/jcsnyj/fdzdgknr_31618/zcjd_snyj/202404/t20240425_1974880.shtml
+date_published: null
+source_account: xxgk.jcgov.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:55.660849
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 【政策解读】加快推动新型储能调度运用提升
 

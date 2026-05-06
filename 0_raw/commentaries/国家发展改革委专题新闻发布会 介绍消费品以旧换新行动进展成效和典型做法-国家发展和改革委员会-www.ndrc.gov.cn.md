@@ -1,19 +1,22 @@
 ---
 title: 国家发展改革委专题新闻发布会 介绍消费品以旧换新行动进展成效和典型做法-国家发展和改革委员会
 type: 政策评论
-source: www.ndrc.gov.cn
 source_type: B
-url: https://www.ndrc.gov.cn/xwdt/wszb/yjhxjzcxhdxzf/
-date: 未知
 related_policy:
 - P_2024_SC_7
 - P_2024_MOFCOM_58_a
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 14:28:11.611115
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.85
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.ndrc.gov.cn/xwdt/wszb/yjhxjzcxhdxzf/
+date_published: null
+source_account: www.ndrc.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:28:11.611115
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 国家发展改革委专题新闻发布会 介绍消费品以旧换新行动进展成效和典型做法-国家发展和改革委员会
 

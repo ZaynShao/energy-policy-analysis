@@ -1,19 +1,22 @@
 ---
 title: 《电力中长期市场基本规则》解读之六︱科学、有序、协调发展的电力中长期市场如何支持新能源高质量发展？-国际新能源网
 type: 政策评论
-source: mnewenergy.in-en.com
 source_type: B
-url: https://mnewenergy.in-en.com/html/newenergy-2447628.shtml
-date: 未知
 related_policy:
 - P_2025_NDRC_1656_a
 - P_2020_NDRC_889
-confidence: 0.7
-collected_by: policy-watch
-collected_at: 2026-04-25 14:41:27.789329
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://mnewenergy.in-en.com/html/newenergy-2447628.shtml
+date_published: null
+source_account: mnewenergy.in-en.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:41:27.789329
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《电力中长期市场基本规则》解读之六︱科学、有序、协调发展的电力中长期市场如何支持新能源高质量发展？-国际新能源网
 

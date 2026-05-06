@@ -1,18 +1,21 @@
 ---
 title: 国家能源局有关负责同志就《关于促进新能源集成融合发展的指导意见》答记者问---国家能源局
 type: 政策评论
-source: www.nea.gov.cn
 source_type: B
-url: https://www.nea.gov.cn/20251112/03dc9ef6112a45be9712aa2e7dc17597/c.html
-date: 未知
 related_policy:
 - P_2025_NEA_93
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 14:54:19.263162
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.nea.gov.cn/20251112/03dc9ef6112a45be9712aa2e7dc17597/c.html
+date_published: null
+source_account: www.nea.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:54:19.263162
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 国家能源局有关负责同志就《关于促进新能源集成融合发展的指导意见》答记者问---国家能源局
 

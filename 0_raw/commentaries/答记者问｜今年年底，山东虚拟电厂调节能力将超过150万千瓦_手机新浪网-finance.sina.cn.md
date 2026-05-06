@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: finance.sina.cn
 source_type: B
-url: https://finance.sina.cn/2026-04-02/detail-inhtazsc9456182.d.html?vt=4
-date: null
 related_policy:
 - P_2026_SD_03271ffc
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:42.118457
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://finance.sina.cn/2026-04-02/detail-inhtazsc9456182.d.html?vt=4
+date_published: null
+source_account: finance.sina.cn
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:42.118457
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 答记者问｜今年年底，山东虚拟电厂调节能力将超过150万千瓦_手机新浪网
 

@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: www.cirs-sustainability.com
 source_type: B
-url: https://www.cirs-sustainability.com/lv-dian-lv-zheng-cha-yi-hua-fen-xi-ji-ying-yong-chang-jing-jie-shao
-date: null
 related_policy:
 - P_2023_NDRC_1044_b
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:31:16.603367
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.85
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.cirs-sustainability.com/lv-dian-lv-zheng-cha-yi-hua-fen-xi-ji-ying-yong-chang-jing-jie-shao
+date_published: null
+source_account: www.cirs-sustainability.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:31:16.603367
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 绿电、绿证差异化分析及应用场景介绍 - 新闻 - 上海瑞旭绿循技术服务有限公司 - 瑞旭集团 CIRS Group
 

@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: www.nea.gov.cn
 source_type: A
-url: https://www.nea.gov.cn/20250415/a4ebf89bcaf94195accac88e7a7c9c59/c.html
-date: null
 related_policy:
 - P_2025_NDRC_357_a
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:42.515685
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.nea.gov.cn/20250415/a4ebf89bcaf94195accac88e7a7c9c59/c.html
+date_published: null
+source_account: www.nea.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:42.515685
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 政策解读丨促进虚拟电厂高质量发展 为加快构建新型电力系统注入新动能---国家能源局
 

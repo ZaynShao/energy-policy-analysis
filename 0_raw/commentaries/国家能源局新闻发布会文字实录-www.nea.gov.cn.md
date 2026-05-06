@@ -1,13 +1,16 @@
 ---
 title: 国家能源局新闻发布会文字实录
 type: 政策评论
-source: www.nea.gov.cn
 source_type: B
-url: https://www.nea.gov.cn/20260130/b5b729cb7ad74723bcd614b663c75da6/c.html
-date: 未知
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 14:44:25.507420
+source_url: https://www.nea.gov.cn/20260130/b5b729cb7ad74723bcd614b663c75da6/c.html
+date_published: null
+source_account: www.nea.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:44:25.507420
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 国家能源局新闻发布会文字实录
 

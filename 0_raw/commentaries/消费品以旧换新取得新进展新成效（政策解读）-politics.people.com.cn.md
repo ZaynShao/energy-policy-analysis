@@ -1,18 +1,21 @@
 ---
 title: 消费品以旧换新取得新进展新成效（政策解读）
 type: 政策评论
-source: politics.people.com.cn
 source_type: B
-url: http://politics.people.com.cn/n1/2024/0926/c1001-40328241.html
-date: 未知
 related_policy:
 - P_2024_MOFCOM_58_a
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 09:59:11.926531
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.8
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://politics.people.com.cn/n1/2024/0926/c1001-40328241.html
+date_published: null
+source_account: politics.people.com.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 09:59:11.926531
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 消费品以旧换新取得新进展新成效（政策解读）
 

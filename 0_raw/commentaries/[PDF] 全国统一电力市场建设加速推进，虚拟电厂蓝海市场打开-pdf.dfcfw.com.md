@@ -1,14 +1,17 @@
 ---
 title: '[PDF] 全国统一电力市场建设加速推进，虚拟电厂蓝海市场打开'
 type: 政策评论
-source: pdf.dfcfw.com
 source_type: B
-url: https://pdf.dfcfw.com/pdf/H3_AP202212061580849596_1.pdf?1670322429000.pdf
-date: 未知
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 14:40:21.150629
 not_policy_related: true
+source_url: https://pdf.dfcfw.com/pdf/H3_AP202212061580849596_1.pdf?1670322429000.pdf
+date_published: null
+source_account: pdf.dfcfw.com
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:40:21.150629
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # [PDF] 全国统一电力市场建设加速推进，虚拟电厂蓝海市场打开
 

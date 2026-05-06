@@ -4,7 +4,6 @@ title: 提升需求侧协同能力加快构建新型电力系统（专家解读�
 official_number: ''
 issuer:
 - 国家发展和改革委员会（清华大学专家署名）
-date: '2024-08-09'
 region:
   level: 国家
   code: '000000'
@@ -24,6 +23,8 @@ provenance:
   - 价值标签
   - 行动分类
   - archive
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 tags:
 - 充电基础设施
 - 虚拟电厂
@@ -40,6 +41,8 @@ related_policy:
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.ndrc.gov.cn/xxgk/jd/jd/202408/t20240809_1392335.html
+date_published: '2024-08-09'
 ---
 # 提升需求侧协同能力加快构建新型电力系统（专家解读）
 

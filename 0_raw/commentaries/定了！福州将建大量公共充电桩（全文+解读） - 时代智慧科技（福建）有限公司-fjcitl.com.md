@@ -1,18 +1,21 @@
 ---
 title: 定了！福州将建大量公共充电桩（全文+解读） - 时代智慧科技（福建）有限公司
 type: 政策评论
-source: fjcitl.com
 source_type: B
-url: https://fjcitl.com/nd.jsp?id=85
-date: 未知
 related_policy:
 - P_2023_GO_19_b
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 10:13:19.358533
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.8
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://fjcitl.com/nd.jsp?id=85
+date_published: null
+source_account: fjcitl.com
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 10:13:19.358533
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 定了！福州将建大量公共充电桩（全文+解读） - 时代智慧科技（福建）有限公司
 

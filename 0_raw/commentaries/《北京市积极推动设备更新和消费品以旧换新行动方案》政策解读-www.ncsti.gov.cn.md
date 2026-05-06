@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: www.ncsti.gov.cn
 source_type: A
-url: https://www.ncsti.gov.cn/zcfg/zcjd/202404/t20240429_155206.html
-date: null
 related_policy:
 - P_2024_BJ_0427ca25
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:11.765119
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.ncsti.gov.cn/zcfg/zcjd/202404/t20240429_155206.html
+date_published: null
+source_account: www.ncsti.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:11.765119
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《北京市积极推动设备更新和消费品以旧换新行动方案》政策解读
 

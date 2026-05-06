@@ -1,18 +1,21 @@
 ---
 title: 政策解读 - 光明区政府在线
 type: 政策评论
-source: www.szgm.gov.cn
 source_type: B
-url: https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/zcfg_116521/zcjd_116524/index_2.html
-date: 未知
 related_policy:
 - P_2025_OTHERCD44_1
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 09:59:48.692689
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.5
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/zcfg_116521/zcjd_116524/index_2.html
+date_published: null
+source_account: www.szgm.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 09:59:48.692689
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 政策解读 - 光明区政府在线
 

@@ -1,12 +1,15 @@
 ---
 type: 政策评论
-source: www.pwccn.com
 source_type: B
-url: https://www.pwccn.com/zh/services/issues-based/esg/interpretation-carbon-emissions-trading-management-interim-rules-feb2024.html
-date: null
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:33:01.482645
+source_url: https://www.pwccn.com/zh/services/issues-based/esg/interpretation-carbon-emissions-trading-management-interim-rules-feb2024.html
+date_published: null
+source_account: www.pwccn.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:33:01.482645
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 普华永道中国：解读《碳排放权交易管理暂行条例》
 

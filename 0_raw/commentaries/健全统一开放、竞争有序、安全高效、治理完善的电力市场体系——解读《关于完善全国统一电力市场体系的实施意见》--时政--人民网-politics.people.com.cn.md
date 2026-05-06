@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: politics.people.com.cn
 source_type: B
-url: http://politics.people.com.cn/n1/2026/0212/c461001-40664225.html
-date: null
 related_policy:
 - P_2025_GO_1201e389
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:59.100938
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://politics.people.com.cn/n1/2026/0212/c461001-40664225.html
+date_published: null
+source_account: politics.people.com.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:59.100938
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 健全统一开放、竞争有序、安全高效、治理完善的电力市场体系——解读《关于完善全国统一电力市场体系的实施意见》--时政--人民网
 

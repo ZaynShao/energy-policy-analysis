@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: www.ndrc.gov.cn
 source_type: A
-url: https://www.ndrc.gov.cn/xxgk/jd/jd/202306/t20230629_1358020_ext.html
-date: null
 related_policy:
 - P_2023_GO_19_b
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:42.192254
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.ndrc.gov.cn/xxgk/jd/jd/202306/t20230629_1358020_ext.html
+date_published: null
+source_account: www.ndrc.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:42.192254
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 【构建高质量充电基础设施体系 支撑新能源汽车高质量发展——《关于进一步构建高质量充电基础设施体系的指导意见》专家解读】-国家发展和改革委员会
 

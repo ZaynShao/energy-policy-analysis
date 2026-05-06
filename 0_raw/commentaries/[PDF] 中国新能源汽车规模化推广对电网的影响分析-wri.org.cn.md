@@ -1,14 +1,17 @@
 ---
 title: '[PDF] 中国新能源汽车规模化推广对电网的影响分析'
 type: 政策评论
-source: wri.org.cn
 source_type: B
-url: https://wri.org.cn/sites/default/files/2021-11/quantifying-grid-impacts-large-adoption-electric-vehicles-china-CN.pdf
-date: 未知
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 09:58:27.092281
 not_policy_related: true
+source_url: https://wri.org.cn/sites/default/files/2021-11/quantifying-grid-impacts-large-adoption-electric-vehicles-china-CN.pdf
+date_published: null
+source_account: wri.org.cn
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 09:58:27.092281
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # [PDF] 中国新能源汽车规模化推广对电网的影响分析
 

@@ -1,18 +1,21 @@
 ---
 title: 解读《加快电动汽车充电基础设施建设意见》--能源 - 人民网
 type: 政策评论
-source: energy.people.com.cn
 source_type: B
-url: http://energy.people.com.cn/n/2015/1010/c71661-27680788.html
-date: 未知
 related_policy:
 - P_2015_GO_73
-confidence: 0.9
-collected_by: policy-watch
-collected_at: 2026-04-25 14:31:08.461592
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.7
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://energy.people.com.cn/n/2015/1010/c71661-27680788.html
+date_published: null
+source_account: energy.people.com.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:31:08.461592
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 解读《加快电动汽车充电基础设施建设意见》--能源 - 人民网
 

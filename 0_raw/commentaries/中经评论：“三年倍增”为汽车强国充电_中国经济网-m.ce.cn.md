@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: m.ce.cn
 source_type: B
-url: http://m.ce.cn/bwzg/202510/t20251023_2533128.shtml
-date: null
 related_policy:
 - P_2025_NDRC_101520b2
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:56.744310
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://m.ce.cn/bwzg/202510/t20251023_2533128.shtml
+date_published: null
+source_account: m.ce.cn
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:56.744310
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 中经评论：“三年倍增”为汽车强国充电_中国经济网
 

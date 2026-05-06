@@ -1,14 +1,17 @@
 ---
 title: '[PDF] 年度可持续发展报告'
 type: 政策评论
-source: pdf.dfcfw.com
 source_type: B
-url: https://pdf.dfcfw.com/pdf/H2_AN202603301820874480_1.pdf
-date: 未知
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 09:59:42.961250
 not_policy_related: true
+source_url: https://pdf.dfcfw.com/pdf/H2_AN202603301820874480_1.pdf
+date_published: null
+source_account: pdf.dfcfw.com
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 09:59:42.961250
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # [PDF] 年度可持续发展报告
 

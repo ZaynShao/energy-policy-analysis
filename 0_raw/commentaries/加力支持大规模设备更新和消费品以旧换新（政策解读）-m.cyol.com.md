@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: m.cyol.com
 source_type: B
-url: http://m.cyol.com/gb/articles/2024-07/26/content_wd0o2JuRVK.html
-date: null
 related_policy:
 - P_2024_NDRC_0725ba17
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:31:22.864639
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://m.cyol.com/gb/articles/2024-07/26/content_wd0o2JuRVK.html
+date_published: null
+source_account: m.cyol.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:31:22.864639
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 加力支持大规模设备更新和消费品以旧换新（政策解读）
 

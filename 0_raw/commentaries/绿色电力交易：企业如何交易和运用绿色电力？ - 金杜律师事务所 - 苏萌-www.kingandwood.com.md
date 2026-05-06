@@ -1,20 +1,23 @@
 ---
 title: 绿色电力交易：企业如何交易和运用绿色电力？ - 金杜律师事务所 - 苏萌
 type: 政策评论
-source: www.kingandwood.com
 source_type: B
-url: https://www.kingandwood.com/cn/zh/insights/latest-thinking/green-electricity-trading-and-ultilization-for-enterprises.html
-date: 未知
 related_policy:
 - P_2024_NDRC_1123_a
 - P_2020_NDRC_889
 - P_2023_NDRC_1044_b
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 14:50:15.294605
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.kingandwood.com/cn/zh/insights/latest-thinking/green-electricity-trading-and-ultilization-for-enterprises.html
+date_published: null
+source_account: www.kingandwood.com
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:50:15.294605
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 绿色电力交易：企业如何交易和运用绿色电力？ - 金杜律师事务所 - 苏萌
 

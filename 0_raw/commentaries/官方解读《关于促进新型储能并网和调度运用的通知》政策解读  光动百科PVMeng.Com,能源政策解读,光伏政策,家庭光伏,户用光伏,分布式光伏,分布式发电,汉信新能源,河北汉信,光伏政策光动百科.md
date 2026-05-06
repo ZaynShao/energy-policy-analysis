@@ -1,18 +1,21 @@
 ---
 type: 政策评论
-source: www.pvmeng.com
 source_type: B
-url: https://www.pvmeng.com/2024/04/12/25647/
-date: null
 related_policy:
 - P_2024_NEA_26
 - P_2024_NEA_0528d977
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:53.635617
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.85
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.pvmeng.com/2024/04/12/25647/
+date_published: null
+source_account: www.pvmeng.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:53.635617
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 官方解读||《关于促进新型储能并网和调度运用的通知》政策解读 | 光动百科PVMeng.Com,能源政策解读,光伏政策,家庭光伏,户用光伏,分布式光伏,分布式发电,汉信新能源,河北汉信,光伏政策|光动百科|PVMeng.com
 

@@ -1,18 +1,21 @@
 ---
 title: 加快构建新型电力系统的进展、主要风险与对策建议-中国社会科学院工业经济研究所
 type: 政策评论
-source: gjs.cssn.cn
 source_type: B
-url: http://gjs.cssn.cn/kydt/kydt_kycg/202504/t20250430_5872134.shtml
-date: 未知
 related_policy:
 - P_2024_NDRC_0806117c
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 14:57:12.899737
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.75
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://gjs.cssn.cn/kydt/kydt_kycg/202504/t20250430_5872134.shtml
+date_published: null
+source_account: gjs.cssn.cn
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:57:12.899737
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 加快构建新型电力系统的进展、主要风险与对策建议-中国社会科学院工业经济研究所
 

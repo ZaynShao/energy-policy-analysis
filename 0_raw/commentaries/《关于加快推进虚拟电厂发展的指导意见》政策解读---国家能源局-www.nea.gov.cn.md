@@ -1,18 +1,21 @@
 ---
 type: 政策评论
-source: www.nea.gov.cn
 source_type: A
-url: https://www.nea.gov.cn/20250411/1c7f1f1b87b946af95b6a3aacdfcc1f3/c.html
-date: null
 related_policy:
 - P_2025_NDRC_357_a
 - P_2024_NDRC_0806117c
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:38.140400
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.nea.gov.cn/20250411/1c7f1f1b87b946af95b6a3aacdfcc1f3/c.html
+date_published: null
+source_account: www.nea.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:38.140400
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《关于加快推进虚拟电厂发展的指导意见》政策解读---国家能源局
 

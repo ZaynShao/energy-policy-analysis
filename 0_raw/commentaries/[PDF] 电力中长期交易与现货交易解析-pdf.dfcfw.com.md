@@ -1,13 +1,16 @@
 ---
 title: '[PDF] 电力中长期交易与现货交易解析'
 type: 政策评论
-source: pdf.dfcfw.com
 source_type: B
-url: https://pdf.dfcfw.com/pdf/H3_AP202602281820143571_1.pdf?1772312966000.pdf
-date: 未知
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 10:21:57.033555
+source_url: https://pdf.dfcfw.com/pdf/H3_AP202602281820143571_1.pdf?1772312966000.pdf
+date_published: null
+source_account: pdf.dfcfw.com
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 10:21:57.033555
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # [PDF] 电力中长期交易与现货交易解析
 

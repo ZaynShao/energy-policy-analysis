@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: jsslfd.com
 source_type: B
-url: http://jsslfd.com/news_detail/41345310.html
-date: null
 related_policy:
 - P_2022_NDRC_03213b6e_a
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:59.268458
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: http://jsslfd.com/news_detail/41345310.html
+date_published: null
+source_account: jsslfd.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:59.268458
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《“十四五”新型储能发展实施方案》解读-江苏省水力发电工程学会
 

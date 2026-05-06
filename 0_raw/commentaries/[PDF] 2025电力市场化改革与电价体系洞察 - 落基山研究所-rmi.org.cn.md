@@ -1,13 +1,16 @@
 ---
 title: '[PDF] 2025电力市场化改革与电价体系洞察 - 落基山研究所'
 type: 政策评论
-source: rmi.org.cn
 source_type: B
-url: https://rmi.org.cn/wp-content/uploads/2025/05/final-0508-2025%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E5%8C%96%E6%94%B9%E9%9D%A9%E4%B8%8E%E7%94%B5%E4%BB%B7%E4%BD%93%E7%B3%BB%E6%B4%9E%E5%AF%9F.pdf
-date: 未知
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 10:10:09.850145
+source_url: https://rmi.org.cn/wp-content/uploads/2025/05/final-0508-2025%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E5%8C%96%E6%94%B9%E9%9D%A9%E4%B8%8E%E7%94%B5%E4%BB%B7%E4%BD%93%E7%B3%BB%E6%B4%9E%E5%AF%9F.pdf
+date_published: null
+source_account: rmi.org.cn
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 10:10:09.850145
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # [PDF] 2025电力市场化改革与电价体系洞察 - 落基山研究所
 

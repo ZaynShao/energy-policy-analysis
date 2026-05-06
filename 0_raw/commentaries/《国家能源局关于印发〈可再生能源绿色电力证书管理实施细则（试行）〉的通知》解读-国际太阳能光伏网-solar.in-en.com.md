@@ -1,18 +1,21 @@
 ---
 type: 政策评论
-source: solar.in-en.com
 source_type: B
-url: https://solar.in-en.com/html/solar-2457195.shtml
-date: null
 related_policy:
 - P_2025_NEA_107
 - P_2025_NDRC_262
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:51.906443
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://solar.in-en.com/html/solar-2457195.shtml
+date_published: null
+source_account: solar.in-en.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:51.906443
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《国家能源局关于印发〈可再生能源绿色电力证书管理实施细则（试行）〉的通知》解读-国际太阳能光伏网
 

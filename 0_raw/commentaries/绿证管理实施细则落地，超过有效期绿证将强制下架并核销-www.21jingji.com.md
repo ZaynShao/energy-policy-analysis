@@ -1,19 +1,22 @@
 ---
 title: 绿证管理实施细则落地，超过有效期绿证将强制下架并核销
 type: 政策评论
-source: www.21jingji.com
 source_type: B
-url: https://www.21jingji.com/article/20260109/herald/f956f0c72c322014a6105fe923c2e654.html
-date: 未知
 related_policy:
 - P_2025_NEA_107
 - P_2025_NDRC_262
-confidence: 0.7
-collected_by: policy-watch
-collected_at: 2026-04-25 14:49:04.859834
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.21jingji.com/article/20260109/herald/f956f0c72c322014a6105fe923c2e654.html
+date_published: null
+source_account: www.21jingji.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 14:49:04.859834
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 绿证管理实施细则落地，超过有效期绿证将强制下架并核销
 

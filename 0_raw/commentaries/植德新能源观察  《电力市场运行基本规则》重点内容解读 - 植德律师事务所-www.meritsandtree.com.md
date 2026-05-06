@@ -1,18 +1,21 @@
 ---
 type: 政策评论
-source: www.meritsandtree.com
 source_type: B
-url: https://www.meritsandtree.com/Content/2024/10-28/1050415433.html
-date: null
 related_policy:
 - P_2024_NDRC_15
 - P_2024_NEA_76
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:31:48.578890
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.meritsandtree.com/Content/2024/10-28/1050415433.html
+date_published: null
+source_account: www.meritsandtree.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:31:48.578890
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 植德新能源观察 | 《电力市场运行基本规则》重点内容解读 - 植德律师事务所
 

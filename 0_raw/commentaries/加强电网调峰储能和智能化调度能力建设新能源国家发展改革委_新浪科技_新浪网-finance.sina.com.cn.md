@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: finance.sina.com.cn
 source_type: B
-url: https://finance.sina.com.cn/tech/roll/2024-02-29/doc-inakrpkf0101648.shtml
-date: null
 related_policy:
 - P_2024_NDRC_02276bf1
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:32:42.987968
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.95
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://finance.sina.com.cn/tech/roll/2024-02-29/doc-inakrpkf0101648.shtml
+date_published: null
+source_account: finance.sina.com.cn
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:32:42.987968
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 加强电网调峰储能和智能化调度能力建设|新能源|国家发展改革委_新浪科技_新浪网
 

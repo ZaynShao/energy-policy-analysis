@@ -1,17 +1,20 @@
 ---
 type: 政策评论
-source: www.climatebridge.com
 source_type: B
-url: https://www.climatebridge.com/publication/164.html
-date: null
 related_policy:
 - P_2021_MEE_19
-confidence: 0.7
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:33:02.516678
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.85
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.climatebridge.com/publication/164.html
+date_published: null
+source_account: www.climatebridge.com
+provenance:
+  confidence: 0.7
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:33:02.516678
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《碳排放交易管理暂行条例》解读及应对建议
 

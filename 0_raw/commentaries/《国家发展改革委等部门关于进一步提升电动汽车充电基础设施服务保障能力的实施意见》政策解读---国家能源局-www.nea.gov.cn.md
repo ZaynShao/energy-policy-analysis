@@ -1,12 +1,15 @@
 ---
 type: 政策评论
-source: www.nea.gov.cn
 source_type: A
-url: http://www.nea.gov.cn/2022-01/25/c_1310442213.htm
-date: null
-confidence: 0.9
-collected_by: policy-watch typeA
-collected_at: 2026-04-25 19:30:36.092419
+source_url: http://www.nea.gov.cn/2022-01/25/c_1310442213.htm
+date_published: null
+source_account: www.nea.gov.cn
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch typeA
+  fetched_at: 2026-04-25 19:30:36.092419
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # 《国家发展改革委等部门关于进一步提升电动汽车充电基础设施服务保障能力的实施意见》政策解读---国家能源局
 

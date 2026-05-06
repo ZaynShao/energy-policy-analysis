@@ -1,19 +1,22 @@
 ---
 title: '[PDF] 汽车以旧换新政策解读：补贴细则正式落地，助推新能源车市场需求 ...'
 type: 政策评论
-source: www.spdbi.com
 source_type: B
-url: https://www.spdbi.com/getfile/index/action/images/name/662f62034ddec.pdf
-date: 未知
 related_policy:
 - P_2024_MOFCOM_75_b
 - P_2024_MOFCOM_58_a
-confidence: 0.6
-collected_by: policy-watch
-collected_at: 2026-04-25 10:12:31.414651
 related_policy_source: B4_llm_body_review
 related_policy_confidence: 0.9
 related_policy_matched_at: '2026-04-30T02:37:12+08:00'
+source_url: https://www.spdbi.com/getfile/index/action/images/name/662f62034ddec.pdf
+date_published: null
+source_account: www.spdbi.com
+provenance:
+  confidence: 0.6
+  collected_by: policy-watch
+  fetched_at: 2026-04-25 10:12:31.414651
+  fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
+  fm_v3_migrated_from_v2: true
 ---
 # [PDF] 汽车以旧换新政策解读：补贴细则正式落地，助推新能源车市场需求 ...
 
