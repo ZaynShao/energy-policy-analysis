@@ -354,6 +354,14 @@ def main():
 
         lines = ["---", fm_yaml, "---", ""]
 
+        # 顶部显式 [[]] 链接到 raw 政策(用真实文件名,不依赖 alias 解析)
+        # 这是 Obsidian Graph View 显示 raw 政策不孤立的关键 — alias resolution
+        # 在 graph view 不一定可靠,显式文件名 link 是 100% 可靠的 graph 边来源。
+        if file_name:
+            stem_name = file_name[:-3] if file_name.endswith(".md") else file_name
+            lines.append(f"> 政策原文:[[{stem_name}|{title or pid}]]")
+            lines.append("")
+
         # 入向区
         if in_count or comm_count:
             lines.append(f"# 入向反链:{pid}")

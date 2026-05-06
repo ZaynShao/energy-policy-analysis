@@ -4,9 +4,11 @@ title: 碳排放权交易管理办法(试行)
 inbound_edge_count: 3
 outbound_edge_count: 0
 commentary_inbound_count: 2
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【碳排放权交易管理办法(试行)(部令第19号)】-生态环境部-ed28.md
 ---
+
+> 政策原文:[[【碳排放权交易管理办法(试行)(部令第19号)】-生态环境部-ed28|碳排放权交易管理办法(试行)]]
 
 # 入向反链:P_2021_MEE_19
 

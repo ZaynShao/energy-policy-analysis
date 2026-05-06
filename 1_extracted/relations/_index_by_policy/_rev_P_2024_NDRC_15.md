@@ -4,9 +4,11 @@ title: 电力市场运行基本规则
 inbound_edge_count: 8
 outbound_edge_count: 0
 commentary_inbound_count: 6
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【电力市场运行基本规则(国家发展改革委、国家能源局令第15号)】-国家发展和改革委员会、国家能源局-bf3d.md
 ---
+
+> 政策原文:[[【电力市场运行基本规则(国家发展改革委、国家能源局令第15号)】-国家发展和改革委员会、国家能源局-bf3d|电力市场运行基本规则]]
 
 # 入向反链:P_2024_NDRC_15
 

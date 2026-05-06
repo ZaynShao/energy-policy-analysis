@@ -4,9 +4,11 @@ title: 进一步构建高质量充电基础设施体系的指导意见
 inbound_edge_count: 43
 outbound_edge_count: 0
 commentary_inbound_count: 12
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【进一步构建高质量充电基础设施体系的指导意见(国办发〔2023〕19号)】-国务院办公厅-ead1.md
 ---
+
+> 政策原文:[[【进一步构建高质量充电基础设施体系的指导意见(国办发〔2023〕19号)】-国务院办公厅-ead1|进一步构建高质量充电基础设施体系的指导意见]]
 
 # 入向反链:P_2023_GO_19_b
 

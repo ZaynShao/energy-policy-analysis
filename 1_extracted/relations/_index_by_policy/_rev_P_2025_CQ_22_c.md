@@ -4,9 +4,11 @@ title: 重庆市2025年汽车报废更新补贴政策
 inbound_edge_count: 1
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0.md
 ---
+
+> 政策原文:[[【重庆市2025年汽车报废更新补贴政策(渝商务〔2025〕22号)】-重庆市商务委员会-12e0|重庆市2025年汽车报废更新补贴政策]]
 
 # 入向反链:P_2025_CQ_22_c
 

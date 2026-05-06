@@ -4,9 +4,11 @@ title: 2024—2025年节能降碳行动方案
 inbound_edge_count: 3
 outbound_edge_count: 0
 commentary_inbound_count: 6
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【2024—2025年节能降碳行动方案(国发〔2024〕12号)】-国务院-79b5.md
 ---
+
+> 政策原文:[[【2024—2025年节能降碳行动方案(国发〔2024〕12号)】-国务院-79b5|2024—2025年节能降碳行动方案]]
 
 # 入向反链:P_2024_SC_12_a
 

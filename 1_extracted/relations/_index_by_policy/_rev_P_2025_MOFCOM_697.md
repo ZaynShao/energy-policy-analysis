@@ -4,9 +4,11 @@ title: 提质增效实施2026年消费品以旧换新政策
 inbound_edge_count: 12
 outbound_edge_count: 2
 commentary_inbound_count: 1
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【提质增效实施2026年消费品以旧换新政策(商消费函〔2025〕697号)】-商务部等7部门-1ad0.md
 ---
+
+> 政策原文:[[【提质增效实施2026年消费品以旧换新政策(商消费函〔2025〕697号)】-商务部等7部门-1ad0|提质增效实施2026年消费品以旧换新政策]]
 
 # 入向反链:P_2025_MOFCOM_697
 

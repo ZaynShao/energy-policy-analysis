@@ -450,6 +450,22 @@ hook 不会让既有违规 commit 越来越多 — 只阻断**新引入**的违�
 
 **用户体验改善**:修完后 `[[P_xxx]]` 引用(在 opinions-summary / themes / 其他反链页等)正确解析到 raw 政策原文,而不是派生 hub 页。raw 政策 graph view 显示其全部关系边。
 
+**第二层兜底 — 派生页加显式 [[<raw 文件名>]] link**:
+
+Obsidian alias resolution 在 graph view 不一定可靠(用户实测,即便 alias 有效,graph 中 raw 政策仍可能显示孤立)。第二层兜底:派生层文件 body 顶部加一行显式文件名 link:
+
+```markdown
+> 政策原文:[[<raw 政策真实文件名 stem>|<显示名>]]
+```
+
+`[[<file_stem>]]` 用真实文件名(不是 alias),Obsidian 100% 解析为 raw 政策文件,graph view 必然建边。
+
+实施位置(已加):
+- `build_reverse_links.py` 反链页 frontmatter 后第一行
+- `aggregate_opinions.py` opinion 矩阵页 frontmatter 后第一行
+
+写新派生层文件脚本时,如果该页面是"关于某 raw 政策的派生",同样应加这行显式 link。
+
 ---
 
 ## 9. 不要做的事

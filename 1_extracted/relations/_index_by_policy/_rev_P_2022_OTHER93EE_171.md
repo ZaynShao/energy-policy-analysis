@@ -4,9 +4,11 @@ title: 浦东新区碳达峰实施方案
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【浦东新区碳达峰实施方案(浦府〔2022〕171号)】-浦东新区人民政府-11fe.md
 ---
+
+> 政策原文:[[【浦东新区碳达峰实施方案(浦府〔2022〕171号)】-浦东新区人民政府-11fe|浦东新区碳达峰实施方案]]
 
 # 出向引用:P_2022_OTHER93EE_171
 

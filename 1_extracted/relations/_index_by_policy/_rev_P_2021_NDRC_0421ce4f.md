@@ -4,9 +4,11 @@ title: 关于加快推动新型储能发展的指导意见(征求意见稿)
 inbound_edge_count: 3
 outbound_edge_count: 0
 commentary_inbound_count: 3
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【关于加快推动新型储能发展的指导意见(征求意见稿)】-国家发展改革委、国家能源局-0a44.md
 ---
+
+> 政策原文:[[【关于加快推动新型储能发展的指导意见(征求意见稿)】-国家发展改革委、国家能源局-0a44|关于加快推动新型储能发展的指导意见(征求意见稿)]]
 
 # 入向反链:P_2021_NDRC_0421ce4f
 

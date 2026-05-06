@@ -4,9 +4,11 @@ title: 2026年汽车以旧换新补贴实施细则
 inbound_edge_count: 4
 outbound_edge_count: 7
 commentary_inbound_count: 2
-last_updated: '2026-05-06T15:35:27+08:00'
+last_updated: '2026-05-06T15:46:12+08:00'
 policy_file: ../../../0_raw/policies/【2026年汽车以旧换新补贴实施细则(商办消费函〔2025〕467号)】-商务部等8部门办公厅-addb.md
 ---
+
+> 政策原文:[[【2026年汽车以旧换新补贴实施细则(商办消费函〔2025〕467号)】-商务部等8部门办公厅-addb|2026年汽车以旧换新补贴实施细则]]
 
 # 入向反链:P_2025_MOFCOM_467
 

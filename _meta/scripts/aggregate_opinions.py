@@ -112,8 +112,14 @@ def cluster_by_aspect(stances, sim_threshold=0.4):
     return clusters
 
 
-def render_opinion_page(policy_id, stances):
-    """生成单个政策的舆论矩阵 .md"""
+def render_opinion_page(policy_id, stances, raw_policy_filename=None):
+    """生成单个政策的舆论矩阵 .md
+
+    raw_policy_filename: raw 政策的真实文件名(stem,不含 .md)。提供时在 body
+    顶部加显式 [[]] link 到 raw 政策,确保 Obsidian Graph view 显示
+    raw 政策不孤立(alias resolution 在 graph view 不一定可靠,真实文件名
+    [[]] 是 100% 可靠的边来源)。
+    """
     # 按 aspect 聚类
     clusters = cluster_by_aspect(stances)
 
@@ -170,6 +176,10 @@ def render_opinion_page(policy_id, stances):
     lines.append("schema_version: 3.0")
     lines.append("---")
     lines.append("")
+    # 顶部显式 [[]] 链接到 raw 政策(用真实文件名 stem,graph view 100% 可靠)
+    if raw_policy_filename:
+        lines.append(f"> 政策原文:[[{raw_policy_filename}|{policy_id}]]")
+        lines.append("")
     lines.append(f"# {policy_id} 舆论矩阵")
     lines.append("")
     lines.append(f"**stance 数:** {len(stances)}  ·  **来源数:** {len(set(s.get('source') for s in stances))}")
@@ -246,9 +256,23 @@ def main():
     for old in OPINIONS.glob('P_*.md'):
         if _alias_pat.match(old.stem):
             old.unlink()
+    # 加载 raw 政策 pid → 文件名 stem(给 render 加显式 [[]] link)
+    import yaml as _yaml
+    pid_to_stem = {}
+    for p in (VAULT / "0_raw" / "policies").glob("*.md"):
+        txt = p.read_text(encoding="utf-8", errors="ignore")
+        if not txt.startswith("---"):
+            continue
+        end = txt.find("---", 3)
+        try:
+            fm = _yaml.safe_load(txt[3:end]) or {}
+        except _yaml.YAMLError:
+            continue
+        if fm.get("id"):
+            pid_to_stem[fm["id"]] = p.stem
     written = 0
     for pid, stances in by_policy.items():
-        page = render_opinion_page(pid, stances)
+        page = render_opinion_page(pid, stances, raw_policy_filename=pid_to_stem.get(pid))
         # 文件名加 _op_ 前缀避免与 raw 政策 alias `P_xxx` 命名冲突。
         # 同 build_reverse_links.py 的 _rev_ 前缀处理。
         out = OPINIONS / f"_op_{pid}.md"
