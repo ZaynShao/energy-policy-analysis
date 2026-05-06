@@ -4,7 +4,7 @@ title: 关于提升电力系统调节能力的指导意见
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:42:24+08:00'
+last_updated: '2026-05-06T18:05:03+08:00'
 policy_file: ../../../0_raw/policies/【关于提升电力系统调节能力的指导意见(发改能源〔2018〕364号)】-国家发展改革委、国家能源局-fc1c.md
 ---
 

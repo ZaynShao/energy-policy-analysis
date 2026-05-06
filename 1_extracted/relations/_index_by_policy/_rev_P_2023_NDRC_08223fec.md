@@ -4,7 +4,7 @@ title: 绿色低碳先进技术示范工程实施方案
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:42:24+08:00'
+last_updated: '2026-05-06T18:05:03+08:00'
 policy_file: ../../../0_raw/policies/【绿色低碳先进技术示范工程实施方案】-国家发展改革委等十部门-5f08.md
 ---
 

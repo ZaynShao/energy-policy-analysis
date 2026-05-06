@@ -4,7 +4,7 @@ title: 2024年北京市电动汽车充换电设施建设运营奖励实施细则
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:42:24+08:00'
+last_updated: '2026-05-06T18:05:03+08:00'
 policy_file: ../../../0_raw/policies/【2024年北京市电动汽车充换电设施建设运营奖励实施细则(京管发〔2024〕9号)】-北京市城市管理委员会-3b6b.md
 ---
 

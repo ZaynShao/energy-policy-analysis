@@ -149,12 +149,13 @@ def collect_theme_data(theme_id, aliases):
             if any(pid in d.stem for pid in pid_set):
                 diff_files.append(d.name)
 
-    # opinion 政策
+    # opinion 政策(522bc99 起 opinion 文件命名 _op_P_xxx.md;stem 去前缀后是真 pid)
     opinion_pids = []
     if OPINIONS.exists():
-        for op in OPINIONS.glob("P_*.md"):
-            if op.stem in pid_set:
-                opinion_pids.append(op.stem)
+        for op in OPINIONS.glob("_op_P_*.md"):
+            pid = op.stem[len("_op_"):]
+            if pid in pid_set:
+                opinion_pids.append(pid)
 
     return policies, relations, diff_files, opinion_pids
 

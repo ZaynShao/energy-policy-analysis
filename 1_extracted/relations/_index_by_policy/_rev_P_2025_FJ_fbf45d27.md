@@ -4,7 +4,7 @@ title: 福建省发展和改革委员会 国家能源局福建监管办公室关
 inbound_edge_count: 0
 outbound_edge_count: 5
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:42:24+08:00'
+last_updated: '2026-05-06T18:05:03+08:00'
 policy_file: ../../../0_raw/policies/【福建省发展和改革委员会 国家能源局福建监管办公室关于印发2026年福建省电力中长期市场交易方案的通知
   _ 省发改委政策文件 _ 福建省发展和改革委员会】-福建省发展和改革委员会-fbf45d27.md
 ---

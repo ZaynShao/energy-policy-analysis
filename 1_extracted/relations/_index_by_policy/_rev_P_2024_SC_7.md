@@ -4,7 +4,7 @@ title: 推动大规模设备更新和消费品以旧换新行动方案
 inbound_edge_count: 51
 outbound_edge_count: 0
 commentary_inbound_count: 10
-last_updated: '2026-05-06T17:42:24+08:00'
+last_updated: '2026-05-06T18:05:03+08:00'
 policy_file: ../../../0_raw/policies/【推动大规模设备更新和消费品以旧换新行动方案(国发〔2024〕7号)】-国务院-5dca.md
 ---
 

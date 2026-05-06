@@ -4,7 +4,7 @@ title: 关于新形势下配电网高质量发展的指导意见
 inbound_edge_count: 5
 outbound_edge_count: 0
 commentary_inbound_count: 2
-last_updated: '2026-05-06T17:42:24+08:00'
+last_updated: '2026-05-06T18:05:03+08:00'
 policy_file: ../../../0_raw/policies/【关于新形势下配电网高质量发展的指导意见(发改能源〔2024〕187号)】-国家发展和改革委员会、国家能源局-ad8b.md
 ---
 
