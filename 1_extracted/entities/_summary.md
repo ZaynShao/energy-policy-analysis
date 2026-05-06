@@ -6,18 +6,18 @@ date: 2026-04-25
 # Step 5 · 实体抽取汇总
 
 - 输入政策: **664**
-- registry 实体: **95**
-- 命中实体的政策: **638**
-- 零实体命中政策: **26**(召回缺口,LLM 补抽 candidate)
-- 平均每政策命中实体: **7.3**
-- 已被引用的 canonical: **68/95**
+- registry 实体: **99**
+- 命中实体的政策: **639**
+- 零实体命中政策: **25**(召回缺口,LLM 补抽 candidate)
+- 平均每政策命中实体: **7.8**
+- 已被引用的 canonical: **72/99**
 - 孤儿 canonical(0 政策引用): **27**
 
 ## type 分布(有政策引用的)
 - stakeholder: 30
 - org: 18
+- theme: 11
 - region: 9
-- theme: 7
 - concept: 7
 
 ## Top 20 引用最多的实体
@@ -27,23 +27,23 @@ date: 2026-04-25
 | 1 | `nea` | 国家能源局 | org | 261 |
 | 2 | `power_market` | 电力市场 | concept | 243 |
 | 3 | `state_council` | 国务院 | org | 236 |
-| 4 | `grid_company` | 电网企业 | stakeholder / org | 203 |
-| 5 | `rural_revitalization_theme` | 乡村振兴 | theme | 193 |
-| 6 | `nev` | 新能源汽车 | concept | 191 |
-| 7 | `new_ess` | 新型储能 | concept | 183 |
-| 8 | `region_beijing` | 北京 | region | 160 |
-| 9 | `vpp` | 虚拟电厂 | concept | 159 |
-| 10 | `green_power_trading_theme` | 绿电交易 | theme | 157 |
-| 11 | `region_shanghai` | 上海 | region | 133 |
-| 12 | `region_xinjiang` | 新疆 | region | 128 |
-| 13 | `equipment_renewal_theme` | 以旧换新 | theme | 116 |
-| 14 | `power_user` | 电力用户 | stakeholder | 114 |
-| 15 | `energy_storage_theme` | 新型储能 | theme | 111 |
-| 16 | `vpp_theme` | 虚拟电厂 | theme | 106 |
+| 4 | `distribution_grid_opening` | 配电网开放 | theme | 204 |
+| 5 | `grid_company` | 电网企业 | stakeholder / org | 203 |
+| 6 | `rural_revitalization_theme` | 乡村振兴 | theme | 193 |
+| 7 | `nev` | 新能源汽车 | concept | 191 |
+| 8 | `new_ess` | 新型储能 | concept | 183 |
+| 9 | `region_beijing` | 北京 | region | 160 |
+| 10 | `vpp` | 虚拟电厂 | concept | 159 |
+| 11 | `green_power_trading_theme` | 绿电交易 | theme | 157 |
+| 12 | `region_shanghai` | 上海 | region | 133 |
+| 13 | `region_xinjiang` | 新疆 | region | 128 |
+| 14 | `equipment_renewal_theme` | 以旧换新 | theme | 116 |
+| 15 | `power_user` | 电力用户 | stakeholder | 114 |
+| 16 | `energy_storage_theme` | 新型储能 | theme | 111 |
 | 17 | `mof` | 财政部 | org | 104 |
 | 18 | `consumer` | 消费者 | stakeholder | 98 |
-| 19 | `power_generator` | 发电企业 | stakeholder | 95 |
-| 20 | `carbon_market_theme` | 碳市场 | theme | 92 |
+| 19 | `aggregator_access` | 聚合商准入 | theme | 96 |
+| 20 | `power_generator` | 发电企业 | stakeholder | 95 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 
@@ -98,5 +98,5 @@ date: 2026-04-25
 - `P_2024_GO_03e88c5f`
 - `P_2023_NDRC_0704ee90`
 - `P_2024_GO_1c6be4ad`
-- `P_2024_GZ_ee0e15a2`
-- ... 共 26 条
+- `P_2021_GO_b961a331`
+- ... 共 25 条

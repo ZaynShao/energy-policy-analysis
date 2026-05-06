@@ -4,7 +4,7 @@ title: 国家能源局关于促进新能源集成融合发展的指导意见
 inbound_edge_count: 4
 outbound_edge_count: 5
 commentary_inbound_count: 2
-last_updated: '2026-05-06T16:23:47+08:00'
+last_updated: '2026-05-06T17:20:40+08:00'
 policy_file: ../../../0_raw/policies/【国家能源局关于促进新能源集成融合发展的指导意见(国能发新能〔2025〕93号)】-国家能源局-70b8.md
 ---
 

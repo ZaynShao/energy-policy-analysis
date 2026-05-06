@@ -4,7 +4,7 @@ title: 关于印发《四川省虚拟电厂建设运营管理实施方案》的�
 inbound_edge_count: 0
 outbound_edge_count: 11
 commentary_inbound_count: 0
-last_updated: '2026-05-06T16:23:47+08:00'
+last_updated: '2026-05-06T17:20:40+08:00'
 policy_file: ../../../0_raw/policies/【关于印发《四川省虚拟电厂建设运营管理实施方案》的通知(川发改能源〔2025〕278号)_通知公告_四川省发展和改革委员会(川发改能源〔2025〕278号)】-四川省发展和改革委员会-cc687c4e.md
 ---
 

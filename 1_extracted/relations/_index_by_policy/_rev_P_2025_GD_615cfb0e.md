@@ -4,7 +4,7 @@ title: 广东省能源局 国家能源局南方监管局关于印发《广东电
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-06T16:23:47+08:00'
+last_updated: '2026-05-06T17:20:40+08:00'
 policy_file: ../../../0_raw/policies/【广东省能源局 国家能源局南方监管局关于印发《广东电力市场常态化开展年度交易实施方案》的通知】-广东省发展和改革委员会-615cfb0e.md
 ---
 

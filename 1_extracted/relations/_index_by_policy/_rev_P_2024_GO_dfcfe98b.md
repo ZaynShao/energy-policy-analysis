@@ -4,7 +4,7 @@ title: 国新办举行“推动高质量发展”系列主题新闻发布会（�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-06T16:23:47+08:00'
+last_updated: '2026-05-06T17:20:40+08:00'
 policy_file: ../../../0_raw/policies/【国新办举行“推动高质量发展”系列主题新闻发布会（国家能源局）---国家能源局】-国家能源局-dfcfe98b.md
 ---
 

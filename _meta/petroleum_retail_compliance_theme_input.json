@@ -1,21 +1,366 @@
 {
   "theme": "petroleum_retail_compliance",
-  "theme_zh": "加油零售合规",
+  "theme_zh": "加油零售/平台合规",
   "aliases": [
     "成品油零售",
     "成品油经营许可",
+    "成品油零售经营批准证书",
     "加油站经营许可",
     "平台经济合规",
+    "互联网信息服务",
     "油品零售合规",
-    "成品油市场监督"
+    "平台油品销售",
+    "油品转售",
+    "商务部成品油",
+    "成品油市场监督",
+    "油品质量监督",
+    "加油站价格管制"
   ],
-  "policies": [],
-  "policies_count": 0,
-  "relations": [],
-  "relations_count": 0,
-  "diff_files": [],
+  "policies": [
+    {
+      "id": "P_2021_OTHERD5A9_0416b7bf",
+      "title": "中山市成品油分销体系“十四五”发展规划(2021-2025年)",
+      "date": "2021-04-16",
+      "official": "",
+      "issuer": [
+        "中山市发展和改革局"
+      ],
+      "region": {
+        "level": "市",
+        "code": "",
+        "name": "中山市"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【中山市成品油分销体系“十四五”发展规划(2021-2025年)】-中山市发展和改革局-0096.md"
+    },
+    {
+      "id": "P_2024_CQ_2",
+      "title": "2024年全区打击整治成品油非法经营专项行动方案",
+      "date": "2024-04-16",
+      "official": "綦油联办发〔2024〕2号",
+      "issuer": [
+        "重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会"
+      ],
+      "region": {
+        "level": "区",
+        "code": "",
+        "name": "重庆市綦江区"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【2024年全区打击整治成品油非法经营专项行动方案(綦油联办发〔2024〕2号)】-重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会-17eb.md"
+    },
+    {
+      "id": "P_2024_OTHER55FD_08015615",
+      "title": "2024年成品油流通行业部门联合双随机抽查工作方案",
+      "date": "2024-08-01",
+      "official": "",
+      "issuer": [
+        "承德市商务局"
+      ],
+      "region": {
+        "level": "市",
+        "code": "",
+        "name": "承德市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【2024年成品油流通行业部门联合双随机抽查工作方案】-承德市商务局-d67d.md"
+    },
+    {
+      "id": "P_2025_OTHERBDE4_5",
+      "title": "国务院办公厅关于推动成品油流通高质量发展的意见(转载)",
+      "date": "2025-02-07",
+      "official": "国办发〔2025〕5号",
+      "issuer": [
+        "承德市自然资源和规划局(转载)"
+      ],
+      "region": {
+        "level": "市",
+        "code": "",
+        "name": "承德市"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【国务院办公厅关于推动成品油流通高质量发展的意见(转载)(国办发〔2025〕5号)】-承德市自然资源和规划局(转载)-7d92.md"
+    },
+    {
+      "id": "P_2025_JS_56",
+      "title": "江苏省2024年度成品油零售经营企业年度监督检查工作通知",
+      "date": "2025-02-17",
+      "official": "苏商运〔2025〕56号",
+      "issuer": [
+        "江苏省商务厅"
+      ],
+      "region": {
+        "level": "省",
+        "code": "320000",
+        "name": "江苏省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【江苏省2024年度成品油零售经营企业年度监督检查工作通知(苏商运〔2025〕56号)】-江苏省商务厅-637a.md"
+    },
+    {
+      "id": "P_2025_OTHER1925_061777d5",
+      "title": "开展成品油零售经营企业2024年度检查工作的通知(武汉)",
+      "date": "2025-06-17",
+      "official": "",
+      "issuer": [
+        "武汉市商务局"
+      ],
+      "region": {
+        "level": "市",
+        "code": "",
+        "name": "武汉市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【开展成品油零售经营企业2024年度检查工作的通知(武汉)】-武汉市商务局-f4b2.md"
+    },
+    {
+      "id": "P_2025_MOFCOM_4_a",
+      "title": "成品油流通管理办法",
+      "date": "2025-08-01",
+      "official": "商务部令2025年第4号",
+      "issuer": [
+        "中华人民共和国商务部"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197.md"
+    }
+  ],
+  "policies_count": 7,
+  "relations": [
+    {
+      "from": "P_2025_MOFCOM_4_a",
+      "to": "P_2023_MOFCOM_0603e88a",
+      "rel": "supersedes",
+      "evidence": "成品油流通管理办法商务部令第4号正式版",
+      "confidence": 0.95,
+      "extracted_by": "supersedes_v3_subagent",
+      "extracted_at": "2026-04-29T14:39:24+08:00",
+      "signals": [
+        "v3_5src_llm"
+      ],
+      "reason": "正式部令替代征求稿"
+    },
+    {
+      "from": "P_2021_OTHERD5A9_0416b7bf",
+      "to": "P_2020_GO_39_b",
+      "rel": "references",
+      "evidence": "新能源汽车产业发展规划 （2021-2035 年）的通知》（国办发〔2020〕39 号）； （七）《 国",
+      "doc_num_matched": "国办发〔2020〕39 号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2021_OTHERD5A9_0416b7bf",
+      "to": "P_2021_SC_23",
+      "rel": "references",
+      "evidence": "国 务院关于印发 2030 年前碳达峰行动方案的通知》 （国发〔2021〕23 号）； （八）《商务部",
+      "doc_num_matched": "国发〔2021〕23 号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2021_OTHERD5A9_0416b7bf",
+      "to": "P_2019_BJ_2cbb47cf",
+      "rel": "references",
+      "evidence": "务部关于做好石油成品油流通管理“放管服”改 革工作的通知》（商运函〔2019〕659 号）； （十）《危险化",
+      "doc_num_matched": "商运函〔2019〕659 号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_OTHER1925_061777d5",
+      "to": "P_2019_BJ_2cbb47cf",
+      "rel": "references",
+      "evidence": "商务部关于做好石油成品油流通管理“放管服”改革工作的通知》（商运函〔2019〕659号）《石油成品油流通行",
+      "doc_num_matched": "商运函〔2019〕659号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2026_OTHER28CF_02013fa8",
+      "to": "P_2025_OTHERBDE4_5",
+      "rel": "references",
+      "evidence": "据 1.《国务院办公厅关于推动成品油流通高质量发展的意见》(国办发 〔2025〕5号) 2.《中共中央国",
+      "doc_num_matched": "国办发\n〔2025〕5号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2021_OTHERD5A9_0416b7bf",
+      "to": "P_2020_GO_1020e9f0",
+      "rel": "extends",
+      "evidence": "region 跳变 国家→市 + 共享 7 entity + 时差 6 月",
+      "direction": "国家→市",
+      "shared_entities": 7,
+      "months_apart": 6,
+      "confidence": 0.6,
+      "extracted_by": "heuristic",
+      "extracted_at": "2026-04-26T23:42:01"
+    },
+    {
+      "from": "P_2022_CQ_18",
+      "to": "P_2021_OTHERD5A9_0416b7bf",
+      "rel": "extends",
+      "evidence": "region 跳变 市→省 + 共享 6 entity + 时差 11 月",
+      "direction": "市→省",
+      "shared_entities": 6,
+      "months_apart": 11,
+      "confidence": 0.62,
+      "extracted_by": "heuristic",
+      "extracted_at": "2026-04-26T23:42:01"
+    },
+    {
+      "from": "P_2023_CQ_120401b0",
+      "to": "P_2021_OTHERD5A9_0416b7bf",
+      "rel": "extends",
+      "evidence": "region 跳变 市→省 + 共享 8 entity + 时差 32 月",
+      "direction": "市→省",
+      "shared_entities": 8,
+      "months_apart": 32,
+      "confidence": 0.66,
+      "extracted_by": "heuristic",
+      "extracted_at": "2026-04-26T23:42:01"
+    }
+  ],
+  "relations_count": 9,
+  "diff_files": [
+    "P_2023_CQ_120401b0__from__P_2021_OTHERD5A9_0416b7bf.md",
+    "P_2022_CQ_18__from__P_2021_OTHERD5A9_0416b7bf.md",
+    "P_2021_OTHERD5A9_0416b7bf__from__P_2020_GO_1020e9f0.md"
+  ],
   "opinion_policy_ids": [],
-  "region_distribution": {},
-  "top_issuers": {},
-  "top_5_importance": []
+  "region_distribution": {
+    "市": {
+      "中山市": 1,
+      "承德市": 2,
+      "武汉市": 1
+    },
+    "区": {
+      "重庆市綦江区": 1
+    },
+    "省": {
+      "江苏省": 1
+    },
+    "国家": {
+      "全国": 1
+    }
+  },
+  "top_issuers": {
+    "中山市发展和改革局": 1,
+    "重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会": 1,
+    "承德市商务局": 1,
+    "承德市自然资源和规划局(转载)": 1,
+    "江苏省商务厅": 1,
+    "武汉市商务局": 1,
+    "中华人民共和国商务部": 1
+  },
+  "top_5_importance": [
+    {
+      "id": "P_2025_MOFCOM_4_a",
+      "title": "成品油流通管理办法",
+      "date": "2025-08-01",
+      "official": "商务部令2025年第4号",
+      "issuer": [
+        "中华人民共和国商务部"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197.md"
+    },
+    {
+      "id": "P_2025_OTHERBDE4_5",
+      "title": "国务院办公厅关于推动成品油流通高质量发展的意见(转载)",
+      "date": "2025-02-07",
+      "official": "国办发〔2025〕5号",
+      "issuer": [
+        "承德市自然资源和规划局(转载)"
+      ],
+      "region": {
+        "level": "市",
+        "code": "",
+        "name": "承德市"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【国务院办公厅关于推动成品油流通高质量发展的意见(转载)(国办发〔2025〕5号)】-承德市自然资源和规划局(转载)-7d92.md"
+    },
+    {
+      "id": "P_2021_OTHERD5A9_0416b7bf",
+      "title": "中山市成品油分销体系“十四五”发展规划(2021-2025年)",
+      "date": "2021-04-16",
+      "official": "",
+      "issuer": [
+        "中山市发展和改革局"
+      ],
+      "region": {
+        "level": "市",
+        "code": "",
+        "name": "中山市"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【中山市成品油分销体系“十四五”发展规划(2021-2025年)】-中山市发展和改革局-0096.md"
+    },
+    {
+      "id": "P_2024_CQ_2",
+      "title": "2024年全区打击整治成品油非法经营专项行动方案",
+      "date": "2024-04-16",
+      "official": "綦油联办发〔2024〕2号",
+      "issuer": [
+        "重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会"
+      ],
+      "region": {
+        "level": "区",
+        "code": "",
+        "name": "重庆市綦江区"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【2024年全区打击整治成品油非法经营专项行动方案(綦油联办发〔2024〕2号)】-重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会-17eb.md"
+    },
+    {
+      "id": "P_2025_JS_56",
+      "title": "江苏省2024年度成品油零售经营企业年度监督检查工作通知",
+      "date": "2025-02-17",
+      "official": "苏商运〔2025〕56号",
+      "issuer": [
+        "江苏省商务厅"
+      ],
+      "region": {
+        "level": "省",
+        "code": "320000",
+        "name": "江苏省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【江苏省2024年度成品油零售经营企业年度监督检查工作通知(苏商运〔2025〕56号)】-江苏省商务厅-637a.md"
+    }
+  ]
 }

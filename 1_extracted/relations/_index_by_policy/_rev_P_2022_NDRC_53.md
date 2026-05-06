@@ -4,7 +4,7 @@ title: 国家发展改革委等部门关于进一步提升电动汽车充电基�
 inbound_edge_count: 5
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-06T16:23:47+08:00'
+last_updated: '2026-05-06T17:20:40+08:00'
 policy_file: ../../../0_raw/policies/【国家发展改革委等部门关于进一步提升电动汽车充电基础设施服务保障能力的实施意见(发改能源规〔2022〕53号)】-国家发改委等10部门-cb65.md
 ---
 

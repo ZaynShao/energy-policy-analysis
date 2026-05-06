@@ -4,7 +4,7 @@ title: 光伏配电网可开放容量的通知 - 海南省发展和改革委员�
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-06T16:23:47+08:00'
+last_updated: '2026-05-06T17:20:40+08:00'
 policy_file: ../../../0_raw/policies/【光伏配电网可开放容量的通知 - 海南省发展和改革委员会】-海南省发展和改革委员会-9b2f7fea.md
 ---
 

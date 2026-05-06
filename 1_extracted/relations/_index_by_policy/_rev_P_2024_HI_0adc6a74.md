@@ -4,7 +4,7 @@ title: 海南省发展和改革委员会关于抓好2024年电动汽车充换电
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-06T16:23:47+08:00'
+last_updated: '2026-05-06T17:20:41+08:00'
 policy_file: ../../../0_raw/policies/【海南省发展和改革委员会关于抓好2024年电动汽车充换电基础设施 ...】-海南省发展和改革委员会-0adc6a74.md
 ---
 
