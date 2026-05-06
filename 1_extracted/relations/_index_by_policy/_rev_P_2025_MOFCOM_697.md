@@ -1,10 +1,10 @@
 ---
 policy_id: P_2025_MOFCOM_697
 title: 提质增效实施2026年消费品以旧换新政策
-inbound_edge_count: 12
+inbound_edge_count: 13
 outbound_edge_count: 2
 commentary_inbound_count: 1
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【提质增效实施2026年消费品以旧换新政策(商消费函〔2025〕697号)】-商务部等7部门-1ad0.md
 ---
 
@@ -12,8 +12,9 @@ policy_file: ../../../0_raw/policies/【提质增效实施2026年消费品以旧
 
 # 入向反链:P_2025_MOFCOM_697
 
-## 被引为依据 (cited_as_basis_by) — 2
+## 被引为依据 (cited_as_basis_by) — 3
 
+- [[P_2026_BJ_9c711758]] — 北京市商務局關於印發《北京市2026年家電以舊換新、數位和智慧産品購新補貼實施細則》的通知_政策文件_首都之窗_北京市人民政府門戶網站 (2026-02-06)
 - [[P_2026_SH_24]] — 2026年上海市汽车以旧换新补贴政策实施细则 (2026-01-29)
 - [[P_2025_MOFCOM_467]] — 2026年汽车以旧换新补贴实施细则 (2025-12-30)
 

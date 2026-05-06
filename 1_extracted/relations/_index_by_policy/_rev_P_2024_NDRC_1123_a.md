@@ -4,7 +4,7 @@ title: 电力中长期交易基本规则—绿色电力交易专章
 inbound_edge_count: 10
 outbound_edge_count: 1
 commentary_inbound_count: 4
-last_updated: '2026-05-06T17:20:41+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【电力中长期交易基本规则—绿色电力交易专章(发改能源〔2024〕1123号)】-国家发展改革委、国家能源局-6518.md
 ---
 

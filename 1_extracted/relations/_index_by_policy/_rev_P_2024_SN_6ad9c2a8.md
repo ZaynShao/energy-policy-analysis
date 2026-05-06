@@ -4,7 +4,7 @@ title: 《关于新形势下配电网高质量发展的指导意见》 政策解
 inbound_edge_count: 2
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【《关于新形势下配电网高质量发展的指导意见》 政策解读-陕西省发改委】-陕西省发展和改革委员会-6ad9c2a8.md
 ---
 

@@ -1,10 +1,10 @@
 ---
 policy_id: P_2024_NDRC_718
 title: 推动车网互动规模化应用试点工作的通知
-inbound_edge_count: 9
+inbound_edge_count: 10
 outbound_edge_count: 4
 commentary_inbound_count: 1
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【推动车网互动规模化应用试点工作的通知(发改办能源〔2024〕718号)】-国家发展改革委办公厅
   国家能源局 工业和信息化部 市场监管总局-2ed7.md
 ---
@@ -13,8 +13,9 @@ policy_file: ../../../0_raw/policies/【推动车网互动规模化应用试点�
 
 # 入向反链:P_2024_NDRC_718
 
-## 被引为依据 (cited_as_basis_by) — 1
+## 被引为依据 (cited_as_basis_by) — 2
 
+- [[P_2025_GO_1b505c7d]] — 关于印发《2025年常州市发展改革（车网互动规模化应用试点城市 ... (2025-10-24)
 - [[P_2025_SD_fb6fcdeb]] — 山东省发展和改革委员会通知公告关于公布首批车网互动规模化应用 ... (2025-04-01)
 
 ## 被扩展 (extended_by) — 1

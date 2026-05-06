@@ -9,8 +9,8 @@ issuer:
 date: '2024-06-20'
 region:
   level: 国家
-  code: '000000'
-  name: 全国
+  code: '100000'
+  name: 国家
 type: policy
 provenance:
   url: https://www.nea.gov.cn/2024-06/20/c_1310779045.htm
@@ -19,9 +19,13 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 2
   src_count: 1
+  region_fixed_at: '2026-05-06T17:40:10+08:00'
+  region_fixed_method: body_extract
+  region_fixed_from: 全国
+  region_fix_confidence: 0.95
+  region_fix_note: restored from backup; previous apply broke fm due to title-contains-tripledash
 confidence: medium
 ---
-
 # 国新办举行“推动高质量发展”系列主题新闻发布会（国家能源局）---国家能源局
 
 ## 政策原文

@@ -1,10 +1,10 @@
 ---
 policy_id: P_2024_HL_9ab2f7ce
 title: 《黑龙江省电力市场运营规则及配套实施细则（试行2.0版）》政策解读
-inbound_edge_count: 2
+inbound_edge_count: 3
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【《黑龙江省电力市场运营规则及配套实施细则（试行2.0版）》政策解读(黑发改运行规〔2024〕4号)】-黑龙江省发展和改革委员会-9ab2f7ce.md
 ---
 
@@ -19,6 +19,10 @@ policy_file: ../../../0_raw/policies/【《黑龙江省电力市场运营规则�
 ## 被引用 (referenced_by) — 1
 
 - [[P_2025_HL_1d366dd4]] — 关于印发《黑龙江省电力市场运营规则及配套实施细则（试行2.1版 ... (2025-12-30)
+
+## 被对齐 (aligns_with_by) — 1
+
+- [[P_2024_LN_0ab690ad]] — 《辽宁省电力市场运营规则及配套细则（试行3.0版）》印发为我省 ... (2024-07-25)
 
 # 出向引用:P_2024_HL_9ab2f7ce
 

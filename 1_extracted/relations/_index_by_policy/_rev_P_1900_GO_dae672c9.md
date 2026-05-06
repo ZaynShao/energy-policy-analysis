@@ -4,7 +4,7 @@ title: 【关于加快建设全国统一电力市场体系的指导意见(发改
 inbound_edge_count: 14
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【【关于加快建设全国统一电力市场体系的指导意见(发改体改〔2022〕118号)】-国家发展和改革委员会(发改体改〔2022〕118号)】-国家发展和改革委员会-dae672c9.md
 ---
 

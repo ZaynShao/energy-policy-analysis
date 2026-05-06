@@ -4,7 +4,7 @@ title: 政策文件
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【政策文件(京建法〔2025〕3号)】-政府门户.zjw.beijing.gov.cn-44cbdc92.md
 ---
 

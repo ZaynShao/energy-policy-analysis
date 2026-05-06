@@ -4,7 +4,7 @@ title: 关于贯彻落实进一步深化燃煤发电上网电价市场化改革�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【关于贯彻落实进一步深化燃煤发电上网电价市场化改革有关事项的通知_行政规范性文件_省发展和改革委员会(黑发改规〔2021〕3号)】-黑龙江省发展和改革委员会-cfced6fa.md
 ---
 

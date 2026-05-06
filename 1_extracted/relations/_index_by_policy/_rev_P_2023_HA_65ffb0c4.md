@@ -1,10 +1,10 @@
 ---
 policy_id: P_2023_HA_65ffb0c4
 title: 关于印发《河南省电力市场运营基本规则（试行）》的通知
-inbound_edge_count: 2
+inbound_edge_count: 3
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【关于印发《河南省电力市场运营基本规则（试行）》的通知(豫发改电力〔2022〕533号)】-河南省发展和改革委员会-65ffb0c4.md
 ---
 
@@ -19,3 +19,7 @@ policy_file: ../../../0_raw/policies/【关于印发《河南省电力市场运�
 ## 被细化 (clarified_by) — 1
 
 - [[P_2022_HA_8a7df234]] — 规范性文件 - 河南省发展和改革委员会 (2022-07-18)
+
+## 被对齐 (aligns_with_by) — 1
+
+- [[P_2024_LN_0ab690ad]] — 《辽宁省电力市场运营规则及配套细则（试行3.0版）》印发为我省 ... (2024-07-25)

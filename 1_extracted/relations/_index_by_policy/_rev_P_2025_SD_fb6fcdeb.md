@@ -1,10 +1,10 @@
 ---
 policy_id: P_2025_SD_fb6fcdeb
 title: 山东省发展和改革委员会通知公告关于公布首批车网互动规模化应用 ...
-inbound_edge_count: 1
+inbound_edge_count: 2
 outbound_edge_count: 5
 commentary_inbound_count: 0
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【山东省发展和改革委员会通知公告关于公布首批车网互动规模化应用 ...(发改办能源〔2025〕241号)】-山东省发展和改革委员会-fb6fcdeb.md
 ---
 
@@ -15,6 +15,10 @@ policy_file: ../../../0_raw/policies/【山东省发展和改革委员会通知�
 ## 被引为依据 (cited_as_basis_by) — 1
 
 - [[P_1900_CQ_734bd346]] — 重庆入选全国首批车网互动规模化应用试点 将采取五类专项行动加以推广应用 (2024-01-01)
+
+## 被对齐 (aligns_with_by) — 1
+
+- [[P_2025_GO_1b505c7d]] — 关于印发《2025年常州市发展改革（车网互动规模化应用试点城市 ... (2025-10-24)
 
 # 出向引用:P_2025_SD_fb6fcdeb
 

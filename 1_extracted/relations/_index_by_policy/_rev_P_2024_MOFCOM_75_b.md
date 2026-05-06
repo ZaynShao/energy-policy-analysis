@@ -1,10 +1,10 @@
 ---
 policy_id: P_2024_MOFCOM_75_b
 title: 汽车以旧换新补贴实施细则
-inbound_edge_count: 20
+inbound_edge_count: 21
 outbound_edge_count: 6
 commentary_inbound_count: 4
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【汽车以旧换新补贴实施细则(商消费函〔2024〕75号)】-商务部、财政部、国家发改委、工信部、公安部、生态环境部、税务总局-beeb.md
 ---
 
@@ -12,9 +12,10 @@ policy_file: ../../../0_raw/policies/【汽车以旧换新补贴实施细则(商
 
 # 入向反链:P_2024_MOFCOM_75_b
 
-## 被引为依据 (cited_as_basis_by) — 2
+## 被引为依据 (cited_as_basis_by) — 3
 
 - [[P_2024_GO_37d502f6]] — 【上海市发展改革委上海市财政局关于印发《上海市关于进一步加大 ... (2024-09-02)
+- [[P_2024_BJ_984b90fb]] — 北京市商務局等8部門關於印發《2024年北京市汽車以舊換新補貼實施 ... (2024-05-31)
 - [[P_2024_MOF_129]] — 2024年汽车以旧换新补贴中央财政预拨资金预算 (2024-05-28)
 
 ## 被细化 (clarified_by) — 3

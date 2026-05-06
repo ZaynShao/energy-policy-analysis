@@ -35,9 +35,9 @@
         "政府门户.swt.fujian.gov.cn"
       ],
       "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "未知"
+        "level": "省",
+        "code": "350000",
+        "name": "福建省"
       },
       "importance": 2,
       "tags": [],
@@ -69,9 +69,9 @@
         "政府门户.www.hd.gov.cn"
       ],
       "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "未知"
+        "level": "市",
+        "code": "130400",
+        "name": "邯郸市"
       },
       "importance": 1,
       "tags": [],
@@ -1021,9 +1021,9 @@
         "政府门户.www.baotou.gov.cn"
       ],
       "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "未知"
+        "level": "市",
+        "code": "150200",
+        "name": "包头市"
       },
       "importance": 4,
       "tags": [],
@@ -1038,9 +1038,9 @@
         "政府门户.zwfw-new.hunan.gov.cn"
       ],
       "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "未知"
+        "level": "县",
+        "code": "430522",
+        "name": "邵阳市新邵县"
       },
       "importance": 0,
       "tags": [],
@@ -2041,9 +2041,19 @@
         "official_match:商运函〔2019〕659号"
       ],
       "reason": "context cue \"同步\" indicates coordinated alignment with the cited document"
+    },
+    {
+      "from": "P_2026_HN_1c02e10e",
+      "to": "P_2023_HN_848",
+      "rel": "aligns_with",
+      "evidence": "结合湖南实际，制定本实施意见。... 完善支撑政策保障... 充电基础设施高质量发展、LNG加注站建设管理 [与省内充电基础设施实施意见目标协同]",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T17:22:26+08:00",
+      "reason": "湖南交能融合与省内充电基础设施实施意见同主题协同"
     }
   ],
-  "relations_count": 88,
+  "relations_count": 89,
   "diff_files": [
     "P_2023_CQ_120401b0__from__P_2021_OTHERD5A9_0416b7bf.md",
     "P_2023_CQ_120401b0__from__P_2021_OTHER203C_1001d59f.md",
@@ -2054,10 +2064,10 @@
   "opinion_policy_ids": [],
   "region_distribution": {
     "国家": {
-      "全国": 7,
-      "未知": 4
+      "全国": 7
     },
     "省": {
+      "福建省": 1,
       "贵州省": 1,
       "上海市": 2,
       "北京市": 6,
@@ -2072,6 +2082,7 @@
       "云南省": 1
     },
     "市": {
+      "邯郸市": 1,
       "中山市": 1,
       "六安市": 1,
       "慈溪市": 1,
@@ -2082,7 +2093,8 @@
       "济南市": 2,
       "吕梁市": 1,
       "朝阳市": 1,
-      "赣州市": 1
+      "赣州市": 1,
+      "包头市": 1
     },
     "区": {
       "重庆市黔江区": 1,
@@ -2096,6 +2108,9 @@
       "重庆市南川区": 1,
       "上海市松江区": 1,
       "北京市丰台区": 1
+    },
+    "县": {
+      "邵阳市新邵县": 1
     }
   },
   "top_issuers": {

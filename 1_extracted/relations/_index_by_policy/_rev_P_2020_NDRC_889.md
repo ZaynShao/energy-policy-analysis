@@ -4,7 +4,7 @@ title: 电力中长期交易基本规则(2020 版)
 inbound_edge_count: 12
 outbound_edge_count: 0
 commentary_inbound_count: 5
-last_updated: '2026-05-06T17:20:40+08:00'
+last_updated: '2026-05-06T17:42:24+08:00'
 policy_file: ../../../0_raw/policies/【电力中长期交易基本规则(2020 版)(发改能源规〔2020〕889号)】-国家发展改革委、国家能源局-47a1.md
 ---
 
