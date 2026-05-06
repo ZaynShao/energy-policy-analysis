@@ -83,6 +83,58 @@ NOW_ISO = datetime.now().strftime("%Y-%m-%dT%H:%M:%S+08:00")
 NOW_TS = datetime.now().strftime("%Y%m%d_%H%M%S")
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n(.*)$", re.DOTALL)
 
+# rel_judge 履历追踪(2026-05-06 加入)
+# 每次 apply --stage rel / rev_cites / rel_judge_rerun 末尾 append
+# 一行 / 参与本次审的 pid 到 _meta/audit/rel_judge_history.jsonl
+REL_JUDGE_PROMPT_VERSION = "v3.1_2026-05-06"
+REL_JUDGE_MODEL = "claude-opus-4-7"
+REL_JUDGE_HISTORY_PATH = VAULT / "_meta" / "audit" / "rel_judge_history.jsonl"
+
+
+def _append_rel_judge_history(
+    input_pids: list[str],
+    valid_rows: list[dict],
+    trigger: str,
+    prompt_version: str = REL_JUDGE_PROMPT_VERSION,
+    model: str = REL_JUDGE_MODEL,
+) -> None:
+    """对参与本次 LLM 审的每个 pid append 一行履历。
+
+    valid_rows 是已过 dangling 校验的边(每行 from/to/rel)。
+    对每个 input_pid 写一行,即使 LLM 输出 0 边 — 这样未来 metric 能区分
+    "pid 跑过 0 边(真孤儿,已审)" vs "pid 没跑过(未审)"。
+
+    trigger:
+      - "trigger_A_pid_change"      新政策入库 trigger A
+      - "trigger_E_reverse_cites"   反向 cites_basis trigger E
+      - "trigger_F_rel_judge_rerun" 51 isolated 全审 trigger F
+      - "build_phase_legacy"        backfill,仅跑一次
+    """
+    REL_JUDGE_HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    out_by = {}
+    in_by = {}
+    for r in valid_rows:
+        f, t = r.get("from"), r.get("to")
+        if f:
+            out_by[f] = out_by.get(f, 0) + 1
+        if t:
+            in_by[t] = in_by.get(t, 0) + 1
+    lines = []
+    for pid in input_pids:
+        lines.append(json.dumps({
+            "pid": pid,
+            "ran_at": NOW_ISO,
+            "trigger": trigger,
+            "prompt_version": prompt_version,
+            "model": model,
+            "edges_outbound_added": out_by.get(pid, 0),
+            "edges_inbound_added": in_by.get(pid, 0),
+        }, ensure_ascii=False))
+    with REL_JUDGE_HISTORY_PATH.open("a", encoding="utf-8") as fh:
+        for line in lines:
+            fh.write(line + "\n")
+    print(f"  ✓ rel_judge_history: +{len(lines)} rows ({trigger})")
+
 # ============================================================
 # 共享 helpers
 # ============================================================
@@ -557,6 +609,158 @@ def prepare_reverse_cites(target_pids: list[str]):
 
 
 # ============================================================
+# Prepare: rel_judge_rerun (trigger F — isolated 重审)
+# ============================================================
+
+def prepare_rel_judge_rerun(pids: list[str], batch_count: int = 3):
+    """trigger F: 对一批已入库政策重跑 rel_judge(典型场景:metric 报 isolated)。
+
+    与 trigger A 的不同:
+      - 不动 5C(business_view yaml 不重写)
+      - 只 stage rel_judge inputs,不 stage 5c
+      - prompt 显式说"0 边输出 acceptable"(防 LLM 为产出硬编关系)
+      - 输入按 batch_count 拆分(默认 3 batch)→ 派 N subagent 并行
+    """
+    print(f"\n=== prepare rel_judge_rerun for {len(pids)} pids (batch_count={batch_count}) ===")
+
+    # 0. 校验所有 pid 在 vault
+    inputs: list[dict] = []
+    for pid in pids:
+        f = find_policy_file_by_pid(pid)
+        if f is None:
+            print(f"[fatal] pid 不在 vault: {pid}")
+            sys.exit(1)
+        fm, body, _ = parse_fm(f)
+        # 复用 trigger A rel_judge 的 input 结构(pid + raw_md 等)
+        inputs.append({
+            "pid": pid,
+            "title": fm.get("title", "") or "",
+            "official_number": fm.get("official_number", "") or "",
+            "issuer": fm.get("issuer", []) or [],
+            "date": str(fm.get("date", "") or "")[:10],
+            "raw_md": body[:20000],  # body 截 20k(LLM 长上下文可承受)
+        })
+    print(f"  loaded {len(inputs)} target inputs")
+
+    # 1. vault_index(273 政策的轻量元数据,LLM 用于 to 候选判断)
+    vault_idx = []
+    for p in (VAULT / "0_raw/policies").glob("*.md"):
+        if any(part.startswith("_") for part in p.relative_to(VAULT).parts[2:]):
+            continue
+        fm, _, _ = parse_fm(p)
+        if not fm or not fm.get("id"):
+            continue
+        vault_idx.append({
+            "pid": fm["id"],
+            "title": fm.get("title", "") or "",
+            "official": fm.get("official_number", "") or "",
+            "date": str(fm.get("date", "") or "")[:10],
+        })
+    print(f"  vault_index: {len(vault_idx)} policies")
+
+    # 2. stage:batch 拆分 + vault_index + 顶层 inputs.jsonl(供履历追踪读)
+    state = ensure_state_dir("rel_judge_rerun")
+    # 顶层 inputs.jsonl(参与本次审的 pid 全集)
+    (state / "inputs.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in inputs),
+        encoding="utf-8",
+    )
+    # vault_index
+    (state / "vault_index.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in vault_idx),
+        encoding="utf-8",
+    )
+    # batch 拆分(轮询切,让批内分散不集中同主题)
+    for i in range(batch_count):
+        batch = inputs[i::batch_count]
+        (state / f"batch_{i+1}.jsonl").write_text(
+            "\n".join(json.dumps(r, ensure_ascii=False) for r in batch),
+            encoding="utf-8",
+        )
+        print(f"  ✓ batch_{i+1}.jsonl: {len(batch)} pids")
+
+    (state / "prompt.md").write_text(
+        _rel_judge_rerun_prompt_template(state, batch_count), encoding="utf-8"
+    )
+
+    print(f"  ✓ {state}/inputs.jsonl ({len(inputs)} pids)")
+    print(f"  ✓ {state}/vault_index.jsonl ({len(vault_idx)} candidates)")
+    print(f"  ✓ {state}/prompt.md")
+
+    print("\n=== prepare rel_judge_rerun 完成 ===")
+    print(f"下一步:派 {batch_count} 个 opus 4.7 subagent 各 1 batch(prompt.md),")
+    print(f"results 写到 _l2_rebuild_state/rel_judge_rerun/results/batch_{{1..{batch_count}}}.jsonl,")
+    print("然后 python3 rebuild_l2.py apply --stage rel_judge_rerun")
+
+
+def _rel_judge_rerun_prompt_template(state_dir: Path, batch_count: int) -> str:
+    return f"""# trigger F: rel_judge_rerun subagent prompt(opus 4.7,{batch_count} batch 并行)
+
+你正在审一批**已入库 vault 政策**,它们当前在关系层为 **isolated**(0 inbound + 0 outbound)。
+你的任务是判断每篇政策**是否真的与 vault 内其他政策无任何 5 类关系**(cites_basis /
+iterates / extends / clarifies / aligns_with),还是因为之前 rel_judge 召回不足而被错标为 isolated。
+
+input(每 subagent 1 个 batch): {state_dir}/batch_<N>.jsonl
+  每行一个 target pid 的完整 metadata + raw body 前 20000 字
+vault_index: {state_dir}/vault_index.jsonl
+  273 政策的 pid + title + official + date(候选 to)
+output(每 subagent): {state_dir}/results/batch_<N>.jsonl
+
+## 任务
+
+对每个 target pid:
+1. 读 target.raw_md(政策正文)看它在讲什么
+2. 扫 vault_index 273 候选,判断 target 是否对其中某些 pid 有 5 类关系:
+   - **cites_basis**: target 把 candidate 视为制定依据("根据 / 依据 / 参照 / 落实 / 贯彻 …")
+   - **iterates**: target 是 candidate 的迭代版本(同主题 / 同政策 / 后继年份)
+   - **extends**: target 在 candidate 基础上扩展/细化(范围 / 适用对象 / 配套机制)
+   - **clarifies**: target 解释 candidate(操作细则 / 答记者问 / 实施意见)
+   - **aligns_with**: target 与 candidate 协同推进(平行政策,共同支持某战略)
+
+3. 不抽:**references**(已由 deterministic 抽过)/ **supersedes**(单独判)/ **derives_from**(5C 范畴)
+
+## CRITICAL — 0 边输出是 acceptable
+
+这批政策**当前 isolated** — 它们可能是:
+  (a) 真孤儿:政策本身边缘 / 行业细分目录,vault 内确无关联 → **正确输出 0 边**
+  (b) 召回不足:旧 prompt 没识别出与 vault 内某些政策的真实关系 → 输出新边
+
+**请审慎判断,只输出 confidence ≥ 0.7 的边**。如该 target 真无 vault 内关联,
+**输出 0 边即可**,不要为了"产出"而硬编关系。0 边的输出会被记入"已审 + 真孤儿"履历,
+是有价值的 audit 状态,**不要勉强**。
+
+## 输出 schema
+
+每行一个边(JSON Lines):
+```json
+{{
+  "from": "<target pid,即本次审的 pid>",
+  "to":   "<vault_index 中存在的 pid>",
+  "rel":  "cites_basis|iterates|extends|clarifies|aligns_with",
+  "evidence": "≤200 字原文片段(target.raw_md 中那段)",
+  "confidence": 0.70-1.00,
+  "extracted_by": "rebuild_l2_rel_judge_rerun",
+  "extracted_at": "{NOW_ISO}",
+  "reason": "≤80 字判定依据"
+}}
+```
+
+## 约束
+
+- **from 必须等于 target.pid**(本次审的 pid)
+- **to 必须在 vault_index 中**(prevent dangling)
+- **from != to**
+- 同一 (from, to) 只输出一行(取最高 confidence)
+- 0 边的 target 不输出占位行 — 直接跳过(履历会自动补上"已审 + 0 edges")
+- **JSON Lines**(每行一个完整 JSON,不要数组包裹),ensure_ascii=False
+
+## 输出位置
+
+results 写到 {state_dir}/results/batch_<本 subagent 的 N>.jsonl
+"""
+
+
+# ============================================================
 # Apply: 5C / rel / stance / opinions-summary / rev_cites
 # ============================================================
 
@@ -713,6 +917,22 @@ def apply_rel():
         target.write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in existing) + "\n", encoding="utf-8")
         print(f"  {rel}.jsonl: +{added}(now {len(existing)})")
 
+    # 履历追踪(2026-05-06 加入)
+    inputs_path = state / "inputs.jsonl"
+    input_pids: list[str] = []
+    if inputs_path.exists():
+        for line in inputs_path.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                try:
+                    row = json.loads(line)
+                    pid = row.get("pid") or row.get("from")
+                    if pid:
+                        input_pids.append(pid)
+                except json.JSONDecodeError:
+                    pass
+    if input_pids:
+        _append_rel_judge_history(input_pids, valid_rows, trigger="trigger_A_pid_change")
+
 
 def apply_stance():
     """合 4 batch results → 5 等份切回 stance_batches → aggregate_opinions → crystallize → stage opinions-summary"""
@@ -861,6 +1081,125 @@ def apply_rev_cites():
     )
     print(f"  cites_basis.jsonl: +{added}(now {len(existing)});"
           f"dup={skipped_dup} bad={skipped_bad} dangling={skipped_dangling}")
+
+    # 履历追踪 — reverse_cites 是 inbound 视角,target 才是被审 pid
+    targets_path = state / "targets.jsonl"
+    input_pids: list[str] = []
+    if targets_path.exists():
+        for line in targets_path.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                try:
+                    row = json.loads(line)
+                    pid = row.get("pid") or row.get("target_pid")
+                    if pid:
+                        input_pids.append(pid)
+                except json.JSONDecodeError:
+                    pass
+    valid_rows_for_history = [
+        r for r in rows
+        if r.get("rel") == "cites_basis" and r.get("from") and r.get("to")
+        and r.get("from") in vault_pids and r.get("to") in vault_pids
+        and r.get("from") != r.get("to")
+    ]
+    if input_pids:
+        _append_rel_judge_history(input_pids, valid_rows_for_history, trigger="trigger_E_reverse_cites")
+
+
+def apply_rel_judge_rerun():
+    """trigger F apply: 合 N batch results → dangling 校验 → 写 5 类 jsonl 防重 → 履历"""
+    state = STATE_ROOT / "rel_judge_rerun"
+    if not state.exists():
+        print(f"[fatal] 缺 {state} — 先跑 prepare --trigger rel_judge_rerun")
+        sys.exit(1)
+    results_dir = state / "results"
+
+    # 找 batch_*.jsonl(支持任意 batch_count)
+    batch_files = sorted(results_dir.glob("batch_*.jsonl"))
+    if not batch_files:
+        print(f"[fatal] 缺 {results_dir}/batch_*.jsonl")
+        sys.exit(1)
+
+    rows: list[dict] = []
+    for bf in batch_files:
+        for line in bf.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                try:
+                    rows.append(json.loads(line))
+                except json.JSONDecodeError:
+                    pass
+        print(f"  read {bf.name}: cumulative {len(rows)} rows")
+    print(f"\n应用 rel_judge_rerun 候选边 {len(rows)} 行(校验前)")
+
+    # dangling 校验(复用 trigger A 逻辑)
+    vault_pids = _load_vault_pid_set()
+    valid_rows: list[dict] = []
+    dangling_from = 0
+    dangling_to = 0
+    bad_self = 0
+    bad_rel = 0
+    ALLOWED_REL = {"cites_basis", "iterates", "extends", "clarifies", "aligns_with"}
+    for r in rows:
+        f, t, rel = r.get("from"), r.get("to"), r.get("rel")
+        if not (isinstance(f, str) and isinstance(t, str) and isinstance(rel, str)):
+            continue
+        if rel not in ALLOWED_REL:
+            print(f"  [skip bad-rel] {f} -> {t} rel={rel}")
+            bad_rel += 1
+            continue
+        if f not in vault_pids:
+            dangling_from += 1
+            print(f"  [skip dangling-from] {f} -> {t} ({rel})")
+            continue
+        if t not in vault_pids:
+            dangling_to += 1
+            print(f"  [skip dangling-to] {f} -> {t} ({rel})")
+            continue
+        if f == t:
+            bad_self += 1
+            print(f"  [skip self-loop] {f} -> {t} ({rel})")
+            continue
+        valid_rows.append(r)
+    if dangling_from or dangling_to or bad_self or bad_rel:
+        print(f"  ⚠ skipped: dangling_from={dangling_from} dangling_to={dangling_to} self={bad_self} bad_rel={bad_rel}")
+    print(f"  ✓ {len(valid_rows)} 边通过校验")
+
+    # 按 rel 分组 + 防重写入(同 apply_rel)
+    by_rel: dict[str, list[dict]] = {}
+    for r in valid_rows:
+        by_rel.setdefault(r["rel"], []).append(r)
+
+    REL_DIR = VAULT / "1_extracted/relations"
+    for rel, new_rows in by_rel.items():
+        target = REL_DIR / f"{rel}.jsonl"
+        existing = []
+        if target.exists():
+            for line in target.read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    try:
+                        existing.append(json.loads(line))
+                    except json.JSONDecodeError:
+                        pass
+        existing_keys = {(r.get("from"), r.get("to")) for r in existing}
+        added = 0
+        for nr in new_rows:
+            if (nr.get("from"), nr.get("to")) not in existing_keys:
+                existing.append(nr)
+                added += 1
+        target.write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in existing) + "\n", encoding="utf-8")
+        print(f"  {rel}.jsonl: +{added}(now {len(existing)})")
+
+    # 履历:对所有 input pid 写一行(包括 0 边的)
+    inputs_path = state / "inputs.jsonl"
+    input_pids: list[str] = []
+    if inputs_path.exists():
+        for line in inputs_path.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                try:
+                    input_pids.append(json.loads(line)["pid"])
+                except (json.JSONDecodeError, KeyError):
+                    pass
+    if input_pids:
+        _append_rel_judge_history(input_pids, valid_rows, trigger="trigger_F_rel_judge_rerun")
 
 
 def apply_opinions_summary():
@@ -1122,11 +1461,20 @@ output: 直接 Write 到 vault {VAULT}/2_crystallized/themes/<theme_dir_name>/op
     "policies_brief":[{{id, title}}]}}
 
 聚合规则:
-- §1 共识: aspect 同向归并,≥3 distinct domain 同 polarity → "🟢/🔴/⚪ **<aspect>** — 涉及 P_xxx 共 N 篇,跨 d1/d2/... 等 M 个独立来源同向 X。"
-- §2 分歧: 同 aspect ≥2 不同 polarity 不同 source → 表格
-- §3 中性: polarity=neutral 独立条目
+- §1 共识: aspect 同向归并,≥3 distinct domain 同 polarity → "🟢/🔴/⚪ **<aspect>** — 涉及 [[P_xxx]]、[[P_yyy]]、… 共 N 篇,跨 d1/d2/... 等 M 个独立来源同向 X。"
+- §2 分歧: 同 aspect ≥2 不同 polarity 不同 source → 表格(政策列也用 [[P_xxx]] 形式)
+- §3 中性: polarity=neutral 独立条目(政策用 [[P_xxx]] 形式)
 - §4 待跟进: claim 含 ?/待/未明 等
 - §5 未覆盖: uncovered_pids 列 [[P_xxx]] - title
+
+⚠ CRITICAL — 政策引用必须用 wiki link 形式 [[P_xxx]]
+所有 §1 / §2 / §3 / §4 / §5 段落里出现的 vault 政策 pid 都必须用 [[P_xxx]] 包裹,
+不可用裸 P_xxx。Obsidian 渲染依赖 [[]] 形成反链 graph,裸 pid 不会渲染成链接。
+具体例子:
+  - ✗ 错: 涉及 P_2024_NDRC_15、P_2025_NDRC_136 共 18 篇
+  - ✓ 对: 涉及 [[P_2024_NDRC_15]]、[[P_2025_NDRC_136]] 共 18 篇
+分歧 §2 的表格"涉及政策"列也是同样 [[P_xxx]] 形式,不要写裸 P_xxx。
+评论 metadata 出处(域名 / source_account)不需要 [[]] — 它们不是 vault 政策。
 
 OUTPUT 模板 frontmatter:
   ---
@@ -1150,16 +1498,18 @@ def main():
 
     p_prepare = sub.add_parser("prepare", help="stage L2 rebuild inputs by trigger type")
     p_prepare.add_argument("--trigger", required=True,
-                           choices=["pid_change", "commentary_change", "reverse_cites"])
-    p_prepare.add_argument("--pids", help="comma-sep pids for pid_change")
+                           choices=["pid_change", "commentary_change", "reverse_cites", "rel_judge_rerun"])
+    p_prepare.add_argument("--pids", help="comma-sep pids for pid_change / rel_judge_rerun")
     p_prepare.add_argument("--commentaries", help="comma-sep commentary filenames for commentary_change")
     p_prepare.add_argument("--all-commentaries", action="store_true",
                            help="commentary_change 时表示全 191 linked 重抽")
     p_prepare.add_argument("--target-pids", help="comma-sep upstream pids for reverse_cites")
+    p_prepare.add_argument("--batch-count", type=int, default=3,
+                           help="rel_judge_rerun batch 数(默认 3)")
 
     p_apply = sub.add_parser("apply", help="apply LLM results from _l2_rebuild_state/")
     p_apply.add_argument("--stage", required=True,
-                         choices=["5c", "rel", "stance", "opinions-summary", "rev_cites"])
+                         choices=["5c", "rel", "stance", "opinions-summary", "rev_cites", "rel_judge_rerun"])
 
     p_det = sub.add_parser("deterministic", help="run deterministic scripts")
     p_det.add_argument("--scope", required=True,
@@ -1184,10 +1534,18 @@ def main():
             if not args.target_pids:
                 ap.error("--trigger reverse_cites 需 --target-pids")
             prepare_reverse_cites([p.strip() for p in args.target_pids.split(",") if p.strip()])
+        elif args.trigger == "rel_judge_rerun":
+            if not args.pids:
+                ap.error("--trigger rel_judge_rerun 需 --pids")
+            prepare_rel_judge_rerun(
+                [p.strip() for p in args.pids.split(",") if p.strip()],
+                batch_count=args.batch_count,
+            )
     elif args.cmd == "apply":
         {"5c": apply_5c, "rel": apply_rel, "stance": apply_stance,
          "opinions-summary": apply_opinions_summary,
-         "rev_cites": apply_rev_cites}[args.stage]()
+         "rev_cites": apply_rev_cites,
+         "rel_judge_rerun": apply_rel_judge_rerun}[args.stage]()
     elif args.cmd == "deterministic":
         run_deterministic(args.scope)
 
