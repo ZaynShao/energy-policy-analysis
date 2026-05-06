@@ -4,7 +4,7 @@ title: 成品油流通管理办法(征求意见稿)
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-06T18:05:03+08:00'
+last_updated: '2026-05-06T18:44:44+08:00'
 policy_file: ../../../0_raw/policies/【成品油流通管理办法(征求意见稿)】-商务部-2d80.md
 ---
 
@@ -14,4 +14,4 @@ policy_file: ../../../0_raw/policies/【成品油流通管理办法(征求意见
 
 ## 被废止 (superseded_by) — 1
 
-- [[P_2025_MOFCOM_4_a]] — 成品油流通管理办法 (2025-08-01)
+- [[【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197|P_2025_MOFCOM_4_a]] — 成品油流通管理办法 (2025-08-01)
