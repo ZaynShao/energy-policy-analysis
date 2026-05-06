@@ -282,9 +282,15 @@ def audit_file(
 # ─── 扫描入口 ─────────────────────────────────────────────────────────────────
 
 
-def scan(*, recall_threshold: float) -> Report:
+def scan(*, recall_threshold: float, target_pids: set[str] | None = None) -> Report:
+    """target_pids 非 None 时,仅 audit fm.id 命中的政策。"""
     rep = Report()
     for p in iter_md_files(POLICIES_DIR):
+        if target_pids is not None:
+            text = p.read_text(encoding="utf-8", errors="ignore")
+            fm, _ = split_frontmatter_body(text)
+            if not fm or fm.get("id") not in target_pids:
+                continue
         rep.scanned += 1
         rep.items.extend(audit_file(p, recall_threshold=recall_threshold))
     return rep
@@ -348,13 +354,18 @@ def main(argv: list[str] | None = None) -> int:
         "--recall-threshold", type=float, default=DEFAULT_RECALL_THRESHOLD,
         help=f"title 关键词在 body 中 recall 阈值,默认 {DEFAULT_RECALL_THRESHOLD}",
     )
+    ap.add_argument("--pid", help="只扫指定 pid(逗号分隔)")
     args = ap.parse_args(argv)
 
     if not (0.0 <= args.recall_threshold <= 1.0):
         print("ERROR: --recall-threshold 须在 [0,1]", file=sys.stderr)
         return 2
 
-    rep = scan(recall_threshold=args.recall_threshold)
+    target_pids: set[str] | None = None
+    if args.pid:
+        target_pids = {p.strip() for p in args.pid.split(",") if p.strip()}
+
+    rep = scan(recall_threshold=args.recall_threshold, target_pids=target_pids)
 
     if args.as_json:
         print_json_report(rep)

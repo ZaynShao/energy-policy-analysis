@@ -64,6 +64,7 @@ rebuild_l2.py — L1 → L2 全链路 incremental 重建编排器
 from __future__ import annotations
 import argparse
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -132,24 +133,92 @@ def load_themes_registry() -> list:
 # Prepare: pid_change (新政策 / body 重抓)
 # ============================================================
 
+def _run_preflight_audit(pids: list[str]) -> None:
+    """Step 0 — 入库政策的前置 audit(LLM Wiki §1 raw immutable + 数据合规闸)。
+
+    串跑 3 个 audit 工具 --pid 模式,任一 error/suspicious/violation 即阻断:
+      - validate_l1.py   fm 必填 + enum + ISO ts
+      - oneshot_l1_body_audit.py   PDF binary / HTML / title-body recall
+      - oneshot_l12_residue_audit.py   fm 违规 LLM 派生字段 + body 派生 section
+
+    阻断后用户应改 raw / 重抓 / 净化后重跑 prepare。
+    """
+    print("\n--- step 0/4: 前置 audit(LLM Wiki §1 / 数据合规闸)---")
+    pid_arg = ",".join(pids)
+
+    audits = [
+        ("validate_l1",   "validate_l1.py",                ["--pid", pid_arg, "--json"]),
+        ("body_audit",    "oneshot_l1_body_audit.py",      ["--pid", pid_arg, "--json"]),
+        ("residue_audit", "oneshot_l12_residue_audit.py",  ["--pid", pid_arg, "--json"]),
+    ]
+    blocking: list[str] = []
+
+    for label, script, extra in audits:
+        cmd = ["python3", str(SCRIPTS / script)] + extra
+        r = subprocess.run(cmd, cwd=str(VAULT), capture_output=True, text=True)
+        if r.returncode == 0:
+            print(f"  ✓ {label}: clean")
+            continue
+        try:
+            data = json.loads(r.stdout)
+        except json.JSONDecodeError:
+            print(f"  [fatal] {label}: 工具崩溃")
+            print(f"  stderr: {r.stderr[:500]}")
+            sys.exit(1)
+
+        if label == "validate_l1":
+            errs = [v for v in data.get("violations", []) if v.get("level") == "error"]
+            warns = [v for v in data.get("violations", []) if v.get("level") == "warn"]
+            print(f"  {label}: errors={len(errs)} warns={len(warns)}")
+            for v in errs[:5]:
+                print(f"    [error/{v['code']}] {v['file']}: {v['message']}")
+                blocking.append(f"{label}/{v['code']}: {v['file']}")
+        elif label == "body_audit":
+            susp = [i for i in data.get("items", []) if i.get("level") == "suspicious"]
+            warns = [i for i in data.get("items", []) if i.get("level") == "warn"]
+            print(f"  {label}: suspicious={len(susp)} warns={len(warns)}")
+            for i in susp[:5]:
+                print(f"    [suspicious/{i['code']}] {i['file']}: {i['detail'][:120]}")
+                blocking.append(f"{label}/{i['code']}: {i['file']}")
+        elif label == "residue_audit":
+            viol = [i for i in data.get("items", []) if i.get("level") == "violation"]
+            print(f"  {label}: violations={len(viol)}")
+            for i in viol[:5]:
+                print(f"    [violation/{i['code']}] {i['file']}: {i['detail'][:120]}")
+                blocking.append(f"{label}/{i['code']}: {i['file']}")
+
+    if blocking:
+        print(f"\n[fatal] 前置 audit 阻断 {len(blocking)} 项:")
+        for b in blocking[:10]:
+            print(f"  - {b}")
+        print("\n请按建议修 raw fm / 重抓 body / 净化派生字段后,重跑 prepare。")
+        print("如需强制跳过(不推荐),设环境变量 SKIP_PREFLIGHT_AUDIT=1。")
+        if os.environ.get("SKIP_PREFLIGHT_AUDIT") != "1":
+            sys.exit(2)
+        print("[warn] SKIP_PREFLIGHT_AUDIT=1 已强制跳过,后果自负\n")
+
+
 def prepare_pid_change(pids: list[str]):
     """stage 5C + rel_judge inputs;deterministic 前置(references / entities)"""
     print(f"\n=== prepare pid_change for {len(pids)} pids ===")
     print(f"pids: {pids}\n")
 
-    # 0. 校验 pid 存在
+    # 校验 pid 存在
     for pid in pids:
         if find_policy_file_by_pid(pid) is None:
             print(f"[fatal] pid 不在 vault: {pid}")
             sys.exit(1)
 
+    # Step 0:前置 audit(LLM Wiki §1 数据合规闸)
+    _run_preflight_audit(pids)
+
     # 1. deterministic 前置(references regex + entities)
-    print("--- step 1/3: deterministic 前置 ---")
+    print("\n--- step 1/4: deterministic 前置 ---")
     run_script("extract_relations_regex.py", ["--references-only"], "references 重抽")
     run_script("extract_entities.py", [], "entities 重抽")
 
     # 2. stage 5C inputs
-    print("\n--- step 2/3: stage 5C LLM inputs ---")
+    print("\n--- step 2/4: stage 5C LLM inputs ---")
     state_5c = ensure_state_dir("5c")
     rows_5c = []
     for pid in pids:
@@ -165,7 +234,7 @@ def prepare_pid_change(pids: list[str]):
     print(f"  ✓ {state_5c}/prompt.md")
 
     # 3. stage rel_judge inputs
-    print("\n--- step 3/3: stage rel_judge LLM inputs ---")
+    print("\n--- step 3/4: stage rel_judge LLM inputs ---")
     state_rel = ensure_state_dir("rel_judge")
     vault_idx = []
     for p in (VAULT / "0_raw/policies").glob("*.md"):
@@ -491,21 +560,99 @@ def prepare_reverse_cites(target_pids: list[str]):
 # Apply: 5C / rel / stance / opinions-summary / rev_cites
 # ============================================================
 
+def _validate_5c_results(results_path: Path) -> list[str]:
+    """检查 5C results.jsonl 每行 schema 完整性。返回阻断错误列表(empty=clean)。
+
+    必填字段:
+      - pid (str)
+      - summary (str, ≥10 字)
+      - scores (6 维 D1-D6,值 0-5)
+      - 影响分析 (4 段:加油 / 充电 / 电力_储能_V2G_交易 / 乡村)
+    选填(不阻断,只 warn):
+      - summary_one_liner / reading_value / national_source / 行动建议 / didi_impact_one_liner
+    """
+    errors: list[str] = []
+    seen_pids: set[str] = set()
+    for i, line in enumerate(results_path.read_text(encoding="utf-8").splitlines(), 1):
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            r = json.loads(line)
+        except json.JSONDecodeError as e:
+            errors.append(f"line {i}: JSON decode 失败 ({e})")
+            continue
+        pid = r.get("pid")
+        if not isinstance(pid, str) or not pid.startswith("P_"):
+            errors.append(f"line {i}: pid 缺/非法 ({pid!r})")
+            continue
+        if pid in seen_pids:
+            errors.append(f"line {i}: pid 重复 ({pid})")
+        seen_pids.add(pid)
+
+        summary = r.get("summary") or ""
+        if len(summary) < 10:
+            errors.append(f"line {i} ({pid}): summary 缺/过短(<10 字)")
+
+        scores = r.get("scores")
+        if not isinstance(scores, dict):
+            errors.append(f"line {i} ({pid}): scores 缺/非 dict")
+        else:
+            for d in ("D1", "D2", "D3", "D4", "D5", "D6"):
+                v = scores.get(d)
+                if not isinstance(v, (int, float)) or not (0 <= v <= 5):
+                    errors.append(f"line {i} ({pid}): scores.{d}={v!r} 缺/越界(0-5)")
+
+        impact = r.get("影响分析")
+        if not isinstance(impact, dict):
+            errors.append(f"line {i} ({pid}): 影响分析 缺/非 dict")
+        else:
+            for seg in ("加油", "充电", "电力_储能_V2G_交易", "乡村"):
+                if not isinstance(impact.get(seg), str) or not impact.get(seg).strip():
+                    errors.append(f"line {i} ({pid}): 影响分析.{seg} 缺")
+    return errors
+
+
 def apply_5c():
-    """读 _l2_rebuild_state/5c/results/results.jsonl → 复制到 /tmp + 跑 oneshot_apply_5c"""
+    """读 _l2_rebuild_state/5c/results/results.jsonl → schema 强校验 → /tmp + oneshot_apply_5c"""
     state = STATE_ROOT / "5c"
     results = state / "results" / "results.jsonl"
     if not results.exists():
         print(f"[fatal] 缺 {results}")
         sys.exit(1)
+
+    # B.1 schema 强校验:任一 critical 字段缺失即阻断
+    errors = _validate_5c_results(results)
+    if errors:
+        print(f"\n[fatal] 5C results schema 校验失败,{len(errors)} 项阻断:")
+        for e in errors[:15]:
+            print(f"  - {e}")
+        if len(errors) > 15:
+            print(f"  ... 其余 {len(errors) - 15} 条略")
+        print("\n请改 5C subagent prompt / 让 subagent 重跑生成完整 schema 后,重跑 apply。")
+        sys.exit(2)
+    print(f"  ✓ 5C results schema 校验:{sum(1 for _ in results.read_text(encoding='utf-8').splitlines() if _.strip())} 行全合规")
+
     tmp = Path(f"/tmp/5c_results_rebuild_{NOW_TS}.jsonl")
     shutil.copy2(results, tmp)
     run_script("oneshot_apply_5c_subagent_results.py",
                ["--input-glob", str(tmp), "--no-skip-march"], "5C 应用")
 
 
+def _load_vault_pid_set() -> set[str]:
+    """读 0_raw/policies/ 全 fm.id 集合(用于 dangling to/from 检测)。"""
+    pids: set[str] = set()
+    for p in (VAULT / "0_raw/policies").glob("*.md"):
+        if any(part.startswith("_") for part in p.relative_to(VAULT).parts[2:]):
+            continue
+        fm, _, _ = parse_fm(p)
+        if fm and isinstance(fm.get("id"), str):
+            pids.add(fm["id"])
+    return pids
+
+
 def apply_rel():
-    """读 rel_judge results → write to relations/<rel>.jsonl(防重)"""
+    """读 rel_judge results → dangling 校验 → write to relations/<rel>.jsonl(防重)"""
     state = STATE_ROOT / "rel_judge"
     results = state / "results" / "results.jsonl"
     if not results.exists():
@@ -513,10 +660,37 @@ def apply_rel():
         sys.exit(1)
 
     rows = [json.loads(l) for l in results.read_text(encoding="utf-8").splitlines() if l.strip()]
-    print(f"\n应用 {len(rows)} rel 边")
+    print(f"\n应用 {len(rows)} rel 边(校验前)")
 
-    by_rel = {}
+    # B.2 dangling from/to 检测:不存在的 pid 一律 skip(LLM 偶发幻觉,容忍但记录)
+    vault_pids = _load_vault_pid_set()
+    valid_rows = []
+    dangling_from = 0
+    dangling_to = 0
+    bad_self = 0
     for r in rows:
+        f, t, rel = r.get("from"), r.get("to"), r.get("rel")
+        if not (isinstance(f, str) and isinstance(t, str) and isinstance(rel, str)):
+            continue
+        if f not in vault_pids:
+            dangling_from += 1
+            print(f"  [skip dangling-from] {f} -> {t} ({rel})")
+            continue
+        if t not in vault_pids:
+            dangling_to += 1
+            print(f"  [skip dangling-to] {f} -> {t} ({rel})")
+            continue
+        if f == t:
+            bad_self += 1
+            print(f"  [skip self-loop] {f} -> {t} ({rel})")
+            continue
+        valid_rows.append(r)
+    if dangling_from or dangling_to or bad_self:
+        print(f"  ⚠ skipped: dangling_from={dangling_from} dangling_to={dangling_to} self_loop={bad_self}")
+    print(f"  ✓ {len(valid_rows)} 边通过 dangling 校验,继续写入")
+
+    by_rel: dict[str, list[dict]] = {}
+    for r in valid_rows:
         by_rel.setdefault(r["rel"], []).append(r)
 
     REL_DIR = VAULT / "1_extracted/relations"
@@ -643,6 +817,9 @@ def apply_rev_cites():
     rows = [json.loads(l) for l in results.read_text(encoding="utf-8").splitlines() if l.strip()]
     print(f"\n应用 reverse_cites 候选边 {len(rows)} 行")
 
+    # B.3 dangling from/to 校验(LLM 偶发幻觉,容忍但记录)
+    vault_pids = _load_vault_pid_set()
+
     target = VAULT / "1_extracted/relations/cites_basis.jsonl"
     existing: list[dict] = []
     if target.exists():
@@ -654,27 +831,36 @@ def apply_rev_cites():
                     pass
     existing_keys = {(r.get("from"), r.get("to")) for r in existing}
 
-    added, skipped_dup, skipped_bad = 0, 0, 0
+    added, skipped_dup, skipped_bad, skipped_dangling = 0, 0, 0, 0
     for nr in rows:
         if nr.get("rel") != "cites_basis":
             print(f"  [skip] rel != cites_basis: {nr.get('from')} -> {nr.get('to')} rel={nr.get('rel')}")
             skipped_bad += 1
             continue
-        if not (nr.get("from") and nr.get("to")):
+        f, t = nr.get("from"), nr.get("to")
+        if not (f and t):
             skipped_bad += 1
             continue
-        if (nr["from"], nr["to"]) in existing_keys:
+        if f not in vault_pids or t not in vault_pids:
+            print(f"  [skip dangling] {f} -> {t}(not in vault pid set)")
+            skipped_dangling += 1
+            continue
+        if f == t:
+            skipped_bad += 1
+            continue
+        if (f, t) in existing_keys:
             skipped_dup += 1
             continue
         existing.append(nr)
-        existing_keys.add((nr["from"], nr["to"]))
+        existing_keys.add((f, t))
         added += 1
 
     target.write_text(
         "\n".join(json.dumps(r, ensure_ascii=False) for r in existing) + "\n",
         encoding="utf-8",
     )
-    print(f"  cites_basis.jsonl: +{added}(now {len(existing)});dup={skipped_dup} bad={skipped_bad}")
+    print(f"  cites_basis.jsonl: +{added}(now {len(existing)});"
+          f"dup={skipped_dup} bad={skipped_bad} dangling={skipped_dangling}")
 
 
 def apply_opinions_summary():

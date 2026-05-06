@@ -21,8 +21,10 @@ description: 在「政策分析」vault(0_raw/policies + 0_raw/commentaries 路�
 | 关系层手动加边(supersedes 等) | **C. 仅跑 deterministic post-llm** | "20 号令 supersedes 15 号令"、"加 cites_basis" |
 | L1 dedup / 文件名改(pid 不变) | **C. 仅跑 deterministic post-llm** | "dedup"、"文件名规范化" |
 | 全量校验或 deterministic 全跑 | **D. deterministic --scope all** | "全部重跑一遍"、"audit"、"vault 体检" |
+| 上位政策反向 inbound 边补全 | **E. reverse_cites** | "P_xxx inbound 偏低"、"反向 cites_basis"、"上位政策反向边" |
 
 **关键判定**:看用户是否动了 `0_raw/`。raw 没动只是 deterministic 重跑的(C/D)不需要 LLM subagent。
+**reverse_cites 与 trigger A 不同**:不动 raw,只对已有 vault 政策派 LLM judge 找未抽到的反向 cites_basis 边(基于关系层覆盖率 metric 诊断的缺口)。
 
 ---
 
@@ -44,7 +46,7 @@ LLM 任务的 staging 状态目录: **`_l2_rebuild_state/`**(在 cwd 下,本地 
 
 ## 2. Trigger A: pid_change(新政策 / body 重抓)
 
-完整 5 步:
+完整 5 步,**前置 audit 闸**(2026-05-06 加入)在 prepare 内自动跑:
 
 ### A.1 准备阶段(`prepare`)
 
@@ -53,11 +55,15 @@ cd "/Users/shaoziyuan/Documents/Zayn Main/政策分析"
 python3 _meta/scripts/rebuild_l2.py prepare --trigger pid_change --pids P_xxx,P_yyy,P_zzz
 ```
 
-脚本自动:
-- 跑 `extract_relations_regex.py --references-only`(references 重抽)
-- 跑 `extract_entities.py`(W3 新政策实体入 registry)
-- stage `_l2_rebuild_state/5c/inputs.jsonl` + `prompt.md`(5C 派生 LLM 任务)
-- stage `_l2_rebuild_state/rel_judge/{inputs.jsonl, vault_index.jsonl, prompt.md}`(关系 LLM judge 任务)
+脚本自动 4 步(失败任一步即阻断):
+- **step 0 前置 audit**(LLM Wiki §1 数据合规闸,2026-05-06 加入):
+  - `validate_l1.py --pid X,Y` — fm 必填 / enum / ISO ts
+  - `oneshot_l1_body_audit.py --pid X,Y` — PDF binary / HTML residue / title-body recall
+  - `oneshot_l12_residue_audit.py --pid X,Y` — fm 违规 LLM 派生字段 / body 派生 section
+  - 任一 error/suspicious/violation → **阻断**;按建议修 raw 后重跑(强制跳过设 `SKIP_PREFLIGHT_AUDIT=1`)
+- step 1 deterministic 前置:`extract_relations_regex.py --references-only` + `extract_entities.py`
+- step 2 stage `_l2_rebuild_state/5c/{inputs.jsonl, prompt.md}`(5C 派生 LLM 任务)
+- step 3 stage `_l2_rebuild_state/rel_judge/{inputs.jsonl, vault_index.jsonl, prompt.md}`(关系 LLM judge)
 
 ### A.2 派 2 个 subagent(opus 4.7,可并行后台)
 
@@ -80,6 +86,14 @@ python3 _meta/scripts/rebuild_l2.py apply --stage rel
 - `1_extracted/relations/derives_from.jsonl`(replace by from)
 
 `apply --stage rel` 把 5 类关系增量写到 `1_extracted/relations/{cites_basis,iterates,extends,clarifies,aligns_with}.jsonl`(防重 by `(from, to)`)。
+
+**B 阶段强校验**(2026-05-06 加入):
+- `apply --stage 5c` 在跑 oneshot_apply 前先校验 results.jsonl schema —
+  pid / summary(≥10 字)/ scores 6 维(D1-D6 ∈ [0,5])/ 影响分析 4 段(加油 / 充电 /
+  电力_储能_V2G_交易 / 乡村)— 任一缺即阻断,要求 LLM 重跑生成完整 schema
+- `apply --stage rel` 用 `_load_vault_pid_set()` 校验 from/to 必须真存在 vault —
+  dangling pid(LLM 偶发幻觉一个不存在的 pid)直接 skip + 警告,不写入 jsonl
+- `apply --stage rev_cites` 同样跑 dangling 校验
 
 ### A.4 跑 post-LLM deterministic
 
@@ -168,6 +182,41 @@ python3 _meta/scripts/rebuild_l2.py deterministic --scope all
 
 ---
 
+## 4b. Trigger E: reverse_cites(2026-05-06 加入,T4 反向上位 inbound 补全)
+
+诊断:跑 `relations_coverage_metric.py` 看上位政策 inbound 是否偏低/为 0。如果是,这 trigger 用 LLM judge 找 vault 内未抽到的反向 cites_basis 边。
+
+完整 3 步:
+
+### E.1 准备(`prepare`)
+
+```bash
+python3 _meta/scripts/rebuild_l2.py prepare --trigger reverse_cites \
+  --target-pids P_2024_GO_L775,P_2018_NDRC_364,P_2024_NDRC_20
+```
+
+脚本自动:
+- 加载 vault 全 271 政策 body
+- 对每 target,**预过滤候选**(2 轨):
+  - hard hit: target official_number 核心 token(`〔YYYY〕XX号` / `第N号`)精确出现在 candidate body
+  - soft hit: candidate body 前 3000 字含 ≥3 个 target.title jieba 关键词,且至少 1 个 ≥ 4 字核心词
+- stage `_l2_rebuild_state/reverse_cites/{targets.jsonl, vault_index.jsonl, prompt.md}`
+
+### E.2 派 1 subagent(opus 4.7)
+
+读 `_l2_rebuild_state/reverse_cites/prompt.md`(完整指令含 cites_basis 严格定义、output schema、约束),subagent 输出写到 `_l2_rebuild_state/reverse_cites/results/results.jsonl`。
+
+### E.3 应用(`apply --stage rev_cites`)
+
+```bash
+python3 _meta/scripts/rebuild_l2.py apply --stage rev_cites
+python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
+```
+
+强制 `rel == cites_basis`,过滤 dangling pid + self-loop + 防重 by (from, to),写入 `1_extracted/relations/cites_basis.jsonl`,然后刷反链页 / 主题 / regions / global_index。
+
+---
+
 ## 5. LLM Wiki 5 原则速查(每次操作前自查)
 
 | # | 原则 | 操作时检查 |
@@ -234,6 +283,11 @@ python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 | stance source domain 缺失 | LLM 输出 `source: "?"`,共识门槛 ≥3 distinct domain 命中率低 | 在 stance prompt 强制提取 source domain(已加进 prompt.md) |
 | stance batches 与 commentary 集合不对齐 | filter 时大量 drop_unknown(comment_filename 找不到对应 vault 文件) | 重抓而不是 filter;或确认 stance batches 与当前 commentary 同源 |
 | 14 PDF 重抓时 P_2024_TJ_01010970 title-body 错配 | URL 指向其他文件,内容与 title 不符 | 重抓后 LLM 应 flag,人工 audit |
+| 入库政策 fm 缺必填字段 | source_type / region.level / provenance.url 缺,L3 渲染崩 | trigger A step 0 前置 audit `validate_l1.py --pid` 已自动跑(2026-05-06)阻断 |
+| 入库政策 body 是 PDF 二进制 / HTML 残留 | body_audit 抓不到关键词,5C 摘要乱码 | trigger A step 0 前置 `oneshot_l1_body_audit.py --pid` 已自动跑(2026-05-06) |
+| reclassify 评论 fm 残留 LLM 派生字段 | 14 篇 commentary 带 `_migrated_from + scores + 重要性`,违 LLM Wiki §1 | `oneshot_l12_residue_audit.py` 全量 audit 可发现;trigger A 前置覆盖政策侧 |
+| LLM 幻觉一个不存在的 pid 写进 jsonl | 反链页指向不存在的 pid,graph 出现 dangling 边 | apply_rel / apply_rev_cites 已加 `_load_vault_pid_set()` dangling 校验(2026-05-06) skip + 警告 |
+| 5C subagent 输出 scores 不全或 D1-D6 越界 | apply 进派生层后 yaml 字段污染 / L3 渲染逻辑错 | apply_5c 已加 schema 强校验(2026-05-06)— pid/summary/scores 6 维/影响分析 4 段缺即阻断 |
 
 ---
 
@@ -274,6 +328,19 @@ python3 _meta/scripts/rebuild_l2.py deterministic --scope all
 python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 python3 _meta/scripts/rebuild_l2.py deterministic --scope themes
 
+# trigger E (反向 cites_basis,T4 模式)
+python3 _meta/scripts/rebuild_l2.py prepare --trigger reverse_cites \
+  --target-pids P_2024_GO_L775,P_2018_NDRC_364,P_2024_NDRC_20
+# (派 1 subagent: reverse_cites)
+python3 _meta/scripts/rebuild_l2.py apply --stage rev_cites
+python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
+
+# 独立审计工具(可单跑或被 trigger A step 0 自动调用)
+python3 _meta/scripts/validate_l1.py [--pid X,Y] [--strict] [--json]
+python3 _meta/scripts/oneshot_l1_body_audit.py [--pid X,Y] [--json]
+python3 _meta/scripts/oneshot_l12_residue_audit.py [--pid X,Y] [--json]
+python3 _meta/scripts/relations_coverage_metric.py [--json] [--isolated-list]
+
 # 单主题(本 skill 一般不用,registry --all 更省事)
 python3 _meta/scripts/crystallize_theme.py --theme power_market --aliases "电力市场,电力交易" --theme_zh "电力市场"
 
@@ -291,17 +358,29 @@ ls -la _l2_rebuild_state/ 2>/dev/null  # 看是否有未完成的 staging
 用户提到此 vault 改动
     │
     ├─ 改了 0_raw/policies/?  ─── YES ──→ trigger A (pid_change)
+    │   (prepare 自动跑 step 0 前置 audit:validate_l1 / body_audit / residue_audit
+    │   任一 error 阻断;通过后才进 5C / rel_judge / post-llm)
     │
     ├─ 改了 0_raw/commentaries/ frontmatter? ─── YES ──→ trigger B (commentary_change)
     │
     ├─ 手动加 supersedes / 关系边 / dedup? ─── YES ──→ trigger C (deterministic post-llm)
+    │
+    ├─ 关系层覆盖率 metric 显示某上位 pid inbound 偏低/=0? ──→ trigger E (reverse_cites)
+    │   (跑 relations_coverage_metric.py 看上位政策 inbound section,
+    │   选 inbound ≤ 3 的几个作 target-pids)
     │
     ├─ 提到 stale (opinions / themes / 反链 / 主题)? ──→ 看哪一层 stale
     │   ├─ opinions / opinions-summary stale ──→ trigger B
     │   ├─ themes timeline / regional 所有都旧 ──→ trigger D 全跑
     │   └─ 仅反链页 stale ──→ build_reverse_links.py 单跑
     │
-    ├─ 想全量校验? ──→ trigger D (deterministic --scope all)
+    ├─ 想全量校验 vault 数据合规? ──→ 跑 4 个 audit 工具(无需 trigger):
+    │   ├─ validate_l1.py(fm 必填 / enum)
+    │   ├─ oneshot_l1_body_audit.py(body 质量)
+    │   ├─ oneshot_l12_residue_audit.py(LLM 派生字段残留)
+    │   └─ relations_coverage_metric.py(关系层覆盖率 + derives_from to=null)
+    │
+    ├─ 想全量重跑 deterministic? ──→ trigger D (deterministic --scope all)
     │
     └─ 不确定? → 默认 trigger D 跑 deterministic --scope all 兜底
                   (deterministic 是幂等的,跑多次无害)

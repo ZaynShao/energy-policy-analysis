@@ -210,26 +210,33 @@ def check_body_derived_sections(
 # ─── 扫描入口 ─────────────────────────────────────────────────────────────────
 
 
-def scan(*, do_policies: bool, do_commentaries: bool) -> Report:
+def scan(
+    *, do_policies: bool, do_commentaries: bool,
+    target_pids: set[str] | None = None,
+) -> Report:
+    """target_pids 非 None 时,仅 audit fm.id 命中的政策(评论侧无 id 概念,过滤忽略)。"""
     rep = Report()
     spec = []
     if do_policies:
         spec.append((POLICIES_DIR, "policy"))
-    if do_commentaries:
+    if do_commentaries and target_pids is None:
         spec.append((COMMENTARIES_DIR, "commentary"))
 
     for root, kind in spec:
         for p in iter_md_files(root):
-            if kind == "policy":
-                rep.scanned_policies += 1
-            else:
-                rep.scanned_commentaries += 1
             try:
                 text = p.read_text(encoding="utf-8")
             except OSError:
                 continue
             rel = str(p.relative_to(VAULT))
             fm, body = split_frontmatter_body(text)
+            if target_pids is not None:
+                if not fm or fm.get("id") not in target_pids:
+                    continue
+            if kind == "policy":
+                rep.scanned_policies += 1
+            else:
+                rep.scanned_commentaries += 1
             if fm is not None:
                 check_frontmatter(rel, kind, fm, rep)
             check_body_brand(rel, kind, body, rep)
@@ -295,6 +302,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--quiet", action="store_true", help="只打 violation")
     ap.add_argument("--policies-only", action="store_true")
     ap.add_argument("--commentaries-only", action="store_true")
+    ap.add_argument("--pid", help="只扫指定 pid(逗号分隔);仅对政策侧生效")
     ap.add_argument("--json", dest="as_json", action="store_true")
     args = ap.parse_args(argv)
 
@@ -305,7 +313,15 @@ def main(argv: list[str] | None = None) -> int:
     do_policies = not args.commentaries_only
     do_commentaries = not args.policies_only
 
-    rep = scan(do_policies=do_policies, do_commentaries=do_commentaries)
+    target_pids: set[str] | None = None
+    if args.pid:
+        target_pids = {p.strip() for p in args.pid.split(",") if p.strip()}
+
+    rep = scan(
+        do_policies=do_policies,
+        do_commentaries=do_commentaries,
+        target_pids=target_pids,
+    )
 
     if args.as_json:
         print_json_report(rep)
