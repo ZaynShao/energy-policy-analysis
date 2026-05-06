@@ -623,6 +623,25 @@
       "filename": "【上海市用户侧虚拟电厂建设实施方案(2025-2027年)(沪经信运〔2025〕407号)】-上海市经济和信息化委员会-5d8d.md"
     },
     {
+      "id": "P_2025_NDRC_910",
+      "title": "关于开展零碳园区建设的通知",
+      "date": "2025-06-30",
+      "official": "发改环资〔2025〕910号",
+      "issuer": [
+        "国家发展改革委",
+        "工业和信息化部",
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【关于开展零碳园区建设的通知(发改环资〔2025〕910号)】-国家发展改革委-2458.md"
+    },
+    {
       "id": "P_2025_NDRC_632_c",
       "title": "国家发展改革委办公厅等关于促进大功率充电设施科学规划建设的通知",
       "date": "2025-07-07",
@@ -810,7 +829,7 @@
       "filename": "【云南省电动汽车充电设施服务能力倍增行动方案】-云南省交通运输厅、云南省发展改革委-8a41.md"
     }
   ],
-  "policies_count": 47,
+  "policies_count": 48,
   "relations": [
     {
       "from": "P_2025_NDRC_1656_a",
@@ -886,7 +905,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -897,7 +916,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -908,7 +927,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_SH_407",
@@ -919,7 +938,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -930,7 +949,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_BJ_4",
@@ -941,7 +960,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -952,7 +971,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NDRC_632_c",
@@ -963,7 +982,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2026_NEA_16",
@@ -974,7 +993,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -985,7 +1004,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
+    },
+    {
+      "from": "P_2025_NEA_08060ff3",
+      "to": "P_2025_NDRC_910",
+      "rel": "references",
+      "evidence": "展改革委会同有关方面编制印发《关于开展零碳园区建设的通知》（发改环资〔2025〕910号），提出支持有条件的",
+      "doc_num_matched": "发改环资〔2025〕910号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -996,7 +1026,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -1007,7 +1037,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1018,7 +1048,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1029,7 +1059,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_1023dd1b",
@@ -1040,7 +1070,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_HN_830",
@@ -1051,7 +1081,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -1062,7 +1092,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -1073,7 +1103,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
+    },
+    {
+      "from": "P_2025_OTHER98DD_09231fde",
+      "to": "P_2025_NDRC_910",
+      "rel": "references",
+      "evidence": "日，国家发改委 工业部等印发《关于开展零碳园区建设的通知》（发改环资〔2025〕910号）** 加快经济社",
+      "doc_num_matched": "发改环资〔2025〕910号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1084,7 +1125,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1095,7 +1136,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1106,7 +1147,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1117,7 +1158,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1128,7 +1169,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1139,7 +1180,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1150,7 +1191,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1161,7 +1202,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1601,9 +1642,81 @@
         "同发文机构 NDRC+NEA"
       ],
       "reason": "1192号(就近消纳价格机制)对就近消纳项目要求'平等市场地位、参与电力市场、按市场规则结算'，与20号令《电力市场运行基本规则》设定的统一市场框架在制度层完全对接，属同向部署aligns_with。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "aligns_with",
+      "evidence": "鼓励有条件的园区以虚拟电厂（负荷聚合商）等形式参与电力市场，提高资源配置效率和电力系统稳定性。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "主题相似",
+        "同一发文部门NDRC",
+        "时间相邻"
+      ],
+      "reason": "同为发改委2025年文件，本通知园区参与电力市场鼓励虚拟电厂模式，与同年虚拟电厂指导意见主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_SC_12_a",
+      "rel": "aligns_with",
+      "evidence": "大力推进园区节能降碳。推动园区建立用能和碳排放管理制度，深入推进企业能效碳效诊断评估，加强重点用能设备节能监察和日常监管，淘汰落后产能、落后工艺、落后产品设备。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "节能降碳主题",
+        "能效诊断",
+        "落后产能淘汰"
+      ],
+      "reason": "节能降碳行动方案为国务院2024-2025同期节能降碳总方案；本通知园区节能降碳重点任务与之主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_SC_7",
+      "rel": "aligns_with",
+      "evidence": "支持企业对标标杆水平和先进水平，实施节能降碳改造和用能设备更新，鼓励企业建设极致能效工厂、零碳工厂。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "设备更新主题",
+        "国务院上位"
+      ],
+      "reason": "国发7号设备更新行动方案为国务院总体部署；本通知园区用能设备更新与之主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_GO_39",
+      "rel": "aligns_with",
+      "evidence": "支持园区建设覆盖主要用能企业的能碳管理平台……为碳排放核算、源网匹配调节、电力需求侧管理、多能协同互补、资源高效循环利用等工作提供支撑。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "碳排放核算",
+        "能碳管理"
+      ],
+      "reason": "国办发39号双控制度体系为碳排放核算管理顶层制度；本通知园区能碳管理平台与之主题对齐。"
+    },
+    {
+      "from": "P_2026_MIIT_44",
+      "to": "P_2024_SC_12_a",
+      "rel": "aligns_with",
+      "evidence": "以推动重点行业领域节能降碳为目标，以用能系统优化提升为主攻方向，以先进技术装备研发和应用为主要抓手……为更高水平更高质量做好节能降碳工作。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "节能降碳主题",
+        "国务院上位"
+      ],
+      "reason": "国发12号节能降碳行动方案为国务院总体部署；本方案以重点行业领域节能降碳为目标，主题完全对齐。"
     }
   ],
-  "relations_count": 74,
+  "relations_count": 81,
   "diff_files": [
     "P_2025_NDRC_1656_a__from__P_2020_NDRC_889.md",
     "P_2025_NDRC_1656_a__from__P_2024_NDRC_1123_a.md",
@@ -1635,7 +1748,7 @@
   ],
   "region_distribution": {
     "国家": {
-      "全国": 25
+      "全国": 26
     },
     "市": {
       "慈溪市": 1,
@@ -1662,7 +1775,7 @@
   },
   "top_issuers": {
     "国家发展改革委、国家能源局": 6,
-    "国家能源局": 5,
+    "国家能源局": 6,
     "国家发展和改革委员会、国家能源局": 5,
     "国家发展改革委等六部门": 2,
     "国家发展和改革委员会": 2,

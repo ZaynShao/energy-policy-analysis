@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-05-06T11:31:20+08:00
-policy_count: 271
+last_updated: 2026-05-06T11:39:29+08:00
+policy_count: 273
 commentary_count: 283
 entity_count: 95
-edge_count: 365
-opinion_coverage_pct: 29.2
+edge_count: 378
+opinion_coverage_pct: 28.9
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-05-06T11:31:20+08:00
+**最后更新**: 2026-05-06T11:39:29+08:00
 
 ---
 
@@ -18,12 +18,12 @@ opinion_coverage_pct: 29.2
 
 | 类型 | 数量 |
 |---|:-:|
-| 政策原文 (policies/) | **271** |
+| 政策原文 (policies/) | **273** |
 | 评论 (commentaries/) | **283** |
 | 规范化实体 (entities/registry) | **95** |
-| 关系网总边数 | **365** |
-| 反链页 (_index_by_policy) | **205** |
-| 政策舆论矩阵 (opinions) | **79** (29.2% 覆盖率) |
+| 关系网总边数 | **378** |
+| 反链页 (_index_by_policy) | **208** |
+| 政策舆论矩阵 (opinions) | **79** (28.9% 覆盖率) |
 | 演进差异页 (diffs) | **22** |
 
 ---
@@ -36,12 +36,12 @@ opinion_coverage_pct: 29.2
 | iterates | 24 | 版本升级 |
 | extends | 9 | 范围扩展 |
 | clarifies | 73 | 实施细化 |
-| references | 140 | 文号/标题引用 |
-| aligns_with | 41 | 同向对齐 |
+| references | 142 | 文号/标题引用 |
+| aligns_with | 50 | 同向对齐 |
 | conflicts_with | 0 | 口径冲突 |
-| cites_basis | 71 | 制定依据 |
+| cites_basis | 73 | 制定依据 |
 
-**关系网密度**:365 / 271×(271-1) = 4.99 ‰
+**关系网密度**:378 / 273×(273-1) = 5.09 ‰
 
 ---
 
@@ -61,14 +61,14 @@ opinion_coverage_pct: 29.2
 
 | level | 数量 |
 |---|:-:|
-| 国家 | 121 |
+| 国家 | 123 |
 | 省 | 106 |
 | 市 | 25 |
 | 区 | 19 |
 
 ### Top 10 region.name(按政策数)
 
-- 全国: 121 篇
+- 全国: 123 篇
 - 上海市: 25 篇
 - 重庆市: 21 篇
 - 北京市: 20 篇
@@ -151,7 +151,7 @@ opinion_coverage_pct: 29.2
 
 ## 10. 数据健康指标
 
-- **opinion 覆盖率**: 29.2% (79/271) ⚠️
-- **issuer_canonical 覆盖**: 245/271
+- **opinion 覆盖率**: 28.9% (79/273) ⚠️
+- **issuer_canonical 覆盖**: 245/273
 - **5 星政策(高重要性)**: 40
-- **冲突边密度**: 0/365 ⚠️ 0 条
+- **冲突边密度**: 0/378 ⚠️ 0 条

@@ -860,6 +860,25 @@
       "filename": "【上海市2025年碳达峰碳中和及节能减排重点工作安排(沪发改环资〔2025〕61号)】-上海市发展和改革委员会-3000.md"
     },
     {
+      "id": "P_2025_NDRC_910",
+      "title": "关于开展零碳园区建设的通知",
+      "date": "2025-06-30",
+      "official": "发改环资〔2025〕910号",
+      "issuer": [
+        "国家发展改革委",
+        "工业和信息化部",
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【关于开展零碳园区建设的通知(发改环资〔2025〕910号)】-国家发展改革委-2458.md"
+    },
+    {
       "id": "P_2025_SH_16",
       "title": "上海碳市场全面深化改革行动方案2026-2030",
       "date": "2025-07-16",
@@ -1217,7 +1236,7 @@
       "filename": "【长宁区节能降碳和循环经济发展十五五规划(草案)】-上海市长宁区发展和改革委员会-3e29.md"
     }
   ],
-  "policies_count": 71,
+  "policies_count": 72,
   "relations": [
     {
       "from": "P_2025_NDRC_1656_a",
@@ -1280,7 +1299,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_36",
@@ -1291,7 +1310,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_36",
@@ -1302,7 +1321,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1313,7 +1332,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1324,7 +1343,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -1335,7 +1354,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -1346,7 +1365,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_BJ_4",
@@ -1357,7 +1376,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_BJ_4",
@@ -1368,7 +1387,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_BJ_4",
@@ -1379,7 +1398,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -1390,7 +1409,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_SD_0101d17a",
@@ -1401,7 +1420,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_107",
@@ -1412,7 +1431,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -1423,7 +1442,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -1434,7 +1453,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -1445,7 +1464,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1456,7 +1475,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
+    },
+    {
+      "from": "P_2025_NEA_08060ff3",
+      "to": "P_2025_NDRC_910",
+      "rel": "references",
+      "evidence": "展改革委会同有关方面编制印发《关于开展零碳园区建设的通知》（发改环资〔2025〕910号），提出支持有条件的",
+      "doc_num_matched": "发改环资〔2025〕910号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1467,7 +1497,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1478,7 +1508,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1489,7 +1519,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1500,7 +1530,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1511,7 +1541,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_HN_830",
@@ -1522,7 +1552,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -1533,7 +1563,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -1544,7 +1574,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1555,7 +1585,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1566,7 +1596,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
+    },
+    {
+      "from": "P_2025_OTHER98DD_09231fde",
+      "to": "P_2025_NDRC_910",
+      "rel": "references",
+      "evidence": "日，国家发改委 工业部等印发《关于开展零碳园区建设的通知》（发改环资〔2025〕910号）** 加快经济社",
+      "doc_num_matched": "发改环资〔2025〕910号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -1577,7 +1618,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1588,7 +1629,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1599,7 +1640,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1610,7 +1651,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1621,7 +1662,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1632,7 +1673,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2110,9 +2151,110 @@
         "545号同月份(2023年5、7月)主导部门相同"
       ],
       "reason": "920号(农村电网巩固)在第(十一)条专门部署'服务新能源汽车下乡'，要求与充电基础设施规划衔接；545号(充电基础设施下乡)发布于2个月前，二者由同一主导部门(NDRC+NEA)相互配套部署乡村振兴电力基础设施，属同向aligns_with。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "aligns_with",
+      "evidence": "鼓励有条件的园区以虚拟电厂（负荷聚合商）等形式参与电力市场，提高资源配置效率和电力系统稳定性。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "主题相似",
+        "同一发文部门NDRC",
+        "时间相邻"
+      ],
+      "reason": "同为发改委2025年文件，本通知园区参与电力市场鼓励虚拟电厂模式，与同年虚拟电厂指导意见主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_SC_12_a",
+      "rel": "aligns_with",
+      "evidence": "大力推进园区节能降碳。推动园区建立用能和碳排放管理制度，深入推进企业能效碳效诊断评估，加强重点用能设备节能监察和日常监管，淘汰落后产能、落后工艺、落后产品设备。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "节能降碳主题",
+        "能效诊断",
+        "落后产能淘汰"
+      ],
+      "reason": "节能降碳行动方案为国务院2024-2025同期节能降碳总方案；本通知园区节能降碳重点任务与之主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_SC_7",
+      "rel": "aligns_with",
+      "evidence": "支持企业对标标杆水平和先进水平，实施节能降碳改造和用能设备更新，鼓励企业建设极致能效工厂、零碳工厂。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "设备更新主题",
+        "国务院上位"
+      ],
+      "reason": "国发7号设备更新行动方案为国务院总体部署；本通知园区用能设备更新与之主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_GO_39",
+      "rel": "aligns_with",
+      "evidence": "支持园区建设覆盖主要用能企业的能碳管理平台……为碳排放核算、源网匹配调节、电力需求侧管理、多能协同互补、资源高效循环利用等工作提供支撑。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "碳排放核算",
+        "能碳管理"
+      ],
+      "reason": "国办发39号双控制度体系为碳排放核算管理顶层制度；本通知园区能碳管理平台与之主题对齐。"
+    },
+    {
+      "from": "P_2026_MIIT_44",
+      "to": "P_2026_MIIT_13",
+      "rel": "aligns_with",
+      "evidence": "为更高水平更高质量做好节能降碳工作，加快推进新型工业化、实现碳达峰碳中和目标提供关键装备支撑……鼓励企业建设极致能效工厂、零碳工厂。",
+      "confidence": 0.78,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "同一发文部门MIIT",
+        "节能/工厂/装备主题相似",
+        "时间相邻一个月"
+      ],
+      "reason": "工信部联节2026年44号与13号同部门同年(差一个月)发布；零碳工厂建设与节能装备发展构成工业节能降碳一体两翼，主题对齐。"
+    },
+    {
+      "from": "P_2026_MIIT_44",
+      "to": "P_2024_SC_12_a",
+      "rel": "aligns_with",
+      "evidence": "以推动重点行业领域节能降碳为目标，以用能系统优化提升为主攻方向，以先进技术装备研发和应用为主要抓手……为更高水平更高质量做好节能降碳工作。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "节能降碳主题",
+        "国务院上位"
+      ],
+      "reason": "国发12号节能降碳行动方案为国务院总体部署；本方案以重点行业领域节能降碳为目标，主题完全对齐。"
+    },
+    {
+      "from": "P_2026_MIIT_44",
+      "to": "P_2022_MIIT_0802c974",
+      "rel": "aligns_with",
+      "evidence": "加快节能装备智能化、绿色化、融合化发展，为更高水平更高质量做好节能降碳工作，加快推进新型工业化、实现碳达峰碳中和目标提供关键装备支撑。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "同一发文部门MIIT",
+        "工业碳达峰主题"
+      ],
+      "reason": "工信部2022年工业领域碳达峰方案为工业碳达峰顶层规划；本方案为其装备子领域延续部署，主题对齐。"
     }
   ],
-  "relations_count": 82,
+  "relations_count": 91,
   "diff_files": [
     "P_2024_CQ_04038544__from__P_2024_CQ_0101a5e5.md",
     "P_2022_JL_11114fee__from__P_2020_GO_1020e9f0.md",
@@ -2157,7 +2299,7 @@
       "广西壮族自治区": 1
     },
     "国家": {
-      "全国": 35
+      "全国": 36
     },
     "市": {
       "慈溪市": 1,
@@ -2178,7 +2320,7 @@
     }
   },
   "top_issuers": {
-    "国家能源局": 7,
+    "国家能源局": 8,
     "上海市人民政府办公厅": 3,
     "国家发展和改革委员会、国家能源局": 3,
     "国家发展改革委等六部门": 2,

@@ -28,23 +28,6 @@
       "filename": "【碳排放权交易管理暂行条例(征求意见稿)】-生态环境部-d1f2.md"
     },
     {
-      "id": "P_2020_GO_39_b",
-      "title": "新能源汽车产业发展规划(2021—2035年)",
-      "date": "2020-10-20",
-      "official": "国办发〔2020〕39号",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
-    },
-    {
       "id": "P_2020_GO_1020e9f0",
       "title": "新能源汽车产业发展规划（2021—2035年）",
       "date": "2020-10-20",
@@ -60,6 +43,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
+    },
+    {
+      "id": "P_2020_GO_39_b",
+      "title": "新能源汽车产业发展规划(2021—2035年)",
+      "date": "2020-10-20",
+      "official": "国办发〔2020〕39号",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
     },
     {
       "id": "P_2020_MEE_1230dbd8",
@@ -96,23 +96,6 @@
       "filename": "【碳排放权交易管理办法(试行)(部令第19号)】-生态环境部-ed28.md"
     },
     {
-      "id": "P_2021_SC_0922fb2b",
-      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
-      "date": "2021-09-22",
-      "official": "",
-      "issuer": [
-        "中共中央、国务院"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
-    },
-    {
       "id": "P_2021_SC_092282d6",
       "title": "中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见(转载)",
       "date": "2021-09-22",
@@ -128,6 +111,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见(转载)】-中共中央、国务院(商务部转载)-f2a1.md"
+    },
+    {
+      "id": "P_2021_SC_0922fb2b",
+      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
+      "date": "2021-09-22",
+      "official": "",
+      "issuer": [
+        "中共中央、国务院"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
     },
     {
       "id": "P_2021_SC_23",
@@ -385,23 +385,6 @@
       "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
     },
     {
-      "id": "P_2024_BJ_0126a2e6",
-      "title": "2024年市政府工作报告重点任务清单",
-      "date": "2024-01-26",
-      "official": "",
-      "issuer": [
-        "北京市人民政府"
-      ],
-      "region": {
-        "level": "省",
-        "code": "110000",
-        "name": "北京市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【2024年市政府工作报告重点任务清单】-北京市人民政府-0079.md"
-    },
-    {
       "id": "P_2024_BJ_01265eb0",
       "title": "2024年北京市政府工作报告重点任务清单",
       "date": "2024-01-26",
@@ -417,6 +400,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
+    },
+    {
+      "id": "P_2024_BJ_0126a2e6",
+      "title": "2024年市政府工作报告重点任务清单",
+      "date": "2024-01-26",
+      "official": "",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【2024年市政府工作报告重点任务清单】-北京市人民政府-0079.md"
     },
     {
       "id": "P_2024_GO_L775",
@@ -810,23 +810,6 @@
       "filename": "【上海市2024年计划执行情况与2025年计划草案报告】-上海市发展和改革委员会-95e3.md"
     },
     {
-      "id": "P_2025_CQ_01267b4b",
-      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
-      "date": "2025-01-26",
-      "official": "",
-      "issuer": [
-        "重庆市财政局"
-      ],
-      "region": {
-        "level": "省",
-        "code": "500000",
-        "name": "重庆市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
-    },
-    {
       "id": "P_2025_CQ_0126e838",
       "title": "重庆市2024年预算执行情况和2025年预算草案的报告",
       "date": "2025-01-26",
@@ -842,6 +825,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【重庆市2024年预算执行情况和2025年预算草案的报告】-重庆市人民政府-c35f.md"
+    },
+    {
+      "id": "P_2025_CQ_01267b4b",
+      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
+      "date": "2025-01-26",
+      "official": "",
+      "issuer": [
+        "重庆市财政局"
+      ],
+      "region": {
+        "level": "省",
+        "code": "500000",
+        "name": "重庆市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
     },
     {
       "id": "P_2025_NDRC_262",
@@ -927,6 +927,25 @@
       "importance": 4,
       "tags": [],
       "filename": "【国家能源局关于组织开展新型电力系统建设第一批试点工作的通知(国能发电力〔2025〕53号)】-国家能源局-53a6.md"
+    },
+    {
+      "id": "P_2025_NDRC_910",
+      "title": "关于开展零碳园区建设的通知",
+      "date": "2025-06-30",
+      "official": "发改环资〔2025〕910号",
+      "issuer": [
+        "国家发展改革委",
+        "工业和信息化部",
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【关于开展零碳园区建设的通知(发改环资〔2025〕910号)】-国家发展改革委-2458.md"
     },
     {
       "id": "P_2025_SH_16",
@@ -1201,7 +1220,7 @@
       "filename": "【碳达峰碳中和综合评价考核办法】-中共中央办公厅 国务院办公厅-02c7.md"
     }
   ],
-  "policies_count": 70,
+  "policies_count": 71,
   "relations": [
     {
       "from": "P_2023_NDRC_092751f2_a",
@@ -1238,7 +1257,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_SH_407",
@@ -1249,7 +1268,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1260,7 +1279,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1271,7 +1290,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NEA_77",
@@ -1282,7 +1301,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -1293,7 +1312,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -1304,7 +1323,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -1315,7 +1334,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_SD_0101d17a",
@@ -1326,7 +1345,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_107",
@@ -1337,7 +1356,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -1348,7 +1367,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -1359,7 +1378,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2026_NEA_16",
@@ -1370,7 +1389,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -1381,7 +1400,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1392,7 +1411,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
+    },
+    {
+      "from": "P_2025_NEA_08060ff3",
+      "to": "P_2025_NDRC_910",
+      "rel": "references",
+      "evidence": "展改革委会同有关方面编制印发《关于开展零碳园区建设的通知》（发改环资〔2025〕910号），提出支持有条件的",
+      "doc_num_matched": "发改环资〔2025〕910号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -1403,7 +1433,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1414,7 +1444,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2020_GO_1020e9f0",
@@ -1425,7 +1455,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1436,7 +1466,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1447,7 +1477,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
+    },
+    {
+      "from": "P_2025_OTHER98DD_09231fde",
+      "to": "P_2025_NDRC_910",
+      "rel": "references",
+      "evidence": "日，国家发改委 工业部等印发《关于开展零碳园区建设的通知》（发改环资〔2025〕910号）** 加快经济社",
+      "doc_num_matched": "发改环资〔2025〕910号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -1458,7 +1499,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_NM_0101e295",
@@ -1469,7 +1510,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1480,7 +1521,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1491,7 +1532,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1502,7 +1543,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1513,7 +1554,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1524,7 +1565,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-04-30T12:57:36"
+      "extracted_at": "2026-05-06T11:34:46"
     },
     {
       "from": "P_2025_NEA_107",
@@ -1977,9 +2018,110 @@
       "extracted_by": "aligns_with_v3_subagent",
       "extracted_at": "2026-04-29T15:00:37+08:00",
       "reason": "同issuer同向"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "aligns_with",
+      "evidence": "鼓励有条件的园区以虚拟电厂（负荷聚合商）等形式参与电力市场，提高资源配置效率和电力系统稳定性。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "主题相似",
+        "同一发文部门NDRC",
+        "时间相邻"
+      ],
+      "reason": "同为发改委2025年文件，本通知园区参与电力市场鼓励虚拟电厂模式，与同年虚拟电厂指导意见主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_SC_12_a",
+      "rel": "aligns_with",
+      "evidence": "大力推进园区节能降碳。推动园区建立用能和碳排放管理制度，深入推进企业能效碳效诊断评估，加强重点用能设备节能监察和日常监管，淘汰落后产能、落后工艺、落后产品设备。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "节能降碳主题",
+        "能效诊断",
+        "落后产能淘汰"
+      ],
+      "reason": "节能降碳行动方案为国务院2024-2025同期节能降碳总方案；本通知园区节能降碳重点任务与之主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_SC_7",
+      "rel": "aligns_with",
+      "evidence": "支持企业对标标杆水平和先进水平，实施节能降碳改造和用能设备更新，鼓励企业建设极致能效工厂、零碳工厂。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "设备更新主题",
+        "国务院上位"
+      ],
+      "reason": "国发7号设备更新行动方案为国务院总体部署；本通知园区用能设备更新与之主题对齐。"
+    },
+    {
+      "from": "P_2025_NDRC_910",
+      "to": "P_2024_GO_39",
+      "rel": "aligns_with",
+      "evidence": "支持园区建设覆盖主要用能企业的能碳管理平台……为碳排放核算、源网匹配调节、电力需求侧管理、多能协同互补、资源高效循环利用等工作提供支撑。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "碳排放核算",
+        "能碳管理"
+      ],
+      "reason": "国办发39号双控制度体系为碳排放核算管理顶层制度；本通知园区能碳管理平台与之主题对齐。"
+    },
+    {
+      "from": "P_2026_MIIT_44",
+      "to": "P_2026_MIIT_13",
+      "rel": "aligns_with",
+      "evidence": "为更高水平更高质量做好节能降碳工作，加快推进新型工业化、实现碳达峰碳中和目标提供关键装备支撑……鼓励企业建设极致能效工厂、零碳工厂。",
+      "confidence": 0.78,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "同一发文部门MIIT",
+        "节能/工厂/装备主题相似",
+        "时间相邻一个月"
+      ],
+      "reason": "工信部联节2026年44号与13号同部门同年(差一个月)发布；零碳工厂建设与节能装备发展构成工业节能降碳一体两翼，主题对齐。"
+    },
+    {
+      "from": "P_2026_MIIT_44",
+      "to": "P_2024_SC_12_a",
+      "rel": "aligns_with",
+      "evidence": "以推动重点行业领域节能降碳为目标，以用能系统优化提升为主攻方向，以先进技术装备研发和应用为主要抓手……为更高水平更高质量做好节能降碳工作。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "节能降碳主题",
+        "国务院上位"
+      ],
+      "reason": "国发12号节能降碳行动方案为国务院总体部署；本方案以重点行业领域节能降碳为目标，主题完全对齐。"
+    },
+    {
+      "from": "P_2026_MIIT_44",
+      "to": "P_2022_MIIT_0802c974",
+      "rel": "aligns_with",
+      "evidence": "加快节能装备智能化、绿色化、融合化发展，为更高水平更高质量做好节能降碳工作，加快推进新型工业化、实现碳达峰碳中和目标提供关键装备支撑。",
+      "confidence": 0.72,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T11:34:45+08:00",
+      "signals": [
+        "同一发文部门MIIT",
+        "工业碳达峰主题"
+      ],
+      "reason": "工信部2022年工业领域碳达峰方案为工业碳达峰顶层规划；本方案为其装备子领域延续部署，主题对齐。"
     }
   ],
-  "relations_count": 73,
+  "relations_count": 82,
   "diff_files": [
     "P_2022_MEE_111__from__P_2020_MEE_1230dbd8.md",
     "P_2022_CQ_18__from__P_2020_GO_39_b.md",
@@ -2013,7 +2155,7 @@
   ],
   "region_distribution": {
     "国家": {
-      "全国": 36
+      "全国": 37
     },
     "省": {
       "北京市": 6,
@@ -2039,39 +2181,22 @@
   },
   "top_issuers": {
     "生态环境部": 7,
+    "国家能源局": 4,
     "国务院办公厅": 3,
     "国务院": 3,
     "北京市人民政府": 3,
-    "国家能源局": 3,
     "国家发展改革委等部门": 2,
     "上海市人民政府办公厅": 2,
     "苏州市人民政府": 2,
     "上海市发展和改革委员会": 2,
     "重庆市人民政府": 2,
     "国家发展和改革委员会、国家能源局": 2,
-    "中共中央、国务院": 1,
     "中共中央、国务院(商务部转载)": 1,
+    "中共中央、国务院": 1,
     "国务院国有资产监督管理委员会": 1,
     "北京市发展和改革委员会": 1
   },
   "top_5_importance": [
-    {
-      "id": "P_2020_GO_39_b",
-      "title": "新能源汽车产业发展规划(2021—2035年)",
-      "date": "2020-10-20",
-      "official": "国办发〔2020〕39号",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
-    },
     {
       "id": "P_2020_GO_1020e9f0",
       "title": "新能源汽车产业发展规划（2021—2035年）",
@@ -2090,12 +2215,12 @@
       "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
     },
     {
-      "id": "P_2021_SC_0922fb2b",
-      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
-      "date": "2021-09-22",
-      "official": "",
+      "id": "P_2020_GO_39_b",
+      "title": "新能源汽车产业发展规划(2021—2035年)",
+      "date": "2020-10-20",
+      "official": "国办发〔2020〕39号",
       "issuer": [
-        "中共中央、国务院"
+        "国务院办公厅"
       ],
       "region": {
         "level": "国家",
@@ -2104,7 +2229,7 @@
       },
       "importance": 5,
       "tags": [],
-      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
+      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
     },
     {
       "id": "P_2021_SC_092282d6",
@@ -2122,6 +2247,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见(转载)】-中共中央、国务院(商务部转载)-f2a1.md"
+    },
+    {
+      "id": "P_2021_SC_0922fb2b",
+      "title": "中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见",
+      "date": "2021-09-22",
+      "official": "",
+      "issuer": [
+        "中共中央、国务院"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见】-中共中央、国务院-6ce1.md"
     },
     {
       "id": "P_2021_SC_23",
