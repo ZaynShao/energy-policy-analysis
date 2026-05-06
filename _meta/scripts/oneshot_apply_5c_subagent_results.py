@@ -40,6 +40,8 @@ RAW = VAULT / "0_raw" / "policies"
 BV = VAULT / "_meta" / "business_view"
 SUMMARIES = VAULT / "1_extracted" / "policy_summaries.jsonl"
 DERIVES_FROM = VAULT / "1_extracted" / "relations" / "derives_from.jsonl"
+BACKLOG_DIR = VAULT / "_meta" / "backlog"
+DERIVES_UNRESOLVED = BACKLOG_DIR / "derives_from_unresolved.yaml"
 
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 SCRIPT_TAG = "_meta/scripts/oneshot_apply_5c_subagent_results.py"
@@ -51,6 +53,51 @@ MARCH_DETAIL_PIDS = {
     "P_2026_SD_03271ffc", "P_2026_SH_03132bad", "P_2026_BJ_4",
     "P_2026_CQ_16", "P_2026_OTHERD5E7_03169880",
 }
+
+
+def _append_unresolved_backlog(rows: list[dict]) -> None:
+    """把 derives_from to=null 候选增量写入 _meta/backlog/derives_from_unresolved.yaml。
+
+    L1.3 demand-pull 自动转换:5C LLM 给的 source_title resolve 失败 → vault 缺
+    上位政策 → 写 backlog,等月报 / 主题页用到时触发采集。
+
+    backlog 结构:dict per source_title,值含 first_seen / linkage_type / pids 引用
+    列表 / 引用次数。多个政策派生自同一上位文件时聚合统计(优先级排序依据)。
+    """
+    BACKLOG_DIR.mkdir(parents=True, exist_ok=True)
+    if DERIVES_UNRESOLVED.exists():
+        try:
+            existing = yaml.safe_load(DERIVES_UNRESOLVED.read_text(encoding="utf-8")) or {}
+        except yaml.YAMLError:
+            existing = {}
+    else:
+        existing = {}
+    if "items" not in existing:
+        existing = {
+            "_doc": "derives_from to=null 候选(L1.3 demand-pull 自动 backlog)",
+            "_format": "key=source_title;value={first_seen, linkage_type, ref_pids[], ref_count}",
+            "items": {},
+        }
+
+    for r in rows:
+        title = r["source_title"]
+        entry = existing["items"].get(title, {
+            "first_seen": NOW_ISO,
+            "linkage_type": r["linkage_type"],
+            "ref_pids": [],
+            "ref_count": 0,
+            "evidence_sample": r.get("evidence", "")[:200],
+        })
+        if r["from"] not in entry["ref_pids"]:
+            entry["ref_pids"].append(r["from"])
+            entry["ref_count"] = len(entry["ref_pids"])
+        entry["last_seen"] = NOW_ISO
+        existing["items"][title] = entry
+
+    DERIVES_UNRESOLVED.write_text(
+        yaml.safe_dump(existing, allow_unicode=True, sort_keys=False),
+        encoding="utf-8",
+    )
 
 
 def compute_importance(scores: dict) -> int:
@@ -251,6 +298,7 @@ def apply_one(rec: dict, pid_index: dict, stats: dict, skip_march: bool = True):
 
         # resolve 每条 source 并产生多行
         new_rows = []
+        unresolved = []  # to=null 的留存,后续写 backlog
         for source_title, linkage_type, role in sources:
             target_pid = resolve_pid(source_title, pid_index)
             new_rows.append({
@@ -265,11 +313,24 @@ def apply_one(rec: dict, pid_index: dict, stats: dict, skip_march: bool = True):
                 "extracted_by": SCRIPT_TAG,
                 "extracted_at": NOW_ISO,
             })
+            if target_pid is None:
+                unresolved.append({
+                    "from": pid,
+                    "source_title": source_title,
+                    "linkage_type": linkage_type,
+                    "role": role,
+                    "evidence": evidence[:200],
+                })
 
         if new_rows:
             # 替换该 from 的所有旧行,append 新行(支持一对多)
             replace_jsonl_group(DERIVES_FROM, "from", pid, new_rows)
             stats["derives_written"] += len(new_rows)
+
+        # to=null 候选写入 backlog(L1.3 demand-pull 自动转换)
+        if unresolved:
+            _append_unresolved_backlog(unresolved)
+            stats["derives_unresolved"] = stats.get("derives_unresolved", 0) + len(unresolved)
 
 
 def main():
@@ -310,6 +371,7 @@ def main():
         "yaml_upgraded": 0,
         "summaries_upgraded": 0,
         "derives_written": 0,
+        "derives_unresolved": 0,
         "skipped_march": 0,
         "error_no_pid": 0,
         "error_no_scores": 0,
@@ -323,6 +385,10 @@ def main():
     print("\n=== stats ===")
     for k, v in stats.items():
         print(f"  {k}: {v}")
+    if stats["derives_unresolved"] > 0:
+        print(f"\n  → {stats['derives_unresolved']} 个 derives_from to=null 已写入 backlog:")
+        print(f"     {DERIVES_UNRESOLVED.relative_to(VAULT)}")
+        print("     (L1.3 demand-pull 候选,按 ref_count 排优先级)")
 
 
 if __name__ == "__main__":

@@ -891,6 +891,42 @@ def apply_opinions_summary():
 # Deterministic
 # ============================================================
 
+def _audit_isolated_after_deterministic() -> None:
+    """deterministic post-llm 末尾跑 metric,扫 isolated 政策(0 inbound + 0 outbound)。
+
+    服务 trigger A 完整链路(prepare → 5C/rel apply → deterministic post-llm)的
+    最后一道闸:警告新政策若 isolated。其他 deterministic 触发场景(C/D)同样
+    受益(显式知道当前孤儿规模)。
+    """
+    print("\n--- post-deterministic audit:isolated 政策检测 ---")
+    cmd = ["python3", str(SCRIPTS / "relations_coverage_metric.py"), "--json"]
+    r = subprocess.run(cmd, cwd=str(VAULT), capture_output=True, text=True)
+    if r.returncode != 0:
+        print(f"  [warn] metric 跑失败,跳过 isolated audit({r.stderr[:200]})")
+        return
+    try:
+        data = json.loads(r.stdout)
+    except json.JSONDecodeError:
+        print("  [warn] metric JSON 解析失败,跳过")
+        return
+    iso = data.get("quadrants", {}).get("isolated", []) or []
+    bidi = data.get("summary", {}).get("quadrants", {}).get("bidirectional", "?")
+    print(f"  4 象限:双向 {bidi} / 仅入向 {data['summary']['quadrants']['inbound_only']} / "
+          f"仅出向 {data['summary']['quadrants']['outbound_only']} / 真孤立 {len(iso)}")
+    if not iso:
+        print("  ✓ 无孤立政策")
+        return
+    print(f"  ⚠ {len(iso)} 个政策 isolated(0 inbound + 0 outbound):")
+    for pid in iso[:8]:
+        print(f"      {pid}")
+    if len(iso) > 8:
+        print(f"      ... 余 {len(iso) - 8} 个,跑 `relations_coverage_metric.py --isolated-list` 看全部")
+    print("  → 若刚入库的新政策在此清单,建议:")
+    print("    a) 派 rel_judge subagent 重做关系抽取(可能漏抽);")
+    print("    b) 入 5C subagent 重做 5C(可能 derives_from 漏 resolve);")
+    print("    c) 真无 vault 引用(早期文件 / 边缘主题)— 接受现状")
+
+
 def run_deterministic(scope: str):
     print(f"\n=== deterministic --scope {scope} ===\n")
     if scope in ("references", "all", "pre-llm"):
@@ -905,6 +941,10 @@ def run_deterministic(scope: str):
         run_script("build_global_index.py", [], "global_index")
     if scope in ("reverse-links", "all", "post-llm"):
         run_script("build_reverse_links.py", [], "reverse_links")
+
+    # post-llm / all 跑完后做 isolated audit
+    if scope in ("post-llm", "all"):
+        _audit_isolated_after_deterministic()
 
 
 # ============================================================

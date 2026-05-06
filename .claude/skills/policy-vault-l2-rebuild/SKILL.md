@@ -291,6 +291,24 @@ python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 
 ---
 
+## 8b. pre-commit hook(2026-05-06 加入)
+
+防 baseline 倒退闸 — 阻止 commit 引入新 schema 违规政策:
+
+```bash
+# 安装(在 vault 根 cd 下跑一次)
+cp _meta/git_hooks/pre-commit .git/hooks/pre-commit
+chmod +x .git/hooks/pre-commit
+```
+
+hook 行为:
+- 仅扫 staged 的 `0_raw/policies/*.md`(评论 baseline 漂移多,本 hook 不卡评论)
+- 提取每个 staged 政策的 fm.id,跑 `validate_l1.py --pid X,Y --strict`
+- 任一 error/warn → 阻断 commit(strict 模式 warns 也升 error)
+- 临时跳过:`git commit --no-verify`(仅 baseline 修复 commit 用)
+
+hook 不会让既有违规 commit 越来越多 — 只阻断**新引入**的违规。
+
 ## 9. 不要做的事
 
 - ❌ 用 `git add .` 或 `git add -A`(可能纳入 macOS cruft / 临时文件;用具体路径)

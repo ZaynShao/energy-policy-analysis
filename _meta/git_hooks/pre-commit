@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+# .git/hooks/pre-commit — L1 raw frontmatter lint(仅 staged 政策)
+#
+# 防止把违 schema_v3 的政策入库:
+#   - fm 缺必填字段(id / title / date / region / provenance.url)
+#   - enum 越界(source_type / region.level)
+#   - audit ts 非 ISO 格式
+#
+# 安装(在 vault 根 cd 下跑一次):
+#   cp _meta/git_hooks/pre-commit .git/hooks/pre-commit
+#   chmod +x .git/hooks/pre-commit
+#
+# 跳过(临时,如确知违规来自 baseline 数据修复 commit):
+#   git commit --no-verify ...
+
+set -e
+
+# 仅对 staged 0_raw/policies/*.md(评论 baseline 漂移多,本 hook 暂不卡评论)
+staged_policies=$(git diff --cached --name-only --diff-filter=ACM | grep '^0_raw/policies/.*\.md$' || true)
+
+if [ -z "$staged_policies" ]; then
+    # 无政策改动,直接放行
+    exit 0
+fi
+
+# 提取每个 staged 文件的 fm.id(用 staged 版本,不是 working tree)
+pids=""
+while IFS= read -r f; do
+    [ -z "$f" ] && continue
+    pid=$(git show ":$f" 2>/dev/null | sed -n '/^---$/,/^---$/p' | grep -m1 '^id:' | sed -E 's/^id:[[:space:]]*//; s/[[:space:]]*$//')
+    if [ -n "$pid" ]; then
+        pids="${pids:+$pids,}$pid"
+    fi
+done <<< "$staged_policies"
+
+if [ -z "$pids" ]; then
+    # 无 id,跳(可能是 staged delete)
+    exit 0
+fi
+
+echo "[pre-commit] L1 lint on staged policies: $pids"
+
+# 跑 validate_l1 --pid + --strict(warns 升 errors,严格)
+python3 _meta/scripts/validate_l1.py --pid "$pids" --strict
+rc=$?
+
+if [ $rc -ne 0 ]; then
+    echo
+    echo "[pre-commit] ✗ L1 lint 失败 — staged 政策有违规字段。"
+    echo "    修 fm 后重新 stage,或加 --no-verify 强制(仅在 baseline 修复 commit 用)。"
+    exit $rc
+fi
+
+echo "[pre-commit] ✓ L1 lint 通过"
+exit 0
