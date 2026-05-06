@@ -252,7 +252,10 @@ def main():
     print("\nWriting per-policy opinion pages...")
     # cleanup 旧的 P_xxx.md(2026-05-06 改名前的同名命名,会与 raw 政策 alias 冲突)
     import re as _re
-    _alias_pat = _re.compile(r'^P_\d{4}_[A-Za-z0-9]+(?:_[a-zA-Z0-9]+)?$')
+    # 严格 alias 模式:P_YYYY_xxx_yyy_zzz...(段间单下划线,无连续 __)
+    # 匹配 P_2020_GO_39_b / P_2024_OTHER1B33_33 等真实 vault alias
+    # 排除 P_xxx__from__P_yyy(diff 文件名,含 __)
+    _alias_pat = _re.compile(r'^P_\d{4}_[A-Za-z0-9]+(?:_[A-Za-z0-9]+)*$')
     for old in OPINIONS.glob('P_*.md'):
         if _alias_pat.match(old.stem):
             old.unlink()
