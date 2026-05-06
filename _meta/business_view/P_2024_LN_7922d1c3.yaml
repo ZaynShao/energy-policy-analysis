@@ -1,0 +1,24 @@
+pid: P_2024_LN_7922d1c3
+scores:
+  D1: 1
+  D2: 4
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接关系
+  充电: 明确大工业峰谷价、台区智慧用能与有序充电方向,沈阳大连有奖补,适合滴滴充电场站布局与运营成本测算
+  电力_储能_V2G_交易: 省电力公司推进台区智慧用能与车网互动,为聚合负荷参与调峰提供政策预期
+  乡村: 无明显涉及
+行动建议:
+- 'A 立即: 关注沈阳大连市级充电奖补办法细则,匹配滴滴特许场站申报'
+- 'B 研究: 跟踪辽宁台区智慧用能平台对接接口与有序充电资格'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 对滴滴充电特许平台:辽宁市场容量与电价、报装环节明确,利于在沈阳大连本地化获得奖补
+archive: low_score

@@ -1,0 +1,205 @@
+# 重点地市清单(2026-05-06 audit)
+# 用途: Tavily 矩阵第二维(主题 × 地市)、Firecrawl 抓取目标
+# 不 audit 333 个地级市,只 audit 与 13 主题强相关的"试点城市/经济强市"
+# 来源: 国办试点通知 + 各部委试点名单 + GDP 前 50 + 滴滴业务城市
+
+schema_version: 1.0
+generated_at: 2026-05-06
+
+# 31 省/直辖市/自治区(全)
+provinces:
+  - {code: "110000", name: "北京市",     muni: true,  priority: P0}
+  - {code: "120000", name: "天津市",     muni: true,  priority: P1}
+  - {code: "310000", name: "上海市",     muni: true,  priority: P0}
+  - {code: "500000", name: "重庆市",     muni: true,  priority: P0}
+  - {code: "320000", name: "江苏省",     muni: false, priority: P0}
+  - {code: "330000", name: "浙江省",     muni: false, priority: P0}
+  - {code: "440000", name: "广东省",     muni: false, priority: P0}
+  - {code: "370000", name: "山东省",     muni: false, priority: P0}
+  - {code: "350000", name: "福建省",     muni: false, priority: P1}
+  - {code: "340000", name: "安徽省",     muni: false, priority: P1}
+  - {code: "130000", name: "河北省",     muni: false, priority: P1}
+  - {code: "140000", name: "山西省",     muni: false, priority: P1}
+  - {code: "150000", name: "内蒙古自治区", muni: false, priority: P1}
+  - {code: "210000", name: "辽宁省",     muni: false, priority: P1}
+  - {code: "220000", name: "吉林省",     muni: false, priority: P2}
+  - {code: "230000", name: "黑龙江省",   muni: false, priority: P2}
+  - {code: "360000", name: "江西省",     muni: false, priority: P1}
+  - {code: "410000", name: "河南省",     muni: false, priority: P1}
+  - {code: "420000", name: "湖北省",     muni: false, priority: P1}
+  - {code: "430000", name: "湖南省",     muni: false, priority: P1}
+  - {code: "450000", name: "广西壮族自治区", muni: false, priority: P2}
+  - {code: "460000", name: "海南省",     muni: false, priority: P1}
+  - {code: "510000", name: "四川省",     muni: false, priority: P1}
+  - {code: "520000", name: "贵州省",     muni: false, priority: P2}
+  - {code: "530000", name: "云南省",     muni: false, priority: P2}
+  - {code: "540000", name: "西藏自治区",  muni: false, priority: P2}
+  - {code: "610000", name: "陕西省",     muni: false, priority: P1}
+  - {code: "620000", name: "甘肃省",     muni: false, priority: P2}
+  - {code: "630000", name: "青海省",     muni: false, priority: P2}
+  - {code: "640000", name: "宁夏回族自治区", muni: false, priority: P1}
+  - {code: "650000", name: "新疆维吾尔自治区", muni: false, priority: P2}
+
+# 重点地市(按主题视角,有重叠是正常的)
+# 设计原则:
+#   1) 国务院/发改委/能源局/工信部公布的"试点名单"必收
+#   2) 经济强市(GDP 前 30) + 滴滴业务覆盖城市
+#   3) 各主题 6-12 市,合计 ~80 unique 城市
+
+target_cities_by_theme:
+
+  v2g:
+    # 国务院 2024-09-10 V2G 试点首批 9 城(发改委办〔2024〕XXX)
+    pilot_cities_first_batch:
+      - {province: 上海, name: 上海市,     code: "310000", role: 试点首批}
+      - {province: 江苏, name: 常州市,     code: "320400", role: 试点首批}
+      - {province: 江苏, name: 苏州市,     code: "320500", role: 试点首批}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 试点首批}
+      - {province: 安徽, name: 合肥市,     code: "340100", role: 试点首批}
+      - {province: 海南, name: 海口市,     code: "460100", role: 试点首批}
+      - {province: 广东, name: 广州市,     code: "440100", role: 试点首批}
+      - {province: 广东, name: 深圳市,     code: "440300", role: 试点首批}
+      - {province: 湖南, name: 长沙市,     code: "430100", role: 试点首批}
+    extended:
+      - {province: 北京, name: 北京市,     code: "110000", role: 综合试点}
+      - {province: 重庆, name: 重庆市,     code: "500000", role: 综合试点}
+      - {province: 山东, name: 青岛市,     code: "370200", role: 充电基建强市}
+      - {province: 福建, name: 厦门市,     code: "350200", role: 充电基建强市}
+
+  vpp_theme:
+    # VPP 头部省份的省会/经济强市 + 试点
+    target:
+      - {province: 江苏, name: 苏州市,     code: "320500", role: 工业负荷聚合}
+      - {province: 江苏, name: 南京市,     code: "320100", role: 省会聚合中心}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 互联网+VPP}
+      - {province: 浙江, name: 宁波市,     code: "330200", role: 工业聚合}
+      - {province: 广东, name: 深圳市,     code: "440300", role: VPP 试点先行}
+      - {province: 广东, name: 广州市,     code: "440100", role: 大湾区聚合}
+      - {province: 山东, name: 济南市,     code: "370100", role: 山东 VPP 头部}
+      - {province: 安徽, name: 合肥市,     code: "340100", role: 工业聚合}
+      - {province: 上海, name: 上海市,     code: "310000", role: 商业楼宇聚合}
+      - {province: 北京, name: 北京市,     code: "110000", role: 综合楼宇聚合}
+      - {province: 河北, name: 唐山市,     code: "130200", role: 冀北调度区}
+      - {province: 四川, name: 成都市,     code: "510100", role: 西南聚合}
+
+  energy_storage_theme:
+    # 储能装机 / 共享储能 / 用户侧储能 试点市
+    target:
+      - {province: 山东, name: 济南市,     code: "370100", role: 共享储能强省省会}
+      - {province: 山东, name: 青岛市,     code: "370200", role: 沿海储能}
+      - {province: 内蒙古, name: 鄂尔多斯, code: "150600", role: 大基地配储}
+      - {province: 宁夏, name: 银川市,     code: "640100", role: 西北独立储能}
+      - {province: 江苏, name: 苏州市,     code: "320500", role: 用户侧储能}
+      - {province: 江苏, name: 常州市,     code: "320400", role: 储能装备产业}
+      - {province: 福建, name: 宁德市,     code: "350900", role: 电池产业核心}
+      - {province: 广东, name: 深圳市,     code: "440300", role: 工商业储能}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 浙北储能}
+      - {province: 安徽, name: 合肥市,     code: "340100", role: 电池产业}
+      - {province: 湖南, name: 长沙市,     code: "430100", role: 储能装备}
+
+  charging_infra:
+    # 全国 1-3 线 + 滴滴重点运营市
+    target:
+      - {province: 北京, name: 北京市,     code: "110000", role: 一线}
+      - {province: 上海, name: 上海市,     code: "310000", role: 一线}
+      - {province: 广东, name: 广州市,     code: "440100", role: 一线}
+      - {province: 广东, name: 深圳市,     code: "440300", role: 一线}
+      - {province: 重庆, name: 重庆市,     code: "500000", role: 直辖市}
+      - {province: 四川, name: 成都市,     code: "510100", role: 新一线}
+      - {province: 湖北, name: 武汉市,     code: "420100", role: 新一线}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 新一线}
+      - {province: 江苏, name: 南京市,     code: "320100", role: 新一线}
+      - {province: 江苏, name: 苏州市,     code: "320500", role: 新一线}
+      - {province: 河南, name: 郑州市,     code: "410100", role: 中部枢纽}
+      - {province: 山东, name: 济南市,     code: "370100", role: 山东省会}
+
+  power_market:
+    # 现货市场试点省 → 看省级即可,但有 6 试点市级电力交易中心
+    target:
+      - {province: 山西, name: 太原市,     code: "140100", role: 现货首批}
+      - {province: 广东, name: 广州市,     code: "440100", role: 南方区域}
+      - {province: 山东, name: 济南市,     code: "370100", role: 现货首批}
+      - {province: 甘肃, name: 兰州市,     code: "620100", role: 现货首批}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 现货首批}
+      - {province: 内蒙古, name: 呼和浩特, code: "150100", role: 蒙西独立运行}
+
+  v2g_extra: []
+
+  green_power_trading_theme:
+    # 绿电交易主要在省级 + 区域(京津冀/长三角/南方)
+    target:
+      - {province: 北京, name: 北京市,     code: "110000", role: 京津冀绿电}
+      - {province: 上海, name: 上海市,     code: "310000", role: 长三角绿电}
+      - {province: 广东, name: 广州市,     code: "440100", role: 南方区域绿电}
+
+  carbon_market_theme:
+    # 7 试点 + 全国市场
+    target:
+      - {province: 北京, name: 北京市,     code: "110000", role: 碳市场试点}
+      - {province: 上海, name: 上海市,     code: "310000", role: 碳市场试点 + CCER 中心}
+      - {province: 广东, name: 广州市,     code: "440100", role: 试点 + 期货}
+      - {province: 湖北, name: 武汉市,     code: "420100", role: 试点 + 全国注登簿}
+      - {province: 重庆, name: 重庆市,     code: "500000", role: 试点}
+      - {province: 福建, name: 福州市,     code: "350100", role: 试点}
+
+  equipment_renewal_theme:
+    # 国务院定调,各省落地 — 重点经济大省即可
+    target:
+      - {province: 广东, name: 广州市,     code: "440100", role: 经济大省}
+      - {province: 江苏, name: 南京市,     code: "320100", role: 经济大省}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 经济大省}
+      - {province: 山东, name: 济南市,     code: "370100", role: 经济大省}
+
+  gas_station_transition_theme:
+    # 油-充融合先行省的首府 + 海南(综合能源岛)
+    target:
+      - {province: 海南, name: 海口市,     code: "460100", role: 综合能源岛}
+      - {province: 广东, name: 广州市,     code: "440100", role: 中石化先行}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 油-充示范}
+      - {province: 北京, name: 北京市,     code: "110000", role: 中石油总部}
+
+  petroleum_retail_compliance:
+    # 商务部总抓 + 各省商务厅 — 重点经济大省的商务局
+    target:
+      - {province: 北京, name: 北京市,     code: "110000", role: 一线零售}
+      - {province: 上海, name: 上海市,     code: "310000", role: 一线零售}
+      - {province: 广东, name: 广州市,     code: "440100", role: 一线零售}
+      - {province: 江苏, name: 南京市,     code: "320100", role: 江苏商务厅}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 浙江商务厅}
+      - {province: 山东, name: 济南市,     code: "370100", role: 山东商务厅}
+
+  residential_charging:
+    # 老旧小区改造 + 私桩共享 试点
+    target:
+      - {province: 北京, name: 北京市,     code: "110000", role: 一线}
+      - {province: 上海, name: 上海市,     code: "310000", role: 一线 + 统建统营试点}
+      - {province: 广东, name: 深圳市,     code: "440300", role: 一线 + 自用桩补贴}
+      - {province: 广东, name: 广州市,     code: "440100", role: 一线}
+      - {province: 浙江, name: 杭州市,     code: "330100", role: 私桩共享}
+      - {province: 江苏, name: 苏州市,     code: "320500", role: 老旧小区改造}
+      - {province: 重庆, name: 重庆市,     code: "500000", role: 直辖市}
+      - {province: 四川, name: 成都市,     code: "510100", role: 新一线}
+
+  distribution_grid_opening:
+    # 增量配电试点 — 4 批 ~ 460 个项目,但主要落在地级市层面
+    target:
+      - {province: 江苏, name: 苏州市,     code: "320500", role: 增量配电试点}
+      - {province: 浙江, name: 宁波市,     code: "330200", role: 增量配电试点}
+      - {province: 广东, name: 深圳市,     code: "440300", role: 售电侧改革}
+      - {province: 内蒙古, name: 鄂尔多斯, code: "150600", role: 微电网试点}
+      - {province: 河南, name: 郑州市,     code: "410100", role: 增量配电改革}
+      - {province: 福建, name: 厦门市,     code: "350200", role: 配电网开放}
+
+  aggregator_access:
+    # 与 VPP 同源,但偏注册口径 — 用 VPP 头部市覆盖即可
+    inherit_from: vpp_theme
+
+# ============= 资源估算(Tavily 配额,47min 后跑) =============
+estimates:
+  national_queries: 13     # 13 主题 × 1 query(国家级)
+  province_queries: 403    # 13 主题 × 31 省 = 403,但 P2 主题×P2 省可压缩到 200
+  city_queries: 80         # ~80 unique 重点地市,每市跨主题汇总 1 query
+  candidate_promotion: 90  # 30 省候选发改委站点 × 3 主题 = 90 site:filter query
+  total_tavily_calls: 583  # 实际可压到 ~400 通过 P0/P1/P2 阶梯
+  total_firecrawl_calls: ~600  # 假设矩阵命中 ~600 篇候选
+  estimated_runtime: 4-6h  # 全跑,与 5h limit 持平 — 必须分两批

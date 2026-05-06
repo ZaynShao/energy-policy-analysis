@@ -1,0 +1,23 @@
+pid: P_1900_TJ_968c0a38
+scores:
+  D1: 1
+  D2: 2
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 3
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无影响
+  充电: 京津冀新能源车与充电设施同步推进,滴滴可对接城市群项目
+  电力_储能_V2G_交易: 区域统一电力现货市场+VPP+氢能等十五五前置布局窗口
+  乡村: 无影响
+行动建议:
+- 'B 研究: 跟踪京津冀统一现货市场建设节点,绑定虚拟电厂跨区交易'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 对滴滴:京津冀十五五前置布局VPP/储能/氢能/电力现货,适合多业务联动切入
+archive: low_score

@@ -1,0 +1,22 @@
+pid: P_2022_GX_69d99f4d
+scores:
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 2
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 增量配电区域内充电站电价构成与政策性基金分摊明确,影响成本测算
+  电力_储能_V2G_交易: 增量配电网区域内非水可再生能源就近交易仅支付所使用电压等级配电价格,不承担上一电压等级输配电价,创造分布式新能源就近消纳模式
+  乡村: 未涉及
+行动建议:
+- 'C 关注: 跟踪广西增量配电网价格规则正式文,评估区域内分布式新能源就近交易机会'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广西增量配电网代理购电与价格规则细化

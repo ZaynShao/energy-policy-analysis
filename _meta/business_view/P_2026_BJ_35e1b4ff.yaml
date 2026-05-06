@@ -1,0 +1,22 @@
+pid: P_2026_BJ_35e1b4ff
+scores:
+  D1: 2
+  D2: 4
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无
+  充电: 无
+  电力_储能_V2G_交易: 北京启动新型储能高质量发展研究,后续可能形成北京专项储能政策
+  乡村: 无
+行动建议:
+- 'C 关注: 北京新型储能研究成果及后续政策出台'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 北京储能研究采购信号显示北京储能政策制定进入加速期

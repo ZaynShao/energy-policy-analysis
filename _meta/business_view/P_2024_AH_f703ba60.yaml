@@ -1,0 +1,22 @@
+pid: P_2024_AH_f703ba60
+scores:
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 4
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 加油站作为非电网直供电终端用户,可按公式计算价格上限,确认电费透明度
+  充电: 充电站如位于二级转供电场所,可按公式锁定上限价格,避免转供电违规加价
+  电力_储能_V2G_交易: 代理购电与分时电价规则边界明确,影响零售套餐设计
+  乡村: 未涉及
+行动建议:
+- 'C 关注: 在安徽涉转供电场所的加油/充电资产,按公式核对电费合规性'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 非直供电价格政府指导价对加油站、充电站等终端用户电费基准影响

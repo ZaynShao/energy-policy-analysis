@@ -1,0 +1,23 @@
+pid: P_2024_HA_947a826a
+scores:
+  D1: 3
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 2
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 无影响
+  充电: 无影响
+  电力_储能_V2G_交易: 工业企业源网荷储试点须配储能并加装防逆流,滴滴可承接EPC+合同能源管理模式
+  乡村: 农村源网荷储独立细则,与滴滴乡村振兴+光储项目契合
+行动建议:
+- 'A 立即: 跟踪河南三类源网荷储正式版,准备工业/乡村试点项目储备'
+- 'B 研究: 设计滴滴乡村源网荷储EPC+运营组合方案'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 对滴滴:河南源网荷储项目须配储自用、不反送,工业用户每市5个试点,机会有限但路径清晰

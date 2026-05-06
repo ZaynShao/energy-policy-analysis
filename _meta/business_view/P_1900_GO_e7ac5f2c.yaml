@@ -1,0 +1,22 @@
+pid: P_1900_GO_e7ac5f2c
+scores:
+  D1: 1
+  D2: 0
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 未涉及
+  电力_储能_V2G_交易: 未涉及
+  乡村: 未涉及
+行动建议: []
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 县级综合工作总结,与滴滴四大业务无直接关联
+archive: low_score

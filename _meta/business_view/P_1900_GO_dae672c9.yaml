@@ -1,0 +1,23 @@
+pid: P_1900_GO_dae672c9
+scores:
+  D1: 0
+  D2: 1
+  D3: 5
+  D4: 2
+  D5: 0
+  D6: 5
+重要性: 1
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 无影响。
+  充电: 全国统一电力市场推动跨区电价拉平，影响充电零售购电策略。
+  电力_储能_V2G_交易: 118 号文是 VPP、新型储能、绿电交易跨省跨区市场化业务的总纲领，与 2026 年国办意见衔接。
+  乡村: 弱影响。
+行动建议:
+- 'B 研究: 与 2026 年国办全国统一电力市场实施意见对照阅读，形成长期政策路线图。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 118 号文是全国统一电力市场政策起点 VPP/储能跨省发展靠它
+archive: low_score

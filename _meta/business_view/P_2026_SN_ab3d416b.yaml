@@ -1,0 +1,22 @@
+pid: P_2026_SN_ab3d416b
+scores:
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 4
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 未涉及。
+  充电: 现货市场规则成型后，含大功率充电场站的工商业用户电费曲线管理空间扩大。
+  电力_储能_V2G_交易: 陕西现货实施细则、省间现货交易细则关乎储能、聚合商、售电参与边界，影响交易策略。
+  乡村: 未直接涉及。
+行动建议:
+- 'B 研究: 跟踪陕西征求意见稿全文，准备意见反馈与本地化交易策略。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 陕西现货规则定型在即，电力交易与VPP需提前介入意见反馈

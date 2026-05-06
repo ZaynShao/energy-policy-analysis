@@ -1,0 +1,22 @@
+pid: P_2024_GD_4b24a659
+scores:
+  D1: 3
+  D2: 4
+  D3: 3
+  D4: 4
+  D5: 1
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 广东电力市场开放规模8.5万家,绿电交易覆盖,有助于充电站绿电采购+综合能源服务
+  电力_储能_V2G_交易: 宝湖储能站报量报价进入现货+独立储能中长期+'分时复用'调频/电能量市场,滴滴可参考广东路径快速复制
+  乡村: 无直接影响
+行动建议:
+- 'B 研究: 拆解广东独立储能交易细则及''分时复用''机制,作滴滴撮合产品基线'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广东独立储能与VPP生态成熟,滴滴撮合产品有完整对标

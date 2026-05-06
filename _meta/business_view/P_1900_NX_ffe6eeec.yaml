@@ -1,0 +1,23 @@
+pid: P_1900_NX_ffe6eeec
+scores:
+  D1: 4
+  D2: 3
+  D3: 3
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 电动汽车充电桩作为VPP可调节资源被聚合参与
+  电力_储能_V2G_交易: 宁夏VPP聚合可调节资源已接近200万千瓦,运营管理细则即将出台,5家运营商参与起草,信息披露、安全管理、市场公平进出原则等关键内容定型
+  乡村: 未涉及
+行动建议:
+- 'A 立即: 接触宁夏5家VPP运营商和负荷管理中心,提交《细则》草案意见'
+- 'B 研究: 跟踪正式版印发,梳理200万千瓦聚合资源中可对接份额'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 宁夏VPP聚合接近200万千瓦,运营细则即将出台,业务窗口

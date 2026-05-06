@@ -4,7 +4,7 @@ title: 关于开展零碳工厂建设工作的指导意见
 inbound_edge_count: 2
 outbound_edge_count: 5
 commentary_inbound_count: 2
-last_updated: '2026-05-06T15:46:12+08:00'
+last_updated: '2026-05-06T16:23:47+08:00'
 policy_file: ../../../0_raw/policies/【关于开展零碳工厂建设工作的指导意见(工信部联节﹝2026﹞13号)】-工信部、发改委、生态环境部、国资委、国家能源局-c447.md
 ---
 

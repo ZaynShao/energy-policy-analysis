@@ -1,0 +1,17 @@
+---
+policy_id: P_1900_GO_e3d626ae
+title: 7万度起步！开启车网互动国家试点“深圳加速度”
+inbound_edge_count: 0
+outbound_edge_count: 1
+commentary_inbound_count: 0
+last_updated: '2026-05-06T16:23:47+08:00'
+policy_file: ../../../0_raw/policies/【7万度起步！开启车网互动国家试点“深圳加速度”】-政府门户.fgw.sz.gov.cn-e3d626ae.md
+---
+
+> 政策原文:[[【7万度起步！开启车网互动国家试点“深圳加速度”】-政府门户.fgw.sz.gov.cn-e3d626ae|7万度起步！开启车网互动国家试点“深圳加速度”]]
+
+# 出向引用:P_1900_GO_e3d626ae
+
+## 派生自 — 1
+
+- [[P_2024_NDRC_718]] — 推动车网互动规模化应用试点工作的通知 (2024-09-10) [直接落地]

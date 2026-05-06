@@ -1,10 +1,10 @@
 ---
 policy_id: P_2024_NDRC_20
 title: 电力市场运行基本规则
-inbound_edge_count: 7
+inbound_edge_count: 8
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-06T15:46:12+08:00'
+last_updated: '2026-05-06T16:23:47+08:00'
 policy_file: ../../../0_raw/policies/【电力市场运行基本规则(中华人民共和国国家发展和改革委员会令 第20号)】-国家发展和改革委员会、国家能源局-88d3.md
 ---
 
@@ -12,8 +12,9 @@ policy_file: ../../../0_raw/policies/【电力市场运行基本规则(中华人
 
 # 入向反链:P_2024_NDRC_20
 
-## 被引为依据 (cited_as_basis_by) — 5
+## 被引为依据 (cited_as_basis_by) — 6
 
+- [[P_1900_SX_dfb899b7]] — 国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈-山西省发改委门户网站 (2026-02-11)
 - [[P_2025_HN_830]] — 湖南省2026年度电力中长期交易价格机制完善通知 (2025-12-31)
 - [[P_2025_NDRC_1810]] — 电力中长期市场基本规则 (2025-12-26)
 - [[P_2025_NDRC_1656_a]] — 电力中长期市场基本规则 (2025-12-17)

@@ -1,0 +1,22 @@
+pid: P_1900_CQ_f8a0db61
+scores:
+  D1: 2
+  D2: 1
+  D3: 3
+  D4: 1
+  D5: 3
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 未涉及
+  电力_储能_V2G_交易: 增量配电特许经营+竞争性磋商业主优选机制为售电业务历史路径
+  乡村: 未涉及
+行动建议: []
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 增量配电特许经营业务标杆案例,售电业务历史路径
+archive: low_score

@@ -1,0 +1,23 @@
+pid: P_2026_HI_2ed1e9e2
+scores:
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 1
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接影响
+  电力_储能_V2G_交易: 分布式光伏可开放容量按季度公布,聚合分布式光伏入市需按容量地图选择并网点;部分区域可能出现红黄区限制并网
+  乡村: 海南农村分布式光伏接入受配网容量约束,乡村光伏聚合需配套储能
+行动建议:
+- 'B 研究: 公司在海南分布式聚合站点与可开放容量地图叠加评估'
+- 'C 关注: 季度容量更新规律与红黄区动态'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 海南分布式光伏接网容量管控,聚合需对照地图

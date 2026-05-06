@@ -1,0 +1,23 @@
+pid: P_2022_NX_58da6b09
+scores:
+  D1: 4
+  D2: 3
+  D3: 3
+  D4: 3
+  D5: 3
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 充电桩可调节负荷有望作为虚拟电厂资源被聚合,带来新的辅助服务收益渠道
+  电力_储能_V2G_交易: 明确虚拟电厂参与辅助服务市场顶峰调峰规则与并网技术规范,VPP运营商可获得调峰、需求响应交易收入
+  乡村: 未涉及
+行动建议:
+- 'B 研究: 跟踪宁夏自治区级虚拟电厂运营管理平台接入规则及试点示范工程招募窗口'
+- 'C 关注: 监测自治区VPP准入规则、激励补偿标准发布动态'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 宁夏VPP准入与辅助服务规则成型,负荷聚合可入市

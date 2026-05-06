@@ -1,0 +1,23 @@
+pid: P_1900_GO_4b5155f5
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 属合规边界提示,加油站项目仍受发改委备案约束
+  充电: 充电站投资仍受固定资产投资项目核准/备案管理,合规边界
+  电力_储能_V2G_交易: 无直接影响
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 用作合规备案参考,无独立行动'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 属行政管理性文件,与滴滴业务关联弱
+archive: low_score

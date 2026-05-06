@@ -1,0 +1,23 @@
+pid: P_2024_HL_f08aa8e4
+scores:
+  D1: 4
+  D2: 3
+  D3: 3
+  D4: 4
+  D5: 4
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 充电运营商作为电力用户/零售用户须按2.0版准入和零售细则进入市场
+  电力_储能_V2G_交易: 9个细则覆盖现货电能量、调频辅助、中长期衔接、市场准入、零售、计量、信用、结算,VPP/储能/聚合商需对照规则更新交易策略
+  乡村: 未涉及
+行动建议:
+- 'A 立即: 研读黑龙江2.0版9个细则,对售电、VPP、储能业务在黑龙江的合规与策略做更新'
+- 'B 研究: 黑龙江规则版本与南方/华东等地差异,沉淀跨省现货策略库'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 黑龙江现货市场试运行2.0版本规则刷新,影响域内售电与VPP业务

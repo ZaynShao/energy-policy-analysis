@@ -28,21 +28,38 @@
       "filename": "【碳排放权交易管理暂行条例(征求意见稿)】-生态环境部-d1f2.md"
     },
     {
-      "id": "P_2020_GO_39_b",
-      "title": "新能源汽车产业发展规划(2021—2035年)",
-      "date": "2020-10-20",
-      "official": "国办发〔2020〕39号",
+      "id": "P_1900_SX_8bdfd02b",
+      "title": "《贯彻落实国务院支持山西省进一步深化改革促进资源型经济转型发展意见行动计划》-山西省发改委门户网站",
+      "date": "2020-01-01",
+      "official": "",
       "issuer": [
-        "国务院办公厅"
+        "山西省发展和改革委员会"
       ],
       "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
+        "level": "省",
+        "code": "140000",
+        "name": "山西省"
       },
-      "importance": 5,
+      "importance": 2,
       "tags": [],
-      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
+      "filename": "【《贯彻落实国务院支持山西省进一步深化改革促进资源型经济转型发展意见行动计划》-山西省发改委门户网站】-山西省发展和改革委员会-8bdfd02b.md"
+    },
+    {
+      "id": "P_1900_HN_7de5ab8e",
+      "title": "国家能源局有关负责同志就《关于加强新能源汽车与电网融合互动的 ...",
+      "date": "2020-10-01",
+      "official": "",
+      "issuer": [
+        "湖南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "430000",
+        "name": "湖南省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【国家能源局有关负责同志就《关于加强新能源汽车与电网融合互动的 ...】-湖南省发展和改革委员会-7de5ab8e.md"
     },
     {
       "id": "P_2020_GO_1020e9f0",
@@ -60,6 +77,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
+    },
+    {
+      "id": "P_2020_GO_39_b",
+      "title": "新能源汽车产业发展规划(2021—2035年)",
+      "date": "2020-10-20",
+      "official": "国办发〔2020〕39号",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
     },
     {
       "id": "P_2020_MEE_1230dbd8",
@@ -164,6 +198,23 @@
       "filename": "【关于推进中央企业高质量发展做好碳达峰碳中和工作的指导意见(国资发科创〔2021〕93号)】-国务院国有资产监督管理委员会-9654.md"
     },
     {
+      "id": "P_1900_GO_dae672c9",
+      "title": "【关于加快建设全国统一电力市场体系的指导意见(发改体改〔2022〕118号)】-国家发展和改革委员会",
+      "date": "2022-01-28",
+      "official": "发改体改〔2022〕118号",
+      "issuer": [
+        "国家发展和改革委员会"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【【关于加快建设全国统一电力市场体系的指导意见(发改体改〔2022〕118号)】-国家发展和改革委员会(发改体改〔2022〕118号)】-国家发展和改革委员会-dae672c9.md"
+    },
+    {
       "id": "P_2022_BJ_0222542b",
       "title": "北京市十四五时期能源发展规划",
       "date": "2022-02-22",
@@ -181,6 +232,23 @@
       "filename": "【北京市十四五时期能源发展规划】-北京市人民政府-9a4f.md"
     },
     {
+      "id": "P_2022_GO_311f906d",
+      "title": "【两会丨关于2021年国民经济和社会发展计划执行情况与2022年国民经济和社会发展计划草案的报告】-国家发展和改革委员会",
+      "date": "2022-03-05",
+      "official": "",
+      "issuer": [
+        "国家发展和改革委员会"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【【两会丨关于2021年国民经济和社会发展计划执行情况与2022年国民经济和社会发展计划草案的报告】-国家发展和改革委员会】-国家发展和改革委员会-311f906d.md"
+    },
+    {
       "id": "P_2022_BJ_0401c3a9",
       "title": "北京市“十四五”时期能源发展规划",
       "date": "2022-04-01",
@@ -196,6 +264,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【北京市“十四五”时期能源发展规划】-北京市发展和改革委员会-cb02.md"
+    },
+    {
+      "id": "P_2022_GO_6a4cc949",
+      "title": "国务院办公厅转发国家发展改革委国家能源局关于促进新时代新能源高质量发展实施方案的通知 国办函〔2022〕39号-国家能源局网站",
+      "date": "2022-05-14",
+      "official": "国办函〔2022〕39号",
+      "issuer": [
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【国务院办公厅转发国家发展改革委国家能源局关于促进新时代新能源高质量发展实施方案的通知 国办函〔2022〕39号-国家能源局网站(国办函〔2022〕39号)】-国家能源局-6a4cc949.md"
     },
     {
       "id": "P_2022_OTHER8B72_0628e7d4",
@@ -232,6 +317,23 @@
       "filename": "【工业领域碳达峰实施方案】-工信部、国家发展改革委、生态环境部-a689.md"
     },
     {
+      "id": "P_2022_HI_4eac1187",
+      "title": "海南省人民政府关于印发海南省碳达峰实施方案的通知_通知公告_ ...",
+      "date": "2022-08-09",
+      "official": "琼府〔2022〕27号",
+      "issuer": [
+        "海南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "460000",
+        "name": "海南省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【海南省人民政府关于印发海南省碳达峰实施方案的通知_通知公告_ ...(琼府〔2022〕27号)】-海南省发展和改革委员会-4eac1187.md"
+    },
+    {
       "id": "P_2022_SH_28",
       "title": "上海市科技支撑碳达峰碳中和实施方案",
       "date": "2022-10-26",
@@ -249,6 +351,23 @@
       "filename": "【上海市科技支撑碳达峰碳中和实施方案(沪科合〔2022〕28号)】-上海市科学技术委员会等六部门-1461.md"
     },
     {
+      "id": "P_2022_SD_98db30b4",
+      "title": "山东省发展和改革委员会 节能降碳 虚拟电厂仍需政策加持",
+      "date": "2022-11-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会 节能降碳 虚拟电厂仍需政策加持】-山东省发展和改革委员会-98db30b4.md"
+    },
+    {
       "id": "P_2022_MEE_111",
       "title": "2021、2022年度全国碳排放权交易配额总量设定与分配实施方案(征求意见稿)",
       "date": "2022-11-03",
@@ -264,6 +383,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【2021、2022年度全国碳排放权交易配额总量设定与分配实施方案(征求意见稿)(环办气候函〔2022〕111号)】-生态环境部-016b.md"
+    },
+    {
+      "id": "P_2022_GZ_3e727dc2",
+      "title": "中共贵州省委贵州省人民政府关于印发《贵州省碳达峰实施方案》的 ...",
+      "date": "2022-11-04",
+      "official": "",
+      "issuer": [
+        "贵州省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "520000",
+        "name": "贵州省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【中共贵州省委贵州省人民政府关于印发《贵州省碳达峰实施方案》的 ...】-贵州省发展和改革委员会-3e727dc2.md"
     },
     {
       "id": "P_2022_SH_1231d286",
@@ -298,6 +434,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【加快推进能源数字化智能化发展的若干意见(国能发科技〔2023〕27号)】-国家能源局-741e.md"
+    },
+    {
+      "id": "P_2023_HA_5133e527",
+      "title": "关于印发《河南省新能源和可再生能源发展“十四五”规划》的通知",
+      "date": "2023-04-17",
+      "official": "豫发改新能源〔2023〕88号",
+      "issuer": [
+        "河南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "410000",
+        "name": "河南省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【关于印发《河南省新能源和可再生能源发展“十四五”规划》的通知(豫发改新能源〔2023〕88号)】-河南省发展和改革委员会-5133e527.md"
     },
     {
       "id": "P_2023_NDRC_0519539e",
@@ -366,6 +519,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【电力需求侧管理办法(2023年版)】-国家发展和改革委员会等六部门-7611.md"
+    },
+    {
+      "id": "P_1900_BJ_3701c968",
+      "title": "2024年度总目录索引 - 北京市人民政府",
+      "date": "2024-01-01",
+      "official": "",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【2024年度总目录索引 - 北京市人民政府】-北京市人民政府-3701c968.md"
     },
     {
       "id": "P_2024_NDRC_1721",
@@ -725,6 +895,23 @@
       "filename": "【重庆市2023年度碳排放配额分配实施方案(渝环办〔2024〕162号)】-重庆市生态环境局办公室-1208.md"
     },
     {
+      "id": "P_2024_ZJ_ac3b36be",
+      "title": "浙江省绿色低碳转型促进条例",
+      "date": "2024-10-01",
+      "official": "",
+      "issuer": [
+        "浙江省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "330000",
+        "name": "浙江省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【浙江省绿色低碳转型促进条例】-浙江省发展和改革委员会-ac3b36be.md"
+    },
+    {
       "id": "P_2024_SH_41",
       "title": "上海市崇明区国家生态文明建设示范区规划(2024—2035年)",
       "date": "2024-10-09",
@@ -757,6 +944,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【重庆市新能源汽车与电网融合互动工作方案(渝经信发〔2024〕86号)】-重庆市经济和信息化委员会、重庆市发展和改革委员会、重庆市能源局、重庆市市场监督管理局、国网重庆市电力公司-14.md"
+    },
+    {
+      "id": "P_2024_HA_2824bc55",
+      "title": "关于大力实施可再生能源替代行动的指导意见 - 河南省发展和改革委员会",
+      "date": "2024-10-31",
+      "official": "发改能源〔2024〕1537号",
+      "issuer": [
+        "河南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "410000",
+        "name": "河南省"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【关于大力实施可再生能源替代行动的指导意见 - 河南省发展和改革委员会(发改能源〔2024〕1537号)】-河南省发展和改革委员会-2824bc55.md"
     },
     {
       "id": "P_2024_MEE_1101f119",
@@ -793,6 +997,23 @@
       "filename": "【上海市2024年度碳排放配额分配方案(沪环气候〔2024〕242号)】-上海市生态环境局-46d3.md"
     },
     {
+      "id": "P_2025_GO_a9a42ce3",
+      "title": "国家能源局关于印发《2025年能源监管工作要点》的通知-新华网",
+      "date": "2025-01-10",
+      "official": "国能发监管〔2025〕3号",
+      "issuer": [
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【国家能源局关于印发《2025年能源监管工作要点》的通知-新华网(国能发监管〔2025〕3号)】-国家能源局-a9a42ce3.md"
+    },
+    {
       "id": "P_2025_SH_01150bf2",
       "title": "上海市2024年计划执行情况与2025年计划草案报告",
       "date": "2025-01-15",
@@ -808,6 +1029,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【上海市2024年计划执行情况与2025年计划草案报告】-上海市发展和改革委员会-95e3.md"
+    },
+    {
+      "id": "P_2025_CQ_01267b4b",
+      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
+      "date": "2025-01-26",
+      "official": "",
+      "issuer": [
+        "重庆市财政局"
+      ],
+      "region": {
+        "level": "省",
+        "code": "500000",
+        "name": "重庆市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
     },
     {
       "id": "P_2025_CQ_0126e838",
@@ -827,21 +1065,21 @@
       "filename": "【重庆市2024年预算执行情况和2025年预算草案的报告】-重庆市人民政府-c35f.md"
     },
     {
-      "id": "P_2025_CQ_01267b4b",
-      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
-      "date": "2025-01-26",
+      "id": "P_2025_SX_ab886dfd",
+      "title": "一、2024年国民经济和社会发展计划执行情况",
+      "date": "2025-03-05",
       "official": "",
       "issuer": [
-        "重庆市财政局"
+        "山西省发展和改革委员会"
       ],
       "region": {
         "level": "省",
-        "code": "500000",
-        "name": "重庆市"
+        "code": "140000",
+        "name": "山西省"
       },
-      "importance": 2,
+      "importance": 4,
       "tags": [],
-      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
+      "filename": "【一、2024年国民经济和社会发展计划执行情况】-山西省发展和改革委员会-ab886dfd.md"
     },
     {
       "id": "P_2025_NDRC_262",
@@ -912,6 +1150,23 @@
       "filename": "【上海市2025年碳达峰碳中和及节能减排重点工作安排(沪发改环资〔2025〕61号)】-上海市发展和改革委员会-3000.md"
     },
     {
+      "id": "P_2025_CQ_1a0d5778",
+      "title": "重庆市发展和改革委员会关于印发《推动经济社会发展全面绿色转型 ...",
+      "date": "2025-05-21",
+      "official": "",
+      "issuer": [
+        "重庆市发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "500000",
+        "name": "重庆市"
+      },
+      "importance": 0,
+      "tags": [],
+      "filename": "【重庆市发展和改革委员会关于印发《推动经济社会发展全面绿色转型 ...】-重庆市发展和改革委员会-1a0d5778.md"
+    },
+    {
       "id": "P_2025_NEA_53_a",
       "title": "国家能源局关于组织开展新型电力系统建设第一批试点工作的通知",
       "date": "2025-05-23",
@@ -946,6 +1201,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【关于开展零碳园区建设的通知(发改环资〔2025〕910号)】-国家发展改革委-2458.md"
+    },
+    {
+      "id": "P_2025_SC_cc687c4e",
+      "title": "关于印发《四川省虚拟电厂建设运营管理实施方案》的通知(川发改能源〔2025〕278号)_通知公告_四川省发展和改革委员会",
+      "date": "2025-07-01",
+      "official": "川发改能源〔2025〕278号",
+      "issuer": [
+        "四川省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "510000",
+        "name": "四川省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【关于印发《四川省虚拟电厂建设运营管理实施方案》的通知(川发改能源〔2025〕278号)_通知公告_四川省发展和改革委员会(川发改能源〔2025〕278号)】-四川省发展和改革委员会-cc687c4e.md"
     },
     {
       "id": "P_2025_SH_16",
@@ -1014,6 +1286,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【碳市场、绿证、绿电政策知识包(政策汇编)】-包头市人民政府-de7e.md"
+    },
+    {
+      "id": "P_2025_HN_97082d60",
+      "title": "关于公开遴选湖南省新型电力系统课题研究第三方机构的公告",
+      "date": "2025-10-28",
+      "official": "",
+      "issuer": [
+        "湖南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "430000",
+        "name": "湖南省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【关于公开遴选湖南省新型电力系统课题研究第三方机构的公告】-湖南省发展和改革委员会-97082d60.md"
     },
     {
       "id": "P_2025_MEE_2",
@@ -1101,6 +1390,23 @@
       "filename": "【关于开展零碳工厂建设工作的指导意见(工信部联节﹝2026﹞13号)】-工信部、发改委、生态环境部、国资委、国家能源局-c447.md"
     },
     {
+      "id": "P_2026_GZ_4dcaa9cb",
+      "title": "贵州省国民经济和社会发展第十五个五年规划纲要",
+      "date": "2026-01-31",
+      "official": "",
+      "issuer": [
+        "贵州省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "520000",
+        "name": "贵州省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【贵州省国民经济和社会发展第十五个五年规划纲要】-贵州省发展和改革委员会-4dcaa9cb.md"
+    },
+    {
       "id": "P_2026_MEE_0209f3b1",
       "title": "做好2026年全国碳排放权交易市场有关工作的通知",
       "date": "2026-02-09",
@@ -1135,6 +1441,23 @@
       "filename": "【重庆市国民经济和社会发展第十五个五年规划(渝府发〔2026〕7号)】-重庆市人民政府-b101.md"
     },
     {
+      "id": "P_2026_HA_08a91cf9",
+      "title": "国务院办公厅关于完善全国统一电力市场体系的实施意见",
+      "date": "2026-02-13",
+      "official": "国办发〔2026〕4号",
+      "issuer": [
+        "河南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "410000",
+        "name": "河南省"
+      },
+      "importance": 0,
+      "tags": [],
+      "filename": "【国务院办公厅关于完善全国统一电力市场体系的实施意见(国办发〔2026〕4号)】-河南省发展和改革委员会-08a91cf9.md"
+    },
+    {
       "id": "P_2026_SC_0305e288",
       "title": "2026年政府工作报告",
       "date": "2026-03-05",
@@ -1150,6 +1473,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【2026年政府工作报告】-国务院-e288.md"
+    },
+    {
+      "id": "P_2026_SX_bc54abd0",
+      "title": "关于2025年国民经济和社会发展计划执行情况与2026年国民经济和 ...",
+      "date": "2026-03-05",
+      "official": "",
+      "issuer": [
+        "山西省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "140000",
+        "name": "山西省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【关于2025年国民经济和社会发展计划执行情况与2026年国民经济和 ...】-山西省发展和改革委员会-bc54abd0.md"
     },
     {
       "id": "P_2026_SH_03132bad",
@@ -1218,9 +1558,26 @@
       "importance": 5,
       "tags": [],
       "filename": "【碳达峰碳中和综合评价考核办法】-中共中央办公厅 国务院办公厅-02c7.md"
+    },
+    {
+      "id": "P_2026_BJ_29c77bd2",
+      "title": "政府文件_首都之窗_北京市人民政府门户网站",
+      "date": "2026-04-27",
+      "official": "京政发〔2026〕9号",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【政府文件_首都之窗_北京市人民政府门户网站(京政发〔2026〕9号)】-北京市人民政府-29c77bd2.md"
     }
   ],
-  "policies_count": 71,
+  "policies_count": 92,
   "relations": [
     {
       "from": "P_2023_NDRC_092751f2_a",
@@ -1249,6 +1606,83 @@
       "reason": "正式版替代征求稿"
     },
     {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_1900_BJ_30979cba",
+      "rel": "references",
+      "evidence": "| | 北京市人民政府关于做好第四次全国文物普查工作的通知（京政发〔2024〕3号） | （14） |",
+      "doc_num_matched": "京政发〔2024〕3号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_BJ_44cecd6c",
+      "rel": "references",
+      "evidence": "印发《2024年北京市人民政府重大行政决策事项目录》的通知（京政办发〔2024〕8号） | （21） |",
+      "doc_num_matched": "京政办发〔2024〕8号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_GO_859f2341",
+      "rel": "references",
+      "evidence": "民政府办公厅关于印发《市政府2024年立法工作计划》的通知（京政办发〔2024〕11号） | （26） |",
+      "doc_num_matched": "京政办发〔2024〕11号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NEA_58",
+      "to": "P_2025_GO_a9a42ce3",
+      "rel": "references",
+      "evidence": "《国家能源局关于印发〈2025年能源监管工作要点〉的通知》（国能发监管〔2025〕3号）安排，国家能源局决",
+      "doc_num_matched": "国能发监管〔2025〕3号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NEA_58",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "委 国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）； （九）《国家",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NEA_36",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "889号）、《关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）、《电力现货市场基",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_1900_SX_02f1bbdd",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "references",
+      "evidence": "委、国家能源局印发了《关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号，以下简称《意见》）",
+      "doc_num_matched": "发改能源〔2025〕357号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
       "from": "P_2025_SH_5_c",
       "to": "P_2024_NDRC_1721",
       "rel": "references",
@@ -1257,7 +1691,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_SH_407",
@@ -1268,7 +1702,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1279,7 +1713,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1290,7 +1724,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_NEA_77",
@@ -1301,7 +1735,62 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_SC_cc687c4e",
+      "to": "P_1900_HI_45faa5f8",
+      "rel": "references",
+      "evidence": "厂规范有序发展、充分发挥调节作用，按照《电力负荷管理办法》（发改运行规〔2023〕1261号）、《电力需求侧管理",
+      "doc_num_matched": "发改运行规〔2023〕1261号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_SC_cc687c4e",
+      "to": "P_2023_GO_a523a75f",
+      "rel": "references",
+      "evidence": "发改运行规〔2023〕1261号）、《电力需求侧管理办法》（发改运行规〔2023〕1283号）、《国家发展改革委",
+      "doc_num_matched": "发改运行规〔2023〕1283号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_SC_cc687c4e",
+      "to": "P_1900_SX_02f1bbdd",
+      "rel": "references",
+      "evidence": "构建新型电力系统行动方案（2024—2027年）〉的通知》（发改能源〔2024〕1128号）、《国家能源局关于",
+      "doc_num_matched": "发改能源〔2024〕1128号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_SC_cc687c4e",
+      "to": "P_2024_NEA_93_a",
+      "rel": "references",
+      "evidence": "国家能源局关于支持电力领域新型经营主体创新发展的指导意见》（国能发法改〔2024〕93号）、《国家发展改革委",
+      "doc_num_matched": "国能发法改〔2024〕93号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_SC_cc687c4e",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "references",
+      "evidence": "发展改革委 国家能源局关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号）以及四川年度电力市",
+      "doc_num_matched": "发改能源〔2025〕357号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -1312,7 +1801,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -1323,7 +1812,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -1334,7 +1823,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_SD_0101d17a",
@@ -1345,7 +1834,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_NEA_107",
@@ -1356,7 +1845,29 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NEA_107",
+      "to": "P_2024_GO_0d11749b",
+      "rel": "references",
+      "evidence": "局关于印发〈可再生能源绿色电力证书核发和交易规则〉的通知》（国能发新能规〔2024〕67号）及相关政策要求，制",
+      "doc_num_matched": "国能发新能规〔2024〕67号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NEA_107",
+      "to": "P_2025_HL_54f37818",
+      "rel": "references",
+      "evidence": "年备查。<br> 对于《分布式光伏发电开发建设管理办法》（国能发新能规〔2025〕7号）发布之日前已备案且",
+      "doc_num_matched": "国能发新能规〔2025〕7号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -1367,7 +1878,29 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2026_GO_bcf4a9d8",
+      "to": "P_2026_HA_08a91cf9",
+      "rel": "references",
+      "evidence": "务院办公厅关于加强基层消防工作的意见 2026-03-12 国办发〔2026〕4号 国务院办公厅关于完",
+      "doc_num_matched": "国办发〔2026〕4号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_1900_GO_572b0ea8",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "市场的意见》《关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）和有关法律、法规规",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -1378,7 +1911,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2026_NEA_16",
@@ -1389,7 +1922,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -1400,7 +1933,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2024_GO_0d11749b",
+      "to": "P_2023_NDRC_1044_b",
+      "rel": "references",
+      "evidence": "能源绿色电力证书全覆盖工作 促进可再生能源电力消费的通知》（发改能源〔2023〕1044号）有关要求，我们制定",
+      "doc_num_matched": "发改能源〔2023〕1044号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1411,7 +1955,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1422,7 +1966,40 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NEA_53_a",
+      "to": "P_1900_SX_02f1bbdd",
+      "rel": "references",
+      "evidence": "构建新型电力系统行动方案（2024—2027年）〉的通知》（发改能源〔2024〕1128号）有关要求，选取典型",
+      "doc_num_matched": "发改能源〔2024〕1128号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_1900_HN_7de5ab8e",
+      "to": "P_2020_GO_39_b",
+      "rel": "references",
+      "evidence": "办公厅印发《新能源汽车产业发展规划（2021-2035）》（国办发〔2020〕39号），提出要推动新能源",
+      "doc_num_matched": "国办发〔2020〕39号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_1900_HN_7de5ab8e",
+      "to": "P_2023_GO_19_b",
+      "rel": "references",
+      "evidence": "公厅印发《关于进一步构建高质量充电基础设施体系的指导意见》（国办发〔2023〕19号），提出要提升车网双",
+      "doc_num_matched": "国办发〔2023〕19号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -1433,7 +2010,29 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_SD_fb6fcdeb",
+      "to": "P_2024_NDRC_1721",
+      "rel": "references",
+      "evidence": "合互动，根据《关于加强新能源汽车与电网融合互动的实施意见》（发改能源〔2023〕1721号）、《关于推动车网互",
+      "doc_num_matched": "发改能源〔2023〕1721号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_OTHERA0CD_0821a681",
+      "to": "P_2019_GO_99e4d508",
+      "rel": "references",
+      "evidence": "1.《国务院办公厅关于加快发展流通促进商业消费的意见》（国办发〔2019〕42号）； 2.商务部办",
+      "doc_num_matched": "国办发〔2019〕42号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1444,7 +2043,29 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2026_AH_d8c28a5c",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "references",
+      "evidence": "发展改革委 国家能源局关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号）等文件要求，借鉴兄",
+      "doc_num_matched": "发改能源〔2025〕357号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2026_BJ_29c77bd2",
+      "to": "P_1900_BJ_30979cba",
+      "rel": "references",
+      "evidence": "2 是 北京市人民政府关于做好第四次全国文物普查工作的通知 京政发〔2024〕3号 2024-02-0",
+      "doc_num_matched": "京政发〔2024〕3号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2020_GO_1020e9f0",
@@ -1455,7 +2076,106 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_JX_d7975d50",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "references",
+      "evidence": "24〕1128号）、《关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号）等文件精神，进一步",
+      "doc_num_matched": "发改能源〔2025〕357号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_JX_b32efb76",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "references",
+      "evidence": "24〕1128号）、《关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号）等文件精神，规范开",
+      "doc_num_matched": "发改能源〔2025〕357号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2022_HI_4eac1187",
+      "to": "P_2021_SC_23",
+      "rel": "references",
+      "evidence": "(中发〔2021〕36号)和《2030年前碳达峰行动方案》(国发〔2021〕23号)，推动我省碳达峰碳",
+      "doc_num_matched": "国发〔2021〕23号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2024_HI_0adc6a74",
+      "to": "P_2024_NDRC_1721",
+      "rel": "references",
+      "evidence": "革委员会等部门关于加强新能源汽车与电网融合互动的实施意见》（发改能源〔2023〕1721号）、《国家发展和改革",
+      "doc_num_matched": "发改能源〔2023〕1721号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2024_NDRC_1123_a",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "委、国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）等文件要求，加快建",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NDRC_1656_a",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "委 国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）等有关规定，我们组",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NDRC_1810",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "委 国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）等有关规定，我们组",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2024_NEA_76",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "委 国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）《电力市场运行基本",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_NDRC_411",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "委、国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）、《国家发展改革委",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1466,7 +2186,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_OTHER98DD_09231fde",
+      "to": "P_2024_GO_0d11749b",
+      "rel": "references",
+      "evidence": "源局关于印发《可再生能源绿色电力证书核发和交易规则》的通知（国能发新能规〔2024〕67号） 提出： **在",
+      "doc_num_matched": "国能发新能规〔2024〕67号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1477,7 +2208,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1488,7 +2219,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -1499,7 +2230,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_NM_0101e295",
@@ -1510,7 +2241,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1521,7 +2252,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1532,7 +2263,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1543,7 +2274,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1554,7 +2285,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1565,7 +2296,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:52:50"
+      "extracted_at": "2026-05-06T16:01:01"
+    },
+    {
+      "from": "P_2025_SN_cea944a1",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "references",
+      "evidence": "2024〕93号）、《关于加快推进虚拟电厂发展的指导意见》（发改能源〔2025〕357号）等文件精神，积极培",
+      "doc_num_matched": "发改能源〔2025〕357号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-06T16:01:01"
     },
     {
       "from": "P_2025_NEA_107",
@@ -1831,6 +2573,49 @@
       "reason": "NDRC期刊文章解释市场监管总局如何以标准化举措落实国发〔2024〕7号行动方案,典型实施细则/解读"
     },
     {
+      "from": "P_2026_SD_269db10a",
+      "to": "P_2026_HA_08a91cf9",
+      "rel": "clarifies",
+      "evidence": "target为山东省发改委对国务院办公厅《关于完善全国统一电力市场体系的实施意见》(国办发〔2026〕4号)的解读和落地评论, 详述5方面19项重点任务及2030年目标。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_match",
+        "official_doc_referenced",
+        "interpretation_text"
+      ],
+      "reason": "省级机构对国办文件的解读评论。"
+    },
+    {
+      "from": "P_2026_SX_bc54abd0",
+      "to": "P_1900_AH_cb4b09a2",
+      "rel": "clarifies",
+      "evidence": "地，高标准市场体系更加完善。坚持和完善社会主义基本经济制度，更好发挥经济体制改革牵引作用，全国市场的统一性和活力持续增强。 一是全国统一大市场建设向纵深推进。实施全国统一大市场建设指引，出台市场准入负面清单（2025年版），清单事项缩减至106项。深入开展市场准入壁垒清理整治行动，累计修订或废止相关文件2300余件。加快建设统一开放的交通运输市场，实施交通物流降本提质增效行动",
+      "confidence": 0.78,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_substring_match:更好发挥经济体制改革牵引作用",
+        "clarifies_kw:完善"
+      ],
+      "reason": "target body contains distinctive substring of vault title '更好发挥经济体制改革牵引作用' (pid P_1900_AH_cb4b09a2); rel='clarifies' from local context"
+    },
+    {
+      "from": "P_1900_SX_dfb899b7",
+      "to": "P_2026_HA_08a91cf9",
+      "rel": "clarifies",
+      "evidence": "# 国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈-山西省发改委门户网站  ## 政策原文  发布时间：2026/02/1",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_phrase_in_candidate",
+        "phrase=《关于完善全国统一电力市场体系的实施意见》"
+      ],
+      "reason": "目标正文 «关于完善全国统一电力市场体系的实施意见» 与 vault 候选标题匹配"
+    },
+    {
       "from": "P_2023_NDRC_0704ee90",
       "to": "P_2023_NDRC_0519539e",
       "rel": "iterates",
@@ -1938,6 +2723,105 @@
       "confidence": 0.6,
       "extracted_by": "heuristic",
       "extracted_at": "2026-04-26T23:42:01"
+    },
+    {
+      "from": "P_1900_GO_572b0ea8",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "extends",
+      "evidence": "深化电力体制改革的若干意见》《中共中央 国务院关于加快建设全国统一大市场的意见》《关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号",
+      "confidence": 0.794,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "regex:基础上/进一步/深化",
+        "match_why:quote_in_core",
+        "match_score:0.92"
+      ],
+      "reason": "在该文件基础上进一步深化或扩展"
+    },
+    {
+      "from": "P_1900_HN_7de5ab8e",
+      "to": "P_2023_GO_19_b",
+      "rel": "extends",
+      "evidence": "治局会议提出要巩固和扩大新能源汽车发展优势；2023年5月，国务院常务会议提出要构建“车能路云”融合发展的产业生态。2023年6月，国务院办公厅印发《关于进一步构建高质量充电基础设施体系的指导意见》（国办发〔2023〕19号），提出要提升车网双向互动能力，大力推广应用智能充电基础设施，强化对电动汽车充放电行为的调控能力，推动车网互动等试点示范。 近年来，我国在充电峰谷分时电价制定推广、车网互动资…",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "扩大",
+        "official_match:国办发〔2023〕19号"
+      ],
+      "reason": "context cue \"扩大\" indicates building on or expanding the cited document"
+    },
+    {
+      "from": "P_1900_HN_7de5ab8e",
+      "to": "P_2020_GO_39_b",
+      "rel": "extends",
+      "evidence": "署？记者专访了国家发展改革委、国家能源局有关负责同志。 **问：《实施意见》的制定背景是什么？** **答：**2020年10月，国务院办公厅印发《新能源汽车产业发展规划（2021-2035）》（国办发〔2020〕39号），提出要推动新能源汽车与能源融合发展，加强新能源汽车与电网能量互动，降低新能源汽车用电成本，提高电网调峰调频、安全应急等响应能力。2023年4月，中央政治局会议提出要巩固和扩大…",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "扩大",
+        "official_match:国办发〔2020〕39号"
+      ],
+      "reason": "context cue \"扩大\" indicates building on or expanding the cited document"
+    },
+    {
+      "from": "P_1900_HN_7de5ab8e",
+      "to": "P_2024_NDRC_1721",
+      "rel": "extends",
+      "evidence": "medium --- # 国家能源局有关负责同志就《关于加强新能源汽车与电网融合互动的 ... ## 政策原文 近日，国家发展改革委、国家能源局、工业和信息化部和市场监管总局联合印发了《关于加强新能源汽车与电网融合互动的实施意见》（以下简称《实施意见》）。《实施意见》对推动我国车网融合互动作出了哪些部署？记者专访了国家发展改革委、国家能源局有关负责同志。 **问：《实施意见》的制定背景是什么？*…",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "加强",
+        "title_match:加强新能源汽车与电网融合互动的实施意见"
+      ],
+      "reason": "context cue \"加强\" indicates building on or expanding the cited document"
+    },
+    {
+      "from": "P_1900_HN_7de5ab8e",
+      "to": "P_2020_GO_1020e9f0",
+      "rel": "extends",
+      "evidence": "。《实施意见》对推动我国车网融合互动作出了哪些部署？记者专访了国家发展改革委、国家能源局有关负责同志。 **问：《实施意见》的制定背景是什么？** **答：**2020年10月，国务院办公厅印发《新能源汽车产业发展规划（2021-2035）》（国办发〔2020〕39号），提出要推动新能源汽车与能源融合发展，加强新能源汽车与电网能量互动，降低新能源汽车用电成本，提高电网调峰调频、安全应急等响应能力…",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "加强",
+        "title_match:新能源汽车产业发展规划（2021"
+      ],
+      "reason": "context cue \"加强\" indicates building on or expanding the cited document"
+    },
+    {
+      "from": "P_1900_HN_7de5ab8e",
+      "to": "P_2024_NDRC_01047553",
+      "rel": "extends",
+      "evidence": "e: medium --- # 国家能源局有关负责同志就《关于加强新能源汽车与电网融合互动的 ... ## 政策原文 近日，国家发展改革委、国家能源局、工业和信息化部和市场监管总局联合印发了《关于加强新能源汽车与电网融合互动的实施意见》（以下简称《实施意见》）。《实施意见》对推动我国车网融合互动作出了哪些部署？记者专访了国家发展改革委、国家能源局有关负责同志。 **问：《实施意见》的制定背景是什…",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "加强",
+        "title_match:关于加强新能源汽车与电网融合互动的实施意见"
+      ],
+      "reason": "context cue \"加强\" indicates building on or expanding the cited document"
+    },
+    {
+      "from": "P_1900_SX_dfb899b7",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "extends",
+      "evidence": "国务院对电力市场化改革进行了系统部署。2021年，中央全面深化改革委员会审议通过《关于加快建设全国统一电力市场体系的指导意见》，2024年，党的二十届三中全会进一步强调要建设全国统一电力市场。截至2025年",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_phrase_in_candidate",
+        "phrase=《关于加快建设全国统一电力市场体系的指导意见》"
+      ],
+      "reason": "目标正文 «关于加快建设全国统一电力市场体系的指导意见» 与 vault 候选标题匹配"
     },
     {
       "from": "P_2024_SH_8_b",
@@ -2499,9 +3383,157 @@
       "extracted_by": "rebuild_l2_rel_judge_rerun",
       "extracted_at": "2026-05-06T14:38:06+08:00",
       "reason": "节能减排工作中两新部署对应上海加力扩围两新方案"
+    },
+    {
+      "from": "P_2024_HA_2824bc55",
+      "to": "P_2025_CQ_a9a5497c",
+      "rel": "aligns_with",
+      "evidence": "target《关于大力实施可再生能源替代行动的指导意见》(发改能源〔2024〕1537号)中提出深化新能源上网电价市场化改革, 与重庆深化新能源上网电价市场化改革实施方案方向一致。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "topic_match_新能源上网电价市场化改革"
+      ],
+      "reason": "国家指导意见与省级实施方案方向一致, 但无直接引用故标 aligns_with。"
+    },
+    {
+      "from": "P_2026_BJ_29c77bd2",
+      "to": "P_1900_BJ_30979cba",
+      "rel": "aligns_with",
+      "evidence": "target为北京市政府文件目录页, 列出京政发〔2024〕3号(《关于做好第四次全国文物普查工作的通知》)等文件, 候选为北京市政府公报2024第14期收录该文件全文, 二者作为同一文件清单的不同载体。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "official_number_京政发2024_3号_match",
+        "doc_index_listing"
+      ],
+      "reason": "目录页与公报均收录同一组北京市政府发文, 内容高度对应。"
+    },
+    {
+      "from": "P_2024_HA_2824bc55",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "target《关于大力实施可再生能源替代行动的指导意见》(发改能源〔2024〕1537号)与候选《加快构建新型电力系统行动方案(2024—2027年)》同期、同源(国家发改委等部门), 主题相互配合。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "same_period",
+        "topic_complement_新型电力系统_可再生能源"
+      ],
+      "reason": "国家层面同期发布的电力/可再生能源系统性政策, 方向协同。"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_1900_BJ_30979cba",
+      "rel": "aligns_with",
+      "evidence": "2024年度北京市人民政府公报总目录索引列出京政发〔2024〕3号等文件, 候选vault为北京市政府公报2024第14期(总第842期)。索引与公报为同一系列。",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "official_number_京政发2024_3",
+        "publication_index_relation"
+      ],
+      "reason": "目录索引与具体期次公报为同系列文献。"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_GO_859f2341",
+      "rel": "aligns_with",
+      "evidence": "2024年度北京市人民政府公报总目录索引收录《市政府2024年立法工作计划》通知(京政办发〔2024〕11号)。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "official_number_match_京政办发2024_11"
+      ],
+      "reason": "公报年度索引收录该文件。"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_BJ_44cecd6c",
+      "rel": "aligns_with",
+      "evidence": "2024年度北京市人民政府公报总目录索引收录《2024年北京市人民政府重大行政决策事项目录》(京政办发〔2024〕8号)。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "official_number_match_京政办发2024_8"
+      ],
+      "reason": "公报年度索引收录该文件。"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_BJ_0427ca25",
+      "rel": "aligns_with",
+      "evidence": "2024年度北京市人民政府公报总目录索引收录《北京市积极推动设备更新和消费品以旧换新行动方案》(京政发〔2024〕14号)。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_exact_match"
+      ],
+      "reason": "公报年度索引收录该文件。"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_BJ_082685cd",
+      "rel": "aligns_with",
+      "evidence": "2024年度北京市人民政府公报总目录索引收录《北京市加力支持设备更新和消费品以旧换新实施方案》。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_exact_match"
+      ],
+      "reason": "公报年度索引收录该文件。"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_BJ_0126a2e6",
+      "rel": "aligns_with",
+      "evidence": "2024年度北京市人民政府公报总目录索引收录《2024年市政府工作报告重点任务清单》。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_exact_match"
+      ],
+      "reason": "公报年度索引收录该文件。"
+    },
+    {
+      "from": "P_1900_BJ_3701c968",
+      "to": "P_2024_BJ_04024e0d",
+      "rel": "aligns_with",
+      "evidence": "2024年度北京市人民政府公报总目录索引收录《北京市绿色低碳发展国民教育体系建设实施方案》。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "title_exact_match"
+      ],
+      "reason": "公报年度索引收录该文件。"
+    },
+    {
+      "from": "P_2022_HI_4eac1187",
+      "to": "P_2021_SC_0922fb2b",
+      "rel": "aligns_with",
+      "evidence": "022年8月9日 (本文有删减) **海南省碳达峰实施方案** 为贯彻落实《关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见》(中发〔2021〕36号)和《",
+      "confidence": 0.843,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-06T15:58:01+08:00",
+      "signals": [
+        "regex:贯彻/贯彻落实《...》",
+        "match_why:quote_in_core",
+        "match_score:0.92"
+      ],
+      "reason": "表述为\"贯彻落实\"，与上位/平行文件对接"
     }
   ],
-  "relations_count": 120,
+  "relations_count": 176,
   "diff_files": [
     "P_2022_MEE_111__from__P_2020_MEE_1230dbd8.md",
     "P_2022_CQ_18__from__P_2020_GO_39_b.md",
@@ -2512,37 +3544,30 @@
     "P_2023_NDRC_0704ee90__from__P_2023_NDRC_0519539e.md"
   ],
   "opinion_policy_ids": [
-    "P_2026_CCGO_041241d4",
-    "P_2026_MEE_0209f3b1",
     "P_2023_NDRC_1044_b",
     "P_2025_NDRC_357_a",
-    "P_2026_SC_0305e288",
-    "P_2024_OTHER7F45_060777c1",
     "P_2024_SC_12_a",
-    "P_2024_OTHER764F_337",
-    "P_2025_NEA_107",
     "P_2024_NDRC_1046_b",
-    "P_2021_SC_0922fb2b",
-    "P_2025_SH_16",
-    "P_2021_MEE_19",
     "P_2020_GO_39_b",
-    "P_2021_SC_23",
-    "P_2026_MIIT_13",
-    "P_2026_SD_03271ffc",
-    "P_2024_NDRC_1721",
-    "P_2023_NDRC_092751f2_a",
-    "P_2025_NDRC_262"
+    "P_2023_NDRC_092751f2_a"
   ],
   "region_distribution": {
     "国家": {
-      "全国": 37
+      "全国": 41
     },
     "省": {
-      "北京市": 6,
+      "山西省": 3,
+      "湖南省": 2,
+      "北京市": 8,
+      "海南省": 1,
       "上海市": 8,
+      "山东省": 2,
+      "贵州省": 2,
+      "河南省": 3,
       "辽宁省": 1,
-      "重庆市": 6,
-      "山东省": 1
+      "重庆市": 7,
+      "浙江省": 1,
+      "四川省": 1
     },
     "市": {
       "吕梁市": 1,
@@ -2561,39 +3586,22 @@
   },
   "top_issuers": {
     "生态环境部": 7,
-    "国家能源局": 4,
+    "国家能源局": 6,
+    "北京市人民政府": 5,
+    "山西省发展和改革委员会": 3,
     "国务院办公厅": 3,
     "国务院": 3,
-    "北京市人民政府": 3,
+    "国家发展和改革委员会": 3,
+    "河南省发展和改革委员会": 3,
+    "湖南省发展和改革委员会": 2,
+    "贵州省发展和改革委员会": 2,
     "国家发展改革委等部门": 2,
     "上海市人民政府办公厅": 2,
     "苏州市人民政府": 2,
     "上海市发展和改革委员会": 2,
-    "重庆市人民政府": 2,
-    "国家发展和改革委员会、国家能源局": 2,
-    "中共中央、国务院": 1,
-    "中共中央、国务院(商务部转载)": 1,
-    "国务院国有资产监督管理委员会": 1,
-    "北京市发展和改革委员会": 1
+    "重庆市人民政府": 2
   },
   "top_5_importance": [
-    {
-      "id": "P_2020_GO_39_b",
-      "title": "新能源汽车产业发展规划(2021—2035年)",
-      "date": "2020-10-20",
-      "official": "国办发〔2020〕39号",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
-    },
     {
       "id": "P_2020_GO_1020e9f0",
       "title": "新能源汽车产业发展规划（2021—2035年）",
@@ -2610,6 +3618,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
+    },
+    {
+      "id": "P_2020_GO_39_b",
+      "title": "新能源汽车产业发展规划(2021—2035年)",
+      "date": "2020-10-20",
+      "official": "国办发〔2020〕39号",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
     },
     {
       "id": "P_2021_SC_0922fb2b",

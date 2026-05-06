@@ -91,3 +91,73 @@ themes:
       - 全国碳排放权交易市场
       - CCER
       - 碳排放权
+
+  # ============= 2026-05-06 audit 新增 4 主题(Phase 1 扩容) =============
+  - id: petroleum_retail_compliance
+    dir_name: PETROLEUM_RETAIL_COMPLIANCE
+    zh: 加油零售/平台合规
+    aliases:
+      - 成品油零售
+      - 成品油经营许可
+      - 成品油零售经营批准证书
+      - 加油站经营许可
+      - 平台经济合规
+      - 互联网信息服务
+      - 油品零售合规
+      - 平台油品销售
+      - 油品转售
+      - 商务部成品油
+      - 成品油市场监督
+      - 油品质量监督
+      - 加油站价格管制
+
+  - id: residential_charging
+    dir_name: RESIDENTIAL_CHARGING
+    zh: 居住区充电
+    aliases:
+      - 居住区充电
+      - 居民区充电
+      - 住宅小区充电
+      - 私人充电桩
+      - 私桩
+      - 私桩共享
+      - 统建统营
+      - 自用充电桩
+      - 小区充电
+      - 老旧小区充电桩
+      - 业主固定车位充电
+      - 物业充电
+      - 报装
+
+  - id: distribution_grid_opening
+    dir_name: DISTRIBUTION_GRID_OPENING
+    zh: 配电网开放/增量配电
+    aliases:
+      - 配电网
+      - 增量配电
+      - 增量配电改革
+      - 配电网开放
+      - 配电网高质量发展
+      - 微电网
+      - 售电侧改革
+      - 直接交易
+      - 增量配电业务
+      - 配网接入
+      - 分布式发电接入
+
+  - id: aggregator_access
+    dir_name: AGGREGATOR_ACCESS
+    zh: 聚合商准入
+    aliases:
+      - 负荷聚合商
+      - 聚合商
+      - 聚合商准入
+      - 售电公司准入
+      - 新型电力市场主体
+      - 新型经营主体
+      - 独立辅助服务
+      - 负荷聚合
+      - 注册公示
+      - 经营资质
+      - 市场主体注册
+      - 第三方独立主体

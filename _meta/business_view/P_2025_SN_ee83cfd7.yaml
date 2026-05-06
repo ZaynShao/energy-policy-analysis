@@ -1,0 +1,23 @@
+pid: P_2025_SN_ee83cfd7
+scores:
+  D1: 4
+  D2: 3
+  D3: 3
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 陕西省级虚拟电厂运营管理平台已建成,得宝门微电厂示范运营,年内目标30万千瓦灵活调节,为VPP聚合商接入提供窗口
+  乡村: 未涉及
+行动建议:
+- 'A 立即: 主动对接陕西省负荷管理中心和省级VPP平台,争取作为聚合商接入30万千瓦目标'
+- 'B 研究: 受限断面负荷管理创新场景在交通和加油充电站场景中的复用'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 陕西VPP年内30万千瓦目标为接入业务规模化提供窗口

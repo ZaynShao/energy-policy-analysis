@@ -1,0 +1,23 @@
+pid: P_2024_HL_dd8e801c
+scores:
+  D1: 0
+  D2: 1
+  D3: 1
+  D4: 0
+  D5: 4
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 乡镇加油站点持续作为乡村出行基础。
+  充电: 村庄整洁与乡镇通畅推动乡村充电下沉。
+  电力_储能_V2G_交易: 新型城乡能源体系长期发展。
+  乡村: 省级乡村振兴+新型城镇化框架，是滴滴乡村振兴业务在黑龙江开展的政策依据。
+行动建议:
+- 'B 研究: 在黑龙江选择县域开展乡村出行+能源服务试点，对齐幸福龙江指标。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 黑龙江乡村振兴与产业升级框架，乡村出行/能源服务有政策支撑
+archive: low_score

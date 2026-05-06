@@ -1,0 +1,23 @@
+pid: P_2019_GX_580a900b
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 0
+  D6: 0
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 增量配电网内充电站可享就近交易优惠,降本明显
+  电力_储能_V2G_交易: 园区储能与就近交易组合,有利VPP本地撮合
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 与正文版本对照即可'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 解读文,与正文配对参考
+archive: low_score

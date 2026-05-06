@@ -1,0 +1,23 @@
+pid: P_2024_GZ_ee0e15a2
+scores:
+  D1: 2
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 增量配电网容量增加为园区内充电基础设施扩容提供供电承载力
+  电力_储能_V2G_交易: 增量配电+大数据科创城/产业新城为分布式光伏+储能+VPP提供园区试点土壤
+  乡村: 未涉及
+行动建议:
+- 'C 关注: 贵安新区增量配电网试点中分布式与储能接入合作机会'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 增量配电试点扩容支撑贵安新区园区充电与综合能源业务
+archive: low_score

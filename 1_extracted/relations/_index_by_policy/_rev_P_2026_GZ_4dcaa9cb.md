@@ -1,0 +1,17 @@
+---
+policy_id: P_2026_GZ_4dcaa9cb
+title: 贵州省国民经济和社会发展第十五个五年规划纲要
+inbound_edge_count: 0
+outbound_edge_count: 1
+commentary_inbound_count: 0
+last_updated: '2026-05-06T16:23:47+08:00'
+policy_file: ../../../0_raw/policies/【贵州省国民经济和社会发展第十五个五年规划纲要】-贵州省发展和改革委员会-4dcaa9cb.md
+---
+
+> 政策原文:[[【贵州省国民经济和社会发展第十五个五年规划纲要】-贵州省发展和改革委员会-4dcaa9cb|贵州省国民经济和社会发展第十五个五年规划纲要]]
+
+# 出向引用:P_2026_GZ_4dcaa9cb
+
+## 引用为依据 — 1
+
+- [[P_2026_CQ_7]] — 重庆市国民经济和社会发展第十五个五年规划 (2026-02-12)

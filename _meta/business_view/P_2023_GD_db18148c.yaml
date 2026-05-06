@@ -1,0 +1,23 @@
+pid: P_2023_GD_db18148c
+scores:
+  D1: 0
+  D2: 2
+  D3: 4
+  D4: 2
+  D5: 0
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无影响。
+  充电: 工商业类市场化用户注册要求是连锁充电站作为市场化用户参与的依据。
+  电力_储能_V2G_交易: 零售市场规则是售电公司、聚合商进行结算与合规运营的核心规则，VPP/聚合业务在广东应严格遵循。
+  乡村: 无直接影响。
+行动建议:
+- 'B 研究: 评估在广东设立或合作售电公司参与零售市场，按办法完成主体注册。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广东零售市场办法，售电公司/聚合商与充电运营商按章入市
+archive: low_score

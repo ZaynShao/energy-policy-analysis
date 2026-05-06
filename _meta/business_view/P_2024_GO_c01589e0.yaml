@@ -1,0 +1,23 @@
+pid: P_2024_GO_c01589e0
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 4
+  D6: 4
+重要性: 0
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 通过乡村加油站网络优化间接相关。
+  充电: 乡村充电下沉是政策导向场景之一。
+  电力_储能_V2G_交易: 可与乡村分布式光伏与微电网建设协同。
+  乡村: 三农工作总纲领，滴滴乡村振兴业务（农村出行、能源服务、农产品流通）需对接千万工程经验和乡村产业、建设、治理三方向。
+行动建议:
+- 'A 立即: 将乡村业务与千万工程经验框架对齐，明确产业、建设、治理切入点。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 中央一号文件框定乡村振兴主线，乡村业务需对接千万工程导向
+archive: low_score

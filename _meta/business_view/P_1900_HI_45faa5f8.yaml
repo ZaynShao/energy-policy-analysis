@@ -1,0 +1,23 @@
+pid: P_1900_HI_45faa5f8
+scores:
+  D1: 4
+  D2: 5
+  D3: 4
+  D4: 5
+  D5: 1
+  D6: 1
+重要性: 4
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 鼓励EV充电负荷转移到午间光伏大发时段,V2G+智能充电场景具备直接补贴
+  电力_储能_V2G_交易: VPP作为经营主体明确补偿单价上限2元/kWh、容量0.3元/kW,远高于多省;补偿资金来源扩大
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 海南作为VPP高补偿试点优先进入,搭建本地聚合资源池'
+- 'B 研究: 用海南补偿基准对滴滴现有省份套利模型做对比'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 海南补偿2元+VPP准入,滴滴聚合标杆赛道

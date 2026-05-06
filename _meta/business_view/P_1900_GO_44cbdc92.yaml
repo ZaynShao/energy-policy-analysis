@@ -1,0 +1,23 @@
+pid: P_1900_GO_44cbdc92
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无关
+  充电: 建筑绿色发展条例可能涉及新建建筑充电桩配建,值得跟原文
+  电力_储能_V2G_交易: 公共建筑能效分级有助于VPP楼宇资源识别
+  乡村: 无关
+行动建议:
+- 'C 关注: 取出《北京市建筑绿色发展条例》《公共建筑能效分级管理办法》原文进入下一轮'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 建筑能效分级管理可与VPP楼宇侧聚合资源对接
+archive: low_score

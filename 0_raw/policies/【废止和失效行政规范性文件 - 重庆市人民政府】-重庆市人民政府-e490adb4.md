@@ -1,0 +1,45 @@
+---
+id: P_2023_CQ_e490adb4
+aliases:
+- P_2023_CQ_e490adb4
+title: 废止和失效行政规范性文件 - 重庆市人民政府
+official_number: ''
+issuer:
+- 重庆市人民政府
+date: '2023-12-13'
+region:
+  level: 省
+  code: '500000'
+  name: 重庆市
+type: policy
+provenance:
+  url: https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/fzhsxgz/fzhsxxzgfxwj/szfwjdanlmlbwap_9.html
+  fetched_at: 2026-05-06 07:47:59+00:00
+  fetched_method: trafilatura
+  audit_run: audit_2026-05-06
+  candidate_priority: 2
+  src_count: 1
+confidence: medium
+---
+
+# 废止和失效行政规范性文件 - 重庆市人民政府
+
+## 政策原文
+
+废止和失效行政规范性文件
+
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13
+- 废止日期：2023-12-13

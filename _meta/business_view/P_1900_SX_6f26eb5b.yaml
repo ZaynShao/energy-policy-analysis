@@ -1,0 +1,22 @@
+pid: P_1900_SX_6f26eb5b
+scores:
+  D1: 1
+  D2: 0
+  D3: 3
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无影响
+  充电: 无影响
+  电力_储能_V2G_交易: 无影响
+  乡村: 无影响
+行动建议: []
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 聚合页面,具体政策需逐项查阅
+archive: low_score

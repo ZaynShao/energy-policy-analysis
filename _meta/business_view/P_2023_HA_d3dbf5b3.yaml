@@ -1,0 +1,23 @@
+pid: P_2023_HA_d3dbf5b3
+scores:
+  D1: 0
+  D2: 0
+  D3: 4
+  D4: 0
+  D5: 0
+  D6: 3
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无影响。
+  充电: 光储充与新能源消纳模式可在河南落地。
+  电力_储能_V2G_交易: 600 万千瓦目标对独立储能、共享储能、VPP 提供巨量容量空间，需关注河南配套市场化运营机制。
+  乡村: 弱影响。
+行动建议:
+- 'B 研究: 跟踪河南新型储能配套市场机制与示范项目清单。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 河南储能跨越发展，VPP/独立储能在豫有规模化机会
+archive: low_score

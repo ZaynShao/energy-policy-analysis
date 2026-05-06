@@ -1,0 +1,17 @@
+---
+policy_id: P_2025_HI_9b2f7fea
+title: 光伏配电网可开放容量的通知 - 海南省发展和改革委员会
+inbound_edge_count: 1
+outbound_edge_count: 0
+commentary_inbound_count: 0
+last_updated: '2026-05-06T16:23:47+08:00'
+policy_file: ../../../0_raw/policies/【光伏配电网可开放容量的通知 - 海南省发展和改革委员会】-海南省发展和改革委员会-9b2f7fea.md
+---
+
+> 政策原文:[[【光伏配电网可开放容量的通知 - 海南省发展和改革委员会】-海南省发展和改革委员会-9b2f7fea|光伏配电网可开放容量的通知 - 海南省发展和改革委员会]]
+
+# 入向反链:P_2025_HI_9b2f7fea
+
+## 被迭代 (iterated_by) — 1
+
+- [[P_2026_HI_2ed1e9e2]] — 关于公布海南省2026年第二季度分布式 (2026-04-17)

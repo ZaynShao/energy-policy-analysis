@@ -1,0 +1,23 @@
+pid: P_2021_LN_44c4b58c
+scores:
+  D1: 4
+  D2: 5
+  D3: 4
+  D4: 5
+  D5: 1
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 鼓励充电设施侧探索储充一体、聚合不间断电源/EV/用户侧储能,利好充电特许+储能联营
+  电力_储能_V2G_交易: 明确独立市场主体、容量电价、共享储能、虚拟电厂,几乎是滴滴VPP业务的政策主轴
+  乡村: 用户侧储能与5G基站、农业园区结合,可与乡村光储联动
+行动建议:
+- 'A 立即: 作为滴滴VPP战略材料的政策基底,在月报固定引用'
+- 'B 研究: 跟踪各省容量电价细则与共享储能落地政策,补强滴滴撮合产品'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 国家储能独立主体地位是滴滴VPP/共享储能撮合的政策根

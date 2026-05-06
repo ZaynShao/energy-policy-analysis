@@ -38,3 +38,5 @@ _meta/tmp/
 * 2.yaml
 * 2.json
 _l2_rebuild_state/
+_l2_rebuild_state_backup_*/
+0_raw/policies_staging_*/

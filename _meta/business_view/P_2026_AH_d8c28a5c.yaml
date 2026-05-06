@@ -1,0 +1,23 @@
+pid: P_2026_AH_d8c28a5c
+scores:
+  D1: 1
+  D2: 3
+  D3: 4
+  D4: 2
+  D5: 1
+  D6: 4
+重要性: 2
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 无影响。
+  充电: 私人场所对外运营充电桩备案问答（含农村宅基地）直接关系滴滴特许平台合规与下沉合作。
+  电力_储能_V2G_交易: 安徽 VPP 实施方案进入征求意见阶段，是滴滴在皖布局 VPP 的关键时间窗。
+  乡村: 农村宅基地充电桩备案咨询直接对应乡村充电业务合规边界。
+行动建议:
+- 'A 立即: 提交对安徽 VPP 征求意见稿的反馈，跟踪农村充电备案细则与光储充免基本电费口径。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 安徽 VPP 实施方案征求意见+充电桩备案问答有直接业务参考价值
+archive: low_score

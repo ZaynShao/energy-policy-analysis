@@ -1,0 +1,17 @@
+---
+policy_id: P_1900_SX_6f26eb5b
+title: 山西省发展和改革委员会
+inbound_edge_count: 0
+outbound_edge_count: 1
+commentary_inbound_count: 0
+last_updated: '2026-05-06T16:23:47+08:00'
+policy_file: ../../../0_raw/policies/【山西省发展和改革委员会】-山西省发展和改革委员会-6f26eb5b.md
+---
+
+> 政策原文:[[【山西省发展和改革委员会】-山西省发展和改革委员会-6f26eb5b|山西省发展和改革委员会]]
+
+# 出向引用:P_1900_SX_6f26eb5b
+
+## 引用了 — 1
+
+- [[P_2026_GO_abc95ba1]] — 【关于修订省间电力现货交易规则的复函(发改办体改〔2026〕275号)】-国家发展和改革委员会 (2026-04-14)

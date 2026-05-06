@@ -1,0 +1,23 @@
+pid: P_2024_GD_4f183861
+scores:
+  D1: 4
+  D2: 5
+  D3: 4
+  D4: 5
+  D5: 1
+  D6: 3
+重要性: 4
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 充电站作为用户参与市场可绑定售电公司,充电特许扩大与售电协同空间
+  电力_储能_V2G_交易: 独立储能、抽蓄、VPP三类新型主体明确分时合约/累计交易/净合约约束,滴滴撮合产品需对齐分时申报与曲线分解
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 以广东2026交易规则为基线对滴滴VPP系统进行配置升级'
+- 'B 研究: 联合售电公司在广东推浮动定价合同+分时合约组合'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广东26 VPP/储能/抽蓄入市,滴滴需对齐粤规

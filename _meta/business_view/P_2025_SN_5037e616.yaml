@@ -1,0 +1,23 @@
+pid: P_2025_SN_5037e616
+scores:
+  D1: 4
+  D2: 5
+  D3: 4
+  D4: 5
+  D5: 0
+  D6: 1
+重要性: 4
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 充电桩可作为可调资源接入VPP聚合,需对接陕西负荷管理中心系统
+  电力_储能_V2G_交易: VPP运营商资格、平台接入、资源池要求、需求响应/中长期/现货/辅助服务参与机制完整,滴滴可直接申请VPP运营商身份
+  乡村: 分布式光伏+储能可纳入VPP,与乡村业务结合
+行动建议:
+- 'A 立即: 准备陕西VPP运营商申报材料,目标接入负荷管理系统'
+- 'A 立即: 把陕西作为西北VPP复制模板,同步对接新疆/甘肃'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 陕西VPP准入+四市场,滴滴可直接申报

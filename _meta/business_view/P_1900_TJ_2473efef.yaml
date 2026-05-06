@@ -1,0 +1,24 @@
+pid: P_1900_TJ_2473efef
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 4
+  D6: 3
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 跨省通办与道路运输衔接利好车辆运输沿线加油撮合
+  充电: 新能源汽车产业链协同+乡村干道升级,毗邻县域充电站需求会上行
+  电力_储能_V2G_交易: 新型储能集群方向明确但具体VPP机制未涉及
+  乡村: 毗邻县域结对、通村公交、跨省电子证照互认,利好乡村振兴+新能源下乡协同
+行动建议:
+- 'C 关注: 皖豫毗邻26县充电下乡和道路运输落地'
+- 'C 关注: 五大产业集群中新能源/储能区位选择'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 皖豫新能源储能集群协同利于皖豫县域充电下乡
+archive: low_score

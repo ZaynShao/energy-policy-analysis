@@ -1,0 +1,23 @@
+pid: P_1900_CQ_683486a9
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 光储充检换一体化模式被作为新型储能应用场景,充电站综合能源化具备政策支持
+  电力_储能_V2G_交易: 重庆储能项目可通过容量租赁、电力现货、辅助服务多渠道获得收益,2025年底电力现货连续结算试运行;新能源+储能、分布式能源+储能、光储充检换为推广模式
+  乡村: 未涉及
+行动建议:
+- 'B 研究: 重庆光储充检换一体化模式与电力现货收益叠加测算'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 重庆储能商业化路径成型,2027扩张目标
+archive: low_score

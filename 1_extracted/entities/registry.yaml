@@ -1252,3 +1252,71 @@ note: |
   added_at: 2026-05-06
   added_by: l2_themes_expansion_v3_rural_T15
   confidence: 0.95
+
+- id: petroleum_retail_compliance
+  canonical_name: 加油零售合规
+  type: [theme]
+  aliases:
+    - 成品油零售
+    - 成品油经营许可
+    - 成品油零售经营批准证书
+    - 加油站经营许可
+    - 平台经济合规
+    - 互联网信息服务
+    - 油品零售合规
+    - 成品油市场监督
+  desc: 滴滴加油业务合规底线相关政策(零售许可/价格管制/平台合规)
+  added_at: 2026-05-06
+  added_by: audit_2026-05-06
+  confidence: 0.9
+
+- id: residential_charging
+  canonical_name: 居住区充电
+  type: [theme]
+  aliases:
+    - 居住区充电
+    - 住宅小区充电
+    - 私人充电桩
+    - 私桩
+    - 私桩共享
+    - 统建统营
+    - 老旧小区充电桩
+    - 业主固定车位充电
+  desc: 与公共充电相对的住宅市场充电(物业/电力接入双重审批)
+  added_at: 2026-05-06
+  added_by: audit_2026-05-06
+  confidence: 0.9
+
+- id: distribution_grid_opening
+  canonical_name: 配电网开放
+  type: [theme]
+  aliases:
+    - 配电网
+    - 增量配电
+    - 增量配电改革
+    - 配电网开放
+    - 配电网高质量发展
+    - 微电网
+    - 售电侧改革
+    - 直接交易
+  desc: VPP/储能/V2G 接入电网的底层制度(增量配电试点 / 配电网新形势)
+  added_at: 2026-05-06
+  added_by: audit_2026-05-06
+  confidence: 0.9
+
+- id: aggregator_access
+  canonical_name: 聚合商准入
+  type: [theme]
+  aliases:
+    - 负荷聚合商
+    - 聚合商
+    - 聚合商准入
+    - 售电公司准入
+    - 新型电力市场主体
+    - 新型经营主体
+    - 独立辅助服务
+    - 市场主体注册
+  desc: VPP/V2G 商业化前提(注册/牌照/结算规则)
+  added_at: 2026-05-06
+  added_by: audit_2026-05-06
+  confidence: 0.9

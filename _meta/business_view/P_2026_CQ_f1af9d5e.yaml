@@ -1,0 +1,23 @@
+pid: P_2026_CQ_f1af9d5e
+scores:
+  D1: 2
+  D2: 1
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 电化学储能系统调控可行域评估与安全预警装置(科学谷储能站)、大型电化学移动储能车被纳入推荐,代表储能装备前沿,可能进入设备采购备选
+  乡村: 未涉及
+行动建议:
+- 'C 关注: 重庆电化学储能调控装置与移动储能车厂商动态,作为储能业务设备/合作候选'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 电化学储能调控+移动储能车被推荐为首台套,锚定重庆储能装备生态
+archive: low_score

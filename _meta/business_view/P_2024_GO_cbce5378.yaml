@@ -1,0 +1,23 @@
+pid: P_2024_GO_cbce5378
+scores:
+  D1: 1
+  D2: 0
+  D3: 2
+  D4: 0
+  D5: 0
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无影响。
+  充电: 新能源装机扩张为充电站绿电供应提供基础。
+  电力_储能_V2G_交易: 广西风电规模化扩张，配套调峰调频/新型储能需求扩大，VPP 业务在桂可寻找配储项目合作。
+  乡村: 县域风电项目可带动乡村就业与税收。
+行动建议:
+- 'C 关注: 跟踪广西配套储能与就地消纳价格机制。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 新能源配额扩张为光储充与就地消纳供能基础铺垫
+archive: low_score

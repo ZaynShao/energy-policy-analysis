@@ -2,9 +2,9 @@
 policy_id: P_2025_MIIT_60
 title: 全国工业领域电力需求侧管理典型案例及第七批参考产品技术征集
 inbound_edge_count: 0
-outbound_edge_count: 1
+outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-06T15:46:12+08:00'
+last_updated: '2026-05-06T16:23:47+08:00'
 policy_file: ../../../0_raw/policies/【全国工业领域电力需求侧管理典型案例及第七批参考产品技术征集(工信厅运行函〔2025〕60号)】-工业和信息化部办公厅-1a7e.md
 ---
 
@@ -15,3 +15,7 @@ policy_file: ../../../0_raw/policies/【全国工业领域电力需求侧管理�
 ## 引用为依据 — 1
 
 - [[P_2023_NDRC_092751f2_a]] — 电力需求侧管理办法(2023年版) (2023-09-27)
+
+## 引用了 — 1
+
+- [[P_2023_GO_a523a75f]] — 【关于印发《电力需求侧管理办法(2023年版)》的通知(发改运行规 ... (2023-09-15)

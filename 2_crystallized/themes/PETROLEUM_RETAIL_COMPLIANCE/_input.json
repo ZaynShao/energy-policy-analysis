@@ -1,0 +1,21 @@
+{
+  "theme": "petroleum_retail_compliance",
+  "theme_zh": "加油零售合规",
+  "aliases": [
+    "成品油零售",
+    "成品油经营许可",
+    "加油站经营许可",
+    "平台经济合规",
+    "油品零售合规",
+    "成品油市场监督"
+  ],
+  "policies": [],
+  "policies_count": 0,
+  "relations": [],
+  "relations_count": 0,
+  "diff_files": [],
+  "opinion_policy_ids": [],
+  "region_distribution": {},
+  "top_issuers": {},
+  "top_5_importance": []
+}

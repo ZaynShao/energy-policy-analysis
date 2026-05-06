@@ -1,0 +1,23 @@
+pid: P_1900_LN_54de50fa
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无关
+  充电: 无直接影响
+  电力_储能_V2G_交易: 省级电力市场管理委员会是规则制定主体,组建信息可作BD通道,但本页无可读内容
+  乡村: 无关
+行动建议:
+- 'C 关注: 通过其他渠道获取委员会构成与议事规则'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 正文不可见,影响判断
+archive: low_score

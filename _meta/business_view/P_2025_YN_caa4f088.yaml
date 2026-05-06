@@ -1,0 +1,23 @@
+pid: P_2025_YN_caa4f088
+scores:
+  D1: 3
+  D2: 2
+  D3: 1
+  D4: 0
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 中老铁路、跨境通道与口岸经济带动跨境货运车队加油需求。
+  充电: 重卡换电、跨境物流新能源化是潜在场景。
+  电力_储能_V2G_交易: 园区物流枢纽用电需求可对接 VPP/园区储能。
+  乡村: 县乡物流和冷链与乡村振兴衔接。
+行动建议:
+- 'C 关注: 跟踪昆明国际陆港、跨境物流新能源化项目，识别加油/换电合作机会。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 云南物流通道扩张利好货运加油/重卡换电与冷链车队
+archive: low_score

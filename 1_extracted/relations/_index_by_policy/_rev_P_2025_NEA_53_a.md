@@ -2,9 +2,9 @@
 policy_id: P_2025_NEA_53_a
 title: 国家能源局关于组织开展新型电力系统建设第一批试点工作的通知
 inbound_edge_count: 5
-outbound_edge_count: 2
+outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-06T15:46:12+08:00'
+last_updated: '2026-05-06T16:23:47+08:00'
 policy_file: ../../../0_raw/policies/【国家能源局关于组织开展新型电力系统建设第一批试点工作的通知(国能发电力〔2025〕53号)】-国家能源局-53a6.md
 ---
 
@@ -31,6 +31,10 @@ policy_file: ../../../0_raw/policies/【国家能源局关于组织开展新型�
 ## 引用为依据 — 1
 
 - [[P_2024_NDRC_0806117c]] — 加快构建新型电力系统行动方案(2024—2027年) (2024-08-06)
+
+## 引用了 — 1
+
+- [[P_1900_SX_02f1bbdd]] — 《关于加快推进虚拟电厂发展的指导意见》政策解读 (2025-04-11)
 
 ## 对齐了 — 1
 

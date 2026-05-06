@@ -1,16 +1,20 @@
 ---
 policy_id: P_2024_SC_12_a
 title: 2024—2025年节能降碳行动方案
-inbound_edge_count: 3
+inbound_edge_count: 4
 outbound_edge_count: 0
 commentary_inbound_count: 6
-last_updated: '2026-05-06T15:46:12+08:00'
+last_updated: '2026-05-06T16:23:47+08:00'
 policy_file: ../../../0_raw/policies/【2024—2025年节能降碳行动方案(国发〔2024〕12号)】-国务院-79b5.md
 ---
 
 > 政策原文:[[【2024—2025年节能降碳行动方案(国发〔2024〕12号)】-国务院-79b5|2024—2025年节能降碳行动方案]]
 
 # 入向反链:P_2024_SC_12_a
+
+## 被引为依据 (cited_as_basis_by) — 1
+
+- [[P_2024_GO_dfcfe98b]] — 国新办举行“推动高质量发展”系列主题新闻发布会（国家能源局） (—)
 
 ## 被对齐 (aligns_with_by) — 2
 

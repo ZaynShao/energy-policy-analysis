@@ -1,0 +1,23 @@
+pid: P_2025_HN_97f39c45
+scores:
+  D1: 0
+  D2: 1
+  D3: 0
+  D4: 1
+  D5: 0
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无影响
+  充电: 可索引湖南电动汽车充电基础设施管理办法解读
+  电力_储能_V2G_交易: 可索引湖南分时电价、虚拟电厂指导意见解读
+  乡村: 无影响
+行动建议:
+- 'C 关注: 调取湖南分时电价、VPP指导意见、充电桩办法原文备查'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 对滴滴:湖南分时电价/充电桩/VPP/获得电力多份关键文件可一站索引
+archive: low_score

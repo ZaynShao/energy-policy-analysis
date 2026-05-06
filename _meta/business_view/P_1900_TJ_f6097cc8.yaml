@@ -1,0 +1,22 @@
+pid: P_1900_TJ_f6097cc8
+scores:
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 2
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 未涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 推动分布式光伏、分散式风电等新能源企业参与市场化交易,扩大VPP聚合标的
+  乡村: 农村集体经营性建设用地入市8宗成交,可能为乡村光伏/储能用地获取提供新通道
+行动建议:
+- 'C 关注: 天津分布式新能源市场化交易进展与VPP业务对接窗口'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 天津推动分布式光伏、分散式风电入市,扩大VPP聚合标的

@@ -1,0 +1,23 @@
+pid: P_2019_BJ_7953e5fb
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 0
+  D5: 0
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 成品油批发仓储取消审批、零售下放地市,利于滴滴撮合更多中小油站接入,但需关注地方实施细则
+  充电: 无影响
+  电力_储能_V2G_交易: 无影响
+  乡村: 县级加油船等下放,有助于乡村油源接入
+行动建议:
+- 'C 关注: 拉取商运函659号原文与各地落地清单作底层合规依据'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 对滴滴加油撮合:成品油零售审批下放至地市,利于地方加油站合规接入
+archive: low_score
