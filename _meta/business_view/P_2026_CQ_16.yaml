@@ -24,3 +24,7 @@ split_at: '2026-04-29'
 - B 研究:重庆作为西部储能/电池产业链聚集地的本地业务结合点(沙坪坝赣锋、铜梁海辰、涪陵瑞浦)
 didi_impact_one_liner: 重庆能源新基建项目级落地清单
 march_upgrade_at: '2026-04-29'
+extracted_at: null
+extracted_by: unknown_legacy
+extracted_model: unknown_legacy
+audit_backfilled_at: '2026-05-06T15:54:29+08:00'

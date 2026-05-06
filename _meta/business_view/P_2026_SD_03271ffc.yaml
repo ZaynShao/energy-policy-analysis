@@ -25,3 +25,7 @@ split_at: '2026-04-29'
 - B 研究:充电网/换电站作为聚合资源参与山东现货市场的具体收益模型(参考调节量负荷类聚合单元规则)
 didi_impact_one_liner: 国家357号文首批落地省V2G规模化首选
 march_upgrade_at: '2026-04-29'
+extracted_at: null
+extracted_by: unknown_legacy
+extracted_model: unknown_legacy
+audit_backfilled_at: '2026-05-06T15:54:29+08:00'

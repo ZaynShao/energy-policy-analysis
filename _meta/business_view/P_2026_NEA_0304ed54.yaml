@@ -24,3 +24,7 @@ split_at: '2026-04-29'
 - D 跟踪:中央一号文件 + 各省农村能源行动方案,捕捉地方先行试点机会
 didi_impact_one_liner: 县域充电下沉获国家级方向性背书
 march_upgrade_at: '2026-04-29'
+extracted_at: null
+extracted_by: unknown_legacy
+extracted_model: unknown_legacy
+audit_backfilled_at: '2026-05-06T15:54:29+08:00'

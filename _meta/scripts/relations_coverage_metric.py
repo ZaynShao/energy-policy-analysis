@@ -392,6 +392,10 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--isolated-list", action="store_true",
                     help="markdown 输出含全部 isolated 政策清单")
     ap.add_argument("--out", type=str, default=None, help="写文件而非 stdout")
+    ap.add_argument("--reverse-cites-suggest", action="store_true",
+                    help="输出 trigger E 候选清单(上位政策 inbound 偏低,适合反向 cites_basis 全扫)")
+    ap.add_argument("--trigger-f-candidates", action="store_true",
+                    help="输出 trigger F 候选清单(isolated ∪ 2025+ inbound_only build_legacy)")
     args = ap.parse_args(argv)
 
     pids = load_policy_pids()
@@ -401,6 +405,46 @@ def main(argv: list[str] | None = None) -> int:
     quads = quadrant_classify(pids, out_deg, in_deg)
     in_per_rel = per_rel_in_degree(relations)
     upstream_data = upstream_inbound(UPSTREAM_CANDIDATES, in_per_rel)
+
+    # trigger E 候选建议
+    if args.reverse_cites_suggest:
+        # cites_basis inbound 中,inbound 个数排名后 30% 的上位政策候选
+        cb_inbound = in_per_rel.get("cites_basis", {})
+        sorted_pids = sorted(UPSTREAM_CANDIDATES, key=lambda p: cb_inbound.get(p, 0))
+        suggest = [p for p in sorted_pids if cb_inbound.get(p, 0) <= 3]
+        print(",".join(suggest))
+        return 0
+
+    # trigger F 候选建议
+    if args.trigger_f_candidates:
+        # 加载 rel_judge_history(若有)
+        from pathlib import Path
+        hist = {}
+        hpath = VAULT / "_meta" / "audit" / "rel_judge_history.jsonl"
+        if hpath.exists():
+            for line in hpath.read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    try:
+                        r = json.loads(line); hist[r["pid"]] = r
+                    except (json.JSONDecodeError, KeyError):
+                        pass
+
+        def pid_year(p):
+            try:
+                return int(p.split("_")[1])
+            except (ValueError, IndexError):
+                return 0
+
+        # year >= 2017 过滤(P_1900 等占位 pid + 太古老的政策不进)
+        isolated_modern = [p for p in quads.get("isolated", []) if pid_year(p) >= 2017]
+        inbound_only_unaudited = [
+            p for p in quads.get("inbound_only", [])
+            if hist.get(p, {}).get("trigger") == "build_phase_legacy"
+            and pid_year(p) >= 2025
+        ]
+        candidates = sorted(set(isolated_modern + inbound_only_unaudited))
+        print(",".join(candidates))
+        return 0
 
     if args.as_json:
         out = render_json(pids, rel_stats, out_deg, in_deg, quads, upstream_data)

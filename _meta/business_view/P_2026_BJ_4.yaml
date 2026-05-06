@@ -25,3 +25,7 @@ split_at: '2026-04-29'
 - C 跟进:跟踪超充站、物流园补能设施配建项目机会
 didi_impact_one_liner: 北京充电场景与碳普惠拓展接口
 march_upgrade_at: '2026-04-29'
+extracted_at: null
+extracted_by: unknown_legacy
+extracted_model: unknown_legacy
+audit_backfilled_at: '2026-05-06T15:54:29+08:00'

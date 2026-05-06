@@ -309,9 +309,12 @@ apply 行为:
 
 ---
 
-## 4d. rel_judge 履历追踪(2026-05-06 加入)
+## 4d. LLM 派生履历追踪(2026-05-06 加入,扩展)
 
-文件:`_meta/audit/rel_judge_history.jsonl`(append-only,每行一次 LLM 跑)
+vault 维护 3 个 LLM 履历表 + 5C yaml 内嵌审计字段,确保所有 LLM 派生
+有时间/版本/模型可追溯。后续 prompt 升版后,可基于履历定向重审旧版数据。
+
+### `_meta/audit/rel_judge_history.jsonl`(关系层)
 
 字段:
 ```jsonl
@@ -330,6 +333,53 @@ apply 行为:
 **backfill 已跑一次**(commit 3cf26cc 起):273 政策都标 `build_phase_legacy + unknown_legacy`,后续每次 trigger A/E/F 跑时再覆盖履历(append,以最近一次为准)。**重复跑 backfill 拒抗**(已含 build_phase_legacy 行就 abort)。
 
 **升级 prompt 时**:改 `REL_JUDGE_PROMPT_VERSION` 常量(`_meta/scripts/rebuild_l2.py` 顶部),后续履历自动标新版本。
+
+### `_meta/audit/stance_history.jsonl`(stance LLM 抽取,2026-05-06 加入)
+
+字段:
+```jsonl
+{"comment_filename": "X.md", "ran_at": "ISO ts", "trigger": "trigger_B_commentary_change|build_phase_legacy",
+ "prompt_version": "v3_source_domain_2026-05-06|unknown_legacy", "model": "claude-opus-4-7|unknown_legacy",
+ "stance_pair_total": int, "source_hit_rate": float}
+```
+自动写入:apply --stage stance 末尾对每参与 commentary append 一行。
+backfill 已跑(189 commentaries 标 build_phase_legacy)。
+
+升级 prompt 时:改 `STANCE_PROMPT_VERSION` 常量。
+
+### `_meta/audit/opinions_summary_history.jsonl`(主题观点汇总,2026-05-06 加入)
+
+字段:
+```jsonl
+{"theme_dir_name": "POWER_MARKET", "ran_at": "ISO ts", "trigger": "...",
+ "prompt_version": "v3_wiki_link_2026-05-06|unknown_legacy", "model": "..."}
+```
+自动写入:apply --stage opinions-summary 末尾对每 fresh 主题 append 一行。
+
+升级 prompt 时:改 `OPINIONS_SUMMARY_PROMPT_VERSION` 常量。
+
+### 5C business_view yaml 内嵌审计字段
+
+每 yaml 含 `extracted_at` / `extracted_by` / `extracted_model`,5C apply 时自动写。
+backfill 已跑(10 个缺字段的标 unknown_legacy)。
+
+---
+
+## 4e. trigger E/F 候选自动建议(2026-05-06)
+
+`relations_coverage_metric.py` 加 2 个 flag,基于 metric + 履历自动生成候选:
+
+```bash
+# trigger F (rel_judge_rerun) 候选:isolated(year≥2017) ∪ inbound_only 2025+ build_legacy
+PIDS=$(python3 _meta/scripts/relations_coverage_metric.py --trigger-f-candidates)
+python3 _meta/scripts/rebuild_l2.py prepare --trigger rel_judge_rerun --pids "$PIDS" --batch-count 3
+
+# trigger E (reverse_cites) 候选:UPSTREAM_CANDIDATES 中 cites_basis inbound ≤3 的上位政策
+PIDS=$(python3 _meta/scripts/relations_coverage_metric.py --reverse-cites-suggest)
+python3 _meta/scripts/rebuild_l2.py prepare --trigger reverse_cites --target-pids "$PIDS"
+```
+
+不需要人眼 sample-first 决定哪个政策跑。
 
 ---
 
@@ -437,6 +487,8 @@ hook 不会让既有违规 commit 越来越多 — 只阻断**新引入**的违�
 **新写派生文件脚本时的命名规则**:
 - 输出文件名**不可**精确等于 `P_\d{4}_[A-Za-z0-9_]+`(raw 政策 alias 模式)
 - 必须加前缀(`_rev_` / `_op_` / 其他语义前缀)或后缀
+- 派生页若是"关于某 raw 政策"的(反链页 / opinion 矩阵等),body 顶部加显式 [[<file_stem>|<显示名>]] link 兜底 graph view
+- 派生页若是"关于某主题/汇总"的(opinions-summary 等),末尾加"# 关联政策清单(graph 兜底)"段列举所有相关政策的 [[<file_stem>|<pid>]]
 - 入库前用以下脚本验证全 vault 无冲突:
   ```python
   import re
@@ -523,8 +575,12 @@ python3 _meta/scripts/rebuild_l2.py prepare --trigger rel_judge_rerun \
 python3 _meta/scripts/rebuild_l2.py apply --stage rel_judge_rerun
 python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 
-# 履历追踪
-ls _meta/audit/rel_judge_history.jsonl    # append-only,自动写入
+# 履历追踪(3 个表)
+ls _meta/audit/{rel_judge,stance,opinions_summary}_history.jsonl
+
+# trigger F / E 自动候选建议
+python3 _meta/scripts/relations_coverage_metric.py --trigger-f-candidates
+python3 _meta/scripts/relations_coverage_metric.py --reverse-cites-suggest
 # 看 isolated 政策的"已审"状态
 python3 -c "
 import json

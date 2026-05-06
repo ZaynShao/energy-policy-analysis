@@ -26,3 +26,7 @@ split_at: '2026-04-29'
 - B 研究:基于第四十七章碳达峰路径,测算2030 V2G可调能力商业天花板
 didi_impact_one_liner: 四大业务线均获5年顶层政策授权
 march_upgrade_at: '2026-04-29'
+extracted_at: null
+extracted_by: unknown_legacy
+extracted_model: unknown_legacy
+audit_backfilled_at: '2026-05-06T15:54:29+08:00'

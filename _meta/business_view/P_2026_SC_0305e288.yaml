@@ -26,3 +26,7 @@ split_at: '2026-04-29'
 - B 研究:碳市场扩面后V2G绿色属性能否变现的具体路径(配额/CCER/绿证三选一)
 didi_impact_one_liner: V2G/储能/油站综合化的最高政策授权
 march_upgrade_at: '2026-04-29'
+extracted_at: null
+extracted_by: unknown_legacy
+extracted_model: unknown_legacy
+audit_backfilled_at: '2026-05-06T15:54:29+08:00'

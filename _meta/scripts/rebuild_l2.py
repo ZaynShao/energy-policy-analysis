@@ -83,12 +83,52 @@ NOW_ISO = datetime.now().strftime("%Y-%m-%dT%H:%M:%S+08:00")
 NOW_TS = datetime.now().strftime("%Y%m%d_%H%M%S")
 FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n(.*)$", re.DOTALL)
 
-# rel_judge 履历追踪(2026-05-06 加入)
-# 每次 apply --stage rel / rev_cites / rel_judge_rerun 末尾 append
-# 一行 / 参与本次审的 pid 到 _meta/audit/rel_judge_history.jsonl
+# LLM 派生履历追踪(2026-05-06 加入)
+# 每次 apply 末尾 append 一行履历到对应 _meta/audit/*.jsonl
 REL_JUDGE_PROMPT_VERSION = "v3.1_2026-05-06"
 REL_JUDGE_MODEL = "claude-opus-4-7"
 REL_JUDGE_HISTORY_PATH = VAULT / "_meta" / "audit" / "rel_judge_history.jsonl"
+
+STANCE_PROMPT_VERSION = "v3_source_domain_2026-05-06"  # 3b 后 source 命中 100%
+STANCE_MODEL = "claude-opus-4-7"
+STANCE_HISTORY_PATH = VAULT / "_meta" / "audit" / "stance_history.jsonl"
+
+OPINIONS_SUMMARY_PROMPT_VERSION = "v3_wiki_link_2026-05-06"  # 加 [[P_xxx]] 强约束
+OPINIONS_SUMMARY_MODEL = "claude-opus-4-7"
+OPINIONS_SUMMARY_HISTORY_PATH = VAULT / "_meta" / "audit" / "opinions_summary_history.jsonl"
+
+
+def _append_stance_history(comment_filenames: list[str], stance_count: int,
+                            source_hit_rate: float) -> None:
+    """每次 apply --stage stance 末尾 append 一行 / 参与的 commentary"""
+    STANCE_HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with STANCE_HISTORY_PATH.open("a", encoding="utf-8") as fh:
+        for cf in comment_filenames:
+            fh.write(json.dumps({
+                "comment_filename": cf,
+                "ran_at": NOW_ISO,
+                "trigger": "trigger_B_commentary_change",
+                "prompt_version": STANCE_PROMPT_VERSION,
+                "model": STANCE_MODEL,
+                "stance_pair_total": stance_count,  # 全 batch 总数(本次跑)
+                "source_hit_rate": round(source_hit_rate, 3),
+            }, ensure_ascii=False) + "\n")
+    print(f"  ✓ stance_history: +{len(comment_filenames)} rows")
+
+
+def _append_opinions_summary_history(theme_dir_names: list[str]) -> None:
+    """每次 apply --stage opinions-summary 末尾 append 一行 / 主题"""
+    OPINIONS_SUMMARY_HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with OPINIONS_SUMMARY_HISTORY_PATH.open("a", encoding="utf-8") as fh:
+        for theme in theme_dir_names:
+            fh.write(json.dumps({
+                "theme_dir_name": theme,
+                "ran_at": NOW_ISO,
+                "trigger": "trigger_B_commentary_change",
+                "prompt_version": OPINIONS_SUMMARY_PROMPT_VERSION,
+                "model": OPINIONS_SUMMARY_MODEL,
+            }, ensure_ascii=False) + "\n")
+    print(f"  ✓ opinions_summary_history: +{len(theme_dir_names)} rows")
 
 
 def _append_rel_judge_history(
@@ -963,6 +1003,12 @@ def apply_stance():
         out.write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in batch) + ("\n" if batch else ""), encoding="utf-8")
         print(f"  agent_{i+1}_stances.jsonl: {len(batch)}")
 
+    # 履历追踪:对每个参与本次 stance 重抽的 commentary append 一行
+    comment_filenames = sorted({r.get("comment_filename") for r in rows if r.get("comment_filename")})
+    source_hits = sum(1 for r in rows if r.get("source") and r.get("source") != "?")
+    source_hit_rate = source_hits / max(1, len(rows))
+    _append_stance_history(comment_filenames, len(rows), source_hit_rate)
+
     # aggregate + crystallize + stage opinions-summary
     run_script("aggregate_opinions.py", [], "opinions 重抽")
     # cleanup stale opinion files
@@ -1223,6 +1269,12 @@ def apply_opinions_summary():
     print(f"opinions-summary fresh: {fresh}/{fresh+len(stale)}")
     for s in stale:
         print(f"  ⚠ {s}")
+    # 自动给 9 主题 opinions-summary 末尾加 §6 graph 兜底段
+    # (§1/§2/§3 用 [[P_xxx]] alias,graph view 不可靠;§6 用真实文件名 [[]] 兜底)
+    run_script("oneshot_add_graph_section_to_opinions_summary.py", [], "opinions-summary §6 graph 兜底段追加")
+    # 履历追踪:9 主题各 append 一行
+    fresh_themes = [t.name for t in THEMES_DIR.iterdir() if t.is_dir() and (t / "opinions-summary.md").exists()]
+    _append_opinions_summary_history(fresh_themes)
     run_script("build_reverse_links.py", [], "反链同步")
 
 
@@ -1466,6 +1518,8 @@ output: 直接 Write 到 vault {VAULT}/2_crystallized/themes/<theme_dir_name>/op
 - §3 中性: polarity=neutral 独立条目(政策用 [[P_xxx]] 形式)
 - §4 待跟进: claim 含 ?/待/未明 等
 - §5 未覆盖: uncovered_pids 列 [[P_xxx]] - title
+  (§6 graph 兜底段由 apply --stage opinions-summary 后自动 oneshot 追加,
+   subagent 不需要操心)
 
 ⚠ CRITICAL — 政策引用必须用 wiki link 形式 [[P_xxx]]
 所有 §1 / §2 / §3 / §4 / §5 段落里出现的 vault 政策 pid 都必须用 [[P_xxx]] 包裹,
