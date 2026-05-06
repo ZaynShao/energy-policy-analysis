@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-04-30T12:57:48+08:00
+last_updated: 2026-05-06T11:31:20+08:00
 policy_count: 271
 commentary_count: 283
 entity_count: 95
-edge_count: 352
+edge_count: 365
 opinion_coverage_pct: 29.2
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-04-30T12:57:48+08:00
+**最后更新**: 2026-05-06T11:31:20+08:00
 
 ---
 
@@ -21,7 +21,7 @@ opinion_coverage_pct: 29.2
 | 政策原文 (policies/) | **271** |
 | 评论 (commentaries/) | **283** |
 | 规范化实体 (entities/registry) | **95** |
-| 关系网总边数 | **352** |
+| 关系网总边数 | **365** |
 | 反链页 (_index_by_policy) | **205** |
 | 政策舆论矩阵 (opinions) | **79** (29.2% 覆盖率) |
 | 演进差异页 (diffs) | **22** |
@@ -39,9 +39,9 @@ opinion_coverage_pct: 29.2
 | references | 140 | 文号/标题引用 |
 | aligns_with | 41 | 同向对齐 |
 | conflicts_with | 0 | 口径冲突 |
-| cites_basis | 58 | 制定依据 |
+| cites_basis | 71 | 制定依据 |
 
-**关系网密度**:352 / 271×(271-1) = 4.81 ‰
+**关系网密度**:365 / 271×(271-1) = 4.99 ‰
 
 ---
 
@@ -154,4 +154,4 @@ opinion_coverage_pct: 29.2
 - **opinion 覆盖率**: 29.2% (79/271) ⚠️
 - **issuer_canonical 覆盖**: 245/271
 - **5 星政策(高重要性)**: 40
-- **冲突边密度**: 0/352 ⚠️ 0 条
+- **冲突边密度**: 0/365 ⚠️ 0 条

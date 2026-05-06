@@ -3,7 +3,7 @@ theme: vpp_theme
 theme_name: 虚拟电厂
 title: 政策时间线
 total_policies: 47
-generated_at: 2026-04-30
+generated_at: 2026-05-06
 generated_by: crystallize_theme.py (auto data)
 ---
 

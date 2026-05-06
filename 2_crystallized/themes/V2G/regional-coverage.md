@@ -2,7 +2,7 @@
 theme: v2g
 theme_name: V2G(车网互动)
 title: 区域覆盖矩阵
-generated_at: 2026-04-30
+generated_at: 2026-05-06
 generated_by: crystallize_theme.py (auto data)
 ---
 

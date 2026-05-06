@@ -2,7 +2,7 @@
 theme: equipment_renewal_theme
 theme_name: 设备更新与以旧换新
 title: 区域覆盖矩阵
-generated_at: 2026-04-30
+generated_at: 2026-05-06
 generated_by: crystallize_theme.py (auto data)
 ---
 
