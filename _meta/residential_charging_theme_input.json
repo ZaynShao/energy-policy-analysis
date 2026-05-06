@@ -1,0 +1,21 @@
+{
+  "theme": "residential_charging",
+  "theme_zh": "居住区充电",
+  "aliases": [
+    "居住区充电",
+    "住宅小区充电",
+    "私人充电桩",
+    "私桩",
+    "私桩共享",
+    "统建统营"
+  ],
+  "policies": [],
+  "policies_count": 0,
+  "relations": [],
+  "relations_count": 0,
+  "diff_files": [],
+  "opinion_policy_ids": [],
+  "region_distribution": {},
+  "top_issuers": {},
+  "top_5_importance": []
+}

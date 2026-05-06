@@ -1,0 +1,20 @@
+{
+  "theme": "aggregator_access",
+  "theme_zh": "聚合商准入",
+  "aliases": [
+    "负荷聚合商",
+    "聚合商",
+    "聚合商准入",
+    "新型电力市场主体",
+    "独立辅助服务"
+  ],
+  "policies": [],
+  "policies_count": 0,
+  "relations": [],
+  "relations_count": 0,
+  "diff_files": [],
+  "opinion_policy_ids": [],
+  "region_distribution": {},
+  "top_issuers": {},
+  "top_5_importance": []
+}

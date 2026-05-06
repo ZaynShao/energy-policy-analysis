@@ -1,0 +1,20 @@
+{
+  "theme": "distribution_grid_opening",
+  "theme_zh": "配电网开放",
+  "aliases": [
+    "配电网",
+    "增量配电",
+    "配电网开放",
+    "微电网",
+    "售电侧改革"
+  ],
+  "policies": [],
+  "policies_count": 0,
+  "relations": [],
+  "relations_count": 0,
+  "diff_files": [],
+  "opinion_policy_ids": [],
+  "region_distribution": {},
+  "top_issuers": {},
+  "top_5_importance": []
+}
