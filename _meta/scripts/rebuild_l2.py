@@ -51,6 +51,13 @@ rebuild_l2.py — L1 → L2 全链路 incremental 重建编排器
   python3 rebuild_l2.py apply --stage opinions-summary
     # → 验证 9 个 opinions-summary.md 存在 + run reverse_links
 
+  # 场景 D 例:T4 反向 cites_basis 全扫(对 N 个上位政策,扫 vault 内派生引用)
+  python3 rebuild_l2.py prepare --trigger reverse_cites --target-pids P_2024_GO_L775,P_2018_NDRC_364
+    # → stage _l2_rebuild_state/reverse_cites/{targets.jsonl, vault_index.jsonl, prompt.md}
+  # 用户派 1 subagent 跑 prompt(LLM 对每 target 验证候选 from→target 的 cites_basis 边)
+  python3 rebuild_l2.py apply --stage rev_cites
+    # → 写入 1_extracted/relations/cites_basis.jsonl(防重 by (from,to))
+
   # 场景 C 例:全量重跑 deterministic 部分(不含 LLM)
   python3 rebuild_l2.py deterministic --scope all
 """
@@ -261,7 +268,227 @@ def prepare_commentary_change(commentary_files: list[str] | None):
 
 
 # ============================================================
-# Apply: 5C / rel / stance / opinions-summary
+# Prepare: reverse_cites (T4 反向 cites_basis 全扫上位政策)
+# ============================================================
+
+def _extract_official_pattern(official: str) -> str | None:
+    """从 official_number 抽出最具识别力的核心 token 用于 regex 匹配。
+
+    例:
+      '国务院令第775号'           → '第775号'
+      '发改办能源〔2024〕718号'    → '〔2024〕718号'
+      '发改综合〔2023〕545号'      → '〔2023〕545号'
+      '国办发〔2023〕19号'         → '〔2023〕19号'
+    返回 None 表示无可识别核心 token。
+    """
+    if not official:
+        return None
+    # 优先 〔YYYY〕XX号
+    m = re.search(r"〔\d{4}〕\d+号", official)
+    if m:
+        return m.group(0)
+    # 第 N 号 / 第N号
+    m = re.search(r"第\s*\d+\s*号", official)
+    if m:
+        return m.group(0).replace(" ", "")
+    # 数字 + 号
+    m = re.search(r"\d{2,4}号", official)
+    if m:
+        return m.group(0)
+    return None
+
+
+def _title_jieba_top(title: str, top_k: int = 6) -> list[str]:
+    """jieba 切 title,取前 top_k 长度 ≥ 2 的非停用词 + 非通用政策高频词 token。
+
+    用更宽 top_k(6)便于上层用 ≥3 词命中策略,且要求至少一个 ≥4 字核心 token。
+    """
+    try:
+        import jieba
+        jieba.setLogLevel(40)
+    except ImportError:
+        return []
+    # 跳过停用词 + 通用政策高频词(命中无判别力)
+    stop = {
+        "关于", "通知", "意见", "办法", "方案", "规定", "细则", "条例", "规则",
+        "印发", "发布", "实施", "管理", "工作", "建设", "支持", "促进",
+        "中华人民共和国", "国务院", "国务院令", "国务院办公厅",
+        "国家发展改革委", "国家能源局", "工业和信息化部",
+        "和", "与", "及", "等", "做好", "做好的",
+        "加快", "推进", "构建", "提升", "高质量", "深入",
+        # 通用业务词(命中无判别力)
+        "充电", "乡村", "下乡", "新能源", "汽车", "电力", "能源",
+        "服务", "保障", "发展", "市场", "运行", "试点",
+    }
+    out: list[str] = []
+    for w in jieba.cut(title, cut_all=False):
+        w = w.strip()
+        if not w or w in stop or len(w) < 2:
+            continue
+        if w in out:
+            continue
+        out.append(w)
+        if len(out) >= top_k:
+            break
+    return out
+
+
+def _prefilter_candidates(
+    target: dict, all_policies: list[dict], min_candidates: int = 2,
+    max_candidates: int = 80,
+) -> list[str]:
+    """对 target 政策,扫 271 候选 body 找出可能引用 target 的 from pid 集合。
+
+    匹配规则(任一命中即候选):
+      hard hit:
+        - target.official_number 核心 token(如 〔2024〕718号 / 第775号)精确
+          出现在 candidate body
+      soft hit(需双重门槛):
+        - candidate body 前 3000 字含 ≥ 3 个 target.title jieba 关键词,
+          **且**其中至少一个为 ≥ 4 字核心 token(避免"加快/推进"类通用词单独命中)
+
+    若候选 < min_candidates,fallback 全 vault;若 > max_candidates,
+    优先保留 hard hit + 按 hit 词数排序截断(LLM cost 控制)。
+    """
+    self_pid = target["pid"]
+    pat = _extract_official_pattern(target.get("official", "") or "")
+    title_kw = _title_jieba_top(target.get("title", "") or "")
+    long_kw = [w for w in title_kw if len(w) >= 4]
+
+    hard_hits: list[str] = []
+    soft_hits: list[tuple[str, int]] = []  # (pid, hit_count)
+
+    for cand in all_policies:
+        if cand["pid"] == self_pid:
+            continue
+        body = cand.get("body", "") or ""
+        # hard hit:文号精确
+        if pat and pat in body:
+            hard_hits.append(cand["pid"])
+            continue
+        # soft hit:title 关键词 ≥3 词 + 至少 1 个 ≥4 字核心词
+        if len(title_kw) >= 3 and long_kw:
+            body_head = body[:3000]
+            hits = sum(1 for kw in title_kw if kw in body_head)
+            has_long = any(kw in body_head for kw in long_kw)
+            if hits >= 3 and has_long:
+                soft_hits.append((cand["pid"], hits))
+
+    # 合并 hard + soft(按 hit 词数降序)
+    soft_sorted = [pid for pid, _ in sorted(soft_hits, key=lambda x: -x[1])]
+    candidates = hard_hits + [pid for pid in soft_sorted if pid not in set(hard_hits)]
+
+    if len(candidates) < min_candidates:
+        return [c["pid"] for c in all_policies if c["pid"] != self_pid]
+    if len(candidates) > max_candidates:
+        candidates = candidates[:max_candidates]
+    return candidates
+
+
+def prepare_reverse_cites(target_pids: list[str]):
+    """stage T4 反向 cites_basis 全扫 inputs。
+
+    对每个 target(上位政策),预过滤候选 from(扫 vault 271 政策 body 是否
+    含 target 文号或 title 关键词),让 LLM 验证候选并产出 cites_basis 边。
+    """
+    print(f"\n=== prepare reverse_cites for {len(target_pids)} target pids ===")
+    print(f"targets: {target_pids}\n")
+
+    # 0. 校验 + 加载 target 元数据
+    targets: list[dict] = []
+    for pid in target_pids:
+        f = find_policy_file_by_pid(pid)
+        if f is None:
+            print(f"[fatal] target pid 不在 vault: {pid}")
+            sys.exit(1)
+        fm, body, _ = parse_fm(f)
+        targets.append({
+            "pid": pid,
+            "title": fm.get("title", ""),
+            "official": fm.get("official_number", "") or "",
+            "issuer": fm.get("issuer", []) or [],
+            "date": str(fm.get("date", "") or "")[:10],
+            "body_excerpt": body[:1500],
+        })
+
+    # 1. 加载全 vault 政策(pid + title + official + body 前 5000 字 — LLM 看的内容)
+    print("--- step 1/2: 加载 vault 全 271 政策 body ---")
+    all_policies: list[dict] = []
+    for p in (VAULT / "0_raw/policies").glob("*.md"):
+        # 跳 _archive / _duplicates(glob 不带 rglob,但 glob 可能含子目录,稳妥过滤)
+        if any(part.startswith("_") for part in p.relative_to(VAULT).parts[2:]):
+            continue
+        fm, body, _ = parse_fm(p)
+        if not fm or not fm.get("id"):
+            continue
+        all_policies.append({
+            "pid": fm["id"],
+            "title": fm.get("title", "") or "",
+            "official": fm.get("official_number", "") or "",
+            "date": str(fm.get("date", "") or "")[:10],
+            "body": body,
+        })
+    print(f"  loaded {len(all_policies)} policies")
+
+    # 2. 对每 target 预过滤候选,stage
+    print("\n--- step 2/2: 预过滤候选 + stage ---")
+    state = ensure_state_dir("reverse_cites")
+
+    target_rows = []
+    for t in targets:
+        cands = _prefilter_candidates(t, all_policies)
+        target_rows.append({
+            "pid": t["pid"],
+            "title": t["title"],
+            "official": t["official"],
+            "issuer": t["issuer"],
+            "date": t["date"],
+            "body_excerpt": t["body_excerpt"],
+            "candidate_pids": cands,
+        })
+        print(f"  target {t['pid']}: {len(cands)} candidates")
+
+    (state / "targets.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in target_rows),
+        encoding="utf-8",
+    )
+
+    # 候选 from 政策的 body excerpt(LLM 用于判断是否引用 target)
+    referenced_pids = set()
+    for r in target_rows:
+        referenced_pids.update(r["candidate_pids"])
+    vault_idx_rows = []
+    for ap in all_policies:
+        if ap["pid"] not in referenced_pids:
+            continue
+        vault_idx_rows.append({
+            "pid": ap["pid"],
+            "title": ap["title"],
+            "official": ap["official"],
+            "date": ap["date"],
+            "body_excerpt": ap["body"][:5000],
+        })
+    (state / "vault_index.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in vault_idx_rows),
+        encoding="utf-8",
+    )
+
+    (state / "prompt.md").write_text(
+        _reverse_cites_prompt_template(state), encoding="utf-8"
+    )
+
+    print(f"  ✓ {state}/targets.jsonl ({len(target_rows)} targets)")
+    print(f"  ✓ {state}/vault_index.jsonl ({len(vault_idx_rows)} candidate from-policies)")
+    print(f"  ✓ {state}/prompt.md")
+    print("\n=== prepare reverse_cites 完成 ===")
+    print("下一步:派 1 个 opus 4.7 subagent 跑 prompt.md,results 写到")
+    print("  _l2_rebuild_state/reverse_cites/results/results.jsonl,")
+    print("然后 python3 rebuild_l2.py apply --stage rev_cites")
+    print("最后 python3 rebuild_l2.py deterministic --scope post-llm(刷反链)")
+
+
+# ============================================================
+# Apply: 5C / rel / stance / opinions-summary / rev_cites
 # ============================================================
 
 def apply_5c():
@@ -402,6 +629,54 @@ def _stage_opinions_summary_inputs():
     print("完成后 python3 rebuild_l2.py apply --stage opinions-summary 验证 + 跑 reverse_links")
 
 
+def apply_rev_cites():
+    """读 reverse_cites/results.jsonl → 写入 cites_basis.jsonl(防重 by (from, to))。
+
+    所有 result 行的 rel 强制为 cites_basis;不在白名单的 result 跳过并打印告警。
+    """
+    state = STATE_ROOT / "reverse_cites"
+    results = state / "results" / "results.jsonl"
+    if not results.exists():
+        print(f"[fatal] 缺 {results}")
+        sys.exit(1)
+
+    rows = [json.loads(l) for l in results.read_text(encoding="utf-8").splitlines() if l.strip()]
+    print(f"\n应用 reverse_cites 候选边 {len(rows)} 行")
+
+    target = VAULT / "1_extracted/relations/cites_basis.jsonl"
+    existing: list[dict] = []
+    if target.exists():
+        for line in target.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                try:
+                    existing.append(json.loads(line))
+                except json.JSONDecodeError:
+                    pass
+    existing_keys = {(r.get("from"), r.get("to")) for r in existing}
+
+    added, skipped_dup, skipped_bad = 0, 0, 0
+    for nr in rows:
+        if nr.get("rel") != "cites_basis":
+            print(f"  [skip] rel != cites_basis: {nr.get('from')} -> {nr.get('to')} rel={nr.get('rel')}")
+            skipped_bad += 1
+            continue
+        if not (nr.get("from") and nr.get("to")):
+            skipped_bad += 1
+            continue
+        if (nr["from"], nr["to"]) in existing_keys:
+            skipped_dup += 1
+            continue
+        existing.append(nr)
+        existing_keys.add((nr["from"], nr["to"]))
+        added += 1
+
+    target.write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in existing) + "\n",
+        encoding="utf-8",
+    )
+    print(f"  cites_basis.jsonl: +{added}(now {len(existing)});dup={skipped_dup} bad={skipped_bad}")
+
+
 def apply_opinions_summary():
     """验证 9 个 opinions-summary.md 都已 fresh + 跑 reverse_links"""
     THEMES_DIR = VAULT / "2_crystallized/themes"
@@ -505,6 +780,79 @@ CRITICAL: from 必须 target;to 必须 vault 内;不重复 (from,to,rel);不修�
 """
 
 
+def _reverse_cites_prompt_template(state_dir: Path) -> str:
+    return f"""# T4 反向 cites_basis 全扫 subagent prompt(opus 4.7,1 subagent)
+
+input 1: {state_dir}/targets.jsonl
+  每行一个上位 target 政策(N 个):
+    {{"pid":"P_xxx","title":"...","official":"...","issuer":[...],"date":"YYYY-MM-DD",
+      "body_excerpt":"target 政策正文前 1500 字(用于让你理解 target 是什么)",
+      "candidate_pids":["P_aaa","P_bbb",...]}}
+
+input 2: {state_dir}/vault_index.jsonl
+  候选 from 政策(可能引用 target 的 vault 政策):
+    {{"pid":"P_aaa","title":"...","official":"...","date":"YYYY-MM-DD",
+      "body_excerpt":"candidate 正文前 5000 字"}}
+
+output: {state_dir}/results/results.jsonl
+
+## 任务
+
+对每个 target,扫其 candidate_pids 中所有 candidate 的 body_excerpt,判断
+candidate **是否将 target 引用为制定依据**(cites_basis 语义,见 schema_v3 §6.3)。
+
+cites_basis 严格定义:
+  - **位置**:候选政策的开头段(opening,前 800 字符内)或正文显式"依据"段
+  - **语义**:candidate 明确把 target 视为制定依据(关键词:根据 / 依据 / 参照 /
+    遵循 / 落实 / 对接 / 贯彻 …),而非随便提到一句
+  - **形式**:正面引用(可能含 target 文号 / target 标题 /《...》两类)
+  - **排除**:
+    - candidate 只是 references target(在中段或附则提到一次,无"依据"语义)
+    - candidate 引用 target 上位的兄弟政策(如同一年同部门其他文件)
+    - candidate 是 target 的 supersedes / iterates / clarifies(那是其他关系)
+
+## 输出 schema(每行一个边,JSON Lines)
+
+```json
+{{
+  "from": "P_aaa",
+  "to":   "P_xxx",
+  "rel":  "cites_basis",
+  "evidence": "≤200 字原文片段(候选 body 中那段引用 target 的句子)",
+  "location": "opening|body",
+  "semantic": "basis",
+  "confidence": 0.70-1.00,
+  "extracted_by": "rebuild_l2_reverse_cites",
+  "extracted_at": "{NOW_ISO}",
+  "reason": "≤80 字判定依据(为何认为是 basis 而非 reference)"
+}}
+```
+
+只输出 confidence ≥ 0.70 的边。语义不清晰宁可不输出。
+
+## 关键约束
+
+- **from / to 必须真实存在**:from 必须在该 target 的 candidate_pids 中,
+  to 必须等于 target.pid
+- **不重复**:同一 (from, to) 只输出一行(取 confidence 最高的 evidence)
+- **不修改 vault**:只写 {state_dir}/results/results.jsonl
+- **ensure_ascii=False**(中文原样)
+- **JSON Lines**:每行一个完整 JSON,不要数组包裹
+
+## 工作建议
+
+按 target 串行处理(每 target 一次性扫完所有 candidate):
+1. 读 target 的 title + official + body_excerpt → 知道 target 在讲什么
+2. 对每 candidate,grep candidate.body_excerpt 看是否含:
+   - target 的 official_number 核心 token(如 〔2024〕718号 / 第775号)
+   - target 的 title 标志性短语(如 "新型电力系统行动方案" / "暂行条例")
+3. 对命中的 candidate,看那段语境是否符合 cites_basis 严格定义
+4. 输出符合的边
+
+预期产出量:per target 5-30 边(取决于 target 在 vault 内的辐射力)。
+"""
+
+
 def _stance_prompt_template(state_dir: Path) -> str:
     return f"""# stance 重抽 subagent prompt(opus 4.7,4 batch)
 
@@ -575,15 +923,16 @@ def main():
 
     p_prepare = sub.add_parser("prepare", help="stage L2 rebuild inputs by trigger type")
     p_prepare.add_argument("--trigger", required=True,
-                           choices=["pid_change", "commentary_change"])
+                           choices=["pid_change", "commentary_change", "reverse_cites"])
     p_prepare.add_argument("--pids", help="comma-sep pids for pid_change")
     p_prepare.add_argument("--commentaries", help="comma-sep commentary filenames for commentary_change")
     p_prepare.add_argument("--all-commentaries", action="store_true",
                            help="commentary_change 时表示全 191 linked 重抽")
+    p_prepare.add_argument("--target-pids", help="comma-sep upstream pids for reverse_cites")
 
     p_apply = sub.add_parser("apply", help="apply LLM results from _l2_rebuild_state/")
     p_apply.add_argument("--stage", required=True,
-                         choices=["5c", "rel", "stance", "opinions-summary"])
+                         choices=["5c", "rel", "stance", "opinions-summary", "rev_cites"])
 
     p_det = sub.add_parser("deterministic", help="run deterministic scripts")
     p_det.add_argument("--scope", required=True,
@@ -604,9 +953,14 @@ def main():
                 prepare_commentary_change([c.strip() for c in args.commentaries.split(",") if c.strip()])
             else:
                 ap.error("--trigger commentary_change 需 --commentaries 或 --all-commentaries")
+        elif args.trigger == "reverse_cites":
+            if not args.target_pids:
+                ap.error("--trigger reverse_cites 需 --target-pids")
+            prepare_reverse_cites([p.strip() for p in args.target_pids.split(",") if p.strip()])
     elif args.cmd == "apply":
         {"5c": apply_5c, "rel": apply_rel, "stance": apply_stance,
-         "opinions-summary": apply_opinions_summary}[args.stage]()
+         "opinions-summary": apply_opinions_summary,
+         "rev_cites": apply_rev_cites}[args.stage]()
     elif args.cmd == "deterministic":
         run_deterministic(args.scope)
 
