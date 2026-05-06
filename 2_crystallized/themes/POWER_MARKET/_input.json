@@ -179,23 +179,6 @@
       "filename": "【贯彻落实碳达峰碳中和目标要求推动数据中心和5G等新型基础设施绿色高质量发展实施方案】-国家发展改革委等四部门-c332.md"
     },
     {
-      "id": "P_2022_NDRC_032146fe",
-      "title": "「十四五」新型储能发展实施方案",
-      "date": "2022-03-21",
-      "official": "",
-      "issuer": [
-        "国家发展和改革委员会、国家能源局"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【「十四五」新型储能发展实施方案】-国家发展和改革委员会、国家能源局-6623.md"
-    },
-    {
       "id": "P_2022_NDRC_03213b6e_a",
       "title": "十四五新型储能发展实施方案",
       "date": "2022-03-21",
@@ -211,6 +194,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【十四五新型储能发展实施方案】-国家发展改革委 国家能源局-935b.md"
+    },
+    {
+      "id": "P_2022_NDRC_032146fe",
+      "title": "「十四五」新型储能发展实施方案",
+      "date": "2022-03-21",
+      "official": "",
+      "issuer": [
+        "国家发展和改革委员会、国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【「十四五」新型储能发展实施方案】-国家发展和改革委员会、国家能源局-6623.md"
     },
     {
       "id": "P_2022_BJ_0401c3a9",
@@ -1364,7 +1364,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_58",
@@ -1375,7 +1375,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_58",
@@ -1386,7 +1386,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_36",
@@ -1397,7 +1397,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_36",
@@ -1408,7 +1408,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1419,7 +1419,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1430,7 +1430,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_SH_407",
@@ -1441,7 +1441,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1452,7 +1452,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NEA_26",
@@ -1463,7 +1463,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NEA_0528d977",
@@ -1474,7 +1474,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -1485,7 +1485,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -1496,7 +1496,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_BJ_4",
@@ -1507,7 +1507,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_BJ_4",
@@ -1518,7 +1518,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_BJ_4",
@@ -1529,7 +1529,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -1540,7 +1540,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NDRC_632_c",
@@ -1551,7 +1551,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2026_NEA_16",
@@ -1562,7 +1562,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -1573,7 +1573,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1584,7 +1584,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1595,7 +1595,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1606,7 +1606,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1617,7 +1617,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -1628,7 +1628,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -1639,7 +1639,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1650,7 +1650,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1661,7 +1661,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_1023dd1b",
@@ -1672,7 +1672,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_HN_830",
@@ -1683,7 +1683,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -1694,7 +1694,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -1705,7 +1705,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1716,7 +1716,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1727,7 +1727,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -1738,7 +1738,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -1749,7 +1749,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NM_0101e295",
@@ -1760,7 +1760,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1771,7 +1771,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1782,7 +1782,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1793,7 +1793,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1804,7 +1804,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1815,7 +1815,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1826,7 +1826,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1994,6 +1994,86 @@
       "reason": "区方案细化市方案"
     },
     {
+      "from": "P_2024_MEE_1101f119",
+      "to": "P_2024_GO_L775",
+      "rel": "clarifies",
+      "evidence": "《碳排放权交易管理暂行条例》颁布实施。2024年5月1日起施行《碳排放权交易管理暂行条例》,首次以行政法规的形式明确了碳排放权市场交易制度,这也是中国应对气候变化领域的首部专项法规。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "年度报告对国务院令775(碳排放权交易管理暂行条例)实施进展进行解读说明"
+    },
+    {
+      "from": "P_2024_MEE_1101f119",
+      "to": "P_2021_MEE_19",
+      "rel": "clarifies",
+      "evidence": "全国碳排放权交易市场政策法规基础框架搭建完成。印发《碳排放权交易管理办法(试行)》,发布了登记、交易、结算三项规则,组织制修订碳排放核算报告和核查指南、配额分配方案等规范性文件。",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "年度报告解读《碳排放权交易管理办法(试行)》(部令第19号)的实施配套规则"
+    },
+    {
+      "from": "P_2024_MEE_1101f119",
+      "to": "P_2024_GO_39",
+      "rel": "clarifies",
+      "evidence": "推进实施碳排放双控。印发《加快构建碳排放双控制度体系工作方案》,部署将碳排放指标及相关要求纳入国家规划,建立健全地方碳考核、行业碳管控、企业碳管理、项目碳评价、产品碳足迹等政策制度和管理机制。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "年度报告解读国办发〔2024〕39号(碳排放双控制度体系工作方案)的实施部署"
+    },
+    {
+      "from": "P_2024_MEE_1101f119",
+      "to": "P_2024_NDRC_1046_b",
+      "rel": "clarifies",
+      "evidence": "标准和技术规范不断完善。实施关于进一步强化碳达峰碳中和标准计量体系建设行动方案(2024—2025年)。截至2023年底,已累计发布18项碳排放核算、3项项目减排量核算及3项产品碳足迹量化国家标准。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "年度报告解读发改环资〔2024〕1046号标准计量体系行动方案进展"
+    },
+    {
+      "from": "P_2025_MEE_0910a76d",
+      "to": "P_2024_GO_L775",
+      "rel": "clarifies",
+      "evidence": "全国碳市场逐步完善。出台关于加强全国碳市场建设的意见,公布实施《碳排放权交易管理暂行条例》,制定系列部门规章、规范性文件以及技术规范等,法规政策基础框架搭建完成。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "国务院向人大报告解读《碳排放权交易管理暂行条例》(国务院令775)实施进展"
+    },
+    {
+      "from": "P_2024_NEA_08098f4e",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "clarifies",
+      "evidence": "近日，国家发展改革委、国家能源局、国家数据局印发了《加快构建新型电力系统行动方案（2024—2027年）》（以下简称《行动方案》），将'电力系统调节能力优化'作为九大行动之一……《行动方案》提出充分发挥新型储能的调节能力",
+      "confidence": 0.95,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "target是《加快构建新型电力系统行动方案(2024—2027年)》的署名解读文章，逐章解读其调节能力部分"
+    },
+    {
+      "from": "P_2024_NDRC_01047553",
+      "to": "P_2024_NDRC_1721",
+      "rel": "clarifies",
+      "evidence": "由国家发展改革委、国家能源局、工业和信息化部、市场监管总局四部门联合印发的《关于加强新能源汽车与电网融合互动的实施意见》（以下简称《实施意见》）公开发布。《实施意见》提出，到2025年……《实施意见》明确了6项重点任务……",
+      "confidence": 0.96,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "本文为新闻稿，逐条解读发改能源〔2023〕1721号同名实施意见的目标、任务、机制"
+    },
+    {
+      "from": "P_2026_NDRC_02114da8",
+      "to": "P_2025_GO_1201e389",
+      "rel": "clarifies",
+      "evidence": "近日，国务院办公厅印发《关于完善全国统一电力市场体系的实施意见》（以下简称《意见》）。国家发展改革委负责同志就《意见》接受了记者访谈。问：《意见》出台的背景和意义是什么？……《意见》站在新的历史起点上，围绕新形势新情况新要求……",
+      "confidence": 0.98,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "NDRC负责同志答记者问,逐条解释国务院办公厅印发的《关于完善全国统一电力市场体系的实施意见》"
+    },
+    {
       "from": "P_2023_NDRC_0704ee90",
       "to": "P_2023_NDRC_0519539e",
       "rel": "iterates",
@@ -2059,6 +2139,16 @@
       "reason": "同名重新印发",
       "_note": "原误判为 dup,实为同名重发(文号微调),恢复为 iterates",
       "_restored_at": "2026-04-29T16:27:29+08:00"
+    },
+    {
+      "from": "P_2025_NDRC_101520b2",
+      "to": "P_2024_NDRC_718",
+      "rel": "extends",
+      "evidence": "（六）持续扩大车网互动试点范围。扎实推进首批车网互动试点建设，建立协同推进和跟踪评价机制……到2027年底，车网互动规模化应用试点范围有效扩大，新增双向充放电（V2G）设施超5000个",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "target在718号'首批车网互动试点'基础上扩大规模化应用试点范围，是其延伸/扩展"
     },
     {
       "from": "P_2024_SH_8_b",
@@ -2467,9 +2557,49 @@
         "能碳管理"
       ],
       "reason": "国办发39号双控制度体系为碳排放核算管理顶层制度；本通知园区能碳管理平台与之主题对齐。"
+    },
+    {
+      "from": "P_2023_NDRC_1294_b",
+      "to": "P_2018_NDRC_364",
+      "rel": "aligns_with",
+      "evidence": "构建清洁低碳、安全充裕、经济高效、供需协同、灵活智能的新型电力系统……增强常规电源调节支撑能力。新建煤电机组全部实现灵活性制造,现役机组灵活性改造应改尽改……加强系统调节能力统筹规划。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "本指导意见与P_2018_NDRC_364(提升电力系统调节能力)同支撑新型电力系统建设战略,主题协同推进调节灵活性"
+    },
+    {
+      "from": "P_2025_MEE_0910a76d",
+      "to": "P_2021_SC_0922fb2b",
+      "rel": "aligns_with",
+      "evidence": "党中央将应对气候变化摆在国家治理更加突出的位置,实施积极应对气候变化国家战略,作出实现碳达峰碳中和的重大战略决策,把'双碳'工作纳入生态文明建设整体布局……形成碳达峰碳中和'1+N'政策体系。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "国务院应对气候变化报告承接中央碳达峰碳中和意见战略部署,共同推进双碳目标"
+    },
+    {
+      "from": "P_2025_NDRC_1645",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "光热发电……是实现新能源安全可靠替代传统能源的有效手段,是加快构建新型电力系统的有效支撑。同时,光热发电产业链长……为更好适应新能源高质量发展需求,助力加快构建新型电力系统,现就促进光热发电规模化发展提出以下意见。",
+      "confidence": 0.78,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "光热发电意见明确助力加快构建新型电力系统,与P_2024_NDRC_0806117c行动方案协同推进"
+    },
+    {
+      "from": "P_2021_SC_93",
+      "to": "P_2021_SC_23",
+      "rel": "aligns_with",
+      "evidence": "中央企业要……加快中央企业绿色低碳转型和高质量发展，有力支撑国家如期实现碳达峰、碳中和。到2030年，中央企业……万元产值二氧化碳排放比2005年下降65%以上，中央企业二氧化碳排放量整体达到峰值并实现稳中有降。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "央企93号文是2030年前碳达峰行动方案在央企领域的平行落实路径,同战略协同推进"
     }
   ],
-  "relations_count": 108,
+  "relations_count": 121,
   "diff_files": [
     "P_2024_CQ_04038544__from__P_2024_CQ_0101a5e5.md",
     "P_2025_NDRC_1656_a__from__P_2020_NDRC_889.md",

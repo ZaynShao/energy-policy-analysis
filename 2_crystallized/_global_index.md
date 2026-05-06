@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-05-06T11:39:29+08:00
+last_updated: 2026-05-06T13:48:10+08:00
 policy_count: 273
 commentary_count: 283
-entity_count: 95
-edge_count: 378
+entity_count: 96
+edge_count: 406
 opinion_coverage_pct: 28.9
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-05-06T11:39:29+08:00
+**最后更新**: 2026-05-06T13:48:10+08:00
 
 ---
 
@@ -20,9 +20,9 @@ opinion_coverage_pct: 28.9
 |---|:-:|
 | 政策原文 (policies/) | **273** |
 | 评论 (commentaries/) | **283** |
-| 规范化实体 (entities/registry) | **95** |
-| 关系网总边数 | **378** |
-| 反链页 (_index_by_policy) | **208** |
+| 规范化实体 (entities/registry) | **96** |
+| 关系网总边数 | **406** |
+| 反链页 (_index_by_policy) | **232** |
 | 政策舆论矩阵 (opinions) | **79** (28.9% 覆盖率) |
 | 演进差异页 (diffs) | **22** |
 
@@ -34,14 +34,14 @@ opinion_coverage_pct: 28.9
 |---|:-:|---|
 | supersedes | 7 | 显式废止 |
 | iterates | 24 | 版本升级 |
-| extends | 9 | 范围扩展 |
-| clarifies | 73 | 实施细化 |
+| extends | 10 | 范围扩展 |
+| clarifies | 84 | 实施细化 |
 | references | 142 | 文号/标题引用 |
-| aligns_with | 50 | 同向对齐 |
+| aligns_with | 58 | 同向对齐 |
 | conflicts_with | 0 | 口径冲突 |
-| cites_basis | 73 | 制定依据 |
+| cites_basis | 81 | 制定依据 |
 
-**关系网密度**:378 / 273×(273-1) = 5.09 ‰
+**关系网密度**:406 / 273×(273-1) = 5.47 ‰
 
 ---
 
@@ -53,7 +53,7 @@ opinion_coverage_pct: 28.9
 | org | 25 |
 | region | 9 |
 | concept | 8 |
-| theme | 6 |
+| theme | 7 |
 
 ---
 
@@ -154,4 +154,4 @@ opinion_coverage_pct: 28.9
 - **opinion 覆盖率**: 28.9% (79/273) ⚠️
 - **issuer_canonical 覆盖**: 245/273
 - **5 星政策(高重要性)**: 40
-- **冲突边密度**: 0/378 ⚠️ 0 条
+- **冲突边密度**: 0/406 ⚠️ 0 条

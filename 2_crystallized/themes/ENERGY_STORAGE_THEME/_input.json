@@ -588,23 +588,6 @@
       "filename": "【关于促进电网高质量发展的指导意见(发改能源〔2025〕1710号)】-国家发展改革委、国家能源局-fa40.md"
     },
     {
-      "id": "P_2026_NEA_PilotBatch1",
-      "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
-      "date": "2026-02-10",
-      "official": "国能发电力〔2026〕16号",
-      "issuer": [
-        "国家能源局"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知(国能发电力〔2026〕16号)】-国家能源局-f077.md"
-    },
-    {
       "id": "P_2026_NEA_16",
       "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
       "date": "2026-02-10",
@@ -620,6 +603,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知(国能发电力〔2026〕16号)】-国家能源局-e9bf.md"
+    },
+    {
+      "id": "P_2026_NEA_PilotBatch1",
+      "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
+      "date": "2026-02-10",
+      "official": "国能发电力〔2026〕16号",
+      "issuer": [
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知(国能发电力〔2026〕16号)】-国家能源局-f077.md"
     },
     {
       "id": "P_2026_SH_03132bad",
@@ -735,7 +735,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -746,7 +746,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_SH_407",
@@ -757,7 +757,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_SH_3",
@@ -768,7 +768,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NEA_26",
@@ -779,7 +779,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NEA_0528d977",
@@ -790,7 +790,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NEA_77",
@@ -801,7 +801,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -812,7 +812,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_FJ_5",
@@ -823,7 +823,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -834,7 +834,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -845,7 +845,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_107",
@@ -856,7 +856,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_JL_0208240d",
@@ -867,7 +867,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NDRC_632_c",
@@ -878,7 +878,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2026_NEA_16",
@@ -889,7 +889,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -900,7 +900,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -911,7 +911,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -922,7 +922,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -933,7 +933,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -944,7 +944,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -955,7 +955,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_HA_0908b9ef",
@@ -966,7 +966,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_1023dd1b",
@@ -977,7 +977,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_HN_289",
@@ -988,7 +988,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2023_HN_848",
@@ -999,7 +999,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -1010,7 +1010,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -1021,7 +1021,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1032,7 +1032,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1043,7 +1043,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_86",
@@ -1054,7 +1054,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1065,7 +1065,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -1076,7 +1076,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-06T11:34:46"
+      "extracted_at": "2026-05-06T11:52:50"
     },
     {
       "from": "P_2025_NEA_107",
@@ -1209,6 +1209,26 @@
       "extracted_by": "aligns_v3_migrate",
       "extracted_at": "2026-04-29T15:46:49+08:00",
       "reason": "区方案细化市方案"
+    },
+    {
+      "from": "P_2024_NEA_08098f4e",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "clarifies",
+      "evidence": "近日，国家发展改革委、国家能源局、国家数据局印发了《加快构建新型电力系统行动方案（2024—2027年）》（以下简称《行动方案》），将'电力系统调节能力优化'作为九大行动之一……《行动方案》提出充分发挥新型储能的调节能力",
+      "confidence": 0.95,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "target是《加快构建新型电力系统行动方案(2024—2027年)》的署名解读文章，逐章解读其调节能力部分"
+    },
+    {
+      "from": "P_2024_NDRC_01047553",
+      "to": "P_2024_NDRC_1721",
+      "rel": "clarifies",
+      "evidence": "由国家发展改革委、国家能源局、工业和信息化部、市场监管总局四部门联合印发的《关于加强新能源汽车与电网融合互动的实施意见》（以下简称《实施意见》）公开发布。《实施意见》提出，到2025年……《实施意见》明确了6项重点任务……",
+      "confidence": 0.96,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "本文为新闻稿，逐条解读发改能源〔2023〕1721号同名实施意见的目标、任务、机制"
     },
     {
       "from": "P_2026_CQ_16",
@@ -1523,9 +1543,29 @@
         "广东4号是地方落实国家26号的并网/调度要求"
       ],
       "reason": "广东4号办法第六章运行管理与第五章并网管理对储能并网与调度的部署，与国家26号《促进新型储能并网和调度运用》（国能发科技规〔2024〕26号）同向部署，属aligns_with。"
+    },
+    {
+      "from": "P_2023_NDRC_1294_b",
+      "to": "P_2018_NDRC_364",
+      "rel": "aligns_with",
+      "evidence": "构建清洁低碳、安全充裕、经济高效、供需协同、灵活智能的新型电力系统……增强常规电源调节支撑能力。新建煤电机组全部实现灵活性制造,现役机组灵活性改造应改尽改……加强系统调节能力统筹规划。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "本指导意见与P_2018_NDRC_364(提升电力系统调节能力)同支撑新型电力系统建设战略,主题协同推进调节灵活性"
+    },
+    {
+      "from": "P_2025_NDRC_1645",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "光热发电……是实现新能源安全可靠替代传统能源的有效手段,是加快构建新型电力系统的有效支撑。同时,光热发电产业链长……为更好适应新能源高质量发展需求,助力加快构建新型电力系统,现就促进光热发电规模化发展提出以下意见。",
+      "confidence": 0.78,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T13:36:28+08:00",
+      "reason": "光热发电意见明确助力加快构建新型电力系统,与P_2024_NDRC_0806117c行动方案协同推进"
     }
   ],
-  "relations_count": 76,
+  "relations_count": 80,
   "diff_files": [
     "P_2024_CQ_04038544__from__P_2024_CQ_0101a5e5.md",
     "P_2026_CQ_16__from__P_2025_CQ_22_b.md"
