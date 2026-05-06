@@ -248,23 +248,6 @@
       "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
     },
     {
-      "id": "P_2024_BJ_01265eb0",
-      "title": "2024年北京市政府工作报告重点任务清单",
-      "date": "2024-01-26",
-      "official": "",
-      "issuer": [
-        "北京市人民政府"
-      ],
-      "region": {
-        "level": "省",
-        "code": "110000",
-        "name": "北京市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
-    },
-    {
       "id": "P_2024_BJ_0126a2e6",
       "title": "2024年市政府工作报告重点任务清单",
       "date": "2024-01-26",
@@ -280,6 +263,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【2024年市政府工作报告重点任务清单】-北京市人民政府-0079.md"
+    },
+    {
+      "id": "P_2024_BJ_01265eb0",
+      "title": "2024年北京市政府工作报告重点任务清单",
+      "date": "2024-01-26",
+      "official": "",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
     },
     {
       "id": "P_2024_JL_0208240d",
@@ -1685,9 +1685,49 @@
       "extracted_by": "rebuild_l2_rel_judge_rerun",
       "extracted_at": "2026-05-06T13:36:28+08:00",
       "reason": "会议部署的'提升农村电网供电保障和综合承载能力'与发改能源规〔2023〕920号(农村电网巩固提升工程)直接协同"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "着力构建新型电力系统,加快智能电网建设,发展新型储能,扩大绿电应用",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告新型电力系统部署对应国家级行动方案"
+    },
+    {
+      "from": "P_2025_NDRC_136",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "贯彻落实党的二十届三中全会精神和党中央、国务院关于加快构建新型电力系统、健全绿色低碳发展机制的决策部署",
+      "confidence": 0.9,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源入市改革落实新型电力系统行动方案的市场化要求"
+    },
+    {
+      "from": "P_2025_NDRC_357_a",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "随着新型电力系统建设和电力市场建设的加快推进,虚拟电厂的发展条件日益成熟、作用日益显著、需求日益增长",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "虚拟电厂是新型电力系统行动方案的关键调节资源"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "支持有条件地区充分发挥光热、抽水蓄能和新型储能等的支撑调节作用,探索打造100%新能源基地……加快推进虚拟电厂规模化发展",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源集成融合是新型电力系统建设核心抓手"
     }
   ],
-  "relations_count": 84,
+  "relations_count": 88,
   "diff_files": [
     "P_2022_CQ_18__from__P_2020_GO_39_b.md",
     "P_2022_CQ_18__from__P_2021_OTHERD5A9_0416b7bf.md",

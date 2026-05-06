@@ -28,23 +28,6 @@
       "filename": "【碳排放权交易管理暂行条例(征求意见稿)】-生态环境部-d1f2.md"
     },
     {
-      "id": "P_2020_GO_1020e9f0",
-      "title": "新能源汽车产业发展规划（2021—2035年）",
-      "date": "2020-10-20",
-      "official": "",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
-    },
-    {
       "id": "P_2020_GO_39_b",
       "title": "新能源汽车产业发展规划(2021—2035年)",
       "date": "2020-10-20",
@@ -60,6 +43,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
+    },
+    {
+      "id": "P_2020_GO_1020e9f0",
+      "title": "新能源汽车产业发展规划（2021—2035年）",
+      "date": "2020-10-20",
+      "official": "",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
     },
     {
       "id": "P_2020_MEE_1230dbd8",
@@ -385,23 +385,6 @@
       "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
     },
     {
-      "id": "P_2024_BJ_01265eb0",
-      "title": "2024年北京市政府工作报告重点任务清单",
-      "date": "2024-01-26",
-      "official": "",
-      "issuer": [
-        "北京市人民政府"
-      ],
-      "region": {
-        "level": "省",
-        "code": "110000",
-        "name": "北京市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
-    },
-    {
       "id": "P_2024_BJ_0126a2e6",
       "title": "2024年市政府工作报告重点任务清单",
       "date": "2024-01-26",
@@ -417,6 +400,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【2024年市政府工作报告重点任务清单】-北京市人民政府-0079.md"
+    },
+    {
+      "id": "P_2024_BJ_01265eb0",
+      "title": "2024年北京市政府工作报告重点任务清单",
+      "date": "2024-01-26",
+      "official": "",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
     },
     {
       "id": "P_2024_GO_L775",
@@ -810,23 +810,6 @@
       "filename": "【上海市2024年计划执行情况与2025年计划草案报告】-上海市发展和改革委员会-95e3.md"
     },
     {
-      "id": "P_2025_CQ_01267b4b",
-      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
-      "date": "2025-01-26",
-      "official": "",
-      "issuer": [
-        "重庆市财政局"
-      ],
-      "region": {
-        "level": "省",
-        "code": "500000",
-        "name": "重庆市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
-    },
-    {
       "id": "P_2025_CQ_0126e838",
       "title": "重庆市2024年预算执行情况和2025年预算草案的报告",
       "date": "2025-01-26",
@@ -842,6 +825,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【重庆市2024年预算执行情况和2025年预算草案的报告】-重庆市人民政府-c35f.md"
+    },
+    {
+      "id": "P_2025_CQ_01267b4b",
+      "title": "重庆市2024年预算执行情况和2025年预算草案报告",
+      "date": "2025-01-26",
+      "official": "",
+      "issuer": [
+        "重庆市财政局"
+      ],
+      "region": {
+        "level": "省",
+        "code": "500000",
+        "name": "重庆市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【重庆市2024年预算执行情况和2025年预算草案报告】-重庆市财政局-810f.md"
     },
     {
       "id": "P_2025_NDRC_262",
@@ -1870,6 +1870,16 @@
       "reason": "年度迭代"
     },
     {
+      "from": "P_2025_NDRC_262",
+      "to": "P_2023_NDRC_1044_b",
+      "rel": "iterates",
+      "evidence": "加快推进可再生能源绿色电力证书(以下简称绿证)市场建设……加快可再生能源发电项目建档立卡,原则上当月完成上个月并网项目建档立卡",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "262号是1044号绿证全覆盖通知的迭代升级, 由全覆盖推进到市场高质量发展"
+    },
+    {
       "from": "P_2022_CQ_18",
       "to": "P_2020_GO_1020e9f0",
       "rel": "extends",
@@ -2239,9 +2249,259 @@
       "extracted_by": "rebuild_l2_rel_judge_rerun",
       "extracted_at": "2026-05-06T13:36:28+08:00",
       "reason": "上海碳市场改革方案明确与全国碳市场（碳排放权交易管理暂行条例）有效补充与衔接,平行碳市场协同"
+    },
+    {
+      "from": "P_2026_MIIT_13",
+      "to": "P_2025_NDRC_910",
+      "rel": "aligns_with",
+      "evidence": "零碳工厂建设是指通过技术创新、结构调整和管理优化等减排措施，实现厂区内二氧化碳排放的持续降低、逐步趋向于近零的过程……支撑实现碳达峰碳中和目标",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "零碳工厂(MIIT) 与 零碳园区(NDRC) 同期姊妹政策, 平行推动工业部门近零排放"
+    },
+    {
+      "from": "P_2026_MIIT_13",
+      "to": "P_2022_MIIT_0802c974",
+      "rel": "aligns_with",
+      "evidence": "深挖工业和信息化领域节能降碳潜力，带动重点行业领域减碳增效和绿色低碳转型……到2030年，将零碳工厂建设逐步拓展至钢铁、有色金属、石化化工、建材、纺织等行业领域",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "同为工信部主导的工业部门双碳工作, 零碳工厂落实工业碳达峰路径"
+    },
+    {
+      "from": "P_2026_MIIT_13",
+      "to": "P_2024_SH_8_a",
+      "rel": "aligns_with",
+      "evidence": "鼓励采用《温室气体 产品碳足迹量化要求和指南》(GB/T 24067)等相关国家标准……开展产品碳足迹分析",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "零碳工厂明确依托产品碳足迹管理体系, 上海方案是国内最早体系化探索"
+    },
+    {
+      "from": "P_2026_MIIT_13",
+      "to": "P_2021_SC_0922fb2b",
+      "rel": "aligns_with",
+      "evidence": "贯彻落实党中央、国务院决策部署……支撑实现碳达峰碳中和目标具有重要意义",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "落实双碳意见(中央国务院总纲)的部门级行业落地"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2024_GO_39",
+      "rel": "aligns_with",
+      "evidence": "实施碳排放总量和强度双控制度,完善碳排放统计核算、碳足迹管理体系",
+      "confidence": 0.9,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "政府工作报告明确部署的碳双控制度, GO_39 是国务院构建该制度的工作方案"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "着力构建新型电力系统,加快智能电网建设,发展新型储能,扩大绿电应用",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告新型电力系统部署对应国家级行动方案"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2025_NDRC_910",
+      "rel": "aligns_with",
+      "evidence": "深入推进零碳园区和工厂建设",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告点名零碳园区, NDRC_910 即零碳园区建设通知"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2026_MIIT_13",
+      "rel": "aligns_with",
+      "evidence": "深入推进零碳园区和工厂建设",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告点名零碳工厂, MIIT_13 即零碳工厂指导意见"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2024_GO_L775",
+      "rel": "aligns_with",
+      "evidence": "进一步扩大碳排放权交易市场覆盖范围",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告扩大碳市场覆盖, L775 是碳市场法律基础"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2025_NDRC_0912b2a5",
+      "rel": "aligns_with",
+      "evidence": "新型储能装机规模超过 1.3 亿千瓦",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告新型储能目标对应专项行动方案"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2025_MEE_0910a76d",
+      "rel": "aligns_with",
+      "evidence": "宣布应对气候变化 2035 年国家自主贡献目标,充分展现负责任大国担当",
+      "confidence": 0.78,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告对应气候变化与碳达峰报告的政治承接"
+    },
+    {
+      "from": "P_2026_SH_18_a",
+      "to": "P_2026_SH_03132bad",
+      "rel": "aligns_with",
+      "evidence": "松江区国民经济和社会发展第十五个五年规划纲要……绿色低碳生产生活方式广泛形成",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "同期同区(松江)总体规划纲要 vs 能源专项行动方案, 自然协同"
+    },
+    {
+      "from": "P_2025_NDRC_136",
+      "to": "P_2025_NDRC_262",
+      "rel": "aligns_with",
+      "evidence": "纳入可持续发展价格结算机制的电量,不重复获得绿证收益",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "136号(新能源入市)与262号(绿证市场)同期出台, 价格机制相互勾连"
+    },
+    {
+      "from": "P_2025_NDRC_262",
+      "to": "P_2024_NDRC_1123_a",
+      "rel": "aligns_with",
+      "evidence": "参考绿证单独交易价格,合理形成绿色电力交易中的绿证价格",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "绿证市场发展意见与绿色电力交易规则同步配套"
+    },
+    {
+      "from": "P_2025_NDRC_262",
+      "to": "P_2024_GO_39",
+      "rel": "aligns_with",
+      "evidence": "推动将绿色电力消费要求纳入重点用能和碳排放单位节能降碳管理办法",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "绿证消费与碳排放双控制度衔接, 共同支持双碳目标"
+    },
+    {
+      "from": "P_2025_NDRC_262",
+      "to": "P_2025_NDRC_136",
+      "rel": "aligns_with",
+      "evidence": "推动新能源公平参与市场交易……完善绿色电力交易机制",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "绿证262号与新能源入市136号同期发改委姊妹文件"
+    },
+    {
+      "from": "P_2025_NDRC_357_a",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "随着新型电力系统建设和电力市场建设的加快推进,虚拟电厂的发展条件日益成熟、作用日益显著、需求日益增长",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "虚拟电厂是新型电力系统行动方案的关键调节资源"
+    },
+    {
+      "from": "P_2025_NDRC_357_a",
+      "to": "P_2024_NEA_93_a",
+      "rel": "aligns_with",
+      "evidence": "虚拟电厂是基于电力系统架构,运用现代信息通信、系统集成控制等技术,聚合分布式电源、可调节负荷、储能等各类分散资源,作为新型经营主体协同参与电力系统优化和电力市场交易",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "虚拟电厂被明确为'新型经营主体', 直接对接新型经营主体创新发展指导意见"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "aligns_with",
+      "evidence": "加快推进虚拟电厂规模化发展,加强分散电力资源的聚合协同……积极推动通过虚拟电厂等模式实现分布式资源的聚合调控",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合发展明确依托虚拟电厂指导意见"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_910",
+      "rel": "aligns_with",
+      "evidence": "支持新能源为主的产业园区应用绿电直连、智能微电网(源网荷储一体化)、新能源接入增量配电网等新业态以及绿证绿电交易等形式,构建多能互补、高度自给的低碳零碳园区",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合直接为零碳园区提供消纳路径"
+    },
+    {
+      "from": "P_2025_SH_61",
+      "to": "P_2024_SH_8_b",
+      "rel": "aligns_with",
+      "evidence": "推动15个绿色低碳转型重点应用场景布局落地。推动绿色低碳供应链建设",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "上海2025重点工作落实上海绿色低碳转型行动方案(2024-2027)"
+    },
+    {
+      "from": "P_2025_SH_61",
+      "to": "P_2024_SH_8_a",
+      "rel": "aligns_with",
+      "evidence": "建立完善产品碳足迹背景数据库,开展重点产品碳标识认证试点",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "落实上海产品碳足迹管理体系行动方案"
+    },
+    {
+      "from": "P_2025_SH_61",
+      "to": "P_2025_SH_16",
+      "rel": "aligns_with",
+      "evidence": "持续稳定运行好全国碳排放权交易系统,深化上海碳市场改革,扩大碳普惠减排场景和减排项目覆盖范围",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "上海2025工作衔接上海碳市场全面深化改革行动方案2026-2030"
+    },
+    {
+      "from": "P_2025_SH_61",
+      "to": "P_2025_NDRC_262",
+      "rel": "aligns_with",
+      "evidence": "落实绿证与能耗双控政策衔接,结合绿色低碳供应链建设、重点用能单位管理、节能审查等工作,推动重点单位购买绿证",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "上海重点工作直接落实国家绿证市场高质量发展意见"
+    },
+    {
+      "from": "P_2025_SH_61",
+      "to": "P_2025_SH_21_b",
+      "rel": "aligns_with",
+      "evidence": "持续加力扩围推进'两新'工作,扩大消费以旧换新补贴品类范围",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "节能减排工作中两新部署对应上海加力扩围两新方案"
     }
   ],
-  "relations_count": 94,
+  "relations_count": 120,
   "diff_files": [
     "P_2022_MEE_111__from__P_2020_MEE_1230dbd8.md",
     "P_2022_CQ_18__from__P_2020_GO_39_b.md",
@@ -2318,23 +2578,6 @@
   },
   "top_5_importance": [
     {
-      "id": "P_2020_GO_1020e9f0",
-      "title": "新能源汽车产业发展规划（2021—2035年）",
-      "date": "2020-10-20",
-      "official": "",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
-    },
-    {
       "id": "P_2020_GO_39_b",
       "title": "新能源汽车产业发展规划(2021—2035年)",
       "date": "2020-10-20",
@@ -2350,6 +2593,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
+    },
+    {
+      "id": "P_2020_GO_1020e9f0",
+      "title": "新能源汽车产业发展规划（2021—2035年）",
+      "date": "2020-10-20",
+      "official": "",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
     },
     {
       "id": "P_2021_SC_0922fb2b",

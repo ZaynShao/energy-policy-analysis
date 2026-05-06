@@ -265,23 +265,6 @@
       "filename": "【重庆市成品油零售加油站“十四五”发展规划】-重庆市商务委员会-ea98.md"
     },
     {
-      "id": "P_2024_BJ_01265eb0",
-      "title": "2024年北京市政府工作报告重点任务清单",
-      "date": "2024-01-26",
-      "official": "",
-      "issuer": [
-        "北京市人民政府"
-      ],
-      "region": {
-        "level": "省",
-        "code": "110000",
-        "name": "北京市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
-    },
-    {
       "id": "P_2024_BJ_0126a2e6",
       "title": "2024年市政府工作报告重点任务清单",
       "date": "2024-01-26",
@@ -297,6 +280,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【2024年市政府工作报告重点任务清单】-北京市人民政府-0079.md"
+    },
+    {
+      "id": "P_2024_BJ_01265eb0",
+      "title": "2024年北京市政府工作报告重点任务清单",
+      "date": "2024-01-26",
+      "official": "",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
     },
     {
       "id": "P_2024_JL_0208240d",
@@ -775,23 +775,6 @@
       "filename": "【松江区推进能源高质量发展行动方案（2026-2030年）】-上海市松江区发展和改革委员会-09bf.md"
     },
     {
-      "id": "P_2026_CQ_16",
-      "title": "重庆市2026年市级重点项目实施工作通知",
-      "date": "2026-03-30",
-      "official": "渝府办发〔2026〕16号",
-      "issuer": [
-        "重庆市人民政府办公厅"
-      ],
-      "region": {
-        "level": "省",
-        "code": "500000",
-        "name": "重庆市"
-      },
-      "importance": 3,
-      "tags": [],
-      "filename": "【重庆市2026年市级重点项目实施工作通知(渝府办发〔2026〕16号)】-重庆市人民政府办公厅-73d8.md"
-    },
-    {
       "id": "P_2026_BJ_4",
       "title": "美丽丰台建设2026年行动计划",
       "date": "2026-03-30",
@@ -807,6 +790,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【美丽丰台建设2026年行动计划(丰政办发〔2026〕4号)】-北京市丰台区人民政府办公室-3951.md"
+    },
+    {
+      "id": "P_2026_CQ_16",
+      "title": "重庆市2026年市级重点项目实施工作通知",
+      "date": "2026-03-30",
+      "official": "渝府办发〔2026〕16号",
+      "issuer": [
+        "重庆市人民政府办公厅"
+      ],
+      "region": {
+        "level": "省",
+        "code": "500000",
+        "name": "重庆市"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【重庆市2026年市级重点项目实施工作通知(渝府办发〔2026〕16号)】-重庆市人民政府办公厅-73d8.md"
     },
     {
       "id": "P_2026_SX_04010841",
@@ -1477,9 +1477,69 @@
       "extracted_by": "rebuild_l2_rel_judge_rerun",
       "extracted_at": "2026-05-06T13:36:28+08:00",
       "reason": "央企93号文是2030年前碳达峰行动方案在央企领域的平行落实路径,同战略协同推进"
+    },
+    {
+      "from": "P_2026_SH_18_a",
+      "to": "P_2026_SH_03132bad",
+      "rel": "aligns_with",
+      "evidence": "松江区国民经济和社会发展第十五个五年规划纲要……绿色低碳生产生活方式广泛形成",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "同期同区(松江)总体规划纲要 vs 能源专项行动方案, 自然协同"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "支持有条件地区充分发挥光热、抽水蓄能和新型储能等的支撑调节作用,探索打造100%新能源基地……加快推进虚拟电厂规模化发展",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源集成融合是新型电力系统建设核心抓手"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "aligns_with",
+      "evidence": "加快推进虚拟电厂规模化发展,加强分散电力资源的聚合协同……积极推动通过虚拟电厂等模式实现分布式资源的聚合调控",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合发展明确依托虚拟电厂指导意见"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_910",
+      "rel": "aligns_with",
+      "evidence": "支持新能源为主的产业园区应用绿电直连、智能微电网(源网荷储一体化)、新能源接入增量配电网等新业态以及绿证绿电交易等形式,构建多能互补、高度自给的低碳零碳园区",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合直接为零碳园区提供消纳路径"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_136",
+      "rel": "aligns_with",
+      "evidence": "支持'沙戈荒'、水风光新能源基地以一体化模式参与电力市场交易……完善新能源与产业集成融合项目参与市场及交易结算机制",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合发展与新能源入市改革同向并行"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_1360",
+      "rel": "aligns_with",
+      "evidence": "随着新能源规模越来越大、电量占比越来越高,系统消纳压力持续加大……统筹推进新能源大规模开发和高水平消纳",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "集成融合是新能源消纳调控指导意见的实施路径"
     }
   ],
-  "relations_count": 58,
+  "relations_count": 64,
   "diff_files": [
     "P_2023_CQ_120401b0__from__P_2021_OTHERD5A9_0416b7bf.md",
     "P_2023_CQ_120401b0__from__P_2021_OTHER203C_1001d59f.md",

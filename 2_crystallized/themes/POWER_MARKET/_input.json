@@ -2597,9 +2597,209 @@
       "extracted_by": "rebuild_l2_rel_judge_rerun",
       "extracted_at": "2026-05-06T13:36:28+08:00",
       "reason": "央企93号文是2030年前碳达峰行动方案在央企领域的平行落实路径,同战略协同推进"
+    },
+    {
+      "from": "P_2026_MIIT_13",
+      "to": "P_2025_NDRC_910",
+      "rel": "aligns_with",
+      "evidence": "零碳工厂建设是指通过技术创新、结构调整和管理优化等减排措施，实现厂区内二氧化碳排放的持续降低、逐步趋向于近零的过程……支撑实现碳达峰碳中和目标",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "零碳工厂(MIIT) 与 零碳园区(NDRC) 同期姊妹政策, 平行推动工业部门近零排放"
+    },
+    {
+      "from": "P_2026_MIIT_13",
+      "to": "P_2021_SC_0922fb2b",
+      "rel": "aligns_with",
+      "evidence": "贯彻落实党中央、国务院决策部署……支撑实现碳达峰碳中和目标具有重要意义",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "落实双碳意见(中央国务院总纲)的部门级行业落地"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "着力构建新型电力系统,加快智能电网建设,发展新型储能,扩大绿电应用",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告新型电力系统部署对应国家级行动方案"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2025_NDRC_910",
+      "rel": "aligns_with",
+      "evidence": "深入推进零碳园区和工厂建设",
+      "confidence": 0.92,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告点名零碳园区, NDRC_910 即零碳园区建设通知"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2025_NDRC_0912b2a5",
+      "rel": "aligns_with",
+      "evidence": "新型储能装机规模超过 1.3 亿千瓦",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告新型储能目标对应专项行动方案"
+    },
+    {
+      "from": "P_2026_SC_0305e288",
+      "to": "P_2025_MEE_0910a76d",
+      "rel": "aligns_with",
+      "evidence": "宣布应对气候变化 2035 年国家自主贡献目标,充分展现负责任大国担当",
+      "confidence": 0.78,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "工作报告对应气候变化与碳达峰报告的政治承接"
+    },
+    {
+      "from": "P_2025_NDRC_136",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "贯彻落实党的二十届三中全会精神和党中央、国务院关于加快构建新型电力系统、健全绿色低碳发展机制的决策部署",
+      "confidence": 0.9,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源入市改革落实新型电力系统行动方案的市场化要求"
+    },
+    {
+      "from": "P_2025_NDRC_136",
+      "to": "P_2024_NDRC_20",
+      "rel": "aligns_with",
+      "evidence": "新能源项目上网电量原则上全部进入电力市场,上网电价通过市场交易形成……完善现货市场交易规则……健全中长期市场交易和价格机制",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "136号文是电力市场运行基本规则在新能源价格领域的细化执行"
+    },
+    {
+      "from": "P_2025_NDRC_136",
+      "to": "P_2024_NDRC_1123_a",
+      "rel": "aligns_with",
+      "evidence": "完善绿色电力交易政策,申报和成交价格应分别明确电能量价格和相应绿色电力证书(以下简称绿证)价格",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源入市改革与绿电交易专章直接衔接, 同步完善"
+    },
+    {
+      "from": "P_2025_NDRC_136",
+      "to": "P_2025_NDRC_262",
+      "rel": "aligns_with",
+      "evidence": "纳入可持续发展价格结算机制的电量,不重复获得绿证收益",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "136号(新能源入市)与262号(绿证市场)同期出台, 价格机制相互勾连"
+    },
+    {
+      "from": "P_2025_NDRC_262",
+      "to": "P_2024_NDRC_1123_a",
+      "rel": "aligns_with",
+      "evidence": "参考绿证单独交易价格,合理形成绿色电力交易中的绿证价格",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "绿证市场发展意见与绿色电力交易规则同步配套"
+    },
+    {
+      "from": "P_2025_NDRC_262",
+      "to": "P_2025_NDRC_136",
+      "rel": "aligns_with",
+      "evidence": "推动新能源公平参与市场交易……完善绿色电力交易机制",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "绿证262号与新能源入市136号同期发改委姊妹文件"
+    },
+    {
+      "from": "P_2025_NDRC_357_a",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "随着新型电力系统建设和电力市场建设的加快推进,虚拟电厂的发展条件日益成熟、作用日益显著、需求日益增长",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "虚拟电厂是新型电力系统行动方案的关键调节资源"
+    },
+    {
+      "from": "P_2025_NDRC_357_a",
+      "to": "P_2024_NEA_93_a",
+      "rel": "aligns_with",
+      "evidence": "虚拟电厂是基于电力系统架构,运用现代信息通信、系统集成控制等技术,聚合分布式电源、可调节负荷、储能等各类分散资源,作为新型经营主体协同参与电力系统优化和电力市场交易",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "虚拟电厂被明确为'新型经营主体', 直接对接新型经营主体创新发展指导意见"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "支持有条件地区充分发挥光热、抽水蓄能和新型储能等的支撑调节作用,探索打造100%新能源基地……加快推进虚拟电厂规模化发展",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源集成融合是新型电力系统建设核心抓手"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_357_a",
+      "rel": "aligns_with",
+      "evidence": "加快推进虚拟电厂规模化发展,加强分散电力资源的聚合协同……积极推动通过虚拟电厂等模式实现分布式资源的聚合调控",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合发展明确依托虚拟电厂指导意见"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_910",
+      "rel": "aligns_with",
+      "evidence": "支持新能源为主的产业园区应用绿电直连、智能微电网(源网荷储一体化)、新能源接入增量配电网等新业态以及绿证绿电交易等形式,构建多能互补、高度自给的低碳零碳园区",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合直接为零碳园区提供消纳路径"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_136",
+      "rel": "aligns_with",
+      "evidence": "支持'沙戈荒'、水风光新能源基地以一体化模式参与电力市场交易……完善新能源与产业集成融合项目参与市场及交易结算机制",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "新能源融合发展与新能源入市改革同向并行"
+    },
+    {
+      "from": "P_2025_NEA_93",
+      "to": "P_2025_NDRC_1360",
+      "rel": "aligns_with",
+      "evidence": "随着新能源规模越来越大、电量占比越来越高,系统消纳压力持续加大……统筹推进新能源大规模开发和高水平消纳",
+      "confidence": 0.82,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "集成融合是新能源消纳调控指导意见的实施路径"
+    },
+    {
+      "from": "P_2025_SH_61",
+      "to": "P_2024_SH_8_b",
+      "rel": "aligns_with",
+      "evidence": "推动15个绿色低碳转型重点应用场景布局落地。推动绿色低碳供应链建设",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge_rerun",
+      "extracted_at": "2026-05-06T14:38:06+08:00",
+      "reason": "上海2025重点工作落实上海绿色低碳转型行动方案(2024-2027)"
     }
   ],
-  "relations_count": 121,
+  "relations_count": 141,
   "diff_files": [
     "P_2024_CQ_04038544__from__P_2024_CQ_0101a5e5.md",
     "P_2025_NDRC_1656_a__from__P_2020_NDRC_889.md",

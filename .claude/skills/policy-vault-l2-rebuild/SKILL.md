@@ -227,6 +227,41 @@ python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 
 trigger F 用 LLM(新 prompt + 新模型)对每个 isolated 政策从 outbound 视角重审 5 类关系,**0 边输出 acceptable**(不会强迫 LLM 硬编)。同时通过履历表(§4d)记录"已审"标记,后续 metric 看到 isolated 时能区分"已审 + 真孤儿" vs "未审"。
 
+### F.0 目标选择规则(2026-05-06 扩展)
+
+trigger F 不只针对 isolated(双 0)。`inbound_only + 较新政策` 也是召回不足高嫌疑子集 — 一个 2025+ 新政策被引用却 outbound=0,几乎肯定不是真无关联(它至少应 cites_basis / aligns_with 上位双碳意见 / 新型电力系统行动方案等),而是旧版 rel_judge 召回不足。
+
+**正确的 trigger F 候选清单**:
+```python
+candidates = isolated  # 双 0 政策(metric quadrants.isolated)
+       ∪ {p ∈ inbound_only : year(p) ≥ 2025 AND
+                              history(p).trigger == 'build_phase_legacy'}
+```
+
+实操命令:
+```bash
+python3 -c "
+import json, subprocess
+m = json.loads(subprocess.run(['python3','_meta/scripts/relations_coverage_metric.py','--json'],
+    capture_output=True, text=True).stdout)
+hist = {}
+import pathlib
+for line in pathlib.Path('_meta/audit/rel_judge_history.jsonl').read_text().splitlines():
+    if line.strip():
+        try:
+            r = json.loads(line); hist[r['pid']] = r
+        except: pass
+
+isolated = m['quadrants']['isolated']
+inbound_unaudited = [p for p in m['quadrants']['inbound_only']
+    if hist.get(p, {}).get('trigger') == 'build_phase_legacy'
+    and int(p.split('_')[1]) >= 2025]
+
+candidates = sorted(set(isolated + inbound_unaudited))
+print(','.join(candidates))
+"
+```
+
 完整 3 步:
 
 ### F.1 准备(`prepare`)
