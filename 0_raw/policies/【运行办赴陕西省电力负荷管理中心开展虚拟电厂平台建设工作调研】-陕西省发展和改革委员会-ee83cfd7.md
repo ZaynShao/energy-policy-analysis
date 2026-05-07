@@ -19,7 +19,16 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 1
   src_count: 2
+  classification_applied_at: '2026-05-07T14:20:52+08:00'
 confidence: medium
+classification:
+  isolated_label: news_or_press
+  suggested_action: exclude_from_main_graph
+  confidence: 0.95
+  classified_at: '2026-05-07T13:48:38+08:00'
+  classified_by: B7_subagent_v1
+tags:
+- classified_main_graph_exclude
 ---
 
 # 运行办赴陕西省电力负荷管理中心开展虚拟电厂平台建设工作调研
