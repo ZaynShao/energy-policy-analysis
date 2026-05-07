@@ -4,7 +4,7 @@ title: 福建省人民政府关于印发《福建省推动大规模设备更新�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:59+08:00'
 policy_file: ../../../0_raw/policies/【福建省人民政府关于印发《福建省推动大规模设备更新和消费品 ...】-福建省发展和改革委员会-a37c3fb4.md
 ---
 

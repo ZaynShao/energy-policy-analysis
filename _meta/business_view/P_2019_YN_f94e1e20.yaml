@@ -1,0 +1,23 @@
+pid: P_2019_YN_f94e1e20
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 目录中含天然气管道运输价格管理办法,涉气业务可参考
+  充电: 目录中暂无直接充电桩文件,但城镇供水、价格类文件可与充电场站价格策略关联
+  电力_储能_V2G_交易: 燃煤上网电价、风电核准、节能审查等文件构成云南电力市场制度底盘
+  乡村: 云南农村产权流转电子交易规则可作下乡业务参考
+行动建议:
+- 'C 关注: 按目录抓取云南天然气、电力、节能审查具体文件全文评估业务影响'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 目录性文件,需顺藤摸瓜检索具体价格/能源文件评估业务影响
+archive: low_score

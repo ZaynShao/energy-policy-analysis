@@ -4,7 +4,7 @@ title: 国家能源局有关负责同志就完善价格机制促进新能源发�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:59+08:00'
 policy_file: ../../../0_raw/policies/【国家能源局有关负责同志就完善价格机制促进新能源发电就近消纳答 ...】-山西省发展和改革委员会-5d4f1dba.md
 ---
 

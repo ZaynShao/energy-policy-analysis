@@ -4,7 +4,7 @@ title: 成品油流通管理办法(征求意见稿)
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:59+08:00'
 policy_file: ../../../0_raw/policies/【成品油流通管理办法(征求意见稿)】-商务部-2d80.md
 ---
 

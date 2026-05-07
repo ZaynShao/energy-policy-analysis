@@ -3,7 +3,7 @@ theme_id: distribution_grid_opening
 theme_zh: 配电网开放/增量配电
 theme_dir: DISTRIBUTION_GRID_OPENING
 type: theme_hub
-policy_count: 252
+policy_count: 260
 opinion_count: 28
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 配电网开放/增量配电(DISTRIBUTION_GRID_OPENING)— 主题入口
 
-**政策数**: 252  ·  **观点矩阵**: 28
+**政策数**: 260  ·  **观点矩阵**: 28
 
 ## 主题文档
 

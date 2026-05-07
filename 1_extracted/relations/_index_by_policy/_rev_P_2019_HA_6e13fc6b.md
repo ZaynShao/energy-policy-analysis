@@ -4,7 +4,7 @@ title: 关于印发河南省电力市场交易规则（试行）的通知_委发
 inbound_edge_count: 0
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:59+08:00'
 policy_file: ../../../0_raw/policies/【关于印发河南省电力市场交易规则（试行）的通知_委发公文(豫发改能源〔2019〕4号)】-河南省发展和改革委员会-6e13fc6b.md
 ---
 

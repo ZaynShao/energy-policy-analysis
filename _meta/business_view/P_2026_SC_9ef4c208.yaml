@@ -1,0 +1,24 @@
+pid: P_2026_SC_9ef4c208
+scores:
+  D1: 2
+  D2: 2
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 四川充电设施倍增方案对应国家1250号文,公司在川充电业务有政策红利可申报
+  电力_储能_V2G_交易: 聚合页提示四川多份能源/价格类文件已发布,需抓取全文识别VPP/绿电具体规则
+  乡村: 倍增方案预期含县乡覆盖目标,与下沉乡村战略契合
+行动建议:
+- 'A 立即: 抓取四川充电设施倍增行动方案全文并对照公司在川业务'
+- 'B 研究: 关注以旧换新方案对四川新能源车销量与充电需求拉动'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 页面提示四川充电设施服务能力倍增方案落地,需进一步抓取全文
+archive: low_score

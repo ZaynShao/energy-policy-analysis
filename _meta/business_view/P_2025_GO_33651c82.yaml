@@ -1,0 +1,23 @@
+pid: P_2025_GO_33651c82
+scores:
+  D1: 4
+  D2: 3
+  D3: 3
+  D4: 2
+  D5: 1
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 公司在川充电站可作可调负荷资源加入VPP聚合
+  电力_储能_V2G_交易: 四川VPP方案确立市场化、多元化路径,公司可注册VPP主体参与中长期/现货/辅助服务
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 评估在四川注册VPP主体接入电力交易中心的路径'
+- 'B 研究: 设计在川聚合C端电动车+B端工商业的VPP产品'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 公司可作为四川VPP运营商接入电力交易中心,聚合B端C端资源

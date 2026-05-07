@@ -1,0 +1,23 @@
+pid: P_2025_CQ_d2578cbc
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 分布式光伏可与公司充电站结合形成光储充一体化
+  电力_储能_V2G_交易: 分布式光伏接入与调度规则为后续VPP聚合提供合规基础
+  乡村: 细则覆盖农业种植/渔业养殖光伏,乡村光储充结合可行
+行动建议:
+- 'B 研究: 在重庆评估光储充一体化项目,适配新细则备案路径'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 重庆分布式光伏接入规则成型,公司光储充一体化项目接入路径清晰
+archive: low_score

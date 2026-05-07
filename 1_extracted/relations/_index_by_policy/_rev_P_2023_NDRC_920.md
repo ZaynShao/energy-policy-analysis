@@ -4,7 +4,7 @@ title: 国家发展改革委 国家能源局 国家乡村振兴局关于实施�
 inbound_edge_count: 1
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:59+08:00'
 policy_file: ../../../0_raw/policies/【国家发展改革委 国家能源局 国家乡村振兴局关于实施农村电网巩固提升工程的指导意见(发改能源规〔2023〕920号)】-国家发展改革委、国家能源局、国家乡村振兴局-e087.md
 ---
 

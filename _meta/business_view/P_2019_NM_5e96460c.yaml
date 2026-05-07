@@ -1,0 +1,23 @@
+pid: P_2019_NM_5e96460c
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 0
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 页面例举了乌海等地充电桩项目备案信息,可作为西部充电站项目布点参考
+  电力_储能_V2G_交易: 页面提及飞轮/电化学混合调频电站、电网侧储能等已备案项目,可作市场情报
+  乡村: 无直接乡村议题
+行动建议:
+- 'C 关注: 通过新域名 nmg.tzxm.gov.cn 持续跟进内蒙古充电桩、储能项目备案动态'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 对滴滴能源业务影响极小,仅是平台域名变更通知
+archive: low_score

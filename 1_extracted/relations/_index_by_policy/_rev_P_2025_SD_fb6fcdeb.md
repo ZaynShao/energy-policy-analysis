@@ -4,7 +4,7 @@ title: 山东省发展和改革委员会通知公告关于公布首批车网互�
 inbound_edge_count: 2
 outbound_edge_count: 5
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:59+08:00'
 policy_file: ../../../0_raw/policies/【山东省发展和改革委员会通知公告关于公布首批车网互动规模化应用 ...(发改办能源〔2025〕241号)】-山东省发展和改革委员会-fb6fcdeb.md
 ---
 

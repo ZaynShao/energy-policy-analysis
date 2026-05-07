@@ -4,7 +4,7 @@ title: 深圳市光明区支持新型储能产业加快发展扶持计划操作�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 2
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:58+08:00'
 policy_file: ../../../0_raw/policies/【深圳市光明区支持新型储能产业加快发展扶持计划操作规程(深光发改规〔2025〕1号)】-深圳市光明区发展和改革局-22df.md
 ---
 

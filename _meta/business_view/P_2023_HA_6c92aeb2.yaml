@@ -1,0 +1,23 @@
+pid: P_2023_HA_6c92aeb2
+scores:
+  D1: 3
+  D2: 3
+  D3: 3
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 村级公共充电与V2G小车示范提示乡村慢充+V2G融合潜力
+  电力_储能_V2G_交易: 零碳台区+V2G+整县光伏构成县域微电网模型,公司VPP聚合可对接
+  乡村: 屋顶光伏+绿电取暖+V2G模式直接对应乡村业务,值得复制推广
+行动建议:
+- 'A 立即: 派员调研兰考整县模式,梳理可复制要点'
+- 'B 研究: 在公司服务县域内试点光储充+V2G+绿电取暖一体化方案'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 兰考模式为公司在县域光储充与V2G融合下乡提供标杆模板

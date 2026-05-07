@@ -1,0 +1,23 @@
+pid: P_2024_HE_eccce40a
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 充电桩作为可调节负荷被纳入资源库,具备拉响应电费补偿空间
+  电力_储能_V2G_交易: 需求响应优先、储能/VPP参与调节,公司可在河北接入聚合
+  乡村: 未直接涉及
+行动建议:
+- 'B 研究: 评估在河北接入柔性可调节负荷资源库的报名渠道与年度收益'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 公司充电桩与储能可作为河北柔性可调节负荷资源接入资源库
+archive: low_score

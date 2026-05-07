@@ -1,0 +1,23 @@
+pid: P_2025_HA_8ee62cac
+scores:
+  D1: 2
+  D2: 2
+  D3: 1
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 上半年充换电投资同比增70%,赛道资金面宽松,公司可加快布局节奏
+  电力_储能_V2G_交易: 两重两新带动设备更新与新型电力系统投资,VPP/储能间接受益
+  乡村: 未直接涉及
+行动建议:
+- 'C 关注: 持续跟踪国家投资数据节奏校准公司投资节拍'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 充换电基础设施投资高增长印证赛道景气度
+archive: low_score

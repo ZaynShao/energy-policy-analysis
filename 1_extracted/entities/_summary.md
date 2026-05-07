@@ -5,16 +5,16 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **842**
+- 输入政策: **907**
 - registry 实体: **99**
-- 命中实体的政策: **811**
-- 零实体命中政策: **31**(召回缺口,LLM 补抽 candidate)
-- 平均每政策命中实体: **7.3**
-- 已被引用的 canonical: **72/99**
-- 孤儿 canonical(0 政策引用): **27**
+- 命中实体的政策: **872**
+- 零实体命中政策: **35**(召回缺口,LLM 补抽 candidate)
+- 平均每政策命中实体: **7.2**
+- 已被引用的 canonical: **73/99**
+- 孤儿 canonical(0 政策引用): **26**
 
 ## type 分布(有政策引用的)
-- stakeholder: 30
+- stakeholder: 31
 - org: 18
 - theme: 11
 - region: 9
@@ -24,26 +24,26 @@ date: 2026-04-25
 
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
-| 1 | `nea` | 国家能源局 | org | 330 |
-| 2 | `power_market` | 电力市场 | concept | 306 |
-| 3 | `state_council` | 国务院 | org | 275 |
-| 4 | `distribution_grid_opening` | 配电网开放 | theme | 267 |
-| 5 | `grid_company` | 电网企业 | stakeholder / org | 264 |
-| 6 | `new_ess` | 新型储能 | concept | 242 |
-| 7 | `rural_revitalization_theme` | 乡村振兴 | theme | 229 |
-| 8 | `nev` | 新能源汽车 | concept | 227 |
-| 9 | `green_power_trading_theme` | 绿电交易 | theme | 189 |
-| 10 | `vpp` | 虚拟电厂 | concept | 184 |
-| 11 | `region_beijing` | 北京 | region | 176 |
-| 12 | `power_user` | 电力用户 | stakeholder | 148 |
-| 13 | `region_shanghai` | 上海 | region | 141 |
-| 14 | `region_xinjiang` | 新疆 | region | 138 |
-| 15 | `energy_storage_theme` | 新型储能 | theme | 135 |
-| 16 | `charging_infra` | 充电基础设施 | concept | 131 |
-| 17 | `equipment_renewal_theme` | 以旧换新 | theme | 128 |
-| 18 | `power_generator` | 发电企业 | stakeholder | 127 |
-| 19 | `aggregator_access` | 聚合商准入 | theme | 114 |
-| 20 | `mof` | 财政部 | org | 112 |
+| 1 | `nea` | 国家能源局 | org | 348 |
+| 2 | `power_market` | 电力市场 | concept | 322 |
+| 3 | `state_council` | 国务院 | org | 292 |
+| 4 | `grid_company` | 电网企业 | stakeholder / org | 284 |
+| 5 | `distribution_grid_opening` | 配电网开放 | theme | 275 |
+| 6 | `new_ess` | 新型储能 | concept | 249 |
+| 7 | `rural_revitalization_theme` | 乡村振兴 | theme | 245 |
+| 8 | `nev` | 新能源汽车 | concept | 239 |
+| 9 | `vpp` | 虚拟电厂 | concept | 210 |
+| 10 | `green_power_trading_theme` | 绿电交易 | theme | 201 |
+| 11 | `region_beijing` | 北京 | region | 182 |
+| 12 | `power_user` | 电力用户 | stakeholder | 162 |
+| 13 | `region_shanghai` | 上海 | region | 145 |
+| 14 | `region_xinjiang` | 新疆 | region | 144 |
+| 15 | `energy_storage_theme` | 新型储能 | theme | 140 |
+| 16 | `charging_infra` | 充电基础设施 | concept | 139 |
+| 17 | `power_generator` | 发电企业 | stakeholder | 135 |
+| 18 | `equipment_renewal_theme` | 以旧换新 | theme | 132 |
+| 19 | `aggregator_access` | 聚合商准入 | theme | 128 |
+| 20 | `vpp_theme` | 虚拟电厂 | theme | 118 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 
@@ -64,7 +64,6 @@ date: 2026-04-25
 - `heavy_truck_oem` (重卡制造商)
 - `public_transit_company` (城市公交及运输企业)
 - `transport_industry` (交通运输行业)
-- `soe` (国有企业)
 - `supply_chain_leader` (供应链领军企业)
 - `utility_company` (供水供电供气供热企业)
 - `energy_company` (能源企业)
@@ -83,20 +82,20 @@ date: 2026-04-25
 - `P_1900_SN_41cca677`
 - `P_2023_GO_0e239de9`
 - `P_2019_BJ_7953e5fb`
+- `P_1900_SN_0088a6ec`
 - `P_2025_GO_4f82af00`
 - `P_2021_SC_028ec539`
 - `P_2020_GO_5ad272e2`
 - `P_1900_GO_6a44403f`
 - `P_2022_SX_1012250c`
+- `P_2025_SN_73f3b419`
 - `P_2025_CQ_a813b653`
 - `P_2022_CQ_353802ae`
+- `P_2024_GX_18226505`
 - `P_2026_GO_e0ac73e6`
 - `P_2025_GO_cfb56b55`
 - `P_2023_CQ_e490adb4`
+- `P_1900_SN_b1e3ca36`
 - `P_2024_GO_537ff24a`
 - `P_2026_AH_1f64a250`
-- `P_2025_GO_dca47220`
-- `P_2026_GO_5c0cf20a`
-- `P_2024_GO_03e88c5f`
-- `P_2023_NDRC_0704ee90`
-- ... 共 31 条
+- ... 共 35 条

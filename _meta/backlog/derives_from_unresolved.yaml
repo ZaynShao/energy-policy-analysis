@@ -1580,3 +1580,147 @@ items:
     ref_count: 1
     evidence_sample: 明确依据国家136号文及山西322号
     last_seen: '2026-05-08T02:05:20'
+  中央关于建立辽宁与江苏对口合作机制的部署(2017年):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2020_LN_e3ff353a
+    ref_count: 1
+    evidence_sample: 文中称2017年党中央国务院建立辽苏对口合作机制
+    last_seen: '2026-05-08T02:25:09'
+  国家十四五规划纲要(制造业相关):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2021_FJ_d8cdf3d5
+    ref_count: 1
+    evidence_sample: 省政府自主制定省级专项规划,非国家文件直接落地
+    last_seen: '2026-05-08T02:25:09'
+  国家发改委成品油价格调整信息及《石油价格管理办法》:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_LN_08ba4b25
+    ref_count: 1
+    evidence_sample: 公告明确依据国家发改委门户网站发布的成品油价格调整信息执行
+    last_seen: '2026-05-08T02:25:09'
+  国家碳达峰碳中和工作总体部署(2030/2060目标):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2022_HA_01b43580
+    ref_count: 1
+    evidence_sample: 属省级讲座解读国家双碳目标
+    last_seen: '2026-05-08T02:25:09'
+  扩大内需战略规划纲要(2022—2035年)与十四五扩大内需战略实施方案:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2022_NX_6ecf38b4
+    ref_count: 1
+    evidence_sample: 文件开篇明确为贯彻落实国家两份扩大内需文件
+    last_seen: '2026-05-08T02:25:09'
+  工信部等八部门《关于启动第一批公共领域车辆全面电动化先行区试点的通知》:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_GO_83600eab
+    ref_count: 1
+    evidence_sample: 唐山系全国唯一重卡电动化示范试点城市,据此制定本地支持政策
+    last_seen: '2026-05-08T02:25:09'
+  全国首个农村能源革命建设试点县(2018,国家能源局确定):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2023_HA_6c92aeb2
+    ref_count: 1
+    evidence_sample: 兰考2018年被确定为全国首个农村能源革命试点县
+    last_seen: '2026-05-08T02:25:09'
+  工业和信息化部、交通运输部等8部门《关于启动第一批公共领域车辆全面电动化先行区试点的通知》:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_HA_714f16d4
+    ref_count: 1
+    evidence_sample: 本文系河南日报转载报道国家八部门联合通知及郑州入选情况
+    last_seen: '2026-05-08T02:25:09'
+  工业和信息化部等八部门《关于启动第一批公共领域车辆全面电动化先行区试点的通知》:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_GO_8b8b5a46
+    ref_count: 1
+    evidence_sample: 唐山系国家八部门确定的唯一重卡电动化示范试点城市
+    last_seen: '2026-05-08T02:25:09'
+  拖欠农民工工资失信联合惩戒对象名单管理暂行办法(人力资源和社会保障部令第45号):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_GX_18226505
+    ref_count: 1
+    evidence_sample: 依据人社部令第45号等规定发布
+    last_seen: '2026-05-08T02:25:09'
+  国务院关于建立完善守信联合激励和失信联合惩戒制度加快推进社会诚信建设的指导意见(国发〔2016〕33号):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2024_NM_6d516857
+    ref_count: 1
+    evidence_sample: 鄂尔多斯文件明确为贯彻国发〔2016〕33号
+    last_seen: '2026-05-08T02:25:09'
+  国家发改委 国家能源局等6部门《关于开展风电和光伏发电资源普查试点工作的通知》(国能发新能〔2024〕43号):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_CQ_84593d49
+    ref_count: 1
+    evidence_sample: 公告明确参照国能发新能〔2024〕43号开展资源普查
+    last_seen: '2026-05-08T02:25:09'
+  国家东数西算工程及全国一体化算力服务体系部署:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2025_FJ_0091db8f
+    ref_count: 1
+    evidence_sample: 措施开篇明确贯彻落实东数西算决策部署
+    last_seen: '2026-05-08T02:25:09'
+  国家发改委 国家能源局等四部门《首批车网互动规模化应用试点城市和项目》(2024):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_GO_2360bcbc
+    ref_count: 1
+    evidence_sample: 海口为国家四部门确定的首批车网互动规模化应用试点城市
+    last_seen: '2026-05-08T02:25:09'
+  国家发改委 国家能源局等四部门《首批车网互动规模化应用试点城市和项目》:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_GO_56e433c7
+    ref_count: 1
+    evidence_sample: 报道明确为四部门联合公布的全国首批试点
+    last_seen: '2026-05-08T02:25:09'
+  国家发改委等部门半年度投资发布:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_HA_8ee62cac
+    ref_count: 1
+    evidence_sample: 数据来源国家发改委、统计局等部门发布
+    last_seen: '2026-05-08T02:25:09'
+  国家关于充电基础设施补短板及车网互动规模化应用相关部署:
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_NX_dd322c66
+    ref_count: 1
+    evidence_sample: 项目以充电桩城市基础设施补短板名义立项,呼应国家充电网络部署
+    last_seen: '2026-05-08T02:25:09'
+  国家发改委等部门《电动汽车充电设施服务能力三年倍增行动方案(2025—2027年)》(发改能源〔2025〕1250号):
+    first_seen: '2026-05-08T02:25:09'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2026_SC_9ef4c208
+    ref_count: 1
+    evidence_sample: 页面摘要明确四川对应文件为落实国家1250号文
+    last_seen: '2026-05-08T02:25:09'

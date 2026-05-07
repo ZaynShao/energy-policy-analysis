@@ -4,7 +4,7 @@ title: 广州市海珠区科技工业商务和信息化局关于开展2019-2021�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:06:10+08:00'
+last_updated: '2026-05-08T02:25:58+08:00'
 policy_file: ../../../0_raw/policies/【广州市海珠区科技工业商务和信息化局关于开展2019-2021年度电动 ...】-政府门户.www.haizhu.gov.cn-0c52cbb8.md
 ---
 

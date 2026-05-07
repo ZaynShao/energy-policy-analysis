@@ -1,0 +1,23 @@
+pid: P_2021_FJ_d8cdf3d5
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 石化产业被列入做强方向,福建炼化与油品供给侧稳健
+  充电: 新能源汽车列为前沿新兴产业,带动福建充电基础设施需求长期上行
+  电力_储能_V2G_交易: 新能源产业战略地位提升,带动光储与电力市场配套发展
+  乡村: 未直接涉及
+行动建议:
+- 'C 关注: 跟踪福建省新能源汽车与基础设施配套政策出台节奏'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 新能源汽车与新能源被列为福建前沿新兴产业,关联充电场景生态
+archive: low_score

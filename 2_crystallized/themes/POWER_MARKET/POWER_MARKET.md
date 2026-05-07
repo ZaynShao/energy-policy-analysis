@@ -3,7 +3,7 @@ theme_id: power_market
 theme_zh: 电力市场
 theme_dir: POWER_MARKET
 type: theme_hub
-policy_count: 284
+policy_count: 300
 opinion_count: 35
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 电力市场(POWER_MARKET)— 主题入口
 
-**政策数**: 284  ·  **观点矩阵**: 35
+**政策数**: 300  ·  **观点矩阵**: 35
 
 ## 主题文档
 
