@@ -268,6 +268,17 @@ def main():
         # 抽取
         region_code, region_name, issuer = detect_region_issuer(url)
         date = extract_date(url, body_text)
+        # Fallback 3: official_number 〔YYYY〕N号 → YYYY-01-01
+        # (handoff 2026-05-07 #5: 避免 P_1900_*; URL/body 无日期但有文号时用文号年份)
+        if not date and on:
+            m = re.search(r"〔(\d{4})〕", on)
+            if m:
+                try:
+                    y = int(m.group(1))
+                    if 2010 <= y <= 2027:
+                        date = f"{y:04d}-01-01"
+                except Exception:
+                    pass
         pid = gen_pid(date, region_code, slug)
         out_filename = slugify_filename(title, issuer, on, slug)
 
