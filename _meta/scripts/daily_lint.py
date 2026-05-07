@@ -9,7 +9,7 @@ P2 — 按 schema §12.1 daily lint 检查项扫,产 3_lints/daily/<YYYY-MM-DD>.
   L3. supersedes 引用的旧政策必须在 raw 里存在(dangling 检测)
   L4. region.code 与 name 一致(简化:level 不为"未知")
   L5. 抽取的实体词 100% 在 registry 命中(用 _extractions.jsonl 不在 registry 的 alias)
-  L6. diffs/ 与 supersedes/iterates/extends 数量对齐(触发 diff 补跑)
+  L6. (deprecated 2026-05-07) diffs/ 体系已下架,见 SKILL §8e
   L7 (额外): A 类政策解读分类边界(标题含解读关键词不应在 policies/)
 
 退出码:
@@ -28,7 +28,7 @@ POL = VAULT / "0_raw/policies"
 COM = VAULT / "0_raw/commentaries"
 REG = VAULT / "1_extracted/entities/registry.yaml"
 RELATIONS = VAULT / "1_extracted/relations"
-DIFFS = VAULT / "1_extracted/diffs"
+# DIFFS 路径已 deprecated(2026-05-07,SKILL §8e)
 LINT_DIR = VAULT / "3_lints/daily"
 LINT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -103,29 +103,8 @@ def main():
 
     # L5. (跳过 _extractions.jsonl 比对,要 entity 抽取脚本配合)
 
-    # L6. diffs / supersedes+iterates+extends 数量对齐
-    needed_diffs = set()
-    for ef in ['supersedes', 'iterates', 'extends']:
-        path = RELATIONS / f"{ef}.jsonl"
-        if not path.exists(): continue
-        with path.open() as f:
-            for line in f:
-                line = line.strip()
-                if not line: continue
-                e = json.loads(line)
-                needed_diffs.add((e['from'], e['to']))
-    existing_diffs = set()
-    if DIFFS.exists():
-        for f in DIFFS.glob('*.md'):
-            if '__from__' in f.stem:
-                new, old = f.stem.split('__from__')
-                existing_diffs.add((new, old))
-    missing_diffs = needed_diffs - existing_diffs
-    orphan_diffs = existing_diffs - needed_diffs
-    for new, old in missing_diffs:
-        warnings.append(f"L6 missing diff: {new}__from__{old}")
-    for new, old in orphan_diffs:
-        warnings.append(f"L6 orphan diff (无对应 rel): {new}__from__{old}")
+    # L6. diffs/ 检查已 deprecated(2026-05-07,SKILL §8e — diffs 体系下架,
+    #     0 外部消费者,改 5/9 类关系层 + reverse_links 反链页是 source of truth)
 
     # L7. 政策 vs 解读分类边界
     for p in policies:

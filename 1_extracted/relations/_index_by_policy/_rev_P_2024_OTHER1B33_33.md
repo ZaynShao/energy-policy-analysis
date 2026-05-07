@@ -4,7 +4,7 @@ title: 苏州市推动大规模设备更新和消费品以旧换新实施方案
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-07T14:27:39+08:00'
+last_updated: '2026-05-07T15:11:55+08:00'
 policy_file: ../../../0_raw/policies/【苏州市推动大规模设备更新和消费品以旧换新实施方案(苏府〔2024〕33号)】-苏州市人民政府-0f39.md
 ---
 

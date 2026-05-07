@@ -4,7 +4,7 @@ title: 山东省能源局动态要闻山东：出台实施方案推动新能源�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-07T14:27:39+08:00'
+last_updated: '2026-05-07T15:11:55+08:00'
 policy_file: ../../../0_raw/policies/【山东省能源局动态要闻山东：出台实施方案推动新能源电价全面市场化】-山东省能源局-b9d7cf01.md
 ---
 

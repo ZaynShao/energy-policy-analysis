@@ -33,7 +33,7 @@ COMMENTARIES = VAULT / "0_raw" / "commentaries"
 EXTRACTED = VAULT / "1_extracted"
 ENTITIES = EXTRACTED / "entities"
 RELATIONS = EXTRACTED / "relations"
-DIFFS = EXTRACTED / "diffs"
+# DIFFS 路径已 deprecated(2026-05-07,SKILL §8e)
 OPINIONS = EXTRACTED / "opinions"
 LINTS = VAULT / "3_lints"
 
@@ -277,36 +277,8 @@ def check_entity_extraction_coverage(policies):
     return issues
 
 
-def check_diff_coverage(relations):
-    """6. diffs/ 与 supersedes/iterates/extends 数量对齐"""
-    issues = []
-    triggering = [r for r in relations if r["_rel_type"] in ("supersedes", "iterates", "extends")]
-    expected_diffs = set()
-    for r in triggering:
-        f = r.get("from")
-        t = r.get("to")
-        if f and t:
-            expected_diffs.add(f"{f}__from__{t}.md")
-
-    if DIFFS.exists():
-        existing = {p.name for p in DIFFS.glob("*.md")}
-        missing = expected_diffs - existing
-        extra = existing - expected_diffs
-        if missing:
-            issues.append({
-                "level": "warning",
-                "category": "diff_missing",
-                "count": len(missing),
-                "sample": sorted(missing)[:10],
-            })
-        if extra:
-            issues.append({
-                "level": "info",
-                "category": "diff_extra",
-                "count": len(extra),
-                "sample": sorted(extra)[:5],
-            })
-    return issues
+# [DEPRECATED 2026-05-07] check_diff_coverage 已移除 — diffs/*.md 体系下架
+# (22 早期 LLM 派生 + 0 消费者,SKILL §8e「派生 .md 必须有消费者」契约)
 
 
 # -------- weekly extra --------
@@ -479,8 +451,7 @@ def main():
     all_issues += check_region_code_consistency(policies)
     print("Checking entity extraction coverage...")
     all_issues += check_entity_extraction_coverage(policies)
-    print("Checking diff coverage...")
-    all_issues += check_diff_coverage(relations)
+    # diff coverage 检查已 deprecated(2026-05-07,SKILL §8e)
     print("Checking low-quality capture (body_len < 3KB)...")
     all_issues += check_low_quality_capture(policies)
 

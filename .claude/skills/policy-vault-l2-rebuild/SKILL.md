@@ -575,6 +575,45 @@ hook 不会让既有违规 commit 越来越多 — 只阻断**新引入**的违�
 
 **用户体验改善**:修完后 `[[P_xxx]]` 引用(在 opinions-summary / themes / 其他反链页等)正确解析到 raw 政策原文,而不是派生 hub 页。raw 政策 graph view 显示其全部关系边。
 
+## 8e. 派生 .md 必须有消费者契约(2026-05-07 加入)
+
+**背景**:本会话清理时发现 `1_extracted/diffs/` 22 个 + `1_extracted/entities/<type>/`
+72 个 .md **0 外部 [[]] 引用 + 0 脚本消费内容** — 是早期 build 阶段的死代码,
+存在但没人读。已下架(commit 7a0abf6 之后)。
+
+**契约**:任何派生层 .md 文件,生成前必须明确至少 1 个消费者,否则不该生成:
+
+| 消费者类型 | 例 |
+|---|---|
+| Obsidian 用户视觉(graph view 节点 + 显式 [[]] link) | 反链页 `_rev_*.md` 含 `> 政策原文:[[<file_stem>]]` |
+| 派生脚本读取(产出后续派生) | `_op_*.md` 被 opinions-summary 读 |
+| 人类审计偶尔翻阅 | `_summary.md`(entity 汇总报告)、`audit_alerts.md` |
+| 前端 / 外部系统 | `_meta/topic_distribution.json`(给前端) |
+
+**反例(2026-05-07 已下架)**:
+- `1_extracted/diffs/*.md` — 仅 `daily_lint.py` 数它们个数(健康指标),
+  无 [[]] 引用,无脚本消费内容 → 删
+- `1_extracted/entities/<type>/*.md` — 全是 `registry.yaml` 渲染冗余,
+  registry 已是 self-contained source → 删
+
+**生成新派生 .md 前的 checklist**:
+1. 谁会读它?(用户 / 脚本 / 前端 / audit?)
+2. 怎么发现它?(graph view / wiki link / 直接路径访问?)
+3. 信息是否已在 yaml/jsonl 里?如果是,渲染 .md 是否值得维护成本?
+4. 如果只为审计偶尔看 → 用 `_summary.md` 单文件,不要 per-item 渲染
+
+**已下架的 daily_lint / lint.py / global_index 中 diff 检查**:
+- `lint.py::check_diff_coverage` → 移除(L6)
+- `daily_lint.py::L6 diff 对齐` → 移除
+- `build_global_index.py::演进差异页计数` → 移除
+- `extract_entities.py::write_entity_pages` → main() 不再调用(函数留为 noop 注释)
+
+如果未来要复活 diff 体系或 entity 详情页:必须先回答 checklist 4 项,然后:
+- 在 `_rev_*.md` 末尾加 `## 演进对比` 段引用 `[[diff_xxx]]`(让 diff 入图)
+- 或在 `crystallize_theme.timeline.md` 加 `[[entity_stem]]` 引用
+
+---
+
 ## 8d. 派生层 isolated 过滤单源模式(2026-05-07 加入)
 
 **背景**:B7 LLM 把 132 isolated 政策分类为 5 类 action,79 个 exclude_from_main_graph

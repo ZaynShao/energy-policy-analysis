@@ -4,7 +4,7 @@ title: 广西壮族自治区能源局关于进一步明确2026年电力市场交
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-07T14:27:39+08:00'
+last_updated: '2026-05-07T15:11:56+08:00'
 policy_file: ../../../0_raw/policies/【广西壮族自治区能源局关于进一步明确2026年电力市场交易有关事项 ...(桂能电力〔2025〕520号)】-广西壮族自治区发展和改革委员会-a6b60bac.md
 ---
 

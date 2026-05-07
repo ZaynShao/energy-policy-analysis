@@ -9,8 +9,9 @@ Step 5 — 357 政策正文 alias substring 匹配 → canonical entity 链接�
 
 输出:
   - 1_extracted/entities/_extractions.jsonl  (行级:每条 = 一个 policy↔entity 链接 + hit_count)
-  - 1_extracted/entities/<type>/<id>.md      (per-canonical 反链页)
   - 1_extracted/entities/_summary.md         (汇总报告)
+  注:旧版生成 entities/<type>/<id>.md 反链页已 deprecated(2026-05-07,
+       SKILL §8e — 0 外部消费者,registry.yaml 已 self-contained)
 
 策略:
   - alias substring 匹配(中文无词边界,直接 find)
@@ -130,7 +131,12 @@ def extract_one(path, alias_pairs):
 
 
 def write_entity_pages(canonical_to_policies, entries_by_id):
-    """每个 canonical 写一个反链页 1_extracted/entities/<type>/<id>.md"""
+    """[DEPRECATED 2026-05-07] 早期生成 entities/<type>/<id>.md 反链页,但实测
+    0 外部 [[]] 引用 + 0 脚本消费(只 entity 内部互引 parent 链)。registry.yaml
+    + _extractions.jsonl 是 self-contained 数据源,.md 是冗余渲染。详见 SKILL §8e
+    「派生 .md 必须有消费者」契约。本函数保留但 main() 不再调用。"""
+    return 0
+    # 旧实现(保留为参考,如未来要复活实体页 + 加显式引用让其入图):
     type_dirs = {
         "org": ENTITIES / "orgs",
         "stakeholder": ENTITIES / "stakeholders",
@@ -253,9 +259,8 @@ def main():
 
     print(f"  extractions written → {EXTRACTIONS}")
 
-    print("Writing entity pages...")
-    written = write_entity_pages(canonical_to_policies, entries_by_id)
-    print(f"  {written} entity pages written")
+    # entity .md 反链页生成已 deprecated(2026-05-07,SKILL §8e)
+    # registry.yaml + _extractions.jsonl 已是 self-contained 数据源,无需 .md 渲染
 
     # 汇总报告
     print("Writing summary...")

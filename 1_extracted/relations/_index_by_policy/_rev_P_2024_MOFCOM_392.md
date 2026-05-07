@@ -4,7 +4,7 @@ title: 商务部等7部门关于进一步做好汽车以旧换新有关工作的
 inbound_edge_count: 24
 outbound_edge_count: 3
 commentary_inbound_count: 1
-last_updated: '2026-05-07T14:27:39+08:00'
+last_updated: '2026-05-07T15:11:56+08:00'
 policy_file: ../../../0_raw/policies/【商务部等7部门关于进一步做好汽车以旧换新有关工作的通知(商消费函〔2024〕392号)】-商务部、国家发改委、工信部、公安部、生态环境部、税务总局、财政部-fe4b.md
 ---
 

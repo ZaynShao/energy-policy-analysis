@@ -4,7 +4,7 @@ title: 关于征求《东北区域省间电力市场结算实施细则（征求�
 inbound_edge_count: 0
 outbound_edge_count: 7
 commentary_inbound_count: 0
-last_updated: '2026-05-07T14:27:39+08:00'
+last_updated: '2026-05-07T15:11:55+08:00'
 policy_file: ../../../0_raw/policies/【关于征求《东北区域省间电力市场结算实施细则（征求意见稿V1.0 ...】-辽宁省发展和改革委员会-b8af81b7.md
 ---
 

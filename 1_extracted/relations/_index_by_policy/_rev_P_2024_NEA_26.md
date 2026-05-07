@@ -4,7 +4,7 @@ title: 促进新型储能并网和调度运用
 inbound_edge_count: 6
 outbound_edge_count: 4
 commentary_inbound_count: 2
-last_updated: '2026-05-07T14:27:39+08:00'
+last_updated: '2026-05-07T15:11:55+08:00'
 policy_file: ../../../0_raw/policies/【促进新型储能并网和调度运用(国能发科技规〔2024〕26号)】-国家能源局-95ec.md
 ---
 

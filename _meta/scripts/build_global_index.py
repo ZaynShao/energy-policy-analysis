@@ -182,7 +182,6 @@ def main():
              f'| 关系网总边数 | **{total_edges}** |',
              f'| 反链页 (_index_by_policy) | **{n_index_pages}** |',
              f'| 政策舆论矩阵 (opinions) | **{n_opinions}** ({opinion_pct:.1f}% 覆盖率) |',
-             f'| 演进差异页 (diffs) | **{sum(1 for _ in (VAULT/"1_extracted/diffs").glob("*.md"))}** |',
              '', '---', '', '## 2. 关系网分布', '',
              '| 关系类型 | 边数 | 含义 |',
              '|---|:-:|---|',

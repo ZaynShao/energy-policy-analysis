@@ -4,7 +4,7 @@ title: 全国工业领域电力需求侧管理典型案例及第七批参考产�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-07T14:27:39+08:00'
+last_updated: '2026-05-07T15:11:56+08:00'
 policy_file: ../../../0_raw/policies/【全国工业领域电力需求侧管理典型案例及第七批参考产品技术征集(工信厅运行函〔2025〕60号)】-工业和信息化部办公厅-1a7e.md
 ---
 
