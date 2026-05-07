@@ -4,7 +4,7 @@ title: 关于征求《陕西电力市场规则体系（征求意见稿）》意�
 inbound_edge_count: 1
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-07T17:57:48+08:00'
+last_updated: '2026-05-08T01:06:38+08:00'
 policy_file: ../../../0_raw/policies/【关于征求《陕西电力市场规则体系（征求意见稿）》意见建议的公告(发改办体改〔2025〕394号)】-陕西省发展和改革委员会-ab3d416b.md
 ---
 

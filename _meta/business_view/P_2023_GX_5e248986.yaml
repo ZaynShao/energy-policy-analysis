@@ -1,0 +1,23 @@
+pid: P_2023_GX_5e248986
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 3
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接关联
+  电力_储能_V2G_交易: 广西完善储能示范项目支持政策,公司若布局广西储能业务可关注具体支持条款
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 措施全文获取与具体支持条款梳理'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广西出台储能示范配套措施,关注具体支持力度
+archive: low_score

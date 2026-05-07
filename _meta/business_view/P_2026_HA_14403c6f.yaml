@@ -1,0 +1,22 @@
+pid: P_2026_HA_14403c6f
+scores:
+  D1: 3
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 比亚迪新能源商用车、中州时代电池、奇瑞乘用车技改等项目推进,带动新能源车与充电需求
+  电力_储能_V2G_交易: 新型能源体系建设、智能电网和微电网、源网荷储一体化项目持续推进,VPP/储能/微电网业务有省级重点工作背书
+  乡村: 城乡客货邮融合发展、乡村消费场景延伸至农村
+行动建议:
+- 'B 研究: 河南2026重点项目库,寻找储能/微电网/VPP合作切入点'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 河南2026重点含储能/源网荷储/微电网,公司业务可对接

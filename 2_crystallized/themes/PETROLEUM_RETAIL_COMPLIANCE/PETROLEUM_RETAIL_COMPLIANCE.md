@@ -5,7 +5,7 @@ theme_dir: PETROLEUM_RETAIL_COMPLIANCE
 type: theme_hub
 policy_count: 7
 opinion_count: 2
-generated_at: 2026-05-07
+generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
 ---
 

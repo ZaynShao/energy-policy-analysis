@@ -18,6 +18,7 @@ Stage F: 把 staging 里的 markdown 转成 SOP-compliant raw 政策
   - provenance: {url, fetched_at, fetched_method, content_type}
   - type: policy
 """
+import argparse
 import json
 import os
 import re
@@ -185,6 +186,14 @@ def slugify_filename(title, issuer, official_number, slug_hash):
 
 
 def main():
+    global STAGING
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--staging", default=None,
+                    help="staging dir override (default: 0_raw/policies_staging_2026-05-06)")
+    args = ap.parse_args()
+    if args.staging:
+        STAGING = Path(args.staging).resolve()
+        print(f"STAGING override: {STAGING}")
     if not STAGING.exists():
         print(f"ERROR: staging dir not found: {STAGING}")
         sys.exit(1)

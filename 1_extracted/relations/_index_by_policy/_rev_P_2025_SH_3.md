@@ -4,7 +4,7 @@ title: 上海市鼓励电动汽车充换电设施发展扶持办法
 inbound_edge_count: 0
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-07T17:57:49+08:00'
+last_updated: '2026-05-08T01:06:38+08:00'
 policy_file: ../../../0_raw/policies/【上海市鼓励电动汽车充换电设施发展扶持办法(沪发改规范〔2025〕3号)】-上海市发展和改革委员会等八部门-e044.md
 ---
 

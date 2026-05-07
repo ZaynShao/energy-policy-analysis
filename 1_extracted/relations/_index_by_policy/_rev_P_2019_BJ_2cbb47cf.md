@@ -4,7 +4,7 @@ title: 商务部关于做好石油成品油流通管理“放管服”改革工�
 inbound_edge_count: 8
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T17:57:48+08:00'
+last_updated: '2026-05-08T01:06:38+08:00'
 policy_file: ../../../0_raw/policies/【商务部关于做好石油成品油流通管理“放管服”改革工作的通知(商运函〔2019〕659号)】-北京市人民政府-2cbb47cf.md
 ---
 

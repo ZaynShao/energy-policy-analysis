@@ -1,0 +1,23 @@
+pid: P_2025_GX_db65ac0c
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 3
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接关联
+  电力_储能_V2G_交易: 新型储能项目所需配套送出工程纳入电网规划无需单独申请,在广西落地独立储能/共享储能项目流程更便捷
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 广西具体项目核准并联审批落地体验'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广西储能项目送出工程同步核准,公司项目落地周期缩短
+archive: low_score

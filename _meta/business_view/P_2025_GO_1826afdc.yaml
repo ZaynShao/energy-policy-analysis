@@ -1,0 +1,23 @@
+pid: P_2025_GO_1826afdc
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接关联
+  电力_储能_V2G_交易: 湖南压缩空气储能等试点项目获持续监管支持,VPP/聚合业务可对接示范项目调用
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 湖南压缩空气储能并网与调用进展'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 湖南储能试点纳入国家专项方案,VPP/独储项目可关注
+archive: low_score

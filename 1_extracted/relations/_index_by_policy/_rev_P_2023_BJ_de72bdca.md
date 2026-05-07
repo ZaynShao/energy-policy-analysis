@@ -4,7 +4,7 @@ title: 26个老旧小区配电网年底升级，惠及近1.2万户居民
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-07T17:57:49+08:00'
+last_updated: '2026-05-08T01:06:38+08:00'
 policy_file: ../../../0_raw/policies/【26个老旧小区配电网年底升级，惠及近1.2万户居民】-北京市发展和改革委员会-de72bdca.md
 ---
 

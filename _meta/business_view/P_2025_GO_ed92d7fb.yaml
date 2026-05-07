@@ -1,0 +1,23 @@
+pid: P_2025_GO_ed92d7fb
+scores:
+  D1: 3
+  D2: 4
+  D3: 1
+  D4: 4
+  D5: 2
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 绿电直连模式下电向身边取,有利于工业园区与重卡换电站绿电供应,降低用能成本
+  电力_储能_V2G_交易: 绿电点对点直连为VPP聚合、独立储能提供新业务模式,绿电+储能+绿氢/绿氨可组合参与交易
+  乡村: 未单列乡村专项
+行动建议:
+- 'B 研究: 新疆绿电直连+储能+重卡换电模式'
+- 'C 关注: 国家及其他省份绿电直连配套政策'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 新疆绿电直连先行,公司可探索绿电+储能+用户场景模式

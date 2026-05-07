@@ -19,7 +19,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[2]
 STAGING = ROOT / "0_raw" / "policies_staging_2026-05-06"
-STAGING.mkdir(parents=True, exist_ok=True)
+# STAGING.mkdir 移到 main() 之后,允许 --staging override
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) "
@@ -156,12 +156,19 @@ def write_staging(c, fetched):
 
 
 def main():
+    global STAGING
     ap = argparse.ArgumentParser()
     ap.add_argument("--candidates", required=True)
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--concurrency", type=int, default=5)
     ap.add_argument("--log", required=True)
+    ap.add_argument("--staging", default=None,
+                    help="staging dir override (default: 0_raw/policies_staging_2026-05-06)")
     args = ap.parse_args()
+    if args.staging:
+        STAGING = Path(args.staging).resolve()
+        print(f"STAGING override: {STAGING}")
+    STAGING.mkdir(parents=True, exist_ok=True)
 
     candidates = []
     with open(args.candidates) as f:

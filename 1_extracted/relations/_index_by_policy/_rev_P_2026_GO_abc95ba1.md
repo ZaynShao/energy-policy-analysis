@@ -4,7 +4,7 @@ title: 【关于修订省间电力现货交易规则的复函(发改办体改〔
 inbound_edge_count: 2
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T17:57:48+08:00'
+last_updated: '2026-05-08T01:06:38+08:00'
 policy_file: ../../../0_raw/policies/【【关于修订省间电力现货交易规则的复函(发改办体改〔2026〕275号)】-国家发展和改革委员会(发改办体改〔2026〕275号)】-国家发展和改革委员会-abc95ba1.md
 ---
 

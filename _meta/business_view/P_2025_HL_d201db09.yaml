@@ -1,0 +1,23 @@
+pid: P_2025_HL_d201db09
+scores:
+  D1: 3
+  D2: 2
+  D3: 1
+  D4: 3
+  D5: 1
+  D6: 4
+重要性: 2
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 化石能源兜底地位仍获肯定但绿色转型方向不变,加油业务长期依然受冲击
+  充电: 新型能源体系加快建设利好充电基础设施扩张
+  电力_储能_V2G_交易: 新型能源体系建设、能源科技创新明确,VPP/储能业务获政策长期支持
+  乡村: 能源普遍服务保障乡村用能权益
+行动建议:
+- 'C 关注: 十五五能源规划纲要发布'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 十五五能源安全战略奠定行业方向,公司业务紧扣绿色转型
+archive: low_score

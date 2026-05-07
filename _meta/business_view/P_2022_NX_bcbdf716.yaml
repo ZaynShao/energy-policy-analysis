@@ -1,0 +1,23 @@
+pid: P_2022_NX_bcbdf716
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 3
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接关联
+  电力_储能_V2G_交易: 宁夏100MW级共享储能投运示范了电网侧调峰填谷模式,VPP聚合业务可考察合作可能
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 宁夏后续共享储能项目市场化运营机制'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 宁夏电网侧共享储能投运,VPP/聚合业务获区域可整合资源
+archive: low_score

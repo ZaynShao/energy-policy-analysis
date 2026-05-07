@@ -197,6 +197,40 @@
       "filename": "【北京市“十四五”时期能源发展规划】-北京市发展和改革委员会-cb02.md"
     },
     {
+      "id": "P_2022_HE_182d4944",
+      "title": "河北省发展和改革委员会",
+      "date": "2022-04-10",
+      "official": "",
+      "issuer": [
+        "河北省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "130000",
+        "name": "河北省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【河北省发展和改革委员会】-河北省发展和改革委员会-182d4944.md"
+    },
+    {
+      "id": "P_2022_HE_cfff06fb",
+      "title": "对河北省第十四届人民代表大会第一次会议第1317 号建议的答复",
+      "date": "2022-04-10",
+      "official": "冀发改办建字〔2023〕111号",
+      "issuer": [
+        "河北省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "130000",
+        "name": "河北省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【对河北省第十四届人民代表大会第一次会议第1317 号建议的答复(冀发改办建字〔2023〕111号)】-河北省发展和改革委员会-cfff06fb.md"
+    },
+    {
       "id": "P_2022_GO_1a899907",
       "title": "国家能源局综合司关于加强电化学储能电站安全管理的通知国能综通 ...",
       "date": "2022-04-26",
@@ -316,6 +350,23 @@
       "filename": "【中共贵州省委贵州省人民政府关于印发《贵州省碳达峰实施方案》的 ...】-贵州省发展和改革委员会-3e727dc2.md"
     },
     {
+      "id": "P_2022_NX_bcbdf716",
+      "title": "宁夏首个电网侧大型共享储能项目建成投运_宁夏回族自治区发展和改革委员会",
+      "date": "2022-12-07",
+      "official": "",
+      "issuer": [
+        "宁夏回族自治区发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "640000",
+        "name": "宁夏回族自治区"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【宁夏首个电网侧大型共享储能项目建成投运_宁夏回族自治区发展和改革委员会】-宁夏回族自治区发展和改革委员会-bcbdf716.md"
+    },
+    {
       "id": "P_2023_GO_93548e55",
       "title": "省发展改革委关于印发江苏省“十四五”新型储能发展实施方案的通知",
       "date": "2023-01-01",
@@ -401,6 +452,23 @@
       "filename": "【关于印发《河南省新能源和可再生能源发展“十四五”规划》的通知(豫发改新能源〔2023〕88号)】-河南省发展和改革委员会-5133e527.md"
     },
     {
+      "id": "P_2023_GX_cb8cddbf",
+      "title": "人大代表建议复文公开- 广西壮族自治区发展和改革委员会网站",
+      "date": "2023-05-16",
+      "official": "桂发改电力函〔2023〕1214号",
+      "issuer": [
+        "广西壮族自治区发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "450000",
+        "name": "广西壮族自治区"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【人大代表建议复文公开- 广西壮族自治区发展和改革委员会网站(桂发改电力函〔2023〕1214号)】-广西壮族自治区发展和改革委员会-cb8cddbf.md"
+    },
+    {
       "id": "P_2023_GO_19_b",
       "title": "进一步构建高质量充电基础设施体系的指导意见",
       "date": "2023-06-08",
@@ -469,6 +537,23 @@
       "filename": "【国家发展改革委 国家能源局关于加强新形势下电力系统稳定工作的指导意见(发改能源〔2023〕1294号)】-国家发展改革委、国家能源局-49f1.md"
     },
     {
+      "id": "P_2023_GO_2a956bbf",
+      "title": "湖南省人民政府办公厅关于印发《湖南省新型电力系统发展规划纲要 ...",
+      "date": "2023-12-25",
+      "official": "湘政办发〔2023〕52号",
+      "issuer": [
+        "政府门户.www.mayang.gov.cn"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "未知"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【湖南省人民政府办公厅关于印发《湖南省新型电力系统发展规划纲要 ...(湘政办发〔2023〕52号)】-政府门户.www.mayang.gov.cn-2a956bbf.md"
+    },
+    {
       "id": "P_1900_NX_448b672e",
       "title": "自治区发展改革委关于做好2024年电力中长期交易有关事项的通知_宁夏回族自治区发展和改革委员会",
       "date": "2024-01-01",
@@ -484,6 +569,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【自治区发展改革委关于做好2024年电力中长期交易有关事项的通知_宁夏回族自治区发展和改革委员会(宁发改运行〔2023〕807号)】-宁夏回族自治区发展和改革委员会-448b672e.md"
+    },
+    {
+      "id": "P_2024_NDRC_1721",
+      "title": "加强新能源汽车与电网融合互动的实施意见",
+      "date": "2024-01-04",
+      "official": "发改能源〔2023〕1721号",
+      "issuer": [
+        "国家发展改革委等部门"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
     },
     {
       "id": "P_2024_NDRC_01047553",
@@ -503,21 +605,21 @@
       "filename": "【关于加强新能源汽车与电网融合互动的实施意见】-国家发展改革委、国家能源局、工业和信息化部、国家市场监督管理总局-7553.md"
     },
     {
-      "id": "P_2024_NDRC_1721",
-      "title": "加强新能源汽车与电网融合互动的实施意见",
-      "date": "2024-01-04",
-      "official": "发改能源〔2023〕1721号",
+      "id": "P_2024_GZ_03841527",
+      "title": "2024年贵州省政府工作报告（全文）",
+      "date": "2024-01-24",
+      "official": "",
       "issuer": [
-        "国家发展改革委等部门"
+        "贵州省发展和改革委员会"
       ],
       "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
+        "level": "省",
+        "code": "520000",
+        "name": "贵州省"
       },
-      "importance": 5,
+      "importance": 2,
       "tags": [],
-      "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
+      "filename": "【2024年贵州省政府工作报告（全文）】-贵州省发展和改革委员会-03841527.md"
     },
     {
       "id": "P_2024_CQ_020739ff",
@@ -673,6 +775,23 @@
       "filename": "【关于公开征求《河南省工业企业源网荷储一体化项目实施细则（征求 ...】-河南省发展和改革委员会-947a826a.md"
     },
     {
+      "id": "P_2024_GO_9ad1220b",
+      "title": "【国家碳达峰试点（鄂尔多斯）实施方案】-国家发展和改革委员会",
+      "date": "2024-04-29",
+      "official": "",
+      "issuer": [
+        "国家发展和改革委员会"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【【国家碳达峰试点（鄂尔多斯）实施方案】-国家发展和改革委员会】-国家发展和改革委员会-9ad1220b.md"
+    },
+    {
       "id": "P_2024_GD_4b24a659",
       "title": "广东省发展和改革委员会 - 电力改革 广东先行｜现货结算：试出来的“一小步”",
       "date": "2024-04-29",
@@ -773,6 +892,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【深圳市支持虚拟电厂加快发展的若干措施】-深圳市发展和改革委员会-9bce.md"
+    },
+    {
+      "id": "P_2024_GO_42bc022c",
+      "title": "关于印发《湖南省锂电池及先进储能材料产业三年行动计划（2024—2026年）》的通知 - 湖南省工业和信息化厅",
+      "date": "2024-06-13",
+      "official": "湘工信原材料〔2024〕213号",
+      "issuer": [
+        "政府门户.gxt.hunan.gov.cn"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "未知"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【关于印发《湖南省锂电池及先进储能材料产业三年行动计划（2024—2026年）》的通知 - 湖南省工业和信息化厅(湘工信原材料〔2024〕213号)】-政府门户.gxt.hunan.gov.cn-42bc022c.md"
     },
     {
       "id": "P_2024_SD_3363e0d7",
@@ -996,6 +1132,23 @@
       "filename": "【重庆市发展和改革委员会关于市政协六届三次会议第0357号提案的复函】-重庆市发展和改革委员会-e7997102.md"
     },
     {
+      "id": "P_2024_BJ_4339ba17",
+      "title": "北京市经济和信息化局关于印发《北京市新型储能产业发展实施方案（2024—2027年）》的通知_政策文件_首都之窗_北京市人民政府门户网站",
+      "date": "2024-12-05",
+      "official": "京经信发〔2024〕65号",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【北京市经济和信息化局关于印发《北京市新型储能产业发展实施方案（2024—2027年）》的通知_政策文件_首都之窗_北京市人民政府门户网站(京经信发〔2024〕65号)】-北京市人民政府-4339ba17.md"
+    },
+    {
       "id": "P_2024_HL_9ab2f7ce",
       "title": "《黑龙江省电力市场运营规则及配套实施细则（试行2.0版）》政策解读",
       "date": "2024-12-16",
@@ -1113,6 +1266,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【深圳市光明区支持新型储能产业加快发展扶持计划操作规程(深光发改规〔2025〕1号)】-深圳市光明区发展和改革局-22df.md"
+    },
+    {
+      "id": "P_2025_GO_a0bf1352",
+      "title": "8部门印发行动方案 推动新型储能制造业高质量发展---国家能源局",
+      "date": "2025-02-21",
+      "official": "",
+      "issuer": [
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【8部门印发行动方案 推动新型储能制造业高质量发展---国家能源局】-国家能源局-a0bf1352.md"
     },
     {
       "id": "P_2025_MIIT_60",
@@ -1285,6 +1455,23 @@
       "filename": "【关于印发《四川省电网侧新型储能项目清单（2025年度）》的通知(川发改能源〔2025〕309号)_通知公告_四川省发展和改革委员会(川发改能源〔2025〕309号)】-四川省发展和改革委员会-076e6fb9.md"
     },
     {
+      "id": "P_2025_HA_4aa32072",
+      "title": "点“绿”成电织“能”入网——从信阳新能源发展看区域绿色低碳转型_市县",
+      "date": "2025-08-20",
+      "official": "",
+      "issuer": [
+        "河南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "410000",
+        "name": "河南省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【点“绿”成电织“能”入网——从信阳新能源发展看区域绿色低碳转型_市县】-河南省发展和改革委员会-4aa32072.md"
+    },
+    {
       "id": "P_2025_NDRC_0912b2a5",
       "title": "新型储能规模化建设专项行动方案(2025—2027年)",
       "date": "2025-09-12",
@@ -1404,6 +1591,23 @@
       "filename": "【关于促进光热发电规模化发展的若干意见(发改能源〔2025〕1645号)】-国家发展和改革委员会、国家能源局-a910.md"
     },
     {
+      "id": "P_2025_NX_f985ec97",
+      "title": "自治区发展改革委关于进一步规范2026年电网侧电化学储能项目管理的通知_宁夏回族自治区发展和改革委员会",
+      "date": "2025-12-23",
+      "official": "宁发改新能源〔2026〕35号",
+      "issuer": [
+        "宁夏回族自治区发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "640000",
+        "name": "宁夏回族自治区"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【自治区发展改革委关于进一步规范2026年电网侧电化学储能项目管理的通知_宁夏回族自治区发展和改革委员会(宁发改新能源〔2026〕35号)】-宁夏回族自治区发展和改革委员会-f985ec97.md"
+    },
+    {
       "id": "P_2025_NDRC_1710",
       "title": "关于促进电网高质量发展的指导意见",
       "date": "2025-12-31",
@@ -1472,23 +1676,6 @@
       "filename": "【2.4GW8.1GWh！宁夏银川发布电网侧储能项目清单 - 国际能源网】-未知机构-63fd5297.md"
     },
     {
-      "id": "P_2026_NEA_16",
-      "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
-      "date": "2026-02-10",
-      "official": "国能发电力〔2026〕16号",
-      "issuer": [
-        "国家能源局"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知(国能发电力〔2026〕16号)】-国家能源局-e9bf.md"
-    },
-    {
       "id": "P_2026_NEA_PilotBatch1",
       "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
       "date": "2026-02-10",
@@ -1504,6 +1691,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知(国能发电力〔2026〕16号)】-国家能源局-f077.md"
+    },
+    {
+      "id": "P_2026_NEA_16",
+      "title": "国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知",
+      "date": "2026-02-10",
+      "official": "国能发电力〔2026〕16号",
+      "issuer": [
+        "国家能源局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知(国能发电力〔2026〕16号)】-国家能源局-e9bf.md"
     },
     {
       "id": "P_2026_SD_4899d9b5",
@@ -1642,23 +1846,6 @@
       "filename": "【广东省新型储能电站建设运行管理办法(粤发改规〔2026〕4号)】-广东省发展和改革委员会-5bca.md"
     },
     {
-      "id": "P_1900_JX_91234f69",
-      "title": "国家发展改革委国家能源局关于加强电网调峰储能和智能化调度能力 ...",
-      "date": "2026-05-06",
-      "official": "",
-      "issuer": [
-        "江西省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "360000",
-        "name": "江西省"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【国家发展改革委国家能源局关于加强电网调峰储能和智能化调度能力 ...】-江西省发展和改革委员会-91234f69.md"
-    },
-    {
       "id": "P_1900_JX_b6890180",
       "title": "江西省发展改革委关于支持独立储能健康有序发展的通知",
       "date": "2026-05-06",
@@ -1693,21 +1880,21 @@
       "filename": "【储能政策知识包 - 包头市人民政府】-政府门户.www.baotou.gov.cn-2664d44e.md"
     },
     {
-      "id": "P_1900_QH_5906e70d",
-      "title": "发挥新型储能作用构建新型电力系统——省能源局召开推进新型储能 ...",
+      "id": "P_1900_JX_91234f69",
+      "title": "国家发展改革委国家能源局关于加强电网调峰储能和智能化调度能力 ...",
       "date": "2026-05-06",
       "official": "",
       "issuer": [
-        "青海省发展和改革委员会"
+        "江西省发展和改革委员会"
       ],
       "region": {
         "level": "省",
-        "code": "630000",
-        "name": "青海省"
+        "code": "360000",
+        "name": "江西省"
       },
-      "importance": 3,
+      "importance": 4,
       "tags": [],
-      "filename": "【发挥新型储能作用构建新型电力系统——省能源局召开推进新型储能 ...】-青海省发展和改革委员会-5906e70d.md"
+      "filename": "【国家发展改革委国家能源局关于加强电网调峰储能和智能化调度能力 ...】-江西省发展和改革委员会-91234f69.md"
     },
     {
       "id": "P_1900_GO_e062e74d",
@@ -1725,6 +1912,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【柳发改能安〔2025〕23号柳州市发展和改革委员会关于进一步贯彻 ...(柳发改能安〔2025〕23号)】-政府门户.fgw.liuzhou.gov.cn-e062e74d.md"
+    },
+    {
+      "id": "P_1900_QH_5906e70d",
+      "title": "发挥新型储能作用构建新型电力系统——省能源局召开推进新型储能 ...",
+      "date": "2026-05-06",
+      "official": "",
+      "issuer": [
+        "青海省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "630000",
+        "name": "青海省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【发挥新型储能作用构建新型电力系统——省能源局召开推进新型储能 ...】-青海省发展和改革委员会-5906e70d.md"
     },
     {
       "id": "P_1900_HN_5a70e3f4",
@@ -1778,8 +1982,19 @@
       "filename": "【2024 年能源领域行业标准制定计划项目】-国家能源局-4d012393.md"
     }
   ],
-  "policies_count": 104,
+  "policies_count": 116,
   "relations": [
+    {
+      "from": "P_2026_GO_63fd5297",
+      "to": "P_2025_NX_f985ec97",
+      "rel": "references",
+      "evidence": "委关于进一步规范2026年电网侧电化学储能项目管理的通知》（宁发改新能源〔2026〕35号）要求，我委组织各县",
+      "doc_num_matched": "宁发改新能源〔2026〕35号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T00:40:35"
+    },
     {
       "from": "P_1900_JX_dd27cf9b",
       "to": "P_2022_NDRC_475",
@@ -1789,7 +2004,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_HL_9ab2f7ce",
@@ -1800,7 +2015,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HL_0d932b06",
@@ -1811,7 +2026,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1822,7 +2037,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1833,7 +2048,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1844,7 +2059,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1855,7 +2070,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SH_407",
@@ -1866,7 +2081,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SH_3",
@@ -1877,7 +2092,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NEA_26",
@@ -1888,7 +2103,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NEA_26",
@@ -1899,7 +2114,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NEA_26",
@@ -1910,7 +2125,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_1900_GO_2664d44e",
@@ -1921,7 +2136,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_MIIT_60",
@@ -1932,7 +2147,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NEA_0528d977",
@@ -1943,7 +2158,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NEA_77",
@@ -1954,7 +2169,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HL_1d366dd4",
@@ -1965,7 +2180,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -1976,7 +2191,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -1987,7 +2202,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -1998,7 +2213,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -2009,7 +2224,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_NDRC_475",
@@ -2020,7 +2235,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_NDRC_475",
@@ -2031,7 +2246,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_NDRC_475",
@@ -2042,7 +2257,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -2053,7 +2268,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_FJ_5",
@@ -2064,7 +2279,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_BJ_4",
@@ -2075,7 +2290,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -2086,7 +2301,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -2097,7 +2312,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2108,7 +2323,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2119,7 +2334,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2130,7 +2345,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_JL_0208240d",
@@ -2141,7 +2356,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NDRC_632_c",
@@ -2152,7 +2367,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_NEA_16",
@@ -2163,7 +2378,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_NEA_16",
@@ -2174,7 +2389,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -2185,7 +2400,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -2196,7 +2411,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -2207,7 +2422,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -2218,7 +2433,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -2229,7 +2444,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -2240,7 +2455,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -2251,7 +2466,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -2262,7 +2477,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_GZ_4ec111f2",
@@ -2273,7 +2488,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_GZ_4ec111f2",
@@ -2284,7 +2499,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_GD_0422",
@@ -2295,7 +2510,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_GD_0422",
@@ -2306,7 +2521,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2026_GD_0422",
@@ -2317,7 +2532,40 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
+    },
+    {
+      "from": "P_2023_GX_a4e730e3",
+      "to": "P_2021_LN_44c4b58c",
+      "rel": "references",
+      "evidence": "家发展改革委国家能源局关于加快推动新型储能发展的指导意见》（发改能源规〔2021〕1051号）《国家发展改革委国",
+      "doc_num_matched": "发改能源规〔2021〕1051号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T00:40:35"
+    },
+    {
+      "from": "P_2022_GX_5f7f82ef",
+      "to": "P_2021_LN_44c4b58c",
+      "rel": "references",
+      "evidence": "发展改革委 国家能源局关于加快推动新型储能发展的指导意见》（发改能源规〔2021〕1051号）、《“十四五”新型",
+      "doc_num_matched": "发改能源规〔2021〕1051号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T00:40:35"
+    },
+    {
+      "from": "P_2022_GX_5f7f82ef",
+      "to": "P_2022_NDRC_475",
+      "rel": "references",
+      "evidence": "综合司关于进一步推动新型储能参与电力市场和调度运用的通知》（发改办运行〔2022〕475号）等文件要求，支持示",
+      "doc_num_matched": "发改办运行〔2022〕475号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -2328,7 +2576,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -2339,7 +2587,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_NEA_08098f4e",
@@ -2350,7 +2598,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_GO_0ae1a2cc",
@@ -2361,7 +2609,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_GO_0ae1a2cc",
@@ -2372,7 +2620,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_1900_JX_b6890180",
@@ -2383,7 +2631,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_1900_JX_b6890180",
@@ -2394,7 +2642,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_1900_JX_b6890180",
@@ -2405,7 +2653,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HA_0908b9ef",
@@ -2416,7 +2664,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_HI_4eac1187",
@@ -2427,7 +2675,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -2438,7 +2686,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -2449,7 +2697,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_HI_b04ccb3c",
@@ -2460,7 +2708,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_CQ_1023dd1b",
@@ -2471,7 +2719,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_OTHERCD44_1",
@@ -2482,7 +2730,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_OTHERCD44_1",
@@ -2493,7 +2741,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_OTHER7F45_060777c1",
@@ -2504,7 +2752,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_GO_a3388811",
@@ -2515,7 +2763,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HN_830",
@@ -2526,7 +2774,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_HN_289",
@@ -2537,7 +2785,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2023_HN_848",
@@ -2548,7 +2796,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NDRC_411",
@@ -2559,7 +2807,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2023_GO_93548e55",
@@ -2570,7 +2818,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2023_GO_93548e55",
@@ -2581,7 +2829,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_FJ_fbf45d27",
@@ -2592,7 +2840,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_NX_f86c8310",
@@ -2603,7 +2851,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_NX_f86c8310",
@@ -2614,7 +2862,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
+    },
+    {
+      "from": "P_2025_NX_f985ec97",
+      "to": "P_2025_JX_97eb3f17",
+      "rel": "references",
+      "evidence": "能规模化建设专项行动方案（2025—2027年）>的通知》（发改能源〔2025〕1144号）有关要求，充分激发",
+      "doc_num_matched": "发改能源〔2025〕1144号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -2625,7 +2884,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2636,7 +2895,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_CQ_3c8f1eea",
@@ -2647,7 +2906,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2022_CQ_3c8f1eea",
@@ -2658,7 +2917,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2669,7 +2928,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2680,7 +2939,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2691,7 +2950,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -2702,7 +2961,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -2713,7 +2972,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -2724,7 +2983,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -2735,7 +2994,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -2746,7 +3005,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -2757,7 +3016,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-07T17:38:34"
+      "extracted_at": "2026-05-08T00:40:35"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3128,6 +3387,96 @@
       "extracted_by": "rebuild_l2_rel_judge_rerun",
       "extracted_at": "2026-05-06T17:22:26+08:00",
       "reason": "2025年标准计划是2024年标准计划的下一年度同序列"
+    },
+    {
+      "from": "P_2022_FJ_0b508215",
+      "to": "P_2022_NDRC_03213b6e_a",
+      "rel": "iterates",
+      "evidence": "本通知正文即国家发改委、国家能源局《十四五新型储能发展实施方案》(2022-01-29)的福建省发改委转发版本，标题与发文单位/日期完全一致。",
+      "confidence": 0.95,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "title_exact_match",
+        "same_date_2022-01-29",
+        "same_issuer_NDRC_NEA"
+      ],
+      "reason": "省级网站对国家级母文件的转发/复刻"
+    },
+    {
+      "from": "P_2022_FJ_0b508215",
+      "to": "P_2022_NDRC_032146fe",
+      "rel": "iterates",
+      "evidence": "本通知与vault中另一份十四五新型储能发展实施方案(2022-03-21)同为国家发改委、国家能源局2022年发布的同名文件版本。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "title_match",
+        "near_date",
+        "same_authority"
+      ],
+      "reason": "同一国家级文件不同来源版本"
+    },
+    {
+      "from": "P_2024_BJ_4339ba17",
+      "to": "P_2023_BJ_11237d18",
+      "rel": "iterates",
+      "evidence": "北京市新型储能产业发展实施方案(2024-2027)在2023年北京市储能产业支持若干措施基础上的产业实施方案升级，同省同主题序列。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_BJ",
+        "same_topic_storage_industry",
+        "policy_progression"
+      ],
+      "reason": "北京储能产业政策迭代"
+    },
+    {
+      "from": "P_2024_GO_d38b5cb4",
+      "to": "P_2024_NEA_26",
+      "rel": "iterates",
+      "evidence": "本通知报道(2024-04-19)与vault促进新型储能并网和调度运用(国能发科技规〔2024〕26号, 2024-04-02)同主题不同发布渠道。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_issuer_NEA",
+        "title_match",
+        "same_topic"
+      ],
+      "reason": "同主题国家能源局文件"
+    },
+    {
+      "from": "P_2024_HA_15a936f0",
+      "to": "P_2024_HA_947a826a",
+      "rel": "iterates",
+      "evidence": "本河南省人民政府办公厅源网荷储一体化实施方案(豫政办〔2024〕72号)在同省2024年工业企业源网荷储一体化项目实施细则征求意见基础上正式发布省级方案。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_HA",
+        "same_topic_source_grid_load_storage",
+        "policy_progression"
+      ],
+      "reason": "省级源网荷储政策从征求意见到正式发布"
+    },
+    {
+      "from": "P_2025_GO_a0bf1352",
+      "to": "P_2025_GO_3560eda4",
+      "rel": "iterates",
+      "evidence": "国家能源局2025-02-21报道与银川市政府2025-02-18《8部门印发行动方案推动新型储能制造业高质量发展》同一新闻不同发布渠道。",
+      "confidence": 0.95,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "title_exact_match",
+        "near_date",
+        "same_topic_manufacturing"
+      ],
+      "reason": "同主题8部门储能制造业方案"
     },
     {
       "from": "P_2024_GZ_4ec111f2",
@@ -3857,9 +4206,244 @@
         "date 命中 2024-06-07"
       ],
       "reason": "两条记录指向同一份政策的'印发通知'与'措施正文'，同期同主题，构成 aligns_with（避免 supersedes）。"
+    },
+    {
+      "from": "P_2022_NX_bcbdf716",
+      "to": "P_2022_NX_f86c8310",
+      "rel": "aligns_with",
+      "evidence": "本工作动态报道宁夏首个电网侧大型共享储能项目并网，与同省发改委《关于促进储能健康发展的通知》同方向，均为宁夏储能发展进展。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_issuer",
+        "same_topic_storage",
+        "same_region_NX"
+      ],
+      "reason": "同省同主题动态信息"
+    },
+    {
+      "from": "P_2023_GO_2a956bbf",
+      "to": "P_2022_HN_8a3cd18b",
+      "rel": "aligns_with",
+      "evidence": "本省级电力系统规划与同省2022年新型储能首批试点候选项目方向一致，均涉及湖南新型储能多元化与试点示范。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_HN",
+        "same_topic_storage_pilot"
+      ],
+      "reason": "湖南储能发展同方向政策"
+    },
+    {
+      "from": "P_2023_QH_8bd87efd",
+      "to": "P_2024_QH_bf07bb8c",
+      "rel": "aligns_with",
+      "evidence": "青海揭榜挂帅新型储能示范项目调度会与青海新型储能规模化发展成效报道，同省同主题。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_QH",
+        "same_topic_storage_demo",
+        "same_issuer_QH_NEB"
+      ],
+      "reason": "青海储能揭榜挂帅项目同方向"
+    },
+    {
+      "from": "P_2024_GO_42bc022c",
+      "to": "P_2024_BJ_4339ba17",
+      "rel": "aligns_with",
+      "evidence": "湖南锂电池及先进储能材料产业三年行动计划与北京新型储能产业发展实施方案均为省级储能产业行动计划，方向一致。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_topic_storage_industry"
+      ],
+      "reason": "省级储能产业政策同方向"
+    },
+    {
+      "from": "P_2024_GZ_03841527",
+      "to": "P_2022_GZ_3e727dc2",
+      "rel": "aligns_with",
+      "evidence": "贵州省政府2024年工作报告与贵州省碳达峰实施方案为同省双碳/能源工作脉络一致的政策。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_GZ",
+        "topic_carbon_energy"
+      ],
+      "reason": "省级双碳/能源同向"
+    },
+    {
+      "from": "P_2024_HA_15a936f0",
+      "to": "P_2023_HA_711d8e82",
+      "rel": "aligns_with",
+      "evidence": "河南源网荷储一体化方案与同省2023年加快新型储能发展实施意见(豫政办〔2023〕25号)同主题协同发力。",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_issuer",
+        "topic_storage_grid"
+      ],
+      "reason": "河南储能/源网荷储政策协同"
+    },
+    {
+      "from": "P_2024_HL_5ae7295b",
+      "to": "P_2025_NDRC_0912b2a5",
+      "rel": "aligns_with",
+      "evidence": "本能源法学习贯彻文章提及制定十五五新型储能实施方案等任务，与vault中新型储能规模化建设专项行动方案方向一致。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "topic_storage_planning"
+      ],
+      "reason": "能源法贯彻文与储能规模化方案方向一致"
+    },
+    {
+      "from": "P_2025_GO_1826afdc",
+      "to": "P_2023_GO_2a956bbf",
+      "rel": "aligns_with",
+      "evidence": "湖南能源监管办新型储能调度与湖南省新型电力系统发展规划纲要同省同主题协同。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_HN",
+        "topic_storage_pilot"
+      ],
+      "reason": "湖南储能政策协同"
+    },
+    {
+      "from": "P_2025_GO_a0bf1352",
+      "to": "P_2024_BJ_4339ba17",
+      "rel": "aligns_with",
+      "evidence": "8部门储能制造业行动方案与北京市储能产业发展实施方案同主题行业协同。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "topic_storage_manufacturing"
+      ],
+      "reason": "国家级与北京储能产业方案同方向"
+    },
+    {
+      "from": "P_2025_GO_ed92d7fb",
+      "to": "P_2024_NDRC_0806117c",
+      "rel": "aligns_with",
+      "evidence": "新疆能源转型评论与国家加快构建新型电力系统行动方案(2024-2027)方向一致。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "topic_new_power_system"
+      ],
+      "reason": "新疆能源体系建设与国家新型电力系统方案对齐"
+    },
+    {
+      "from": "P_2025_HA_4aa32072",
+      "to": "P_2023_HA_711d8e82",
+      "rel": "aligns_with",
+      "evidence": "信阳新能源转型与河南省加快新型储能发展实施意见(2023)同省同方向。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_HA",
+        "topic_storage"
+      ],
+      "reason": "省级储能政策同向"
+    },
+    {
+      "from": "P_2025_HL_d201db09",
+      "to": "P_2025_NDRC_0912b2a5",
+      "rel": "aligns_with",
+      "evidence": "国家发改委关于能源安全文章提及大力推动新型储能高质量发展，与新型储能规模化建设方案同方向。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "topic_energy_storage_security"
+      ],
+      "reason": "能源安全与储能规模化协同"
+    },
+    {
+      "from": "P_2025_NX_f2592a7e",
+      "to": "P_2022_NX_f86c8310",
+      "rel": "aligns_with",
+      "evidence": "本宁夏废止公告废止了《自治区发展改革委关于加快促进储能健康有序发展的通知》(宁发改能源(发展)〔2021〕411号)和2022年新型储能项目试点工作通知，与vault中宁夏储能健康发展通知同方向同省。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_NX",
+        "topic_storage",
+        "explicit_doc_reference"
+      ],
+      "reason": "宁夏储能政策废止脉络"
+    },
+    {
+      "from": "P_2025_NX_f985ec97",
+      "to": "P_2022_NX_daf3d666",
+      "rel": "aligns_with",
+      "evidence": "宁夏2026年电网侧电化学储能项目管理通知与同省虚拟电厂建设工作方案同省同方向，构建新型电力系统。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_region_NX",
+        "topic_storage_grid"
+      ],
+      "reason": "宁夏储能/虚拟电厂政策协同"
+    },
+    {
+      "from": "P_2025_SC_e6f57b26",
+      "to": "P_2025_SC_076e6fb9",
+      "rel": "aligns_with",
+      "evidence": "四川新型储能电站安全管理工作导则与同省四川省电网侧新型储能项目清单(川发改能源〔2025〕309号)同省同年配套发布。",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "same_issuer",
+        "same_year",
+        "topic_storage_grid"
+      ],
+      "reason": "四川储能政策配套"
+    },
+    {
+      "from": "P_2026_GO_c0ed9989",
+      "to": "P_2025_GO_a0bf1352",
+      "rel": "aligns_with",
+      "evidence": "银川市新型工业化方案重点布局新能源/储能(固态储氢、铅炭电池、钠离子电池等)，与国家级8部门储能制造业行动方案方向一致。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "topic_storage_manufacturing"
+      ],
+      "reason": "市级新型工业化储能产业落地"
+    },
+    {
+      "from": "P_2026_SN_28b48cb2",
+      "to": "P_2025_NDRC_0912b2a5",
+      "rel": "aligns_with",
+      "evidence": "陕西省发改委意见征集目录含《关于加强我省新型储能项目规范管理的通知》征求意见，与国家新型储能规模化建设专项行动方案方向一致。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T00:40:04+08:00",
+      "signals": [
+        "topic_storage_management"
+      ],
+      "reason": "陕西储能管理通知与国家级方案对齐"
     }
   ],
-  "relations_count": 184,
+  "relations_count": 212,
   "diff_files": [],
   "opinion_policy_ids": [
     "P_2024_SH_28",
@@ -3883,21 +4467,22 @@
   ],
   "region_distribution": {
     "国家": {
-      "全国": 28,
-      "未知": 3
+      "全国": 30,
+      "未知": 5
     },
     "省": {
       "湖南省": 4,
-      "广西壮族自治区": 1,
+      "广西壮族自治区": 2,
       "辽宁省": 5,
-      "宁夏回族自治区": 2,
-      "北京市": 1,
+      "宁夏回族自治区": 4,
+      "北京市": 2,
+      "河北省": 2,
       "重庆市": 9,
       "海南省": 1,
       "山东省": 7,
-      "贵州省": 3,
+      "贵州省": 4,
       "四川省": 3,
-      "河南省": 4,
+      "河南省": 5,
       "吉林省": 2,
       "云南省": 1,
       "广东省": 3,
@@ -3922,21 +4507,21 @@
     }
   },
   "top_issuers": {
-    "国家能源局": 10,
+    "国家能源局": 11,
     "国家发展改革委、国家能源局": 6,
     "辽宁省发展和改革委员会": 5,
     "山东省发展和改革委员会": 5,
+    "河南省发展和改革委员会": 5,
     "青海省发展和改革委员会": 5,
     "湖南省发展和改革委员会": 4,
+    "宁夏回族自治区发展和改革委员会": 4,
     "国家发展和改革委员会、国家能源局": 4,
     "重庆市发展和改革委员会": 4,
-    "河南省发展和改革委员会": 4,
-    "贵州省发展和改革委员会": 3,
+    "贵州省发展和改革委员会": 4,
     "四川省发展和改革委员会": 3,
     "重庆市人民政府办公厅": 3,
     "广东省发展和改革委员会": 3,
-    "陕西省发展和改革委员会": 3,
-    "江西省发展和改革委员会": 3
+    "陕西省发展和改革委员会": 3
   },
   "top_5_importance": [
     {
@@ -3957,23 +4542,6 @@
       "filename": "【进一步构建高质量充电基础设施体系的指导意见(国办发〔2023〕19号)】-国务院办公厅-ead1.md"
     },
     {
-      "id": "P_2024_NDRC_01047553",
-      "title": "关于加强新能源汽车与电网融合互动的实施意见",
-      "date": "2024-01-04",
-      "official": "",
-      "issuer": [
-        "国家发展改革委、国家能源局、工业和信息化部、国家市场监督管理总局"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【关于加强新能源汽车与电网融合互动的实施意见】-国家发展改革委、国家能源局、工业和信息化部、国家市场监督管理总局-7553.md"
-    },
-    {
       "id": "P_2024_NDRC_1721",
       "title": "加强新能源汽车与电网融合互动的实施意见",
       "date": "2024-01-04",
@@ -3989,6 +4557,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
+    },
+    {
+      "id": "P_2024_NDRC_01047553",
+      "title": "关于加强新能源汽车与电网融合互动的实施意见",
+      "date": "2024-01-04",
+      "official": "",
+      "issuer": [
+        "国家发展改革委、国家能源局、工业和信息化部、国家市场监督管理总局"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【关于加强新能源汽车与电网融合互动的实施意见】-国家发展改革委、国家能源局、工业和信息化部、国家市场监督管理总局-7553.md"
     },
     {
       "id": "P_2024_NDRC_02276bf1",

@@ -4,7 +4,7 @@ title: 关于印发《河南省电力市场运营基本规则（试行）》的�
 inbound_edge_count: 3
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T17:57:49+08:00'
+last_updated: '2026-05-08T01:06:38+08:00'
 policy_file: ../../../0_raw/policies/【关于印发《河南省电力市场运营基本规则（试行）》的通知(豫发改电力〔2022〕533号)】-河南省发展和改革委员会-65ffb0c4.md
 ---
 

@@ -4,7 +4,7 @@ title: 江西省能源局关于印发《江西省虚拟电厂建设运营工作�
 inbound_edge_count: 0
 outbound_edge_count: 7
 commentary_inbound_count: 0
-last_updated: '2026-05-07T17:57:48+08:00'
+last_updated: '2026-05-08T01:06:38+08:00'
 policy_file: ../../../0_raw/policies/【江西省能源局关于印发《江西省虚拟电厂建设运营工作指南》的通知(赣能运行字〔2025〕105号)】-江西省发展和改革委员会-b32efb76.md
 ---
 
