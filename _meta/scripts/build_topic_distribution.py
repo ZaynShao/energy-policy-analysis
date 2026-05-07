@@ -1,11 +1,37 @@
 #!/usr/bin/env python3
-"""一次性脚本: 从 5 主题 _input.json + policy_summaries.jsonl 构造前端格式 JSON."""
+"""一次性脚本: 从 5 主题 _input.json + policy_summaries.jsonl 构造前端格式 JSON.
+
+2026-05-07 起加 isolated 过滤(B7 分类后):
+  读 _meta/audit/isolated_classification.jsonl,跳过 suggested_action ==
+  "exclude_from_main_graph" 的 pid(news/index_page 类污染政策)。
+"""
 import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+
+
+def load_exclude_pids() -> set[str]:
+    """读 isolated_classification.jsonl,返回 suggested_action='exclude_from_main_graph' 的 pid 集"""
+    path = ROOT / "_meta" / "audit" / "isolated_classification.jsonl"
+    if not path.exists():
+        return set()
+    excludes = set()
+    for ln in path.read_text(encoding="utf-8").splitlines():
+        if not ln.strip():
+            continue
+        try:
+            r = json.loads(ln)
+        except json.JSONDecodeError:
+            continue
+        if r.get("suggested_action") == "exclude_from_main_graph":
+            excludes.add(r["pid"])
+    return excludes
+
+
+EXCLUDE_PIDS = load_exclude_pids()
 
 THEMES = [
     ("V2G", "V2G(车网互动)"),
@@ -144,7 +170,12 @@ def build_topic(theme_dir, theme_zh, summaries):
     by_prov = {}
     by_city = {}
 
+    excluded_count = 0
     for p in inp["policies"]:
+        # B7 isolated 过滤:跳过 exclude_from_main_graph 标记的政策
+        if p.get("id") in EXCLUDE_PIDS:
+            excluded_count += 1
+            continue
         item = {
             "title": (p.get("title") or "").strip(),
             "issuingOrg": join_issuer(p.get("issuer")) or "(未知)",
@@ -194,6 +225,9 @@ def build_topic(theme_dir, theme_zh, summaries):
     for g in city_list:
         g["policies"].sort(key=lambda x: x["issueDate"], reverse=True)
 
+    if excluded_count:
+        print(f"  [filter] {theme_dir}: 排除 {excluded_count} 个 exclude_from_main_graph 政策")
+
     return {
         "topic": theme_zh,
         "national": national,
@@ -204,6 +238,7 @@ def build_topic(theme_dir, theme_zh, summaries):
 
 def main():
     summaries = load_summaries()
+    print(f"[B7 filter] 加载 {len(EXCLUDE_PIDS)} 个 exclude_from_main_graph 政策(读自 _meta/audit/isolated_classification.jsonl)")
     topics = []
     for theme_dir, theme_zh in THEMES:
         topics.append(build_topic(theme_dir, theme_zh, summaries))
