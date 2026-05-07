@@ -762,6 +762,21 @@ Obsidian alias resolution 在 graph view 不一定可靠(用户实测,即便 ali
 
 写新派生层文件脚本时,如果该页面是"关于某 raw 政策的派生",同样应加这行显式 link。
 
+**第三层兜底 — section/list 内的 P_xxx 引用也用 [[<stem>|P_xxx]](2026-05-07 加,B8 补丁)**:
+
+B8 commit `e771af1` 只在 _rev/_op 顶部加显式 link。section / list 内的
+`[[P_xxx]]` 引用(如 _rev 内的入向/出向边、opinions-summary 中的政策列表)
+仍依赖 alias 解析 — Obsidian alias detection 不稳定 → 用户视觉看大量红色 broken。
+
+修法(2026-05-07):build_reverse_links / opinions / opinions-summary / overview
+所有派生中 `[[P_xxx]]` 形式必须改成 `[[<file_stem>|P_xxx]]`,显示 P_xxx 别名,
+解析走 file_stem 100% 可靠。
+
+当前状态(本次修后):全派生层 0 裸 `[[P_xxx]]` / 3900+ 显式 `[[<stem>|P_xxx]]`。
+
+**新写派生脚本的硬规则**:**任何** `[[P_xxx]]` 形式都不允许,必须 `[[<file_stem>|P_xxx]]`。
+为此 build_id_to_meta() 类索引函数必须返回 `file_stem` 字段。
+
 ---
 
 ## 9. 不要做的事

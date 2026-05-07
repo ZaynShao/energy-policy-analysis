@@ -4,7 +4,7 @@ title: 政策文件 - 北京市住房和城乡建设委员会
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:36:04+08:00'
+last_updated: '2026-05-07T16:57:42+08:00'
 policy_file: ../../../0_raw/policies/【政策文件 - 北京市住房和城乡建设委员会】-政府门户.zjw.beijing.gov.cn-1d5aa42e.md
 ---
 
@@ -14,4 +14,4 @@ policy_file: ../../../0_raw/policies/【政策文件 - 北京市住房和城乡�
 
 ## 被引为依据 (cited_as_basis_by) — 1
 
-- [[P_1900_GO_44cbdc92]] — 政策文件 (2026-05-06)
+- [[【政策文件(京建法〔2025〕3号)】-政府门户.zjw.beijing.gov.cn-44cbdc92|P_1900_GO_44cbdc92]] — 政策文件 (2026-05-06)

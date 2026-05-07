@@ -109,10 +109,13 @@ def build_id_to_meta():
         date = fm.get("date") or ""
         if hasattr(date, "isoformat"):
             date = date.isoformat()
+        # file_stem 必须 — Obsidian alias 解析在 graph view 不稳定,SKILL §8c
+        # 第二层兜底要求所有 [[P_xxx]] 引用形式都改成 [[<file_stem>|P_xxx]]
         id_to_meta[pid] = {
             "title": fm.get("title", "") or "",
             "date": str(date),
             "file_name": md.name,
+            "file_stem": md.stem,
         }
     return id_to_meta
 
@@ -224,7 +227,12 @@ def render_commentary_section(lines, edges):
 
 
 def render_section(lines, label, edges, peer_key):
-    """渲染单个 section,edges 已排序。peer_key='from_id'(入向)或 'to_id'(出向)"""
+    """渲染单个 section,edges 已排序。peer_key='from_id'(入向)或 'to_id'(出向)
+
+    SKILL §8c 第二层兜底:wiki link 用 [[<file_stem>|P_xxx]] 显式文件名 +
+    P_xxx 显示别名(Obsidian alias 解析在 graph view 不可靠;file_stem
+    100% 解析)。
+    """
     lines.append(f"## {label} — {len(edges)}")
     lines.append("")
     for e in edges:
@@ -233,10 +241,13 @@ def render_section(lines, label, edges, peer_key):
         pdate = (e.get("peer_date") or "")[:10] or "—"
         lt = e.get("linkage_type")
         suffix = f" [{lt}]" if lt else ""
+        # 显式 file_stem,缺失时 fallback 到 [[P_xxx]](dangling 政策无 file_stem)
+        stem = e.get("peer_file_stem") or ""
+        link = f"[[{stem}|{pid}]]" if stem else f"[[{pid}]]"
         if ptitle:
-            lines.append(f"- [[{pid}]] — {ptitle} ({pdate}){suffix}")
+            lines.append(f"- {link} — {ptitle} ({pdate}){suffix}")
         else:
-            lines.append(f"- [[{pid}]] ({pdate}){suffix}")
+            lines.append(f"- {link} ({pdate}){suffix}")
     lines.append("")
 
 
@@ -295,6 +306,7 @@ def main():
                         "to_id": to_id,
                         "peer_title": to_meta.get("title", ""),
                         "peer_date": to_meta.get("date", ""),
+                        "peer_file_stem": to_meta.get("file_stem", ""),
                         "linkage_type": linkage_type,
                     })
                     # 入向:仅 to_id 存在时
@@ -302,6 +314,7 @@ def main():
                         "from_id": from_id,
                         "peer_title": from_meta.get("title", ""),
                         "peer_date": from_meta.get("date", ""),
+                        "peer_file_stem": from_meta.get("file_stem", ""),
                         "linkage_type": linkage_type,
                     })
                     total_edges += 1
