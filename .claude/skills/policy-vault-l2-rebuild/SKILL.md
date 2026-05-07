@@ -464,6 +464,91 @@ python3 _meta/scripts/rebuild_l2.py prepare --trigger reverse_cites --target-pid
 
 ---
 
+## A.6 P0 漏抓诊断 + 重抓协议(2026-05-07 加入)
+
+**背景**:本会话发现江苏省在 V2G/VPP/充电/储能/电力市场 等 P0 主题**全 0 命中**,
+浙江 V2G 也漏。深挖发现 4 类独立漏抓机制(非"真没政策"),都被 audit_alert 早期
+口径"零命中"模糊化掉。
+
+### A.6.1 4 类漏抓机制(R0-R4)
+
+| 代号 | 机制 | 信号 | 修复 |
+|---|---|---|---|
+| **R0** | query 矩阵漏发 | tavily_queries 该 cell = 0 | 看 `gen_tavily_queries.py` 是否覆盖该 (theme × province),漏则补 |
+| **R1** | 真没政策 | tavily_queries > 0 但 results = 0(全省 0 命中) | 加 city 层 query / 接受现状 |
+| **R2** | fetch 失败 | tavily 抓到 url + promote 进 top600 + fetch_*.log 报 ok=False | 走 §A.6.3 fallback chain |
+| **R3** | promote 漏 | tavily 抓到 + 进 candidates_rest 但未 top600(600 cutoff) | 走 trigger A 直接 prepare 重抓 |
+| **R4** | 入库后召回失败 | url 入库为 raw 但 entity 抽取 / region 推断错 | 修 entity registry / 重跑 extract_entities |
+
+### A.6.2 诊断 — `diagnose_p0_gaps.py`
+
+```bash
+python3 _meta/scripts/diagnose_p0_gaps.py
+# → _meta/audit/p0_gaps_diagnosis.md(48 个 P0×P0 cell × R0-R4 分类)
+```
+
+input:vault `_input.json` × `coverage_matrix.json` × `tavily_results_merged.jsonl`
+× `candidates_top600.jsonl` × `candidates_rest.jsonl` × `fetch_*.log`。
+
+输出每 cell 的:vault 命中数 / Tavily q&r / top600 候选 / fetch 失败 / rest 候选 / 类别 / 推荐动作。
+
+跑完看 `audit_alert.py` 也会自动 detect R2 行(2026-05-07 加 metric)。
+
+### A.6.3 fetch 失败 fallback chain(R2 cells)
+
+很多 P0 政府站(尤其省发改委独立子站如 `jsdsm.fzggw.jiangsu.gov.cn:10443`)用
+非标 https 端口 + 老 TLS,本机 LibreSSL 2.8.3 无法握手。fallback 顺序:
+
+1. **换 OpenSSL Python**:`brew install python@3.12`,重跑 `fetch_candidates.py`。
+   现代 OpenSSL 兼容多数老 TLS。
+2. **playwright/chromium**:浏览器内核宽容老 TLS。新写 `fetch_via_playwright.py`
+   或装 `pip install playwright && playwright install chromium`。
+3. **手动浏览器抓**:打开 url → 保存 HTML → `_meta/audit_2026-05-06/manual_staging/<8hash>.md`
+   → 走 `normalize_to_raw.py` 入 staging → trigger A。
+4. **换源**:同政策可能在 `ndrc.gov.cn` / `nea.gov.cn` / 央媒(人民日报)有镜像;
+   或 `archive.org` 有快照。
+
+`fetch_candidates.py`(2026-05-07 改)失败 url 自动写到
+`_meta/audit/fetch_failed_for_manual.jsonl`,含 layer_meta 让 fallback 知道
+该 url 属于哪个 P0×P0 cell。
+
+### A.6.4 promote 漏(R3 cells)
+
+`candidates_top600.jsonl` 是 Phase 1 一次性快照(无动态 promote 脚本)。
+P0×P0 候选挤出 top600 = 隐形漏。
+
+修复:`_meta/scripts/oneshot_build_p0_refetch_seeds.py` 从 `candidates_rest.jsonl`
+按 layer_meta P0×P0 反查,产出 `_meta/audit/p0_refetch_seeds.md`(已生成
+本会话 56 url,8 cell)。
+
+未来重新抓:`gen_tavily_queries.py` 改 query 量(P0×P0 加权采样)+ `aggregate_candidates`
+加规则 `if (P0 theme, P0 province, ok=True): force_keep_in_top`。本会话先靠
+种子清单走 trigger A 重抓,机制改进归后续 backlog。
+
+### A.6.5 audit_alert 配套 metric(B 类修复)
+
+`audit_alert.py`(2026-05-07 改):
+- alert 4(P0 主题×P0 省零命中)末尾提示"跑 diagnose_p0_gaps 看 R 类"
+- 新 alert 5:扫 `p0_gaps_diagnosis.md` 中 "R2 fetch" cell 数 → 不让 fetch 错变成隐形漏抓
+
+### A.6.6 SKILL 跨段联动
+
+- §1.4 weekly_audit:`audit_alert` 跑出零命中 → 提示 `diagnose_p0_gaps`
+- §1.5 daily_queries:`gen_daily_queries` 已有 P0×P0 加权(weight = 10×零 + 5-n 当前 + P0 加权)
+  本协议补:**R3 漏抓种子优先入 daily query**,把 rest 中候选转为新 query 重抓
+- §2 trigger A:接收 `_meta/audit/p0_refetch_seeds.md` 中的 url 走标准 prepare 流程
+
+### A.6.7 立即可执行清单(本会话产出)
+
+| 资源 | 内容 | 怎么用 |
+|---|---|---|
+| `_meta/audit/p0_gaps_diagnosis.md` | 8 P0×P0 cells R0-R4 分类 | 看现状 |
+| `_meta/audit/p0_refetch_seeds.md` | R2 7 url(走 fallback)+ R3 56 url(走 trigger A) | 重抓种子 |
+| `_meta/audit/missing_base_policies.md` | 53 base pid commentary 引用断 | 配合 P0_seeds |
+| `_meta/audit/fetch_failed_for_manual.jsonl` | 后续抓失败自动追加 | manual queue |
+
+---
+
 ## 6.1 「标记下架」例外协议(2026-05-07 加入,与 §6 并列)
 
 当 LLM 分类标记某 raw 政策为 `exclude_from_main_graph`(news/index_page

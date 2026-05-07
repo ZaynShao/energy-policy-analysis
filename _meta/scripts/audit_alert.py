@@ -79,7 +79,7 @@ def main() -> int:
         if c_iso - p_iso > 20:
             alerts.append(f"⚠ isolated 政策单周 +{c_iso - p_iso}(上周 {p_iso} → 本周 {c_iso})")
 
-    # 4. P0 主题 × P0 省零命中
+    # 4. P0 主题 × P0 省零命中(并指出根因 — 见 SKILL §A.6)
     if COV_MATRIX.exists():
         try:
             cov = json.loads(COV_MATRIX.read_text(encoding="utf-8"))
@@ -91,8 +91,28 @@ def main() -> int:
                     if cov[th].get(code, 0) == 0:
                         zero_p0.append(f"{th} × {name}")
             if zero_p0:
-                alerts.append(f"⚠ P0 主题×P0 省零命中 {len(zero_p0)} cells:\n   - " + "\n   - ".join(zero_p0[:10]))
+                # 提示运行 diagnose_p0_gaps 看 R1/R2/R3 根因区分
+                alerts.append(
+                    f"⚠ P0 主题×P0 省零命中 {len(zero_p0)} cells:\n   - "
+                    + "\n   - ".join(zero_p0[:10])
+                    + "\n   (跑 `python3 _meta/scripts/diagnose_p0_gaps.py` 看根因 R1/R2/R3,SKILL §A.6)"
+                )
         except json.JSONDecodeError:
+            pass
+
+    # 5. fetch 失败的 P0×P0 url(B 类修复 — 不让 fetch 错变成隐形漏抓)
+    p0_diag = VAULT / "_meta" / "audit" / "p0_gaps_diagnosis.md"
+    if p0_diag.exists():
+        # 简单 parse:看 "R2" 类别 cell 数
+        try:
+            text = p0_diag.read_text(encoding="utf-8")
+            r2_count = text.count("R2 fetch")
+            if r2_count > 0:
+                alerts.append(
+                    f"⚠ {r2_count} 个 P0 cell 因 fetch 失败漏抓(R2,见 p0_gaps_diagnosis.md)"
+                    "\n   走 SKILL §A.6 fallback chain(playwright/手动)重抓"
+                )
+        except OSError:
             pass
 
     # 输出

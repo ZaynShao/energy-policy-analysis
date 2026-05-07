@@ -177,6 +177,11 @@ def main():
     urllib3.disable_warnings()
 
     log_f = open(args.log, "w")
+    # B 类修复(2026-05-07,SKILL §A.6):失败 url 同步写到 fetch_failed_for_manual.jsonl
+    # 让 P0×P0 fetch 失败可被 audit_alert / diagnose_p0_gaps 发现,走 fallback chain
+    failed_manual_path = ROOT / "_meta" / "audit" / "fetch_failed_for_manual.jsonl"
+    failed_manual_path.parent.mkdir(parents=True, exist_ok=True)
+    failed_manual_f = open(failed_manual_path, "a", encoding="utf-8")
     done = ok = fail = 0
     bytes_total = 0
     t0 = time.time()
@@ -195,6 +200,16 @@ def main():
             else:
                 fail += 1
                 log_line = {"url": c["url"], "ok": False, "error": res["error"]}
+                # 同时写到 manual queue:含 theme/province layer_meta 让 fallback 知道走哪
+                manual = {
+                    "url": c["url"],
+                    "title": c.get("title", ""),
+                    "error": res["error"],
+                    "layer_meta": c.get("layer_meta", []),
+                    "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%S+08:00"),
+                }
+                failed_manual_f.write(json.dumps(manual, ensure_ascii=False) + "\n")
+                failed_manual_f.flush()
             log_f.write(json.dumps(log_line, ensure_ascii=False) + "\n")
             log_f.flush()
             if done % 25 == 0 or done == len(candidates):
@@ -204,9 +219,12 @@ def main():
                       f"avg_body={bytes_total//max(ok,1)}B rate={rate:.1f}/s eta={eta:.0f}s")
 
     log_f.close()
+    failed_manual_f.close()
     print(f"\nDone. ok={ok} fail={fail} time={time.time()-t0:.0f}s")
     print(f"Staging: {STAGING}/")
     print(f"Log: {args.log}")
+    if fail:
+        print(f"Failed → {failed_manual_path.relative_to(ROOT)} ({fail} url 待 fallback,SKILL §A.6)")
 
 
 if __name__ == "__main__":
