@@ -4,7 +4,7 @@ title: 关于2025年加力扩围实施大规模设备更新和消费品以旧换
 inbound_edge_count: 43
 outbound_edge_count: 5
 commentary_inbound_count: 5
-last_updated: '2026-05-08T01:06:38+08:00'
+last_updated: '2026-05-08T01:28:19+08:00'
 policy_file: ../../../0_raw/policies/【关于2025年加力扩围实施大规模设备更新和消费品以旧换新政策的通知(发改环资〔2025〕13号)】-国家发展改革委、财政部-ef3a.md
 ---
 

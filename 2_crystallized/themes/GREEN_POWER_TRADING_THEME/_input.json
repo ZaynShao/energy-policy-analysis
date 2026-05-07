@@ -10,6 +10,23 @@
   ],
   "policies": [
     {
+      "id": "P_2017_GZ_f47663f2",
+      "title": "关于有序放开发用电计划的通知(发改运行〔2017〕294号)",
+      "date": "2017-01-01",
+      "official": "发改运行〔2017〕294号",
+      "issuer": [
+        "贵州省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "520000",
+        "name": "贵州省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【关于有序放开发用电计划的通知(发改运行〔2017〕294号)(发改运行〔2017〕294号)】-贵州省发展和改革委员会-f47663f2.md"
+    },
+    {
       "id": "P_2017_NDRC_09206e37",
       "title": "电力需求侧管理办法(2017年修订版)",
       "date": "2017-09-20",
@@ -163,23 +180,6 @@
       "filename": "【重庆市能源局关于市六届人大三次会议第0999号代表建议办理情况的 ...】-重庆市发展和改革委员会-683486a9.md"
     },
     {
-      "id": "P_1900_HN_dc498608",
-      "title": "我省召开2022年电力市场运行信息暨新型储能容量市场化交易发布会",
-      "date": "2022-01-01",
-      "official": "",
-      "issuer": [
-        "湖南省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "430000",
-        "name": "湖南省"
-      },
-      "importance": 1,
-      "tags": [],
-      "filename": "【我省召开2022年电力市场运行信息暨新型储能容量市场化交易发布会】-湖南省发展和改革委员会-dc498608.md"
-    },
-    {
       "id": "P_1900_CQ_d4e84b6f",
       "title": "重庆市能源局关于市六届人大三次会议第0840号代表建议办理情况的 ...",
       "date": "2022-01-01",
@@ -195,6 +195,23 @@
       "importance": 1,
       "tags": [],
       "filename": "【重庆市能源局关于市六届人大三次会议第0840号代表建议办理情况的 ...】-重庆市发展和改革委员会-d4e84b6f.md"
+    },
+    {
+      "id": "P_1900_HN_dc498608",
+      "title": "我省召开2022年电力市场运行信息暨新型储能容量市场化交易发布会",
+      "date": "2022-01-01",
+      "official": "",
+      "issuer": [
+        "湖南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "430000",
+        "name": "湖南省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【我省召开2022年电力市场运行信息暨新型储能容量市场化交易发布会】-湖南省发展和改革委员会-dc498608.md"
     },
     {
       "id": "P_2022_NDRC_53",
@@ -705,6 +722,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
+    },
+    {
+      "id": "P_2024_GO_ce9b782c",
+      "title": "山西省能源局国家能源局山西监管办公室关于印发《电力市场规则 ...",
+      "date": "2024-02-01",
+      "official": "晋能源规〔2024〕1号",
+      "issuer": [
+        "政府门户.www.shanxi.gov.cn"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "未知"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【山西省能源局国家能源局山西监管办公室关于印发《电力市场规则 ...(晋能源规〔2024〕1号)】-政府门户.www.shanxi.gov.cn-ce9b782c.md"
     },
     {
       "id": "P_2024_CQ_020739ff",
@@ -1302,23 +1336,6 @@
       "filename": "【关于大力实施可再生能源替代行动的指导意见 - 河南省发展和改革委员会(发改能源〔2024〕1537号)】-河南省发展和改革委员会-2824bc55.md"
     },
     {
-      "id": "P_2024_ZJ_65c18e53",
-      "title": "省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知",
-      "date": "2024-11-01",
-      "official": "",
-      "issuer": [
-        "浙江省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "330000",
-        "name": "浙江省"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知】-浙江省发展和改革委员会-65c18e53.md"
-    },
-    {
       "id": "P_2024_GD_4f183861",
       "title": "广东省能源局关于做好2026年电力市场年度交易工作的通知",
       "date": "2024-11-01",
@@ -1334,6 +1351,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【广东省能源局关于做好2026年电力市场年度交易工作的通知】-广东省发展和改革委员会-4f183861.md"
+    },
+    {
+      "id": "P_2024_ZJ_65c18e53",
+      "title": "省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知",
+      "date": "2024-11-01",
+      "official": "",
+      "issuer": [
+        "浙江省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "330000",
+        "name": "浙江省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知】-浙江省发展和改革委员会-65c18e53.md"
     },
     {
       "id": "P_2024_MEE_1101f119",
@@ -1368,6 +1402,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【深入学习贯彻《中华人民共和国能源法》奋力谱写能源高质量发展新 ...】-黑龙江省发展和改革委员会-5ae7295b.md"
+    },
+    {
+      "id": "P_2024_HL_f14f037c",
+      "title": "践行能源安全新战略建设全国统一电力市场 - 省发展和改革委员会",
+      "date": "2024-11-08",
+      "official": "",
+      "issuer": [
+        "黑龙江省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "230000",
+        "name": "黑龙江省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【践行能源安全新战略建设全国统一电力市场 - 省发展和改革委员会】-黑龙江省发展和改革委员会-f14f037c.md"
     },
     {
       "id": "P_2024_NEA_93_a",
@@ -1489,21 +1540,21 @@
       "filename": "【上海市新型储能示范引领创新发展工作方案2025-2030(沪府办发〔2024〕28号)】-上海市人民政府办公厅-038d.md"
     },
     {
-      "id": "P_2025_SD_e6ccca2a",
-      "title": "山东深化电力市场化改革，明确新能源入市时间表",
-      "date": "2025-01-01",
+      "id": "P_2024_HI_e92db1eb",
+      "title": "海南省发展和改革委员会关于印发《海南省电网企业代理购电实施方案》的通知_通知公告_海南省发展和改革委员会",
+      "date": "2024-12-30",
       "official": "",
       "issuer": [
-        "山东省能源局"
+        "海南省发展和改革委员会"
       ],
       "region": {
         "level": "省",
-        "code": "370000",
-        "name": "山东省"
+        "code": "460000",
+        "name": "海南省"
       },
       "importance": 3,
       "tags": [],
-      "filename": "【山东深化电力市场化改革，明确新能源入市时间表】-山东省能源局-e6ccca2a.md"
+      "filename": "【海南省发展和改革委员会关于印发《海南省电网企业代理购电实施方案》的通知_通知公告_海南省发展和改革委员会】-海南省发展和改革委员会-e92db1eb.md"
     },
     {
       "id": "P_1900_HN_70420f94",
@@ -1521,6 +1572,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【湖南省电力支撑能力提升行动方案（2022—2025年）】-湖南省发展和改革委员会-70420f94.md"
+    },
+    {
+      "id": "P_2025_SD_e6ccca2a",
+      "title": "山东深化电力市场化改革，明确新能源入市时间表",
+      "date": "2025-01-01",
+      "official": "",
+      "issuer": [
+        "山东省能源局"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【山东深化电力市场化改革，明确新能源入市时间表】-山东省能源局-e6ccca2a.md"
     },
     {
       "id": "P_1900_JX_d35b0ffb",
@@ -1557,6 +1625,23 @@
       "filename": "【青海省发展和改革委员会青海省能源局关于印发《青海省能源领域碳 ...(发改能源〔2022〕280号)】-青海省发展和改革委员会-d24ac57d.md"
     },
     {
+      "id": "P_2025_GO_e62ac29f",
+      "title": "【关于建立全国统一电力市场评价制度的通知(发改办体改〔2025〕1032号)】-国家发展和改革委员会",
+      "date": "2025-01-01",
+      "official": "发改办体改〔2025〕1032号",
+      "issuer": [
+        "国家发展和改革委员会"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【【关于建立全国统一电力市场评价制度的通知(发改办体改〔2025〕1032号)】-国家发展和改革委员会(发改办体改〔2025〕1032号)】-国家发展和改革委员会-e62ac29f.md"
+    },
+    {
       "id": "P_2025_GO_a9a42ce3",
       "title": "国家能源局关于印发《2025年能源监管工作要点》的通知-新华网",
       "date": "2025-01-10",
@@ -1589,6 +1674,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【浦东新区节能低碳专项资金管理办法(沪浦发改规〔2025〕1号)】-浦东新区发展和改革委员会等9部门-2c67.md"
+    },
+    {
+      "id": "P_2025_SC_fb908e63",
+      "title": "关于印发《四川省电网企业代理购电工作实施方案》的通知（川发改价格〔2025〕34号）_价格处_四川省发展和改革委员会",
+      "date": "2025-02-01",
+      "official": "川发改价格〔2025〕34号",
+      "issuer": [
+        "四川省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "510000",
+        "name": "四川省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【关于印发《四川省电网企业代理购电工作实施方案》的通知（川发改价格〔2025〕34号）_价格处_四川省发展和改革委员会(川发改价格〔2025〕34号)】-四川省发展和改革委员会-fb908e63.md"
     },
     {
       "id": "P_2025_NDRC_136",
@@ -1967,6 +2069,23 @@
       "filename": "【碳市场、绿证、绿电政策知识包(政策汇编)】-包头市人民政府-de7e.md"
     },
     {
+      "id": "P_2025_HI_924d5bb2",
+      "title": "关于印发《海南省深化新能源上网电价市场化",
+      "date": "2025-09-25",
+      "official": "琼发改价格〔2025〕969号",
+      "issuer": [
+        "海南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "460000",
+        "name": "海南省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【关于印发《海南省深化新能源上网电价市场化(琼发改价格〔2025〕969号)】-海南省发展和改革委员会-924d5bb2.md"
+    },
+    {
       "id": "P_2025_CQ_a9a5497c",
       "title": "关于印发《重庆市深化新能源上网电价市场化改革实施方案》的通知",
       "date": "2025-10-15",
@@ -1982,6 +2101,40 @@
       "importance": 4,
       "tags": [],
       "filename": "【关于印发《重庆市深化新能源上网电价市场化改革实施方案》的通知(渝发改价格〔2025〕1251号)】-重庆市发展和改革委员会-a9a5497c.md"
+    },
+    {
+      "id": "P_2025_HN_4c6d1c45",
+      "title": "湖南省发展和改革委员会",
+      "date": "2025-10-17",
+      "official": "湘发改价调〔2025〕663号",
+      "issuer": [
+        "湖南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "430000",
+        "name": "湖南省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【湖南省发展和改革委员会(湘发改价调〔2025〕663号)】-湖南省发展和改革委员会-4c6d1c45.md"
+    },
+    {
+      "id": "P_2025_FJ_28bc7851",
+      "title": "福建省发展和改革委员会国家能源局福建监管办公室关于印发《福建 ...",
+      "date": "2025-10-28",
+      "official": "",
+      "issuer": [
+        "福建省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "350000",
+        "name": "福建省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【福建省发展和改革委员会国家能源局福建监管办公室关于印发《福建 ...】-福建省发展和改革委员会-28bc7851.md"
     },
     {
       "id": "P_2025_HN_97082d60",
@@ -2169,6 +2322,40 @@
       "importance": 3,
       "tags": [],
       "filename": "【北京市2026年电力市场化交易方案、绿色电力交易方案(京管发〔2025〕4号)】-北京市城市管理委员会-9576.md"
+    },
+    {
+      "id": "P_2025_FJ_759b106d",
+      "title": "福建省发展和改革委员会 国家能源局福建监管办公室关于印发2026年福建省电力中长期市场交易方案的通知 _ 行政规范性文件库 _ 省发改委",
+      "date": "2025-12-09",
+      "official": "",
+      "issuer": [
+        "福建省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "350000",
+        "name": "福建省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【福建省发展和改革委员会 国家能源局福建监管办公室关于印发2026年福建省电力中长期市场交易方案的通知 _ 行政规范性文件库 _ 省发改委】-福建省发展和改革委员会-759b106d.md"
+    },
+    {
+      "id": "P_2025_HA_57f372bd",
+      "title": "关于印发《河南省深化新能源上网电价市场化改革实施方案》的通知",
+      "date": "2025-12-11",
+      "official": "豫发改价管〔2025〕902号",
+      "issuer": [
+        "河南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "410000",
+        "name": "河南省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【关于印发《河南省深化新能源上网电价市场化改革实施方案》的通知(豫发改价管〔2025〕902号)】-河南省发展和改革委员会-57f372bd.md"
     },
     {
       "id": "P_2025_NX_8bcb0521",
@@ -2698,7 +2885,7 @@
       "filename": "【2024 年能源领域行业标准制定计划项目】-国家能源局-4d012393.md"
     }
   ],
-  "policies_count": 158,
+  "policies_count": 169,
   "relations": [
     {
       "from": "P_2025_NDRC_1656_a",
@@ -2761,7 +2948,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_1900_BJ_3701c968",
@@ -2772,7 +2959,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_1900_BJ_3701c968",
@@ -2783,7 +2970,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_58",
@@ -2794,7 +2981,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_58",
@@ -2805,7 +2992,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_58",
@@ -2816,7 +3003,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_58",
@@ -2827,7 +3014,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_36",
@@ -2838,7 +3025,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_NEA_36",
+      "to": "P_2015_GO_3d821d6e",
+      "rel": "references",
+      "evidence": "2002〕5号）、《关于进一步深化电力体制改革的若干意见》（中发〔2015〕9号）、《关于健全自然垄",
+      "doc_num_matched": "中发〔2015〕9号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_36",
@@ -2849,7 +3047,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_36",
@@ -2860,7 +3058,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_36",
@@ -2871,7 +3069,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_36",
@@ -2882,7 +3080,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_36",
@@ -2893,7 +3091,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_FJ_1220060b",
@@ -2904,7 +3102,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -2915,7 +3113,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -2926,7 +3124,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_MIIT_60",
@@ -2937,7 +3135,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_SC_fb908e63",
+      "to": "P_2021_GO_90633c79",
+      "rel": "references",
+      "evidence": "发展改革委关于进一步深化燃煤发电上网电价市场化改革的通知》（发改价格〔2021〕1439号）《国家发展改革委办",
+      "doc_num_matched": "发改价格〔2021〕1439号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SC_cc687c4e",
@@ -2948,7 +3157,40 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_HA_57f372bd",
+      "to": "P_2025_NDRC_136",
+      "rel": "references",
+      "evidence": "于深化新能源上网电价市场化改革促进新能源高质量发展的通知》（发改价格〔2025〕136号）等文件精神，结合河",
+      "doc_num_matched": "发改价格〔2025〕136号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_HA_57f372bd",
+      "to": "P_2025_NDRC_1192",
+      "rel": "references",
+      "evidence": "委国家能源局关于完善价格机制促进新能源发电就近消纳的通知》（发改价格〔2025〕1192号）、《河南省深化新能",
+      "doc_num_matched": "发改价格〔2025〕1192号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_HI_924d5bb2",
+      "to": "P_2025_NDRC_136",
+      "rel": "references",
+      "evidence": "改革委 国家能源局关于深化新能源上网电价市场化改革的通知》（发改价格〔2025〕136号）文件要求，深化电力",
+      "doc_num_matched": "发改价格〔2025〕136号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_CQ_a9a5497c",
@@ -2959,7 +3201,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2019_HA_6e13fc6b",
+      "to": "P_2017_GZ_f47663f2",
+      "rel": "references",
+      "evidence": "《国家发展改革委 国家能源局关于有序放开发用电计划的通知》（发改运行〔2017〕294号）等文件精神，制定本",
+      "doc_num_matched": "发改运行〔2017〕294号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2026_LN_b8af81b7",
@@ -2970,7 +3223,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2017_GZ_f47663f2",
+      "to": "P_2015_GO_3d821d6e",
+      "rel": "references",
+      "evidence": "彻《中共中央 国务院关于进一步深化电力体制改革的若干意见》（中发[2015]9号）文件精神，落实《国",
+      "doc_num_matched": "中发[2015]9号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -2981,7 +3245,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -2992,7 +3256,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -3003,7 +3267,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -3014,7 +3278,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -3025,7 +3289,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2022_NDRC_475",
@@ -3036,7 +3300,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -3047,7 +3311,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3058,7 +3322,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3069,7 +3333,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3080,7 +3344,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3091,7 +3355,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3102,7 +3366,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3113,7 +3377,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -3124,7 +3388,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_SD_0101d17a",
@@ -3135,7 +3399,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3146,7 +3410,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3157,7 +3421,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3168,7 +3432,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -3179,7 +3443,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -3190,7 +3454,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2026_GO_bcf4a9d8",
@@ -3201,7 +3465,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_1900_GO_572b0ea8",
@@ -3212,7 +3476,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -3223,7 +3487,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_GO_0d11749b",
@@ -3234,7 +3498,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -3245,7 +3509,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -3256,7 +3520,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -3267,7 +3531,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -3278,7 +3542,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -3289,7 +3553,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -3300,7 +3564,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -3311,7 +3575,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HA_f7cdbaaf",
@@ -3322,7 +3586,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HA_ecfdb60b",
@@ -3333,7 +3597,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -3344,7 +3608,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -3355,7 +3619,62 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2024_GO_ce9b782c",
+      "to": "P_2015_GO_3d821d6e",
+      "rel": "references",
+      "evidence": "据《中共中央 国务院关于进一步深化电力体制改革的若干意见》（中发〔2015〕9号）及其配套文件、国家",
+      "doc_num_matched": "中发〔2015〕9号",
+      "evidence_count": 10,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2024_GO_ce9b782c",
+      "to": "P_2021_GO_90633c79",
+      "rel": "references",
+      "evidence": "展改革委《关于进一步深化燃煤发电上网电价市场化改革的通知》（发改价格〔2021〕1439号）、国家发展改革委办",
+      "doc_num_matched": "发改价格〔2021〕1439号",
+      "evidence_count": 5,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2024_GO_ce9b782c",
+      "to": "P_2020_NDRC_889",
+      "rel": "references",
+      "evidence": "号）、国家发展改革委 国家能源局《电力中长期交易基本规则》（发改能源规〔2020〕889号）、《国家发展改革委",
+      "doc_num_matched": "发改能源规〔2020〕889号",
+      "evidence_count": 4,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2024_GO_ce9b782c",
+      "to": "P_1900_GO_dae672c9",
+      "rel": "references",
+      "evidence": "委、国家能源局关于加快建设全国统一电力市场体系的指导意见》（发改体改〔2022〕118号）、《国家发展改革委",
+      "doc_num_matched": "发改体改〔2022〕118号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2024_GO_ce9b782c",
+      "to": "P_2023_HA_6c0de10b",
+      "rel": "references",
+      "evidence": "国家能源局综合司关于进一步加快电力现货市场建设工作的通知》（发改办体改〔2023〕813号）等有关精神，适应山",
+      "doc_num_matched": "发改办体改〔2023〕813号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_GX_594",
@@ -3366,7 +3685,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_GX_594",
@@ -3377,7 +3696,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2023_GX_8da1cac9",
@@ -3388,7 +3707,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_GX_583085e4",
@@ -3399,7 +3718,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_GX_583085e4",
+      "to": "P_2015_GO_3d821d6e",
+      "rel": "references",
+      "evidence": "据《中共中央 国务院关于进一步深化电力体制改革的若干意见》（中发〔2015〕9号）、《国家发展改革委",
+      "doc_num_matched": "中发〔2015〕9号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_GX_a6b60bac",
@@ -3410,7 +3740,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -3421,7 +3751,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -3432,7 +3762,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_1900_GO_e6f6f834",
@@ -3443,7 +3773,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2026_GO_1c7a3139",
@@ -3454,7 +3784,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2026_GO_1c7a3139",
@@ -3465,7 +3795,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2026_GO_1c7a3139",
@@ -3476,7 +3806,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_JX_d7975d50",
@@ -3487,7 +3817,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_JX_d7975d50",
@@ -3498,7 +3828,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_HE_0ba39595",
+      "to": "P_2025_NDRC_136",
+      "rel": "references",
+      "evidence": "深化新能源上网电价市场化改革 促进新能源高质量发展的通知》（发改价格〔2025〕136号）要求，扎实做好我省",
+      "doc_num_matched": "发改价格〔2025〕136号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_ZJ_9913d312",
@@ -3509,7 +3850,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2022_HI_4eac1187",
@@ -3520,7 +3861,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2024_HI_e92db1eb",
+      "to": "P_2023_GO_076a418d",
+      "rel": "references",
+      "evidence": "展改革委关于第三监管周期省级电网输配电价及有关事项的通知》（发改价格〔2023〕526号）公布的水平执行。",
+      "doc_num_matched": "发改价格〔2023〕526号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -3531,7 +3883,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_OTHER7F45_060777c1",
@@ -3542,7 +3894,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_GO_a3388811",
@@ -3553,7 +3905,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_GO_a3388811",
@@ -3564,7 +3916,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HN_830",
@@ -3575,7 +3927,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_HN_830",
@@ -3586,7 +3938,40 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_HN_4c6d1c45",
+      "to": "P_2025_NDRC_136",
+      "rel": "references",
+      "evidence": "于深化新能源上网电价市场化改革促进新能源高质量发展的通知》（发改价格〔2025〕136号）要求，平稳有序推进",
+      "doc_num_matched": "发改价格〔2025〕136号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_HN_4c6d1c45",
+      "to": "P_2022_NX_f86c8310",
+      "rel": "references",
+      "evidence": "国家发展改革委关于建立健全电力辅助服务市场价格机制的通知》（发改价格〔2024〕196号）规定的调频、备用辅",
+      "doc_num_matched": "发改价格〔2024〕196号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_HN_72fc216c",
+      "to": "P_2025_HN_4c6d1c45",
+      "rel": "references",
+      "evidence": "源上网电价市场化改革促进新能源高质量发展实施方案〉的通知》（湘发改价调〔2025〕663号）、省发展改革委《关",
+      "doc_num_matched": "湘发改价调〔2025〕663号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_NDRC_1123_a",
@@ -3597,7 +3982,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -3608,7 +3993,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_NDRC_1656_a",
+      "to": "P_2015_GO_3d821d6e",
+      "rel": "references",
+      "evidence": "实《中共中央 国务院关于进一步深化电力体制改革的若干意见》（中发〔2015〕9号）要求，根据《中华人",
+      "doc_num_matched": "中发〔2015〕9号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -3619,7 +4015,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -3630,7 +4026,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -3641,7 +4037,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_NEA_76",
@@ -3652,7 +4048,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NDRC_411",
@@ -3663,7 +4059,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -3674,7 +4070,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -3685,7 +4081,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -3696,7 +4092,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -3707,7 +4103,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_FJ_fbf45d27",
@@ -3718,7 +4114,29 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_FJ_759b106d",
+      "to": "P_2025_SN_336cc2f4",
+      "rel": "references",
+      "evidence": "能源局关于做好2026年电力中长期合同签约履约工作的通知》（发改运行〔2025〕1502号）等具体工作要求，为",
+      "doc_num_matched": "发改运行〔2025〕1502号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_FJ_28bc7851",
+      "to": "P_2025_NDRC_136",
+      "rel": "references",
+      "evidence": "深化新能源上网电价市场化改革 促进新能源高质量发展的通知》（发改价格〔2025〕136号）等规定，结合我省实",
+      "doc_num_matched": "发改价格〔2025〕136号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -3729,7 +4147,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2022_CQ_3c8f1eea",
@@ -3740,7 +4158,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
+    },
+    {
+      "from": "P_2025_CQ_413d5fdc",
+      "to": "P_2025_CQ_a9a5497c",
+      "rel": "references",
+      "evidence": "印发〈重庆市深化新能源上网电价市场化改革实施方案〉的通知》（渝发改价格〔2025〕1251号）和《关于印发〈重庆",
+      "doc_num_matched": "渝发改价格〔2025〕1251号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_CQ_86",
@@ -3751,7 +4180,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_CQ_86",
@@ -3762,7 +4191,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_CQ_86",
@@ -3773,7 +4202,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -3784,7 +4213,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -3795,7 +4224,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -3806,7 +4235,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -3817,7 +4246,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -3828,7 +4257,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -3839,7 +4268,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -3850,7 +4279,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T00:40:35"
+      "extracted_at": "2026-05-08T01:13:59"
     },
     {
       "from": "P_2025_NEA_107",
@@ -4329,6 +4758,81 @@
       "reason": "省级源网荷储政策从征求意见到正式发布"
     },
     {
+      "from": "P_2025_FJ_28bc7851",
+      "to": "P_2025_NDRC_136",
+      "rel": "iterates",
+      "evidence": "在136号框架下落地'存量项目机制电价为现行燃煤基准价393.2元/兆瓦时'、'增量项目通过竞价确定机制电价'等省级具体执行细则。",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T01:13:30+08:00",
+      "signals": [
+        "机制电量上限/电价/期限",
+        "存量增量分类",
+        "竞价细则落地"
+      ],
+      "reason": "福建在国家136号通用框架基础上迭代为本省可执行的存量增量分类竞价机制"
+    },
+    {
+      "from": "P_2025_HA_57f372bd",
+      "to": "P_2025_NDRC_136",
+      "rel": "iterates",
+      "evidence": "在136号框架下落地存量(机制电量比例80%、机制电价为河南煤电基准价)、增量(竞价确定)的省级机制设计。",
+      "confidence": 0.88,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T01:13:30+08:00",
+      "signals": [
+        "机制电量比例80%/100%/扶贫",
+        "机制电价河南基准价",
+        "增量竞价"
+      ],
+      "reason": "河南在136号通用机制基础上迭代为省级可执行的存量增量分类机制"
+    },
+    {
+      "from": "P_2025_HE_0ba39595",
+      "to": "P_2025_NDRC_136",
+      "rel": "iterates",
+      "evidence": "在136号框架下落地省级竞价规则:风电10年/光伏12年/海风海光14年执行期限、申报充足率、保函金额按装机×平均发电小时×基准价×8%计取等具体参数。",
+      "confidence": 0.83,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T01:13:30+08:00",
+      "signals": [
+        "执行期限分类",
+        "保函金额计算",
+        "申报上下限"
+      ],
+      "reason": "河北在136号大框架下迭代细化为本省竞价工作的具体规则"
+    },
+    {
+      "from": "P_2025_HI_924d5bb2",
+      "to": "P_2025_NDRC_136",
+      "rel": "iterates",
+      "evidence": "在136号框架下落地存量(分年度阶梯比例100%/90%/85%/80%、机制电价0.4298元/千瓦时煤电基准价)、增量(海上风电/陆上风电/光伏分类竞价)的省级机制。",
+      "confidence": 0.86,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T01:13:30+08:00",
+      "signals": [
+        "存量阶梯比例",
+        "分类竞价",
+        "海风14年/陆风12年期限"
+      ],
+      "reason": "海南在136号通用框架基础上为本省定制存量分阶梯比例和增量分类竞价的实施细则"
+    },
+    {
+      "from": "P_2025_HN_4c6d1c45",
+      "to": "P_2025_NDRC_136",
+      "rel": "iterates",
+      "evidence": "在136号框架下落地存量(2021年前/2021-2025年5月分阶梯执行)、增量(2025年竞价上下限0.38/0.26元、申报充足率125%)等湖南省级具体机制。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T01:13:30+08:00",
+      "signals": [
+        "存量分阶梯",
+        "竞价上下限",
+        "申报充足率125%"
+      ],
+      "reason": "湖南在136号大框架下迭代细化省级机制电量、电价、竞价等具体参数"
+    },
+    {
       "from": "P_2022_JL_11114fee",
       "to": "P_2020_GO_1020e9f0",
       "rel": "extends",
@@ -4534,6 +5038,21 @@
         "phrase=《关于加快建设全国统一电力市场体系的指导意见》"
       ],
       "reason": "目标正文 «关于加快建设全国统一电力市场体系的指导意见» 与 vault 候选标题匹配"
+    },
+    {
+      "from": "P_2025_CQ_413d5fdc",
+      "to": "P_2025_CQ_a9a5497c",
+      "rel": "extends",
+      "evidence": "1313号在1251号确定的实施方案框架下细化竞价电量规模48.6亿千瓦时、竞价上下限、申报充足率等具体竞价参数。",
+      "confidence": 0.85,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T01:13:30+08:00",
+      "signals": [
+        "细化竞价参数",
+        "实施方案下展开",
+        "总规模/上下限"
+      ],
+      "reason": "1313号通知是1251号实施方案的具体执行扩展,落实竞价工作的关键参数"
     },
     {
       "from": "P_2022_CQ_18",
@@ -5737,7 +6256,7 @@
       "reason": "河南能源/储能政策协同"
     }
   ],
-  "relations_count": 264,
+  "relations_count": 292,
   "diff_files": [],
   "opinion_policy_ids": [
     "P_2024_SH_28",
@@ -5763,22 +6282,17 @@
     "P_2024_NDRC_718"
   ],
   "region_distribution": {
-    "国家": {
-      "全国": 46,
-      "未知": 4,
-      "国家": 3
-    },
     "省": {
+      "贵州省": 3,
       "天津市": 3,
-      "湖南省": 5,
+      "湖南省": 6,
       "重庆市": 10,
       "北京市": 6,
       "河北省": 1,
-      "海南省": 1,
-      "贵州省": 2,
+      "海南省": 3,
       "吉林省": 1,
-      "四川省": 2,
-      "河南省": 8,
+      "四川省": 3,
+      "河南省": 9,
       "广西壮族自治区": 4,
       "辽宁省": 5,
       "广东省": 4,
@@ -5787,13 +6301,18 @@
       "云南省": 1,
       "上海市": 5,
       "陕西省": 4,
-      "福建省": 4,
+      "福建省": 6,
       "浙江省": 2,
-      "黑龙江省": 1,
+      "黑龙江省": 2,
       "江西省": 3,
       "青海省": 1,
       "山西省": 5,
       "安徽省": 1
+    },
+    "国家": {
+      "全国": 47,
+      "未知": 5,
+      "国家": 3
     },
     "市": {
       "慈溪市": 1,
@@ -5815,9 +6334,9 @@
   },
   "top_issuers": {
     "国家能源局": 15,
-    "河南省发展和改革委员会": 8,
-    "国家发展和改革委员会": 7,
-    "湖南省发展和改革委员会": 5,
+    "河南省发展和改革委员会": 9,
+    "国家发展和改革委员会": 8,
+    "湖南省发展和改革委员会": 6,
     "重庆市发展和改革委员会": 5,
     "山东省发展和改革委员会": 5,
     "山西省发展和改革委员会": 5,
@@ -5825,10 +6344,10 @@
     "山东省能源局": 4,
     "陕西省发展和改革委员会": 4,
     "辽宁省发展和改革委员会": 4,
+    "福建省发展和改革委员会": 4,
+    "贵州省发展和改革委员会": 3,
     "天津市发展和改革委员会": 3,
-    "广西壮族自治区发展和改革委员会": 3,
-    "上海市人民政府办公厅": 3,
-    "江西省发展和改革委员会": 3
+    "海南省发展和改革委员会": 3
   },
   "top_5_importance": [
     {

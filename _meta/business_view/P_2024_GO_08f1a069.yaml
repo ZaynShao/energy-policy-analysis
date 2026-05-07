@@ -1,0 +1,24 @@
+pid: P_2024_GO_08f1a069
+scores:
+  D1: 1
+  D2: 2
+  D3: 1
+  D4: 4
+  D5: 2
+  D6: 4
+重要性: 1
+行动分类: C
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接影响,但售电公司若代理充电场站需独立合规报价
+  电力_储能_V2G_交易: 公司参与电力市场报价时严禁与其他主体串通、严禁集中报价,聚合代理与发售联动业务需建立合规审查;民营售电公司不得被区别对待属正面利好
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 对自有售电与VPP业务建立报价合规审查与异常监测台账'
+- 'C 关注: 国家能源局派出机构后续执法动态'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 禁止串通报价、滥用支配地位,售电公司报价与代理行为需严格独立合规
+archive: low_score

@@ -4,7 +4,7 @@ title: 政府信息公开 - 陕西省发展和改革委员会
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:06:38+08:00'
+last_updated: '2026-05-08T01:28:20+08:00'
 policy_file: ../../../0_raw/policies/【政府信息公开 - 陕西省发展和改革委员会】-陕西省发展和改革委员会-941d7abc.md
 ---
 

@@ -4,7 +4,7 @@ title: 关于2026—2027年减免车辆购置税新能源汽车产品技术要�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 2
-last_updated: '2026-05-08T01:06:38+08:00'
+last_updated: '2026-05-08T01:28:20+08:00'
 policy_file: ../../../0_raw/policies/【关于2026—2027年减免车辆购置税新能源汽车产品技术要求的公告(工信部财政部税务总局公告2025年第24号)】-工业和信息化部、财政部、税务总局-c9e3.md
 ---
 

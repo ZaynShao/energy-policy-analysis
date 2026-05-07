@@ -878,3 +878,152 @@ items:
     ref_count: 1
     evidence_sample: 办法第一条明确根据粤发改能电〔2016〕691号、粤发改产业函〔2018〕518号制定
     last_seen: '2026-05-07T17:55:58'
+  国家发展改革委《关于核定2020-2022年省级电网输配电价的通知》(发改价格规〔2020〕1508号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_SC_9e0a986d
+    ref_count: 1
+    evidence_sample: 通知开篇明确按发改价格规〔2020〕1508号要求执行
+    last_seen: '2026-05-08T01:27:38'
+  国家发展改革委《关于进一步完善分时电价机制的通知》(发改价格〔2021〕1093号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2022_CQ_953ad2db
+    - P_2024_GZ_a13805ca
+    ref_count: 2
+    evidence_sample: 通知明确按发改价格〔2021〕1093号落地
+    last_seen: '2026-05-08T01:27:38'
+  无明确单一上位文件,为综合公开目录页:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2022_SC_e5aa8eb2
+    - P_2025_HI_5302a73a
+    - P_2025_HI_be0bfa3b
+    - P_2026_GO_24b62e7b
+    ref_count: 4
+    evidence_sample: 页面为四川省发改委政策栏目入口,列示多份规范性文件不构成具体政策
+    last_seen: '2026-05-08T01:27:38'
+  内蒙古自治区能源局《关于转发国家开展新型电力系统建设第一批试点工作的通知》(内能源电力字〔2025〕308号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_GO_ad3e3788
+    ref_count: 1
+    evidence_sample: 答复明确按308号、374号通知申报新型电力系统建设试点项目
+    last_seen: '2026-05-08T01:27:38'
+  山西省人民政府办公厅《山西省电力市场运营管理办法》(晋政办发〔2022〕87号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_GO_ce9b782c
+    ref_count: 1
+    evidence_sample: 规则首段明确为贯彻国家发改委、能源局电力现货市场建设精神,按晋政办发〔2022〕87号修订
+    last_seen: '2026-05-08T01:27:38'
+  国家发展改革委 国家能源局加快推进电力现货市场建设有关要求:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2024_GO_ce9b782c
+    ref_count: 1
+    evidence_sample: 规则首段明确为贯彻国家发改委、能源局电力现货市场建设精神,按晋政办发〔2022〕87号修订
+    last_seen: '2026-05-08T01:27:38'
+  河南省发改委《关于印发河南省优化工业电价若干措施的通知》(豫发改价管〔2023〕679号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_HA_58549614
+    ref_count: 1
+    evidence_sample: 方案明确按679号、豫政办25号要求,依据电力市场化改革背景制定
+    last_seen: '2026-05-08T01:27:38'
+  海南省发改委《海南省电网企业代理购电实施方案》(琼发改价格〔2023〕1127号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2024_HI_e92db1eb
+    ref_count: 1
+    evidence_sample: 方案明确以1127号为基础完善制定,执行1439号代理购电要求
+    last_seen: '2026-05-08T01:27:38'
+  《中华人民共和国能源法》(2025年1月1日施行):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2024_HL_f14f037c
+    ref_count: 1
+    evidence_sample: 文章基于能源法及二十届三中全会决定开展政策解读,非具体业务规则文件
+    last_seen: '2026-05-08T01:27:38'
+  《中共中央关于进一步全面深化改革、推进中国式现代化的决定》(党的二十届三中全会):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2024_HL_f14f037c
+    ref_count: 1
+    evidence_sample: 文章基于能源法及二十届三中全会决定开展政策解读,非具体业务规则文件
+    last_seen: '2026-05-08T01:27:38'
+  国家能源局《电力市场信息披露基本规则》:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_AH_769c3992
+    ref_count: 1
+    evidence_sample: 回复明确依据国家能源局信息披露基本规则做出
+    last_seen: '2026-05-08T01:27:38'
+  国家发改委关于电力市场建设的系列决策部署及全国统一电力市场建设要求:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_HE_2408ff90
+    ref_count: 1
+    evidence_sample: 通知明确为贯彻国家电力市场建设系列决策部署,按全国统一电力市场建设要求制定
+    last_seen: '2026-05-08T01:27:38'
+  国家发展改革委关于建立健全社会信用体系建设以及电力市场监管的相关文件:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_HE_cac09487
+    ref_count: 1
+    evidence_sample: 通知明确为强化电力市场经营主体信用管理、助力市场健康发展制定
+    last_seen: '2026-05-08T01:27:38'
+  国家发展改革委办公厅《关于组织开展电网企业代理购电工作有关事项的通知》(发改办价格〔2021〕809号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_HI_8f9cf545
+    - P_2025_SC_fb908e63
+    ref_count: 2
+    evidence_sample: 通知明确依据1439号、809号、1047号文及海南2025市场化交易方案制定
+    last_seen: '2026-05-08T01:27:38'
+  无明确单一上位文件,为综合工作动态目录页:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_QH_eb5b785b
+    ref_count: 1
+    evidence_sample: 页面为发改信息栏目入口,列示工作动态条目不构成具体政策
+    last_seen: '2026-05-08T01:27:38'
+  国家与四川省十四五电力发展规划及年度电网项目核准计划:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_SC_ea8095a9
+    ref_count: 1
+    evidence_sample: 各核准批复明确按国家和我省十四五电力规划及年度电网项目核准计划开展
+    last_seen: '2026-05-08T01:27:38'
+  国家发展改革委办公厅《关于进一步做好电网企业代理购电工作的通知》(发改办价格〔2022〕1047号):
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_SC_fb908e63
+    ref_count: 1
+    evidence_sample: 方案明确依据1439号、809号、588号、1047号及四川381、401号文件结合川改革进展制定
+    last_seen: '2026-05-08T01:27:38'
+  国家发改委、国家能源局关于全国统一电力市场体系建设的相关要求:
+    first_seen: '2026-05-08T01:27:38'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2026_NX_87795ba9
+    ref_count: 1
+    evidence_sample: 通知明确为贯彻落实全国统一电力市场体系建设要求制定
+    last_seen: '2026-05-08T01:27:38'

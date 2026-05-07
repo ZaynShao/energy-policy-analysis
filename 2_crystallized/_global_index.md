@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-05-08T01:06:37+08:00
-policy_count: 644
+last_updated: 2026-05-08T01:28:18+08:00
+policy_count: 683
 commentary_count: 283
 entity_count: 100
-edge_count: 945
-opinion_coverage_pct: 11.6
+edge_count: 1012
+opinion_coverage_pct: 11.0
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-05-08T01:06:37+08:00
+**最后更新**: 2026-05-08T01:28:18+08:00
 
 ---
 
@@ -18,12 +18,12 @@ opinion_coverage_pct: 11.6
 
 | 类型 | 数量 |
 |---|:-:|
-| 政策原文 (policies/) | **644** (79 个 main_graph_excluded 噪声不计) |
+| 政策原文 (policies/) | **683** (79 个 main_graph_excluded 噪声不计) |
 | 评论 (commentaries/) | **283** |
 | 规范化实体 (entities/registry) | **100** |
-| 关系网总边数 | **945** |
-| 反链页 (_index_by_policy) | **461** |
-| 政策舆论矩阵 (opinions) | **75** (11.6% 覆盖率) |
+| 关系网总边数 | **1012** |
+| 反链页 (_index_by_policy) | **531** |
+| 政策舆论矩阵 (opinions) | **75** (11.0% 覆盖率) |
 
 ---
 
@@ -32,15 +32,15 @@ opinion_coverage_pct: 11.6
 | 关系类型 | 边数 | 含义 |
 |---|:-:|---|
 | supersedes | 7 | 显式废止 |
-| iterates | 47 | 版本升级 |
-| extends | 32 | 范围扩展 |
+| iterates | 52 | 版本升级 |
+| extends | 34 | 范围扩展 |
 | clarifies | 109 | 实施细化 |
-| references | 319 | 文号/标题引用 |
-| aligns_with | 171 | 同向对齐 |
+| references | 357 | 文号/标题引用 |
+| aligns_with | 173 | 同向对齐 |
 | conflicts_with | 0 | 口径冲突 |
-| cites_basis | 260 | 制定依据 |
+| cites_basis | 280 | 制定依据 |
 
-**关系网密度**:945 / 644×(644-1) = 2.28 ‰
+**关系网密度**:1012 / 683×(683-1) = 2.17 ‰
 
 ---
 
@@ -60,24 +60,24 @@ opinion_coverage_pct: 11.6
 
 | level | 数量 |
 |---|:-:|
-| 省 | 396 |
-| 国家 | 182 |
+| 省 | 428 |
+| 国家 | 189 |
 | 市 | 37 |
 | 区 | 24 |
 | 县 | 5 |
 
 ### Top 10 region.name(按政策数)
 
-- 全国: 149 篇
+- 全国: 151 篇
 - 北京市: 46 篇
-- 重庆市: 34 篇
+- 重庆市: 37 篇
 - 上海市: 30 篇
-- 河南省: 27 篇
+- 河南省: 29 篇
 - 辽宁省: 23 篇
-- 广西壮族自治区: 20 篇
+- 广西壮族自治区: 21 篇
+- 未知: 20 篇
+- 湖南省: 20 篇
 - 山东省: 20 篇
-- 湖南省: 19 篇
-- 国家: 18 篇
 
 ---
 
@@ -175,7 +175,7 @@ opinion_coverage_pct: 11.6
 
 ## 10. 数据健康指标
 
-- **opinion 覆盖率**: 11.6% (75/644) ⚠️
-- **issuer_canonical 覆盖**: 237/644
+- **opinion 覆盖率**: 11.0% (75/683) ⚠️
+- **issuer_canonical 覆盖**: 237/683
 - **5 星政策(高重要性)**: 57
-- **冲突边密度**: 0/945 ⚠️ 0 条
+- **冲突边密度**: 0/1012 ⚠️ 0 条

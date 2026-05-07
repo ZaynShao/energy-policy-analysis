@@ -3,7 +3,7 @@ theme_id: aggregator_access
 theme_zh: 聚合商准入
 theme_dir: AGGREGATOR_ACCESS
 type: theme_hub
-policy_count: 99
+policy_count: 105
 opinion_count: 16
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 聚合商准入(AGGREGATOR_ACCESS)— 主题入口
 
-**政策数**: 99  ·  **观点矩阵**: 16
+**政策数**: 105  ·  **观点矩阵**: 16
 
 ## 主题文档
 

@@ -1,0 +1,23 @@
+pid: P_2025_AH_769c3992
+scores:
+  D1: 0
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接影响
+  电力_储能_V2G_交易: 公司若需安徽电力运行数据(平衡、缺口等),须通过市场成员身份在交易平台获取,普通公众渠道不公开
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 自有售电公司维持安徽市场成员资格以获取披露数据'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 电力平衡缺口数据仅市场成员可获,公司需通过会员资格获取关键运行数据
+archive: low_score
