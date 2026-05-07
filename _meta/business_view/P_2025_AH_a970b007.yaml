@@ -1,0 +1,23 @@
+pid: P_2025_AH_a970b007
+scores:
+  D1: 2
+  D2: 3
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 光储充场站享受免需量电费政策,光储增量不影响主政策适用,有利于公司光储充组合站经济性
+  电力_储能_V2G_交易: 明确储能与光伏并入场站不改变两部制电价中的免需量待遇
+  乡村: 未单列,但政策上位文件来源于充电下乡专项
+行动建议:
+- 'B 研究: 公司光储充项目对照政策核算电费节省'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 光储充场站可认定为集中式充换电设施,2030年前免收需量电费
+archive: low_score

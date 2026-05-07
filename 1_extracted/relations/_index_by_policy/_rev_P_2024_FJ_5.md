@@ -4,7 +4,7 @@ title: 加快构建福建省高质量充电基础设施体系实施方案
 inbound_edge_count: 2
 outbound_edge_count: 4
 commentary_inbound_count: 1
-last_updated: '2026-05-08T01:28:20+08:00'
+last_updated: '2026-05-08T01:43:17+08:00'
 policy_file: ../../../0_raw/policies/【加快构建福建省高质量充电基础设施体系实施方案(闽发改规〔2024〕5号)】-福建省发展和改革委员会-c061.md
 ---
 

@@ -1,0 +1,23 @@
+pid: P_2024_GO_8dd8800e
+scores:
+  D1: 1
+  D2: 2
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接细节
+  充电: 郑州2024-2035年长期充电规划进入意见反馈尾声,未来公司布点可参考
+  电力_储能_V2G_交易: 未明确细节
+  乡村: 未明确细节
+行动建议:
+- 'C 关注: 等待郑州充电规划正式发布'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 郑州2024-2035长期充电规划即将定稿,公司可参考布局
+archive: low_score

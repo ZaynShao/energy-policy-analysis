@@ -3,7 +3,7 @@ theme_id: vpp_theme
 theme_zh: 虚拟电厂
 theme_dir: VPP_THEME
 type: theme_hub
-policy_count: 93
+policy_count: 95
 opinion_count: 19
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 虚拟电厂(VPP_THEME)— 主题入口
 
-**政策数**: 93  ·  **观点矩阵**: 19
+**政策数**: 95  ·  **观点矩阵**: 19
 
 ## 主题文档
 

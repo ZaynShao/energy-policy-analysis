@@ -1027,3 +1027,300 @@ items:
     ref_count: 1
     evidence_sample: 通知明确为贯彻落实全国统一电力市场体系建设要求制定
     last_seen: '2026-05-08T01:27:38'
+  关于加快充电基础设施建设促进新能源汽车推广应用的实施方案(闽发改能源〔2017〕649号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2018_FJ_2a98830b
+    ref_count: 1
+    evidence_sample: 文件明确依据闽政办[2018]30号、闽发改能源〔2017〕649号编制
+    last_seen: '2026-05-08T01:42:32'
+  省政府办公厅关于印发2018年投资工程包实施方案的通知(闽政办[2018]30号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2018_FJ_2a98830b
+    ref_count: 1
+    evidence_sample: 文件明确依据闽政办[2018]30号、闽发改能源〔2017〕649号编制
+    last_seen: '2026-05-08T01:42:32'
+  河南省加快新能源汽车推广应用若干政策(豫政办〔2019〕36号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2019_HA_1be4e1ce
+    ref_count: 1
+    evidence_sample: 答复内容引用豫政办〔2018〕46号、豫政办〔2019〕36号
+    last_seen: '2026-05-08T01:42:32'
+  河南省新能源及网联汽车发展三年行动计划(2018-2020年)(豫政办〔2018〕46号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2019_HA_1be4e1ce
+    ref_count: 1
+    evidence_sample: 答复内容引用豫政办〔2018〕46号、豫政办〔2019〕36号
+    last_seen: '2026-05-08T01:42:32'
+  天津市新能源汽车充电基础设施建设运营管理办法(津发改工业〔2017〕1021号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2019_TJ_5d65c150
+    ref_count: 1
+    evidence_sample: 自查依据津发改工业〔2017〕1021号办法和《安全生产法》
+    last_seen: '2026-05-08T01:42:32'
+  中华人民共和国安全生产法:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2019_TJ_5d65c150
+    ref_count: 1
+    evidence_sample: 自查依据津发改工业〔2017〕1021号办法和《安全生产法》
+    last_seen: '2026-05-08T01:42:32'
+  国家关于加快推进新能源汽车充电桩等新型基础设施建设的部署:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2020_HA_e96e48a2
+    ref_count: 1
+    evidence_sample: 文件开篇明确为贯彻国家关于新型基础设施建设的重要部署
+    last_seen: '2026-05-08T01:42:32'
+  海南省电动汽车充电基础设施建设运营管理暂行办法(琼发改交能〔2016〕2513号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_HI_0e998358
+    ref_count: 1
+    evidence_sample: 公示依据琼发改交能〔2016〕2513号、〔2019〕922号、〔2020〕57号文件流程
+    last_seen: '2026-05-08T01:42:32'
+  海南省电动汽车充电基础设施建设运营暂行管理办法(琼发改交能〔2019〕922号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_HI_0e998358
+    ref_count: 1
+    evidence_sample: 公示依据琼发改交能〔2016〕2513号、〔2019〕922号、〔2020〕57号文件流程
+    last_seen: '2026-05-08T01:42:32'
+  海南省电动汽车充电基础设施建设运营补贴工作流程(琼发改能源函〔2020〕57号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_HI_0e998358
+    ref_count: 1
+    evidence_sample: 公示依据琼发改交能〔2016〕2513号、〔2019〕922号、〔2020〕57号文件流程
+    last_seen: '2026-05-08T01:42:32'
+  海南省电动汽车充电基础设施规划(2019—2030年)(琼府办函〔2019〕122号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_HI_4d5e23a0
+    ref_count: 1
+    evidence_sample: 依据琼府办函〔2019〕122号、〔2020〕46号
+    last_seen: '2026-05-08T01:42:32'
+  海南省清洁能源汽车推广2020年行动计划(琼府办函〔2020〕46号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_HI_4d5e23a0
+    ref_count: 1
+    evidence_sample: 依据琼府办函〔2019〕122号、〔2020〕46号
+    last_seen: '2026-05-08T01:42:32'
+  党中央、国务院关于加快新型基础设施建设的重大决策部署:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2020_JX_505c9573
+    ref_count: 1
+    evidence_sample: 文件开篇明确贯彻党中央国务院新基建部署
+    last_seen: '2026-05-08T01:42:32'
+  国家新能源汽车产业战略部署:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2020_LN_7e8f80a9
+    ref_count: 1
+    evidence_sample: 文件提及新能源汽车作为国家战略性新兴产业
+    last_seen: '2026-05-08T01:42:32'
+  国家及湖北省充电基础设施建设运营管理框架:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2021_GO_c3cc5cf4
+    ref_count: 1
+    evidence_sample: 页面仅披露武汉发改委发布信息,具体内容在附件PDF中
+    last_seen: '2026-05-08T01:42:32'
+  国家能源局关于做好'十三五'电力发展规划编制工作的通知(国能电力〔2014〕388号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_HA_1ae8d6fa
+    ref_count: 1
+    evidence_sample: 依据国能电力〔2014〕388号、〔2016〕139号及省纲要、能源规划编制
+    last_seen: '2026-05-08T01:42:32'
+  河南省国民经济和社会发展第十三个五年规划纲要:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_HA_1ae8d6fa
+    ref_count: 1
+    evidence_sample: 依据国能电力〔2014〕388号、〔2016〕139号及省纲要、能源规划编制
+    last_seen: '2026-05-08T01:42:32'
+  河南省'十三五'能源发展规划:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_HA_1ae8d6fa
+    ref_count: 1
+    evidence_sample: 依据国能电力〔2014〕388号、〔2016〕139号及省纲要、能源规划编制
+    last_seen: '2026-05-08T01:42:32'
+  电力规划管理办法(国能电力〔2016〕139号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2021_HA_1ae8d6fa
+    ref_count: 1
+    evidence_sample: 依据国能电力〔2014〕388号、〔2016〕139号及省纲要、能源规划编制
+    last_seen: '2026-05-08T01:42:32'
+  国家能源局对接的全国充电基础设施'十四五'框架:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2021_SN_e864072f
+    ref_count: 1
+    evidence_sample: 文件提及与国家能源局对接编制
+    last_seen: '2026-05-08T01:42:32'
+  习近平总书记关于'四好农村路'建设系列指示:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2023_AH_13858e67
+    ref_count: 1
+    evidence_sample: 文件以总书记指示精神为指导,无单一具体上位文号
+    last_seen: '2026-05-08T01:42:32'
+  中央节能减排补助资金(充电基础设施建设奖励资金)管理细则(川财建〔2023〕30号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_GO_1ff53dfa
+    ref_count: 1
+    evidence_sample: 细则依据川发改能源〔2023〕197号、川财建〔2023〕30号、成办规〔2023〕2号编制
+    last_seen: '2026-05-08T01:42:32'
+  成都市人民政府办公厅关于成都市促进新能源汽车产业发展的实施意见(成办规〔2023〕2号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_GO_1ff53dfa
+    ref_count: 1
+    evidence_sample: 细则依据川发改能源〔2023〕197号、川财建〔2023〕30号、成办规〔2023〕2号编制
+    last_seen: '2026-05-08T01:42:32'
+  国家关于扩大消费的相关部署:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2023_HA_0fb19725
+    ref_count: 1
+    evidence_sample: 结合河南实际制定,无特定上位文号
+    last_seen: '2026-05-08T01:42:32'
+  党的二十大精神和国家新型基础设施建设战略部署:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2023_HA_1894bc86
+    ref_count: 1
+    evidence_sample: 文件以二十大精神和数字化转型战略为依据
+    last_seen: '2026-05-08T01:42:32'
+  湖南省政府办公厅关于加快电动汽车充(换)电基础设施建设的实施意见(湘政办发〔2021〕4号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_HN_4ff67fd4
+    ref_count: 1
+    evidence_sample: 意见明确依据发改能源规〔2022〕53号、湘政办发〔2021〕4号编制
+    last_seen: '2026-05-08T01:42:32'
+  山西省加快建设高标准市场体系实施方案:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_SX_a1d4818e
+    ref_count: 1
+    evidence_sample: 依据山西省加快建设高标准市场体系实施方案制定
+    last_seen: '2026-05-08T01:42:32'
+  河南省电动汽车充电基础设施建设三年行动方案(2023—2025年)(豫政办〔2023〕40号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_GO_2532ff54
+    ref_count: 1
+    evidence_sample: 办法第一条引用国办发〔2023〕19号、发改能源规〔2022〕53号、豫政办〔2023〕40号、郑政〔2024〕2号
+    last_seen: '2026-05-08T01:42:32'
+  郑州市电动汽车充电基础设施发展规划(2024—2035年)(郑政〔2024〕2号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_GO_2532ff54
+    ref_count: 1
+    evidence_sample: 办法第一条引用国办发〔2023〕19号、发改能源规〔2022〕53号、豫政办〔2023〕40号、郑政〔2024〕2号
+    last_seen: '2026-05-08T01:42:32'
+  国家相关充电设施安全与小区改造规范:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2024_GO_537ff24a
+    ref_count: 1
+    evidence_sample: 由成都市经信局等四部门联合制定,无单一上位文号
+    last_seen: '2026-05-08T01:42:32'
+  国家及河南省充电基础设施相关文件:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2024_GO_8dd8800e
+    ref_count: 1
+    evidence_sample: 页面提及根据国家、省相关文件要求结合本市实际
+    last_seen: '2026-05-08T01:42:32'
+  国务院安全生产委员会关于加强新能源汽车充电基础设施安全管理的意见(安委〔2024〕11号):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_GO_96193460
+    ref_count: 1
+    evidence_sample: 方案明确为贯彻落实安委〔2024〕11号,保障措施段引用国办发〔2023〕19号
+    last_seen: '2026-05-08T01:42:32'
+  国家能源局关于充电基础设施监管平台建设和智能有序充电推广的部署:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2025_HE_45c64ffa
+    ref_count: 1
+    evidence_sample: 文件明确按国家能源局部署要求开展
+    last_seen: '2026-05-08T01:42:32'
+  国家及自治区充电基础设施服务保障相关文件:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2025_NX_d2e2946b
+    - P_2026_NX_c1e77fe3
+    ref_count: 2
+    evidence_sample: 通知文未列单一上位文号,正文目标在附件
+    last_seen: '2026-05-08T01:42:32'
+  国家发展改革委等部门关于印发《电动汽车充电设施服务能力'三年倍增'行动方案(2025—2027年)》的通知:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2026_GO_f7817352
+    ref_count: 1
+    evidence_sample: 页面索引披露上述国家级政策已发布,本文为地方门户索引而非国家级原发
+    last_seen: '2026-05-08T01:42:32'
+  国家能源局有关负责同志就《电动汽车充电设施服务能力'三年倍增'行动方案(2025—2027年)》答记者问:
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2026_GO_f7817352
+    ref_count: 1
+    evidence_sample: 页面索引披露上述国家级政策已发布,本文为地方门户索引而非国家级原发
+    last_seen: '2026-05-08T01:42:32'
+  电动汽车充电设施服务能力'三年倍增'行动方案(2025—2027年):
+    first_seen: '2026-05-08T01:42:32'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2026_HA_d3b80320
+    ref_count: 1
+    evidence_sample: 文中明确依据国家'三年倍增'行动目标到2027年建成2800万个
+    last_seen: '2026-05-08T01:42:32'

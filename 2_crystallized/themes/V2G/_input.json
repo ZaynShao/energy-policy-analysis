@@ -620,6 +620,23 @@
       "filename": "【关于印发《湖南省锂电池及先进储能材料产业三年行动计划（2024—2026年）》的通知 - 湖南省工业和信息化厅(湘工信原材料〔2024〕213号)】-政府门户.gxt.hunan.gov.cn-42bc022c.md"
     },
     {
+      "id": "P_2024_GO_2532ff54",
+      "title": "​《河南郑州市新能源汽车公共充电基础设施建设运营管理暂行办法 ...",
+      "date": "2024-06-28",
+      "official": "",
+      "issuer": [
+        "未知机构"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "未知"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【​《河南郑州市新能源汽车公共充电基础设施建设运营管理暂行办法 ...】-未知机构-2532ff54.md"
+    },
+    {
       "id": "P_2024_SD_3363e0d7",
       "title": "山东省发展和改革委员会 监测分析 虚拟电厂提速发展助力平衡电力供需",
       "date": "2024-07-01",
@@ -958,6 +975,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【上海市用户侧虚拟电厂建设实施方案(2025-2027年)(沪经信运〔2025〕407号)】-上海市经济和信息化委员会-5d8d.md"
+    },
+    {
+      "id": "P_2025_GO_96193460",
+      "title": "最新政策——河北省发展和改革委员会等九部门关于印发《加强新能源汽车充电基础设施安全管理实施方案》的通知",
+      "date": "2025-07-10",
+      "official": "",
+      "issuer": [
+        "政府门户.gxt.hebei.gov.cn"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "未知"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【最新政策——河北省发展和改革委员会等九部门关于印发《加强新能源汽车充电基础设施安全管理实施方案》的通知】-政府门户.gxt.hebei.gov.cn-96193460.md"
     },
     {
       "id": "P_2025_NDRC_0912b2a5",
@@ -1317,23 +1351,6 @@
       "filename": "【国家能源局关于公布新型电力系统建设能力提升试点名单（第一批）的通知(国能发电力〔2026〕16号)】-国家能源局-f077.md"
     },
     {
-      "id": "P_1900_SX_dfb899b7",
-      "title": "国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈-山西省发改委门户网站",
-      "date": "2026-02-11",
-      "official": "",
-      "issuer": [
-        "山西省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "140000",
-        "name": "山西省"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈-山西省发改委门户网站】-山西省发展和改革委员会-dfb899b7.md"
-    },
-    {
       "id": "P_2026_NDRC_02114da8",
       "title": "国家发展改革委负责同志就完善全国统一电力市场体系的实施意见接受访谈",
       "date": "2026-02-11",
@@ -1349,6 +1366,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【国家发展改革委负责同志就完善全国统一电力市场体系的实施意见接受访谈】-国家发展和改革委员会（体改司）-5d13.md"
+    },
+    {
+      "id": "P_1900_SX_dfb899b7",
+      "title": "国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈-山西省发改委门户网站",
+      "date": "2026-02-11",
+      "official": "",
+      "issuer": [
+        "山西省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "140000",
+        "name": "山西省"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈-山西省发改委门户网站】-山西省发展和改革委员会-dfb899b7.md"
     },
     {
       "id": "P_2026_SD_4899d9b5",
@@ -1538,7 +1572,7 @@
       "filename": "【2024 年能源领域行业标准制定计划项目】-国家能源局-4d012393.md"
     }
   ],
-  "policies_count": 90,
+  "policies_count": 92,
   "relations": [
     {
       "from": "P_2023_NDRC_092751f2_a",
@@ -1567,6 +1601,39 @@
       "reason": "正式版替代征求稿"
     },
     {
+      "from": "P_2024_GO_2532ff54",
+      "to": "P_2023_GO_19_b",
+      "rel": "references",
+      "evidence": "务院办公厅关于进一步构建高质量充电基础设施体系的指导意见》（国办发〔2023〕19号）等文件精神，根据河",
+      "doc_num_matched": "国办发〔2023〕19号",
+      "evidence_count": 3,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2024_GO_2532ff54",
+      "to": "P_2022_NDRC_53",
+      "rel": "references",
+      "evidence": "关于进一步提升电动汽车充电基础设施服务保障能力的实施意见》（发改能源规〔2022〕53号）和《河南省电动汽车",
+      "doc_num_matched": "发改能源规〔2022〕53号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2024_GO_2532ff54",
+      "to": "P_2023_NDRC_545",
+      "rel": "references",
+      "evidence": "电基础设施建设更好支持新能源汽车下乡和乡村振兴的实施意见》（发改综合〔 2023〕545号）等与之相配套的充电",
+      "doc_num_matched": "发改综合〔 2023〕545号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
       "from": "P_2025_SH_5_c",
       "to": "P_2021_LN_44c4b58c",
       "rel": "references",
@@ -1575,7 +1642,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1586,7 +1653,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1597,7 +1664,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -1608,7 +1675,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_SH_407",
@@ -1619,7 +1686,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_SH_3",
@@ -1630,7 +1697,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -1641,7 +1708,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2025_AH_a970b007",
+      "to": "P_2023_NDRC_545",
+      "rel": "references",
+      "evidence": "基础设施建设 更好支持新能源汽车下乡和乡村振兴的实施意见》（发改综合〔2023〕545号），到2030年前，",
+      "doc_num_matched": "发改综合〔2023〕545号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_NEA_77",
@@ -1652,7 +1730,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_NEA_77",
@@ -1663,7 +1741,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_NEA_77",
@@ -1674,7 +1752,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -1685,7 +1763,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_FJ_5",
@@ -1696,7 +1774,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -1707,7 +1785,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -1718,7 +1796,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -1729,7 +1807,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -1740,7 +1818,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_JL_0208240d",
@@ -1751,7 +1829,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_NDRC_632_c",
@@ -1762,7 +1840,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -1773,7 +1851,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2026_NEA_16",
@@ -1784,7 +1862,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2026_NEA_16",
@@ -1795,7 +1873,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -1806,7 +1884,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -1817,7 +1895,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -1828,7 +1906,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -1839,7 +1917,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -1850,7 +1928,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -1861,7 +1939,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -1872,7 +1950,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1883,7 +1961,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -1894,7 +1972,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2020_GO_1020e9f0",
@@ -1905,7 +1983,40 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2023_AH_95eb685f",
+      "to": "P_2023_GO_19_b",
+      "rel": "references",
+      "evidence": "务院办公厅关于进一步构建高质量充电基础设施体系的指导意见》（国办发〔2023〕19号）、《国家发展改革委",
+      "doc_num_matched": "国办发〔2023〕19号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2023_AH_95eb685f",
+      "to": "P_2023_NDRC_545",
+      "rel": "references",
+      "evidence": "电基础设施建设更好支持新能源汽车下乡和乡村振兴的实施意见》（发改综合〔2023〕545号）等文件精神，制定本",
+      "doc_num_matched": "发改综合〔2023〕545号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2025_GO_96193460",
+      "to": "P_2023_GO_19_b",
+      "rel": "references",
+      "evidence": "务院办公厅关于进一步构建高质量充电基础设施体系的指导意见》（国办发〔2023〕19号）总体要求，各负其责",
+      "doc_num_matched": "国办发〔2023〕19号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_JX_d7975d50",
@@ -1916,7 +2027,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_JX_d7975d50",
@@ -1927,7 +2038,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_HA_0908b9ef",
@@ -1938,7 +2049,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2022_HI_4eac1187",
@@ -1949,7 +2060,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2023_HI_0e896708",
+      "to": "P_2022_NDRC_53",
+      "rel": "references",
+      "evidence": "关于进一步提升电动汽车充电基础设施服务保障能力的实施意见》（发改能源规〔2022〕53号）以及省委、省政府关",
+      "doc_num_matched": "发改能源规〔2022〕53号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -1960,7 +2082,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -1971,7 +2093,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -1982,7 +2104,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2024_HI_0adc6a74",
+      "to": "P_2023_HI_0e896708",
+      "rel": "references",
+      "evidence": "关于支持海南自由贸易港建设放宽市场准入若干特别措施的意见》（发改体改〔2021〕479号）要求，实现全省充换",
+      "doc_num_matched": "发改体改〔2021〕479号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_CQ_1023dd1b",
@@ -1993,7 +2126,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_OTHERCD44_1",
@@ -2004,7 +2137,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_OTHERCD44_1",
@@ -2015,7 +2148,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_OTHER7F45_060777c1",
@@ -2026,7 +2159,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2023_HN_4ff67fd4",
+      "to": "P_2022_NDRC_53",
+      "rel": "references",
+      "evidence": "关于进一步提升电动汽车充电基础设施服务保障能力的实施意见》（发改能源规〔2022〕53号）、《湖南省人民政府",
+      "doc_num_matched": "发改能源规〔2022〕53号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_HN_289",
@@ -2037,7 +2181,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2023_HN_848",
@@ -2048,7 +2192,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2023_HN_848",
@@ -2059,7 +2203,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2070,7 +2214,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2081,7 +2225,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2092,7 +2236,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2103,7 +2247,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
+    },
+    {
+      "from": "P_2025_OTHER420B_1201deda",
+      "to": "P_2020_HA_e96e48a2",
+      "rel": "references",
+      "evidence": "关于印发河南省加快电动汽车充电基础设施建设若干政策的通知》（豫政办〔2020〕30 号）； 《河南省支持",
+      "doc_num_matched": "豫政办〔2020〕30 号",
+      "evidence_count": 2,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2114,7 +2269,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2125,7 +2280,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2136,7 +2291,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -2147,7 +2302,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -2158,7 +2313,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -2169,7 +2324,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -2180,7 +2335,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T01:13:59"
+      "extracted_at": "2026-05-08T01:30:59"
     },
     {
       "from": "P_2024_CQ_86",
@@ -3552,7 +3707,7 @@
       "reason": "陕西储能管理通知与国家级方案对齐"
     }
   ],
-  "relations_count": 178,
+  "relations_count": 189,
   "diff_files": [],
   "opinion_policy_ids": [
     "P_2024_SH_28",
@@ -3604,7 +3759,7 @@
     },
     "国家": {
       "全国": 25,
-      "未知": 4
+      "未知": 6
     },
     "市": {
       "深圳市": 4,

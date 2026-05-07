@@ -4,7 +4,7 @@ title: 十四五新型储能发展实施方案
 inbound_edge_count: 9
 outbound_edge_count: 1
 commentary_inbound_count: 1
-last_updated: '2026-05-08T01:28:19+08:00'
+last_updated: '2026-05-08T01:43:17+08:00'
 policy_file: ../../../0_raw/policies/【十四五新型储能发展实施方案】-国家发展改革委 国家能源局-935b.md
 ---
 

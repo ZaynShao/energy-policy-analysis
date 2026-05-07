@@ -4,7 +4,7 @@ title: 2025年电力领域综合监管工作通知
 inbound_edge_count: 0
 outbound_edge_count: 7
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:28:19+08:00'
+last_updated: '2026-05-08T01:43:17+08:00'
 policy_file: ../../../0_raw/policies/【2025年电力领域综合监管工作通知(国能发监管〔2025〕36号)】-国家能源局-a305.md
 ---
 

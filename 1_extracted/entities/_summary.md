@@ -5,11 +5,11 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **762**
+- 输入政策: **804**
 - registry 实体: **99**
-- 命中实体的政策: **733**
-- 零实体命中政策: **29**(召回缺口,LLM 补抽 candidate)
-- 平均每政策命中实体: **7.6**
+- 命中实体的政策: **773**
+- 零实体命中政策: **31**(召回缺口,LLM 补抽 candidate)
+- 平均每政策命中实体: **7.4**
 - 已被引用的 canonical: **72/99**
 - 孤儿 canonical(0 政策引用): **27**
 
@@ -24,26 +24,26 @@ date: 2026-04-25
 
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
-| 1 | `nea` | 国家能源局 | org | 305 |
-| 2 | `power_market` | 电力市场 | concept | 294 |
-| 3 | `state_council` | 国务院 | org | 256 |
-| 4 | `new_ess` | 新型储能 | concept | 237 |
-| 5 | `grid_company` | 电网企业 | stakeholder / org | 234 |
-| 6 | `distribution_grid_opening` | 配电网开放 | theme | 233 |
-| 7 | `rural_revitalization_theme` | 乡村振兴 | theme | 210 |
-| 8 | `nev` | 新能源汽车 | concept | 207 |
-| 9 | `green_power_trading_theme` | 绿电交易 | theme | 180 |
-| 10 | `vpp` | 虚拟电厂 | concept | 179 |
-| 11 | `region_beijing` | 北京 | region | 170 |
-| 12 | `region_shanghai` | 上海 | region | 137 |
+| 1 | `nea` | 国家能源局 | org | 315 |
+| 2 | `power_market` | 电力市场 | concept | 297 |
+| 3 | `state_council` | 国务院 | org | 262 |
+| 4 | `grid_company` | 电网企业 | stakeholder / org | 241 |
+| 5 | `new_ess` | 新型储能 | concept | 238 |
+| 6 | `distribution_grid_opening` | 配电网开放 | theme | 238 |
+| 7 | `nev` | 新能源汽车 | concept | 225 |
+| 8 | `rural_revitalization_theme` | 乡村振兴 | theme | 223 |
+| 9 | `green_power_trading_theme` | 绿电交易 | theme | 181 |
+| 10 | `vpp` | 虚拟电厂 | concept | 180 |
+| 11 | `region_beijing` | 北京 | region | 171 |
+| 12 | `region_shanghai` | 上海 | region | 138 |
 | 13 | `power_user` | 电力用户 | stakeholder | 135 |
-| 14 | `region_xinjiang` | 新疆 | region | 134 |
-| 15 | `energy_storage_theme` | 新型储能 | theme | 130 |
-| 16 | `equipment_renewal_theme` | 以旧换新 | theme | 124 |
-| 17 | `power_generator` | 发电企业 | stakeholder | 114 |
-| 18 | `aggregator_access` | 聚合商准入 | theme | 112 |
-| 19 | `mof` | 财政部 | org | 110 |
-| 20 | `consumer` | 消费者 | stakeholder | 103 |
+| 14 | `region_xinjiang` | 新疆 | region | 135 |
+| 15 | `energy_storage_theme` | 新型储能 | theme | 131 |
+| 16 | `charging_infra` | 充电基础设施 | concept | 130 |
+| 17 | `equipment_renewal_theme` | 以旧换新 | theme | 127 |
+| 18 | `power_generator` | 发电企业 | stakeholder | 115 |
+| 19 | `aggregator_access` | 聚合商准入 | theme | 112 |
+| 20 | `mof` | 财政部 | org | 111 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 
@@ -84,6 +84,7 @@ date: 2026-04-25
 - `P_2023_GO_0e239de9`
 - `P_2019_BJ_7953e5fb`
 - `P_2025_GO_4f82af00`
+- `P_2021_SC_028ec539`
 - `P_2020_GO_5ad272e2`
 - `P_1900_GO_6a44403f`
 - `P_2022_SX_1012250c`
@@ -92,11 +93,10 @@ date: 2026-04-25
 - `P_2026_GO_e0ac73e6`
 - `P_2025_GO_cfb56b55`
 - `P_2023_CQ_e490adb4`
+- `P_2024_GO_537ff24a`
 - `P_2026_AH_1f64a250`
 - `P_2025_GO_dca47220`
 - `P_2026_GO_5c0cf20a`
 - `P_2024_GO_03e88c5f`
 - `P_2023_NDRC_0704ee90`
-- `P_2024_GO_1c6be4ad`
-- `P_2025_SC_ea8095a9`
-- ... 共 29 条
+- ... 共 31 条

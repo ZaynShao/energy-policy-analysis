@@ -1,0 +1,23 @@
+pid: P_2021_GO_c3cc5cf4
+scores:
+  D1: 1
+  D2: 2
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 武汉运营准入与管理已规范,公司展业需取得办法附件全文研判
+  电力_储能_V2G_交易: 无明确细节
+  乡村: 未明确
+行动建议:
+- 'B 研究: 获取武汉办法附件PDF做完整研读'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 武汉运营管理办法已落地,武汉市场需对照管理规则展业
+archive: low_score

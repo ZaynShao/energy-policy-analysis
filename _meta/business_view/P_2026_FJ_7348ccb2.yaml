@@ -1,0 +1,23 @@
+pid: P_2026_FJ_7348ccb2
+scores:
+  D1: 1
+  D2: 2
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 提示福建已发布加快构建高质量充电基础设施体系实施方案,公司应优先获取该文件全文
+  电力_储能_V2G_交易: 目录含分时电价、需求响应、电力中长期市场交易、新能源上网电价市场化等关键文件
+  乡村: 未单列
+行动建议:
+- 'B 研究: 检索福建高质量充电体系实施方案全文'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 提示福建已有高质量充电体系实施方案,公司在闽业务可循单深挖
+archive: low_score

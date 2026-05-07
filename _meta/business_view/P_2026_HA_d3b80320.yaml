@@ -1,0 +1,23 @@
+pid: P_2026_HA_d3b80320
+scores:
+  D1: 2
+  D2: 3
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 充电设施保有量持续高速增长,加油客户长期承压
+  充电: 全国充电桩规模快速扩张,运营商市场分化加剧,服务质量与差异化能力将成核心竞争点
+  电力_储能_V2G_交易: 2000亿元投资规模隐含电力侧与车网互动配套机会
+  乡村: 三年倍增包含县乡覆盖,乡村桩位增量可期
+行动建议:
+- 'B 研究: 用倍增数据校准公司充电板块战略目标'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 全国充电基础设施2026年达2101万个,2027年目标2800万,行业仍处高速扩张期
+archive: low_score

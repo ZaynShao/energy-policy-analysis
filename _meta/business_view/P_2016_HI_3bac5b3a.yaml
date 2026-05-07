@@ -1,0 +1,23 @@
+pid: P_2016_HI_3bac5b3a
+scores:
+  D1: 2
+  D2: 2
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 海南建设期布局指引性文件,框架性指导省内充电网络规划,对站点选址研判有间接参考
+  电力_储能_V2G_交易: 无直接影响,仅提及电网公司参与机制
+  乡村: 未明确乡村专项部署
+行动建议:
+- 'C 关注: 作为海南充电政策演进起点存档,无需立即响应'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 海南充电网络早期框架,对当前业务直接指导有限
+archive: low_score

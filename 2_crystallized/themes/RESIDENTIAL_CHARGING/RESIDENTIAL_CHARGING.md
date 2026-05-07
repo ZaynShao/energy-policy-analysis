@@ -3,7 +3,7 @@ theme_id: residential_charging
 theme_zh: 居住区充电
 theme_dir: RESIDENTIAL_CHARGING
 type: theme_hub
-policy_count: 19
+policy_count: 23
 opinion_count: 4
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 居住区充电(RESIDENTIAL_CHARGING)— 主题入口
 
-**政策数**: 19  ·  **观点矩阵**: 4
+**政策数**: 23  ·  **观点矩阵**: 4
 
 ## 主题文档
 
