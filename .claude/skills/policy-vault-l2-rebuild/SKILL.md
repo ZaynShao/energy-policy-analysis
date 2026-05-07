@@ -547,6 +547,78 @@ P0×P0 候选挤出 top600 = 隐形漏。
 | `_meta/audit/missing_base_policies.md` | 53 base pid commentary 引用断 | 配合 P0_seeds |
 | `_meta/audit/fetch_failed_for_manual.jsonl` | 后续抓失败自动追加 | manual queue |
 
+### A.6.8 P2.7 Tier 切批 SOP(2026-05-08 Tier A 完结后立)
+
+P2.7 = candidates_rest 1373 url 分 3 层(Tier A/B/C)。Tier A 6 批已落
+(commit `febd9e49`-`6319fe96`,223 政策 / 184 边)。每批通用流程 8 步:
+
+```bash
+BATCH=b1   # 改成你的批名
+DATE=$(date +%Y-%m-%d)
+
+# 1. fetch — 写独立 staging 不污染主线
+python3 _meta/audit_2026-05-06/fetch_candidates.py \
+  --candidates _meta/audit/p2_7_remaining/tier_<batch>.jsonl \
+  --staging 0_raw/policies_staging_${BATCH}_${DATE} \
+  --log _meta/audit_2026-05-06/fetch_p2_7_${BATCH}.log \
+  --concurrency 8
+
+# 2. normalize — 同 staging override
+python3 _meta/audit_2026-05-06/normalize_to_raw.py \
+  --staging 0_raw/policies_staging_${BATCH}_${DATE}
+
+# 3. quality_drop — pattern 分类 (hard junk / strong / unknown)
+python3 _meta/scripts/oneshot_quality_drop.py --batch ${BATCH} --apply
+
+# 4. prepare(第一次)— audit 闸阻断 missing_date
+python3 _meta/scripts/rebuild_l2.py prepare --trigger pid_change \
+  --pids "$(tr '\n' ',' < _meta/audit_2026-05-06/keep_pids_${BATCH}.txt | sed 's/,$//')"
+
+# 5. 处理 audit-blocked(几乎全是 trafilatura 抽不到 body 的网页框架)
+#    用一行 Python:read fm.date == "" 的 keep_pids → 移到 archive,重生 keep_pids
+#    样板见 commit 18bc7160 的 inline shell
+
+# 6. prepare(第二次)— 通过 audit
+PIDS=$(tr '\n' ',' < _meta/audit_2026-05-06/keep_pids_${BATCH}.txt | sed 's/,$//')
+python3 _meta/scripts/rebuild_l2.py prepare --trigger pid_change --pids "$PIDS"
+
+# 7. 派 2 subagent(opus 4.7,run_in_background: true,并行)
+#    读 _l2_rebuild_state/{5c,rel_judge}/prompt.md 给 subagent 直接执行
+#    分别写到 _l2_rebuild_state/{5c,rel_judge}/results/results.jsonl
+
+# 8. apply + post-llm + commit
+python3 _meta/scripts/rebuild_l2.py apply --stage 5c
+python3 _meta/scripts/rebuild_l2.py apply --stage rel
+python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
+git add -A && git commit -m "feat(P2.7 Tier ${BATCH}): +N 政策 / +M 边"
+```
+
+**4 个校准 takeaways(Tier A 6 批沉淀)**:
+
+1. **候选真政策率 30-40%**(非 P0 省 P0 主题在地方域多 news/动态)— 1373 candidates
+   全做也只能入库 ~400-500 真政策。**Tier C 走 daily_query 异步,不一次性做**
+2. **5C `is_national_level_originated` 看 fm.issuer 不看内容**(prompt 已修)—
+   含"省/市/自治区/直辖市" → false,NDRC/能源局/工信部/国务院 → true
+3. **audit 闸 missing_date 几乎全是 trafilatura 抽不到 body 的网页框架噪声** —
+   每批稳定 14-29 个,drop-all 是最划算策略(失 ~10% 真政策可接受)
+4. **vault metadata 偶有 official_number ↔ title 错配** —
+   rel_judge 已 conservative 跳过,后续需 oneshot 脚本批量 audit
+
+**并行节奏(单 session 内 5-6 批)**:fetch 1 批后台 + 上一批 normalize+drop+prepare
++ 派 subagent(并行 2),subagent 跑时下一批 fetch。1 批端到端 wall ~30 min(瓶颈是
+opus 4.7 subagent),全 6 批 ~3 hr。
+
+### A.6.9 P2.7 Tier A 工作产物(2026-05-08)
+
+| 资源 | 内容 |
+|---|---|
+| 8 commits `febd9e49`-`6319fe96` | scaffold + 6 批 + 1 prompt fix |
+| `docs/handoffs/2026-05-08-tier-a-completion-handoff.md` | 完整数据 + 后续清单 |
+| `_meta/scripts/oneshot_quality_drop.py` | 通用质量过滤,A.2-A.6 复用 |
+| `_meta/scripts/oneshot_split_tier_a_by_theme.py` | 切批模板 |
+| `_meta/audit_2026-05-06/keep_pids_a*.txt` | 6 批 keep_pids 留存 |
+| `_meta/audit/p2_7_a*_drops_2026-05-08.jsonl` | 6 批 drops 履历(216 archived) |
+
 ---
 
 ## 6.1 「标记下架」例外协议(2026-05-07 加入,与 §6 并列)
