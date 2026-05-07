@@ -365,6 +365,46 @@ backfill 已跑(10 个缺字段的标 unknown_legacy)。
 
 ---
 
+## 4f. Trigger G: classification_apply(2026-05-07 加入,分类标记下架)
+
+诊断:trigger F 已对 isolated 政策出 LLM 分类(label / suggested_action),
+其中 `exclude_from_main_graph` 类(news/index_page 等噪声)需要从所有派生层
+排除,但**不删除 raw**(LLM Wiki §1 raw immutable)。trigger G 就是把分类
+落到 fm + 派生层全自动跳过。
+
+与 trigger A-F 区别:
+- 不动 raw body,不动 5C / 关系层
+- 只在 raw fm 加 audit metadata(§6.1 「标记下架」协议)
+- 改下游 N 个脚本读 helper 一次跳过
+
+完整 3 步:
+
+### G.1 准备 — 分类已就绪
+
+前置:已跑过 trigger F + 已运行 LLM 分类(`isolated_classification.jsonl`
+就绪),例如本会话 B7 79 个 exclude_from_main_graph 行。无需 prepare 阶段。
+
+### G.2 应用 fm(SKILL §6.1 「标记下架」协议)
+
+```bash
+python3 _meta/scripts/oneshot_apply_classification_tags.py [--dry-run]
+```
+
+幂等:重跑不重复加 tag。备份原文件至 `0_raw/_archive/policies/`。
+
+### G.3 派生层全自动跳过(deterministic)
+
+5 下游脚本通过 `_meta/scripts/_isolated_filter.load_exclude_pids()` 单源:
+
+```bash
+python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
+python3 _meta/scripts/build_topic_distribution.py  # 前端 JSON
+```
+
+详见 §8d「派生层 isolated 过滤单源模式」。
+
+---
+
 ## 4e. trigger E/F 候选自动建议(2026-05-06)
 
 `relations_coverage_metric.py` 加 2 个 flag,基于 metric + 履历自动生成候选:
@@ -421,6 +461,39 @@ python3 _meta/scripts/rebuild_l2.py prepare --trigger reverse_cites --target-pid
 5. 然后走 trigger A 全套(因为 body 变了 → 5C/关系层都要重抽)
 
 详见 `references/body-refetch-pattern.md`。
+
+---
+
+## 6.1 「标记下架」例外协议(2026-05-07 加入,与 §6 并列)
+
+当 LLM 分类标记某 raw 政策为 `exclude_from_main_graph`(news/index_page
+等噪声)需要从派生层下架,但**不删 raw**:
+
+1. **不改任何 fact 字段**(id/title/official/issuer/date/region)
+2. **备份**原文件到 `0_raw/_archive/policies/{filename}__pre_classification_<ts>.md`
+3. **fm 加分类元数据**(audit 范畴,与 fact 字段并列):
+   ```yaml
+   classification:
+     isolated_label: news_or_press|index_page|...
+     suggested_action: exclude_from_main_graph
+     confidence: 0.0-1.0
+     classified_at: <ISO ts>
+     classified_by: B7_subagent_v1
+   tags:
+     - classified_main_graph_exclude   # append 不覆盖
+   provenance:
+     classification_applied_at: <ISO ts>  # 加 audit 字段
+   ```
+4. **body 一字不动**
+5. 然后跑 trigger G(§4f)让派生层全自动跳过
+
+与 §6「重抓重入」差别:
+- §6 改 body(因 PDF 乱码)→ 必须重跑 5C / 关系层
+- §6.1 不改 body,只加 audit metadata → 派生层 deterministic 跳过即可,
+  无需 LLM subagent
+
+可逆:删 fm.classification + 移除 fm.tags 中 marker → 政策即恢复全派生层
+可见。
 
 ---
 
@@ -502,6 +575,44 @@ hook 不会让既有违规 commit 越来越多 — 只阻断**新引入**的违�
 
 **用户体验改善**:修完后 `[[P_xxx]]` 引用(在 opinions-summary / themes / 其他反链页等)正确解析到 raw 政策原文,而不是派生 hub 页。raw 政策 graph view 显示其全部关系边。
 
+## 8d. 派生层 isolated 过滤单源模式(2026-05-07 加入)
+
+**背景**:B7 LLM 把 132 isolated 政策分类为 5 类 action,79 个 exclude_from_main_graph
+需要从所有派生层排除。如果每个脚本各自读 audit jsonl 或 fm,容易出现
+"前端跳过 / 后端没跳过"的不一致(本 skill commit e435f96 就是只过滤前端
+3 主题,后续会话发现 13 主题 / 反链页 / global_index 都漏过)。
+
+**修复(已生效)**:`_meta/scripts/_isolated_filter.py` 是**单一权威源**:
+
+```python
+from _isolated_filter import load_exclude_pids
+EXCLUDE = load_exclude_pids()  # 读 _meta/audit/isolated_classification.jsonl
+```
+
+5 下游脚本统一接它:
+- `crystallize_theme.py`(13 主题 _input.json 排除)
+- `build_global_index.py`(仪表盘 policy_count 排除 + 备注)
+- `build_reverse_links.py`(from/to 任一是 exclude → 跳边 + commentary_inbound)
+- `aggregate_opinions.py`(写 _op_*.md 前 guard,实际命中 0)
+- `build_topic_distribution.py`(前端 JSON 重构,删内联读 jsonl)
+
+**单源原则**:fm tag(`classified_main_graph_exclude`)只服务 Obsidian
+graph filter(`-#classified_main_graph_exclude`),Python 脚本一律读 jsonl。
+这避免"fm 改了 jsonl 没改"或反向不一致。
+
+**新写派生脚本时**:任何枚举 vault 政策的下游脚本(L2 派生 / L3 结晶 /
+business_view / 前端导出)都要 import helper 一次过滤。验证 checklist:
+
+```bash
+# 改完后跑这个验证 0 个 exclude pid 进派生
+python3 -c "
+import sys; sys.path.insert(0, '_meta/scripts')
+from _isolated_filter import load_exclude_pids
+exclude = load_exclude_pids()
+# 查派生层文件 / json 中 pid 是否含 exclude
+"
+```
+
 **第二层兜底 — 派生页加显式 [[<raw 文件名>]] link**:
 
 Obsidian alias resolution 在 graph view 不一定可靠(用户实测,即便 alias 有效,graph 中 raw 政策仍可能显示孤立)。第二层兜底:派生层文件 body 顶部加一行显式文件名 link:
@@ -575,6 +686,11 @@ python3 _meta/scripts/rebuild_l2.py prepare --trigger rel_judge_rerun \
 python3 _meta/scripts/rebuild_l2.py apply --stage rel_judge_rerun
 python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
 
+# trigger G (分类标记下架,§4f)
+python3 _meta/scripts/oneshot_apply_classification_tags.py [--dry-run]
+python3 _meta/scripts/rebuild_l2.py deterministic --scope post-llm
+python3 _meta/scripts/build_topic_distribution.py  # 前端 JSON
+
 # 履历追踪(3 个表)
 ls _meta/audit/{rel_judge,stance,opinions_summary}_history.jsonl
 
@@ -624,6 +740,9 @@ ls -la _l2_rebuild_state/ 2>/dev/null  # 看是否有未完成的 staging
     ├─ 关系层覆盖率 metric 显示某上位 pid inbound 偏低/=0? ──→ trigger E (reverse_cites)
     │   (跑 relations_coverage_metric.py 看上位政策 inbound section,
     │   选 inbound ≤ 3 的几个作 target-pids)
+    │
+    ├─ isolated 已分类 + 部分要从派生层下架(news/index 噪声)? ──→ trigger G (classification_apply,§4f)
+    │   (分类已就绪 → oneshot_apply_classification_tags + deterministic post-llm)
     │
     ├─ 关系层 metric 报 isolated 政策(0 in + 0 out)? ──→ trigger F (rel_judge_rerun)
     │   (查 _meta/audit/rel_judge_history.jsonl 看 isolated 政策是否已用
