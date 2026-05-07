@@ -40,3 +40,4 @@ _meta/tmp/
 _l2_rebuild_state/
 _l2_rebuild_state_backup_*/
 0_raw/policies_staging_*/
+0_raw/_archive/policies_staging_*/
