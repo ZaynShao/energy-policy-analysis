@@ -2,35 +2,21 @@
 """一次性脚本: 从 5 主题 _input.json + policy_summaries.jsonl 构造前端格式 JSON.
 
 2026-05-07 起加 isolated 过滤(B7 分类后):
-  读 _meta/audit/isolated_classification.jsonl,跳过 suggested_action ==
-  "exclude_from_main_graph" 的 pid(news/index_page 类污染政策)。
+  通过 _meta.scripts._isolated_filter 统一读 isolated_classification.jsonl,
+  跳过 suggested_action == "exclude_from_main_graph" 的 pid。
+  与 crystallize_theme / build_global_index / build_reverse_links / aggregate_opinions
+  共享同一 helper,源 of truth 单一。
 """
 import json
 import re
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _isolated_filter import load_exclude_pids  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[2]
-
-
-def load_exclude_pids() -> set[str]:
-    """读 isolated_classification.jsonl,返回 suggested_action='exclude_from_main_graph' 的 pid 集"""
-    path = ROOT / "_meta" / "audit" / "isolated_classification.jsonl"
-    if not path.exists():
-        return set()
-    excludes = set()
-    for ln in path.read_text(encoding="utf-8").splitlines():
-        if not ln.strip():
-            continue
-        try:
-            r = json.loads(ln)
-        except json.JSONDecodeError:
-            continue
-        if r.get("suggested_action") == "exclude_from_main_graph":
-            excludes.add(r["pid"])
-    return excludes
-
-
 EXCLUDE_PIDS = load_exclude_pids()
 
 THEMES = [

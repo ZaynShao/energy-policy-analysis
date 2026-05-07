@@ -23,10 +23,14 @@ crystallize_theme.py
 import argparse
 import json
 import re
+import sys
 import yaml
 from pathlib import Path
 from collections import defaultdict, Counter
 from datetime import date
+
+sys.path.insert(0, str(Path(__file__).parent))
+from _isolated_filter import load_exclude_pids  # noqa: E402
 
 VAULT = Path("/Users/shaoziyuan/Documents/Zayn Main/政策分析")
 POLICIES = VAULT / "0_raw" / "policies"
@@ -111,6 +115,11 @@ def collect_theme_data(theme_id, aliases):
                 break
 
     pid_set = pids_via_entity | pids_via_tag
+
+    # B7 isolated 过滤:跳过 exclude_from_main_graph 标记的 noise 政策
+    # 源 of truth = _meta/audit/isolated_classification.jsonl(79 个 news/index 噪声)
+    exclude_pids = load_exclude_pids()
+    pid_set -= exclude_pids
 
     # 提取政策 meta
     policies = []

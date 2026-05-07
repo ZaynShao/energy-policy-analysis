@@ -26,6 +26,9 @@ from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _isolated_filter import load_exclude_pids  # noqa: E402
+
 VAULT_ROOT = Path.home() / "Documents/Zayn Main/政策分析"
 POLICIES_DIR = VAULT_ROOT / "0_raw/policies"
 COMMENTARIES_DIR = VAULT_ROOT / "0_raw/commentaries"
@@ -244,6 +247,11 @@ def main():
     id_to_meta = build_id_to_meta()
     print(f"[init] policies indexed: {len(id_to_meta)}")
 
+    # B7 isolated 过滤:涉及 79 个 noise 政策(news/index_page)的所有边都跳过,
+    # 这些政策的 _rev_*.md 不生成,Obsidian graph view 也不会有它们的反链节点
+    exclude_pids = load_exclude_pids()
+    print(f"[filter] excluding {len(exclude_pids)} main_graph_excluded pids from reverse links")
+
     # 双向收集:
     #   inbound[to_id][rel]   = list of edges (peer = from)
     #   outbound[from_id][rel] = list of edges (peer = to)
@@ -275,6 +283,10 @@ def main():
                 if not from_id:
                     continue
 
+                # B7 isolated 过滤:from / to 任一是 exclude pid → 跳过该边
+                if from_id in exclude_pids or (to_id and to_id in exclude_pids):
+                    continue
+
                 # 出向:always 收集(只要 from_id 存在;to 可 null e.g. derives_from to=null)
                 from_meta = id_to_meta.get(from_id, {})
                 if to_id:
@@ -301,6 +313,10 @@ def main():
 
     # commentary inbound (P3 双向化补:评论→政策也进反链页)
     commentary_inbound = collect_commentary_inbound(id_to_meta)
+    # B7 过滤:exclude pid 的 commentary inbound 也丢(noise 政策不生成 _rev_*)
+    for ep in list(commentary_inbound.keys()):
+        if ep in exclude_pids:
+            del commentary_inbound[ep]
 
     # 安全检查 + 清空旧反链
     if "_index_by_policy" not in str(OUTPUT_DIR):

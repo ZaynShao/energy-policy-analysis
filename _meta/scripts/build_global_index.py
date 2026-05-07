@@ -11,10 +11,14 @@ P1 — 生成 2_crystallized/_global_index.md 顶层数据仪表盘
 - 链接到所有 themes/ + regions/
 """
 
+import sys
 import yaml, re, json
 from pathlib import Path
 from collections import Counter, defaultdict
 from datetime import datetime, timezone, timedelta
+
+sys.path.insert(0, str(Path(__file__).parent))
+from _isolated_filter import load_exclude_pids  # noqa: E402
 
 VAULT = Path("/Users/shaoziyuan/Documents/Zayn Main/政策分析")
 POL = VAULT / "0_raw/policies"
@@ -65,6 +69,10 @@ def cn_now_iso():
 
 
 def main():
+    # B7 isolated 过滤集(79 noise 政策不计入主图谱仪表盘)
+    exclude_pids = load_exclude_pids()
+    excluded_count = 0
+
     # 1. policies
     policies = []
     for f in POL.glob('*.md'):
@@ -74,6 +82,9 @@ def main():
         try:
             fm = yaml.safe_load(m.group(1)) or {}
         except yaml.YAMLError:
+            continue
+        if fm.get('id') in exclude_pids:
+            excluded_count += 1
             continue
         policies.append({
             'id': fm.get('id'),
@@ -165,7 +176,7 @@ def main():
              f'**最后更新**: {cn_now_iso()}', '', '---', '', '## 1. 数据规模', '',
              '| 类型 | 数量 |',
              '|---|:-:|',
-             f'| 政策原文 (policies/) | **{n_policies}** |',
+             f'| 政策原文 (policies/) | **{n_policies}** ({excluded_count} 个 main_graph_excluded 噪声不计) |',
              f'| 评论 (commentaries/) | **{n_commentaries}** |',
              f'| 规范化实体 (entities/registry) | **{n_entities}** |',
              f'| 关系网总边数 | **{total_edges}** |',

@@ -2,7 +2,7 @@
 theme: petroleum_retail_compliance
 theme_name: 加油零售/平台合规
 title: 区域覆盖矩阵
-generated_at: 2026-05-06
+generated_at: 2026-05-07
 generated_by: crystallize_theme.py (auto data)
 ---
 

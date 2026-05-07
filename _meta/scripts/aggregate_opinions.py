@@ -19,8 +19,12 @@ Step 8b — 合并 5 个 agent 的 stance jsonl,按 policy_id 聚合 → 政策�
 
 import json
 import re
+import sys
 from pathlib import Path
 from collections import defaultdict, Counter
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _isolated_filter import load_exclude_pids  # noqa: E402
 
 VAULT = Path("/Users/shaoziyuan/Documents/Zayn Main/政策分析")
 BATCHES = VAULT / "_meta" / "stance_batches"
@@ -273,8 +277,15 @@ def main():
             continue
         if fm.get("id"):
             pid_to_stem[fm["id"]] = p.stem
+    # B7 isolated 过滤:79 个 noise 政策不生成 _op_*.md(实际命中 0,但仍加 guard)
+    exclude_pids = load_exclude_pids()
+
     written = 0
+    skipped_excluded = 0
     for pid, stances in by_policy.items():
+        if pid in exclude_pids:
+            skipped_excluded += 1
+            continue
         page = render_opinion_page(pid, stances, raw_policy_filename=pid_to_stem.get(pid))
         # 文件名加 _op_ 前缀避免与 raw 政策 alias `P_xxx` 命名冲突。
         # 同 build_reverse_links.py 的 _rev_ 前缀处理。
@@ -282,6 +293,8 @@ def main():
         out.write_text(page, encoding="utf-8")
         written += 1
     print(f"  {written} opinion pages → {OPINIONS}")
+    if skipped_excluded:
+        print(f"  {skipped_excluded} skipped (main_graph_excluded)")
 
     # 整体统计
     summary = []
