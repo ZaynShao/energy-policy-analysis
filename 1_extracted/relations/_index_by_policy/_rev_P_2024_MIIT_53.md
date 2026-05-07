@@ -4,7 +4,7 @@ title: 推动工业领域设备更新实施方案
 inbound_edge_count: 12
 outbound_edge_count: 0
 commentary_inbound_count: 1
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【推动工业领域设备更新实施方案(工信部联规〔2024〕53号)】-工信部、发改委、财政部、央行、税务总局、市场监管总局、金融监管总局-45f1.md
 ---
 

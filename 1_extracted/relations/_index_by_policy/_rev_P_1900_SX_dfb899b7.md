@@ -4,7 +4,7 @@ title: 国家发展改革委负责同志就《关于完善全国统一电力市�
 inbound_edge_count: 0
 outbound_edge_count: 6
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈-山西省发改委门户网站】-山西省发展和改革委员会-dfb899b7.md
 ---
 

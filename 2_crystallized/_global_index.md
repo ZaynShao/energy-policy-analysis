@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-05-07T16:36:09+08:00
-policy_count: 585
+last_updated: 2026-05-07T17:57:47+08:00
+policy_count: 595
 commentary_count: 283
 entity_count: 100
-edge_count: 832
-opinion_coverage_pct: 12.8
+edge_count: 853
+opinion_coverage_pct: 12.6
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-05-07T16:36:09+08:00
+**最后更新**: 2026-05-07T17:57:47+08:00
 
 ---
 
@@ -18,12 +18,12 @@ opinion_coverage_pct: 12.8
 
 | 类型 | 数量 |
 |---|:-:|
-| 政策原文 (policies/) | **585** (79 个 main_graph_excluded 噪声不计) |
+| 政策原文 (policies/) | **595** (79 个 main_graph_excluded 噪声不计) |
 | 评论 (commentaries/) | **283** |
 | 规范化实体 (entities/registry) | **100** |
-| 关系网总边数 | **832** |
+| 关系网总边数 | **853** |
 | 反链页 (_index_by_policy) | **436** |
-| 政策舆论矩阵 (opinions) | **75** (12.8% 覆盖率) |
+| 政策舆论矩阵 (opinions) | **75** (12.6% 覆盖率) |
 
 ---
 
@@ -32,15 +32,15 @@ opinion_coverage_pct: 12.8
 | 关系类型 | 边数 | 含义 |
 |---|:-:|---|
 | supersedes | 7 | 显式废止 |
-| iterates | 36 | 版本升级 |
+| iterates | 37 | 版本升级 |
 | extends | 32 | 范围扩展 |
 | clarifies | 109 | 实施细化 |
-| references | 302 | 文号/标题引用 |
-| aligns_with | 139 | 同向对齐 |
+| references | 311 | 文号/标题引用 |
+| aligns_with | 141 | 同向对齐 |
 | conflicts_with | 0 | 口径冲突 |
-| cites_basis | 207 | 制定依据 |
+| cites_basis | 216 | 制定依据 |
 
-**关系网密度**:832 / 585×(585-1) = 2.44 ‰
+**关系网密度**:853 / 595×(595-1) = 2.41 ‰
 
 ---
 
@@ -61,14 +61,14 @@ opinion_coverage_pct: 12.8
 | level | 数量 |
 |---|:-:|
 | 省 | 357 |
-| 国家 | 163 |
-| 市 | 36 |
+| 国家 | 172 |
+| 市 | 37 |
 | 区 | 24 |
 | 县 | 5 |
 
 ### Top 10 region.name(按政策数)
 
-- 全国: 145 篇
+- 全国: 146 篇
 - 北京市: 45 篇
 - 重庆市: 34 篇
 - 上海市: 30 篇
@@ -103,7 +103,7 @@ opinion_coverage_pct: 12.8
 
 ## 6. region 索引页
 
-共 28 个区域索引(≥3 篇政策的省/市/区),详见 [`regions/`](regions/):
+共 29 个区域索引(≥3 篇政策的省/市/区),详见 [`regions/`](regions/):
 
 - [[上海市]]
 - [[云南省]]
@@ -116,6 +116,7 @@ opinion_coverage_pct: 12.8
 - [[山东省]]
 - [[山西省]]
 - [[广东省]]
+- [[广州市]]
 - [[广西壮族自治区]]
 - [[江苏省]]
 - [[江西省]]
@@ -173,7 +174,7 @@ opinion_coverage_pct: 12.8
 
 ## 10. 数据健康指标
 
-- **opinion 覆盖率**: 12.8% (75/585) ⚠️
-- **issuer_canonical 覆盖**: 237/585
+- **opinion 覆盖率**: 12.6% (75/595) ⚠️
+- **issuer_canonical 覆盖**: 237/595
 - **5 星政策(高重要性)**: 57
-- **冲突边密度**: 0/832 ⚠️ 0 条
+- **冲突边密度**: 0/853 ⚠️ 0 条

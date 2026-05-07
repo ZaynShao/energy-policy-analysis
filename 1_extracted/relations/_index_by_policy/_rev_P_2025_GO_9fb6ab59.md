@@ -4,7 +4,7 @@ title: 全球法规网-中国商务法规
 inbound_edge_count: 3
 outbound_edge_count: 5
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【全球法规网-中国商务法规(交办运〔2025〕4号)】-政府门户.policy.mofcom.gov.cn-9fb6ab59.md
 ---
 

@@ -4,7 +4,7 @@ title: 新能源汽车产业发展规划(2021—2035年)
 inbound_edge_count: 12
 outbound_edge_count: 0
 commentary_inbound_count: 2
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md
 ---
 

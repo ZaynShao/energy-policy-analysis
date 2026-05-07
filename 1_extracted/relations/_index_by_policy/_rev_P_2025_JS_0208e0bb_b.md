@@ -4,7 +4,7 @@ title: 江苏省2025年加力扩围实施大规模设备更新和消费品以旧
 inbound_edge_count: 0
 outbound_edge_count: 5
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【江苏省2025年加力扩围实施大规模设备更新和消费品以旧换新政策】-江苏省发展和改革委员会、江苏省财政厅-93bc.md
 ---
 

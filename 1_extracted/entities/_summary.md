@@ -5,9 +5,9 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **664**
+- 输入政策: **674**
 - registry 实体: **99**
-- 命中实体的政策: **639**
+- 命中实体的政策: **649**
 - 零实体命中政策: **25**(召回缺口,LLM 补抽 candidate)
 - 平均每政策命中实体: **7.8**
 - 已被引用的 canonical: **72/99**
@@ -24,26 +24,26 @@ date: 2026-04-25
 
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
-| 1 | `nea` | 国家能源局 | org | 261 |
-| 2 | `power_market` | 电力市场 | concept | 243 |
-| 3 | `state_council` | 国务院 | org | 236 |
-| 4 | `distribution_grid_opening` | 配电网开放 | theme | 204 |
-| 5 | `grid_company` | 电网企业 | stakeholder / org | 203 |
-| 6 | `rural_revitalization_theme` | 乡村振兴 | theme | 193 |
-| 7 | `nev` | 新能源汽车 | concept | 191 |
-| 8 | `new_ess` | 新型储能 | concept | 183 |
-| 9 | `region_beijing` | 北京 | region | 160 |
-| 10 | `vpp` | 虚拟电厂 | concept | 159 |
-| 11 | `green_power_trading_theme` | 绿电交易 | theme | 157 |
-| 12 | `region_shanghai` | 上海 | region | 133 |
+| 1 | `nea` | 国家能源局 | org | 264 |
+| 2 | `power_market` | 电力市场 | concept | 247 |
+| 3 | `state_council` | 国务院 | org | 238 |
+| 4 | `distribution_grid_opening` | 配电网开放 | theme | 207 |
+| 5 | `grid_company` | 电网企业 | stakeholder / org | 206 |
+| 6 | `nev` | 新能源汽车 | concept | 195 |
+| 7 | `rural_revitalization_theme` | 乡村振兴 | theme | 193 |
+| 8 | `new_ess` | 新型储能 | concept | 187 |
+| 9 | `vpp` | 虚拟电厂 | concept | 163 |
+| 10 | `region_beijing` | 北京 | region | 161 |
+| 11 | `green_power_trading_theme` | 绿电交易 | theme | 158 |
+| 12 | `region_shanghai` | 上海 | region | 134 |
 | 13 | `region_xinjiang` | 新疆 | region | 128 |
-| 14 | `equipment_renewal_theme` | 以旧换新 | theme | 116 |
-| 15 | `power_user` | 电力用户 | stakeholder | 114 |
-| 16 | `energy_storage_theme` | 新型储能 | theme | 111 |
-| 17 | `mof` | 财政部 | org | 104 |
-| 18 | `consumer` | 消费者 | stakeholder | 98 |
-| 19 | `aggregator_access` | 聚合商准入 | theme | 96 |
-| 20 | `power_generator` | 发电企业 | stakeholder | 95 |
+| 14 | `equipment_renewal_theme` | 以旧换新 | theme | 117 |
+| 15 | `power_user` | 电力用户 | stakeholder | 116 |
+| 16 | `energy_storage_theme` | 新型储能 | theme | 114 |
+| 17 | `mof` | 财政部 | org | 105 |
+| 18 | `aggregator_access` | 聚合商准入 | theme | 100 |
+| 19 | `consumer` | 消费者 | stakeholder | 98 |
+| 20 | `power_generator` | 发电企业 | stakeholder | 97 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 

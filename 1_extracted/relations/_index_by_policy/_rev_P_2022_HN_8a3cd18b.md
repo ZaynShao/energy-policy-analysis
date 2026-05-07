@@ -4,7 +4,7 @@ title: 关于拟纳入湖南省新能源发电项目配置新型储能首批试�
 inbound_edge_count: 1
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:48+08:00'
 policy_file: ../../../0_raw/policies/【关于拟纳入湖南省新能源发电项目配置新型储能首批试点候选项目 ...(湘发改能源〔2022〕687号)】-湖南省发展和改革委员会-8a3cd18b.md
 ---
 

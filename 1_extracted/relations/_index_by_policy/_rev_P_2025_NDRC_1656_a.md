@@ -4,7 +4,7 @@ title: 电力中长期市场基本规则
 inbound_edge_count: 8
 outbound_edge_count: 7
 commentary_inbound_count: 8
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【电力中长期市场基本规则(发改能源规〔2025〕1656号)】-国家发展和改革委员会、国家能源局-6fc7.md
 ---
 

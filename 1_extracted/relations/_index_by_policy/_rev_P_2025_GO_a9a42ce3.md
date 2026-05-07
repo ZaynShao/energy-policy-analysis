@@ -4,7 +4,7 @@ title: 国家能源局关于印发《2025年能源监管工作要点》的通知
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【国家能源局关于印发《2025年能源监管工作要点》的通知-新华网(国能发监管〔2025〕3号)】-国家能源局-a9a42ce3.md
 ---
 

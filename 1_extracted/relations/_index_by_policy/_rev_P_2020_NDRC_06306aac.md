@@ -4,7 +4,7 @@ title: 电力中长期交易基本规则(暂行)
 inbound_edge_count: 2
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【电力中长期交易基本规则(暂行)】-国家发展和改革委员会、国家能源局-eaa5.md
 ---
 

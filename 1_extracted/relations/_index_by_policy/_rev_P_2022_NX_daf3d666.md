@@ -4,7 +4,7 @@ title: 宁夏回族自治区发展改革委关于印发《虚拟电厂建设工�
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【宁夏回族自治区发展改革委关于印发《虚拟电厂建设工作方案（试行 ...(宁发改运行〔2023〕269号)】-宁夏回族自治区发展和改革委员会-daf3d666.md
 ---
 

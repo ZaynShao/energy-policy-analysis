@@ -4,7 +4,7 @@ title: 工业重点行业领域设备更新和技术改造指南
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:48+08:00'
 policy_file: ../../../0_raw/policies/【工业重点行业领域设备更新和技术改造指南(工信厅规〔2024〕33号)】-工业和信息化部办公厅-c53b.md
 ---
 

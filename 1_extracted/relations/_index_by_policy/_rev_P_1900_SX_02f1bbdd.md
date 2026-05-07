@@ -4,7 +4,7 @@ title: 《关于加快推进虚拟电厂发展的指导意见》政策解读
 inbound_edge_count: 12
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-07T16:57:42+08:00'
+last_updated: '2026-05-07T17:57:49+08:00'
 policy_file: ../../../0_raw/policies/【《关于加快推进虚拟电厂发展的指导意见》政策解读(发改能源〔2024〕1128号)】-山西省发展和改革委员会-02f1bbdd.md
 ---
 
