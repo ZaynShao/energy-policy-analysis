@@ -1371,6 +1371,13 @@ output: {state_dir}/results/results.jsonl
 
 服务对象: 滴滴能源(加油/充电/电力/乡村)。详细规则同 derive_business_view.py 的 PROMPT。
 
+CRITICAL `is_national_level_originated` 语义(2026-05-08 A.1 校准):
+- 此字段判定**这份文件本身**是否由国家级机关发文,**不是**判断内容是否引用国家政策
+- true  = issuer 是 NDRC / 国务院 / 能源局 / 工信部等国家机关 → 无 derives_from upstream
+- false = issuer 含"省/市/自治区/直辖市"等地方机关(即便内容转发/落地国家方案)→ apply 会写 derives_from
+- 误判后果:34/48 误标 true 时,apply 跳过 derives_from 全部写入,丢失上下游边
+- 判别口诀:**看 fm.issuer 字段第一项,不看内容来源**
+
 CRITICAL: 处理全部行;ensure_ascii=False;不修改 vault;output ONE JSON per line.
 """
 
