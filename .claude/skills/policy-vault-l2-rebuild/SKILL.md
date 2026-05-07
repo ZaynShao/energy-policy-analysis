@@ -660,6 +660,15 @@ hook 不会让既有违规 commit 越来越多 — 只阻断**新引入**的违�
 
 **用户体验改善**:修完后 `[[P_xxx]]` 引用(在 opinions-summary / themes / 其他反链页等)正确解析到 raw 政策原文,而不是派生 hub 页。raw 政策 graph view 显示其全部关系边。
 
+**hub 页约定(2026-05-07 加)**:派生层目录(如 `2_crystallized/themes/<NAME>/`)
+若被外部 `[[<NAME>]]` 引用(_global_index 等),目录下必须有 `<NAME>.md` 同名 hub 页
+作为 Obsidian 入口 — 否则 wiki link 解析失败(Obsidian 不解析目录链接)。
+
+参考:
+- `2_crystallized/regions/江苏省/江苏省.md`(早期已对的设计)
+- `2_crystallized/themes/<NAME>/<NAME>.md`(2026-05-07 由 crystallize_theme.py
+  `render_theme_hub` 生成,含主题文档兄弟链接 + 重要性 Top 5 政策 [[]] 兜底)
+
 ## 8e. 派生 .md 必须有消费者契约(2026-05-07 加入)
 
 **背景**:本会话清理时发现 `1_extracted/diffs/` 22 个 + `1_extracted/entities/<type>/`

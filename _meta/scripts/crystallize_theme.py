@@ -344,6 +344,58 @@ def render_regional_coverage(theme_id, theme_zh, policies):
     return "\n".join(lines)
 
 
+def render_theme_hub(theme_id, theme_zh, theme_dir, out_dir, policies, opinion_pids):
+    """生成 <NAME>/<NAME>.md — 主题 hub 页(被 _global_index [[NAME]] 引用)。
+
+    SKILL §8c:派生页关于"某主题"的,body 顶部应显式列出 [[]] link 让 graph 入图。
+    SKILL §8e:本页消费者明确 = _global_index.md 的 [[<NAME>]] 链接 + Obsidian
+    用户从 graph 点击。
+    """
+    base = f"2_crystallized/themes/{theme_dir}"
+    sibling_links = []
+    for sib, label in [
+        ("overview", "主题概览(LLM 综述)"),
+        ("timeline", "政策时间线"),
+        ("regional-coverage", "区域覆盖矩阵"),
+        ("opinions-summary", "观点综述"),
+    ]:
+        if (out_dir / f"{sib}.md").exists():
+            sibling_links.append(f"- [[{base}/{sib}|{label}]]")
+
+    # Top 5 重要性政策(graph 兜底引用,SKILL §8c)
+    top5 = sorted(policies, key=lambda p: -(p.get("importance", 0) or 0))[:5]
+
+    lines = []
+    lines.append("---")
+    lines.append(f"theme_id: {theme_id}")
+    lines.append(f"theme_zh: {theme_zh}")
+    lines.append(f"theme_dir: {theme_dir}")
+    lines.append("type: theme_hub")
+    lines.append(f"policy_count: {len(policies)}")
+    lines.append(f"opinion_count: {len(opinion_pids)}")
+    lines.append(f"generated_at: {date.today().isoformat()}")
+    lines.append("generated_by: crystallize_theme.py (theme_hub)")
+    lines.append("---")
+    lines.append("")
+    lines.append(f"# {theme_zh}({theme_dir})— 主题入口")
+    lines.append("")
+    lines.append(f"**政策数**: {len(policies)}  ·  **观点矩阵**: {len(opinion_pids)}")
+    lines.append("")
+    lines.append("## 主题文档")
+    lines.append("")
+    lines.extend(sibling_links)
+    lines.append("")
+    if top5:
+        lines.append("## 重要性 Top 5(graph 兜底)")
+        lines.append("")
+        for p in top5:
+            stem = p["filename"][:-3] if p["filename"].endswith(".md") else p["filename"]
+            stars = "⭐" * (p.get("importance", 0) or 0)
+            lines.append(f"- {stars} [[{stem}|{p['title'][:50]}]]({p['date']})")
+        lines.append("")
+    return "\n".join(lines)
+
+
 REGISTRY = VAULT / "_meta" / "themes_registry.yaml"
 
 
@@ -370,6 +422,13 @@ def crystallize_one(theme_id: str, theme_zh: str, aliases: list, dir_name: str =
     )
     (out_dir / "regional-coverage.md").write_text(
         render_regional_coverage(theme_id, theme_zh, policies), encoding="utf-8"
+    )
+    # hub 页(2026-05-07,SKILL §8e 契约)— 让 [[<NAME>]] 解析到该 theme
+    # 全 13 主题都生成,即使没 overview.md 也只列 3 个兄弟链接
+    actual_dir = dir_name or theme_id.upper()
+    (out_dir / f"{actual_dir}.md").write_text(
+        render_theme_hub(theme_id, theme_zh, actual_dir, out_dir, policies, opinion_pids),
+        encoding="utf-8",
     )
 
     region_dist = defaultdict(lambda: defaultdict(int))

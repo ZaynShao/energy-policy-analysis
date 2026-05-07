@@ -4,7 +4,7 @@ title: 国家发展改革委 国家能源局关于加强新形势下电力系统
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-07T15:11:55+08:00'
+last_updated: '2026-05-07T16:36:04+08:00'
 policy_file: ../../../0_raw/policies/【国家发展改革委 国家能源局关于加强新形势下电力系统稳定工作的指导意见(发改能源〔2023〕1294号)】-国家发展改革委、国家能源局-49f1.md
 ---
 

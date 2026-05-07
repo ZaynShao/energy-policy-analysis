@@ -4,7 +4,7 @@ title: 上海市加快建立产品碳足迹管理体系打造绿色低碳供应�
 inbound_edge_count: 2
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-07T15:11:56+08:00'
+last_updated: '2026-05-07T16:36:04+08:00'
 policy_file: ../../../0_raw/policies/【上海市加快建立产品碳足迹管理体系打造绿色低碳供应链行动方案(沪府办〔2024〕8号)】-上海市人民政府办公厅-0bc5.md
 ---
 
