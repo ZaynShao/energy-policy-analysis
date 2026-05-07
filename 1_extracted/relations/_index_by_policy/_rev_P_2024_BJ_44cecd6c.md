@@ -4,7 +4,7 @@ title: 北京市人民政府办公厅关于印发《2024年北京市人民政府
 inbound_edge_count: 3
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:58+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【北京市人民政府办公厅关于印发《2024年北京市人民政府重大行政 ...(京政办发〔2024〕8号)】-北京市人民政府-44cecd6c.md
 ---
 

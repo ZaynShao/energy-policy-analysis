@@ -4,7 +4,7 @@ title: 上海市加快推进绿色低碳转型行动方案(2024—2027年)
 inbound_edge_count: 5
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:58+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【上海市加快推进绿色低碳转型行动方案(2024—2027年)(沪府发〔2024〕8号)】-上海市人民政府-3de7.md
 ---
 

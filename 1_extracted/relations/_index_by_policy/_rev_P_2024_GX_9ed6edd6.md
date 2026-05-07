@@ -4,7 +4,7 @@ title: 关于公布2024年5月列入广西售电公司目录企业名单的通�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:58+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【关于公布2024年5月列入广西售电公司目录企业名单的通知（第三批）】-广西壮族自治区发展和改革委员会-9ed6edd6.md
 ---
 

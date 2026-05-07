@@ -4,7 +4,7 @@ title: 济宁市人民政府 国家、省政策文件 关于贯彻发改价格�
 inbound_edge_count: 0
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:58+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【济宁市人民政府 国家、省政策文件 关于贯彻发改价格〔2023〕1501号文件完善我省容量电价机制有关事项的通知（鲁发改价格〔2023〕1022号）(关于贯彻发改价格〔2023〕1501号)】-政府门户.www.ji.md
 ---
 

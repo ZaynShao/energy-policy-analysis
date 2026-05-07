@@ -4,7 +4,7 @@ title: 2025年电力市场秩序突出问题专项监管
 inbound_edge_count: 0
 outbound_edge_count: 11
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:59+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【2025年电力市场秩序突出问题专项监管(国能综通监管〔2025〕58号)】-国家能源局综合司-7bd4.md
 ---
 

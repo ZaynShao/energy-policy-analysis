@@ -4,7 +4,7 @@ title: 安徽省能源局安徽省物价局国家能源局华东监管局关于�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:59+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【安徽省能源局安徽省物价局国家能源局华东监管局关于印发《安徽省 ...(皖能源电力〔2016〕78号)】-安徽省发展和改革委员会-ae5294fd.md
 ---
 

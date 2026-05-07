@@ -4,7 +4,7 @@ title: 北京市2026年电力市场化交易方案、绿色电力交易方案
 inbound_edge_count: 1
 outbound_edge_count: 8
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:59+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【北京市2026年电力市场化交易方案、绿色电力交易方案(京管发〔2025〕4号)】-北京市城市管理委员会-9576.md
 ---
 

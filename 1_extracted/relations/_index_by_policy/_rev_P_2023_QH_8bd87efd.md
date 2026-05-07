@@ -4,7 +4,7 @@ title: 省能源局多措并举推动“揭榜挂帅”新型储能示范项目�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:25:59+08:00'
+last_updated: '2026-05-08T02:34:58+08:00'
 policy_file: ../../../0_raw/policies/【省能源局多措并举推动“揭榜挂帅”新型储能示范项目建设】-青海省发展和改革委员会-8bd87efd.md
 ---
 

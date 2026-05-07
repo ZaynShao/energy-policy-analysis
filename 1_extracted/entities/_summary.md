@@ -5,10 +5,10 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **907**
+- 输入政策: **900**
 - registry 实体: **99**
-- 命中实体的政策: **872**
-- 零实体命中政策: **35**(召回缺口,LLM 补抽 candidate)
+- 命中实体的政策: **867**
+- 零实体命中政策: **33**(召回缺口,LLM 补抽 candidate)
 - 平均每政策命中实体: **7.2**
 - 已被引用的 canonical: **73/99**
 - 孤儿 canonical(0 政策引用): **26**
@@ -25,25 +25,25 @@ date: 2026-04-25
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
 | 1 | `nea` | 国家能源局 | org | 348 |
-| 2 | `power_market` | 电力市场 | concept | 322 |
+| 2 | `power_market` | 电力市场 | concept | 320 |
 | 3 | `state_council` | 国务院 | org | 292 |
 | 4 | `grid_company` | 电网企业 | stakeholder / org | 284 |
-| 5 | `distribution_grid_opening` | 配电网开放 | theme | 275 |
+| 5 | `distribution_grid_opening` | 配电网开放 | theme | 274 |
 | 6 | `new_ess` | 新型储能 | concept | 249 |
 | 7 | `rural_revitalization_theme` | 乡村振兴 | theme | 245 |
 | 8 | `nev` | 新能源汽车 | concept | 239 |
-| 9 | `vpp` | 虚拟电厂 | concept | 210 |
-| 10 | `green_power_trading_theme` | 绿电交易 | theme | 201 |
-| 11 | `region_beijing` | 北京 | region | 182 |
-| 12 | `power_user` | 电力用户 | stakeholder | 162 |
-| 13 | `region_shanghai` | 上海 | region | 145 |
-| 14 | `region_xinjiang` | 新疆 | region | 144 |
-| 15 | `energy_storage_theme` | 新型储能 | theme | 140 |
+| 9 | `vpp` | 虚拟电厂 | concept | 209 |
+| 10 | `green_power_trading_theme` | 绿电交易 | theme | 200 |
+| 11 | `region_beijing` | 北京 | region | 181 |
+| 12 | `power_user` | 电力用户 | stakeholder | 161 |
+| 13 | `region_shanghai` | 上海 | region | 144 |
+| 14 | `region_xinjiang` | 新疆 | region | 143 |
+| 15 | `energy_storage_theme` | 新型储能 | theme | 139 |
 | 16 | `charging_infra` | 充电基础设施 | concept | 139 |
-| 17 | `power_generator` | 发电企业 | stakeholder | 135 |
+| 17 | `power_generator` | 发电企业 | stakeholder | 133 |
 | 18 | `equipment_renewal_theme` | 以旧换新 | theme | 132 |
-| 19 | `aggregator_access` | 聚合商准入 | theme | 128 |
-| 20 | `vpp_theme` | 虚拟电厂 | theme | 118 |
+| 19 | `aggregator_access` | 聚合商准入 | theme | 127 |
+| 20 | `vpp_theme` | 虚拟电厂 | theme | 117 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 
@@ -82,7 +82,6 @@ date: 2026-04-25
 - `P_1900_SN_41cca677`
 - `P_2023_GO_0e239de9`
 - `P_2019_BJ_7953e5fb`
-- `P_1900_SN_0088a6ec`
 - `P_2025_GO_4f82af00`
 - `P_2021_SC_028ec539`
 - `P_2020_GO_5ad272e2`
@@ -95,7 +94,8 @@ date: 2026-04-25
 - `P_2026_GO_e0ac73e6`
 - `P_2025_GO_cfb56b55`
 - `P_2023_CQ_e490adb4`
-- `P_1900_SN_b1e3ca36`
 - `P_2024_GO_537ff24a`
 - `P_2026_AH_1f64a250`
-- ... 共 35 条
+- `P_2025_GO_dca47220`
+- `P_2026_GO_5c0cf20a`
+- ... 共 33 条

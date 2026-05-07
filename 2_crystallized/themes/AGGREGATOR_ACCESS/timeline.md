@@ -2,7 +2,7 @@
 theme: aggregator_access
 theme_name: 聚合商准入
 title: 政策时间线
-total_policies: 121
+total_policies: 120
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (auto data)
 ---
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (auto data)
 
 按行政层级 + 日期排序。仅列**重要性 ≥4** 的政策(全量见 _input.json)。
 
-## 国家级(38 篇,≥4 分 25 篇)
+## 国家级(37 篇,≥4 分 25 篇)
 
 - **2020-06-30**  ⭐⭐⭐⭐  `P_2020_NDRC_06306aac`
   - 电力中长期交易基本规则(暂行)
@@ -187,8 +187,8 @@ generated_by: crystallize_theme.py (auto data)
 
 ## 时间线观察(自动统计)
 
-- 主题总政策数:**121**
+- 主题总政策数:**120**
 - 重要性 ≥4 的政策:**54** (45%)
-- 平均重要性:**3.08**
+- 平均重要性:**3.24**
 - 政策密集年份:**2025** (38 篇)
 - 年度分布:2015=1 · 2019=2 · 2020=4 · 2021=1 · 2022=13 · 2023=16 · 2024=31 · 2025=38 · 2026=14
