@@ -1,0 +1,23 @@
+pid: P_2017_CQ_c8d99857
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接影响,后续试点结果若涉及充电站布点区可关注
+  电力_储能_V2G_交易: 试点扩面延续2480号制度,实质性条款较少
+  乡村: 无相关内容
+行动建议:
+- 'C 关注: 程序性扩面通知,无新增制度信号'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 新增试点配电网为站点直购电增加可选区域
+archive: low_score

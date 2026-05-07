@@ -4,7 +4,7 @@ title: 江苏省发展改革委关于印发江苏省“十四五”新型储能�
 inbound_edge_count: 0
 outbound_edge_count: 7
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【江苏省发展改革委关于印发江苏省“十四五”新型储能发展实施方案的 ...】-政府门户.www.wnd.gov.cn-0ae1a2cc.md
 ---
 

@@ -4,7 +4,7 @@ title: 对于尚未纳入电网规划的新能源企业自行建设的配套电�
 inbound_edge_count: 1
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【对于尚未纳入电网规划的新能源企业自行建设的配套电力送出工程】-广西壮族自治区发展和改革委员会-db65ac0c.md
 ---
 

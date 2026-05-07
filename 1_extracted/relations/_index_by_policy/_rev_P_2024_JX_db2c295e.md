@@ -4,7 +4,7 @@ title: 《电力市场运行基本规则》2024年第20号令- 江西省发展�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【《电力市场运行基本规则》2024年第20号令- 江西省发展和改革委员会】-江西省发展和改革委员会-db2c295e.md
 ---
 

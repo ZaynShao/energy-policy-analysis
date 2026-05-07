@@ -4,7 +4,7 @@ title: 关于印发《抽水蓄能电站开发建设管理暂行办法》的通�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【关于印发《抽水蓄能电站开发建设管理暂行办法》的通知(发改能源规 ...(发改能源规〔2025〕93号)】-国家发展和改革委员会-efca57ff.md
 ---
 

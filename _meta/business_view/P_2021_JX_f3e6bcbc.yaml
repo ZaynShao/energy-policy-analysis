@@ -1,0 +1,23 @@
+pid: P_2021_JX_f3e6bcbc
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响,涉及成品油储备与价格监管间接相关
+  充电: 充电基础设施未独立部署,但产业链与制造业整体扩张可能带动工业园区充电需求增长
+  电力_储能_V2G_交易: 提及加强抽水蓄能等储能调节能力建设、推进能源储备与有序用电,对储能投资有间接信号
+  乡村: 未直接部署
+行动建议:
+- 'C 关注: 综合性产业政策,对配网开放主题相关性弱'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 工业稳增长综合方案,对充电基础设施未直接专章部署
+archive: low_score

@@ -1,0 +1,23 @@
+pid: P_2024_HE_9c1b1a8f
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 无直接影响
+  电力_储能_V2G_交易: 无直接影响
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 索引页型记录,需追溯具体政策原文方有价值'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 页面索引,无可操作信息
+archive: low_score

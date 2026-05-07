@@ -1,0 +1,23 @@
+pid: P_2025_CQ_f2034a09
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 重庆十五五配电网规划编制阶段,后续配网项目储备库直接影响充电站接入与投建排期
+  电力_储能_V2G_交易: 配电网规划研究启动,十五五期间分布式储能、V2G接入空间将由该规划确定
+  乡村: 未明确乡村专项,但县域配电网项目储备纳入研究范围
+行动建议:
+- 'B 研究: 跟进研究承担单位结题报告,识别重庆充电/储能接入新机会'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 重庆十五五配电网规划编制启动,长期影响配网投资节奏
+archive: low_score

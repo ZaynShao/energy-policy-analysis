@@ -4,7 +4,7 @@ title: 成品油流通管理办法
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 3
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197.md
 ---
 

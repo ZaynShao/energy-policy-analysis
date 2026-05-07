@@ -4,7 +4,7 @@ title: 海南省发展和改革委员会国家能源局南方监管局关于印�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【海南省发展和改革委员会国家能源局南方监管局关于印发海南省2021 ...(琼发改能源〔2020〕998号)】-海南省发展和改革委员会-5b94d4bc.md
 ---
 

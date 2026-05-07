@@ -3,7 +3,7 @@ theme_id: charging_infra
 theme_zh: 充电基础设施
 theme_dir: CHARGING_INFRA
 type: theme_hub
-policy_count: 127
+policy_count: 128
 opinion_count: 15
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 充电基础设施(CHARGING_INFRA)— 主题入口
 
-**政策数**: 127  ·  **观点矩阵**: 15
+**政策数**: 128  ·  **观点矩阵**: 15
 
 ## 主题文档
 

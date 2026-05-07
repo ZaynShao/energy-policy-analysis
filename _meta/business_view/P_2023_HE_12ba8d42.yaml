@@ -1,0 +1,23 @@
+pid: P_2023_HE_12ba8d42
+scores:
+  D1: 1
+  D2: 2
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 增量配电网内充电站随配电网企业基本电费下浮(70%/90%)享受成本传导空间
+  电力_储能_V2G_交易: 增量配电网与省级电网结算细节,影响配电网内储能/售电业务现金流
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 操作细节,依赖于具体增量配电网区域才有意义'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 增量配电网企业基本电费结算下浮,降低运营成本
+archive: low_score

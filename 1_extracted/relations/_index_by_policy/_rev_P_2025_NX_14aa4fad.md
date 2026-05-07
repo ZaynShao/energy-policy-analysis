@@ -4,7 +4,7 @@ title: 自治区发展改革委关于优化2025年区内电力中长期市场交
 inbound_edge_count: 0
 outbound_edge_count: 7
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【自治区发展改革委关于优化2025年区内电力中长期市场交易的通知_宁夏回族自治区发展和改革委员会(宁发改运行〔2025〕23号)】-宁夏回族自治区发展和改革委员会-14aa4fad.md
 ---
 

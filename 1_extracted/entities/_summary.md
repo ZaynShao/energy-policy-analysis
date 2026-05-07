@@ -5,11 +5,11 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **804**
+- 输入政策: **842**
 - registry 实体: **99**
-- 命中实体的政策: **773**
+- 命中实体的政策: **811**
 - 零实体命中政策: **31**(召回缺口,LLM 补抽 candidate)
-- 平均每政策命中实体: **7.4**
+- 平均每政策命中实体: **7.3**
 - 已被引用的 canonical: **72/99**
 - 孤儿 canonical(0 政策引用): **27**
 
@@ -24,26 +24,26 @@ date: 2026-04-25
 
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
-| 1 | `nea` | 国家能源局 | org | 315 |
-| 2 | `power_market` | 电力市场 | concept | 297 |
-| 3 | `state_council` | 国务院 | org | 262 |
-| 4 | `grid_company` | 电网企业 | stakeholder / org | 241 |
-| 5 | `new_ess` | 新型储能 | concept | 238 |
-| 6 | `distribution_grid_opening` | 配电网开放 | theme | 238 |
-| 7 | `nev` | 新能源汽车 | concept | 225 |
-| 8 | `rural_revitalization_theme` | 乡村振兴 | theme | 223 |
-| 9 | `green_power_trading_theme` | 绿电交易 | theme | 181 |
-| 10 | `vpp` | 虚拟电厂 | concept | 180 |
-| 11 | `region_beijing` | 北京 | region | 171 |
-| 12 | `region_shanghai` | 上海 | region | 138 |
-| 13 | `power_user` | 电力用户 | stakeholder | 135 |
-| 14 | `region_xinjiang` | 新疆 | region | 135 |
-| 15 | `energy_storage_theme` | 新型储能 | theme | 131 |
-| 16 | `charging_infra` | 充电基础设施 | concept | 130 |
-| 17 | `equipment_renewal_theme` | 以旧换新 | theme | 127 |
-| 18 | `power_generator` | 发电企业 | stakeholder | 115 |
-| 19 | `aggregator_access` | 聚合商准入 | theme | 112 |
-| 20 | `mof` | 财政部 | org | 111 |
+| 1 | `nea` | 国家能源局 | org | 330 |
+| 2 | `power_market` | 电力市场 | concept | 306 |
+| 3 | `state_council` | 国务院 | org | 275 |
+| 4 | `distribution_grid_opening` | 配电网开放 | theme | 267 |
+| 5 | `grid_company` | 电网企业 | stakeholder / org | 264 |
+| 6 | `new_ess` | 新型储能 | concept | 242 |
+| 7 | `rural_revitalization_theme` | 乡村振兴 | theme | 229 |
+| 8 | `nev` | 新能源汽车 | concept | 227 |
+| 9 | `green_power_trading_theme` | 绿电交易 | theme | 189 |
+| 10 | `vpp` | 虚拟电厂 | concept | 184 |
+| 11 | `region_beijing` | 北京 | region | 176 |
+| 12 | `power_user` | 电力用户 | stakeholder | 148 |
+| 13 | `region_shanghai` | 上海 | region | 141 |
+| 14 | `region_xinjiang` | 新疆 | region | 138 |
+| 15 | `energy_storage_theme` | 新型储能 | theme | 135 |
+| 16 | `charging_infra` | 充电基础设施 | concept | 131 |
+| 17 | `equipment_renewal_theme` | 以旧换新 | theme | 128 |
+| 18 | `power_generator` | 发电企业 | stakeholder | 127 |
+| 19 | `aggregator_access` | 聚合商准入 | theme | 114 |
+| 20 | `mof` | 财政部 | org | 112 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 

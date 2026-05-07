@@ -1324,3 +1324,259 @@ items:
     ref_count: 1
     evidence_sample: 文中明确依据国家'三年倍增'行动目标到2027年建成2800万个
     last_seen: '2026-05-08T01:42:32'
+  国家能源局《关于进一步落实分布式光伏发电有关政策的通知》(国能新能〔2014〕406号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2015_TJ_9ec9c169
+    ref_count: 1
+    evidence_sample: 正文明确依据国能新能〔2014〕406/445/477号
+    last_seen: '2026-05-08T02:05:20'
+  国能新能〔2014〕445号:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2015_TJ_9ec9c169
+    ref_count: 1
+    evidence_sample: 正文明确依据国能新能〔2014〕406/445/477号
+    last_seen: '2026-05-08T02:05:20'
+  国能新能〔2014〕477号:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2015_TJ_9ec9c169
+    ref_count: 1
+    evidence_sample: 正文明确依据国能新能〔2014〕406/445/477号
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委、能源局《关于请报送第二批增量配电业务改革试点项目的通知》(发改办经体〔2017〕1264号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2017_CQ_c8d99857
+    ref_count: 1
+    evidence_sample: 明确依据国家发改委1264号及2480号文
+    last_seen: '2026-05-08T02:05:20'
+  河北省有序放开配电网业务项目管理办法(冀发改能源〔2017〕750号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2019_HE_c8a289f5
+    ref_count: 1
+    evidence_sample: 明确转发国家1097号并配套省级落地
+    last_seen: '2026-05-08T02:05:20'
+  增量配电业务配电区域划分实施办法(发改能源规〔2018〕424号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2019_HE_c8a289f5
+    ref_count: 1
+    evidence_sample: 明确转发国家1097号并配套省级落地
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委《关于核定2020~2022年省级电网输配电价的通知》:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_LN_a4a7773c
+    ref_count: 1
+    evidence_sample: issuer为辽宁省发改委转载国家发改委网站文章
+    last_seen: '2026-05-08T02:05:20'
+  发改办价格〔2020〕110号 支持性两部制电价:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_TJ_55280b8a
+    ref_count: 1
+    evidence_sample: 正文明确依据258号文
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委办公厅《关于组织开展电网企业代理购电工作有关事项的通知》(发改办价格〔2021〕809号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_GZ_449c8d68
+    ref_count: 1
+    evidence_sample: 明确依据国家809号、1439号文
+    last_seen: '2026-05-08T02:05:20'
+  黔发改价格〔2019〕596号 配电价格机制:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2021_GZ_449c8d68
+    ref_count: 1
+    evidence_sample: 明确依据国家809号、1439号文
+    last_seen: '2026-05-08T02:05:20'
+  发改办价格〔2021〕809号:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_HE_900a18f5
+    ref_count: 1
+    evidence_sample: 明确依据国家1439/809/365号文
+    last_seen: '2026-05-08T02:05:20'
+  发改电〔2021〕365号:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_HE_900a18f5
+    ref_count: 1
+    evidence_sample: 明确依据国家1439/809/365号文
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委《关于核定2020-2022年省级电网输配电价的通知》(发改价格规〔2020〕1508号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_HL_850d9c6d
+    ref_count: 1
+    evidence_sample: 明确依据1508号
+    last_seen: '2026-05-08T02:05:20'
+  发改产业〔2022〕273号 促进工业经济平稳增长若干政策:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_JX_f3e6bcbc
+    ref_count: 1
+    evidence_sample: 明确依据国家1780号、273号
+    last_seen: '2026-05-08T02:05:20'
+  重庆市企业投资项目核准和备案管理办法:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2022_CQ_7be6b9f2
+    ref_count: 1
+    evidence_sample: issuer为重庆市发改委,项目级核准批复
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委令第16号 必须招标的工程项目规定:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2022_CQ_7be6b9f2
+    ref_count: 1
+    evidence_sample: issuer为重庆市发改委,项目级核准批复
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委、工信部等六部委《关于深入推进供给侧结构性改革做好新形势下电力需求侧管理工作的通知》(发改运行规〔2017〕1690号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2023_GO_06dd3d71
+    ref_count: 1
+    evidence_sample: 依据国家1690号文及省有关文件;issuer虽标记国家级但实质为厦门市发改委发布
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委《关于十四五时期深化价格机制改革行动方案的通知》(发改价格〔2021〕689号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_HA_4b539d50
+    ref_count: 1
+    evidence_sample: 明确依据689号文
+    last_seen: '2026-05-08T02:05:20'
+  全国电力安全生产重大事故隐患专项排查整治2023年行动方案:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_NX_bec9553d
+    ref_count: 1
+    evidence_sample: 依据2023年专项行动方案;issuer为宁夏自治区发改委
+    last_seen: '2026-05-08T02:05:20'
+  习近平总书记重要指示精神:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2023_NX_bec9553d
+    ref_count: 1
+    evidence_sample: 依据2023年专项行动方案;issuer为宁夏自治区发改委
+    last_seen: '2026-05-08T02:05:20'
+  闽政〔2024〕5号:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_FJ_21c28996
+    ref_count: 1
+    evidence_sample: 明确依据国发7号、发改办能源687号、闽政5号
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委《电力负荷管理办法(2023版)》:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_FJ_89cec6cc
+    ref_count: 1
+    evidence_sample: 明确依据国家2023版办法
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委《电力需求侧管理办法(2023版)》:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_FJ_89cec6cc
+    ref_count: 1
+    evidence_sample: 明确依据国家2023版办法
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委办公厅、市场监管总局办公厅《关于规范电动自行车充电收费行为的通知》(发改办价格〔2024〕537号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_GZ_abd188fb
+    ref_count: 1
+    evidence_sample: 明确转发国家537号文
+    last_seen: '2026-05-08T02:05:20'
+  国家配电网高质量发展相关要求(隐含):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_CQ_f2034a09
+    ref_count: 1
+    evidence_sample: issuer为重庆市发改委,本文为程序性比选公告
+    last_seen: '2026-05-08T02:05:20'
+  联合国2030年可持续发展议程:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2025_GO_00d42585
+    ref_count: 1
+    evidence_sample: issuer为鄂尔多斯市政府(地市级,非国家),本文为地市级方案
+    last_seen: '2026-05-08T02:05:20'
+  鄂尔多斯市可持续发展规划(2022-2030):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2025_GO_00d42585
+    ref_count: 1
+    evidence_sample: issuer为鄂尔多斯市政府(地市级,非国家),本文为地市级方案
+    last_seen: '2026-05-08T02:05:20'
+  国务院《关于全国部分地区要素市场化配置综合改革试点实施方案的批复》(国函〔2025〕86号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_GO_3c6a426f
+    ref_count: 1
+    evidence_sample: issuer标记为河南省地方金融监管局门户(转发),内容核心为国务院批复;但本文件作为转发,issuer非国家级
+    last_seen: '2026-05-08T02:05:20'
+  海南省企业投资项目备案管理办法:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2025_HI_b93c4460
+    ref_count: 1
+    evidence_sample: 明确依据国能发新能规〔2025〕7号
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委《关于进一步完善分时电价机制的通知》(发改价格〔2021〕1093号):
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_HN_3958e51f
+    ref_count: 1
+    evidence_sample: 明确依据1093号
+    last_seen: '2026-05-08T02:05:20'
+  国家发改委、能源局《关于深化新能源上网电价市场化改革促进新能源高质量发展实施方案》:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_SX_281cbdab
+    ref_count: 1
+    evidence_sample: 明确依据国家136号文及山西322号
+    last_seen: '2026-05-08T02:05:20'
+  晋发改商品发〔2025〕322号:
+    first_seen: '2026-05-08T02:05:20'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_SX_281cbdab
+    ref_count: 1
+    evidence_sample: 明确依据国家136号文及山西322号
+    last_seen: '2026-05-08T02:05:20'

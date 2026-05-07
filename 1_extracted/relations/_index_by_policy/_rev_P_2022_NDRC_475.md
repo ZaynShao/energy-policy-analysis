@@ -4,7 +4,7 @@ title: 关于进一步推动新型储能参与电力市场和调度运用的通�
 inbound_edge_count: 20
 outbound_edge_count: 3
 commentary_inbound_count: 4
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【关于进一步推动新型储能参与电力市场和调度运用的通知(发改办运行〔2022〕475号)】-国家发展和改革委员会办公厅、国家能源局综合司-c05f.md
 ---
 

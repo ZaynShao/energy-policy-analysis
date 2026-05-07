@@ -4,7 +4,7 @@ title: 国家能源局关于组织开展新型电力系统建设第一批试点�
 inbound_edge_count: 5
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【国家能源局关于组织开展新型电力系统建设第一批试点工作的通知(国能发电力〔2025〕53号)】-国家能源局-53a6.md
 ---
 

@@ -4,7 +4,7 @@ title: 关于印发《上海市交通领域大规模设施设备更新专项工�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-08T01:43:17+08:00'
+last_updated: '2026-05-08T02:06:10+08:00'
 policy_file: ../../../0_raw/policies/【关于印发《上海市交通领域大规模设施设备更新专项工作方案（2024 ...(沪交科〔2024〕501号)】-政府门户.jtw.sh.gov.cn-dbaa3e11.md
 ---
 

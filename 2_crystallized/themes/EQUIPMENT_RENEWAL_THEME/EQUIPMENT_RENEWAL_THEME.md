@@ -3,7 +3,7 @@ theme_id: equipment_renewal_theme
 theme_zh: 设备更新与以旧换新
 theme_dir: EQUIPMENT_RENEWAL_THEME
 type: theme_hub
-policy_count: 120
+policy_count: 121
 opinion_count: 19
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 设备更新与以旧换新(EQUIPMENT_RENEWAL_THEME)— 主题入口
 
-**政策数**: 120  ·  **观点矩阵**: 19
+**政策数**: 121  ·  **观点矩阵**: 19
 
 ## 主题文档
 
