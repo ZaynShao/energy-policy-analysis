@@ -4,7 +4,7 @@ title: 加快建设多能互补的新型能源体系
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:56+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【加快建设多能互补的新型能源体系】-政府门户.www.xjhb.gov.cn-ed92d7fb.md
 ---
 

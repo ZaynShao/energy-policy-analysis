@@ -1,0 +1,23 @@
+pid: P_2025_SH_a083b151
+scores:
+  D1: 2
+  D2: 2
+  D3: 3
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 新能源车销量81.7%同比增带来传统加油客户的结构性流失加速
+  充电: 新车进入市场带动充电需求短期跳升,平台需扩容功率/网点
+  电力_储能_V2G_交易: 设备更新拉动配电、储能等基础设施投资,长期支撑V2G生态
+  乡村: 家电、电动两轮车下乡支撑郊县/乡镇能源服务延伸
+行动建议:
+- 'C 关注: 沪域新能源车保有量增速对充电网络容量规划的牵引'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 新能源车销量大幅增长,网约车与充电服务需求结构性扩张
+archive: low_score

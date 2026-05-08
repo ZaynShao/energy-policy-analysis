@@ -4,7 +4,7 @@ title: 自治区发展改革委关于印发《宁夏回族自治区2026年度充
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:56+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【自治区发展改革委关于印发《宁夏回族自治区2026年度充电基础设施 ...(宁发改电力〔2026〕151号)】-宁夏回族自治区发展和改革委员会-c1e77fe3.md
 ---
 

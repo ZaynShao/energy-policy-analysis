@@ -4,7 +4,7 @@ title: 广西壮族自治区发展和改革委员会 广西壮族自治区工业
 inbound_edge_count: 1
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:56+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【广西壮族自治区发展和改革委员会 广西壮族自治区工业和信息化厅关于做好第三监管周期输配电价和电网企业代理购电落实工作有关事项的通知
   - 通知公告 - 广西壮族自治(桂发改价格〔2023.md
 ---

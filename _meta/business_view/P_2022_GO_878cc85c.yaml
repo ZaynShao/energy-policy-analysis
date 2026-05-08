@@ -1,0 +1,22 @@
+pid: P_2022_GO_878cc85c
+scores:
+  D1: 5
+  D2: 4
+  D3: 5
+  D4: 5
+  D5: 3
+  D6: 4
+重要性: 5
+行动分类: A
+价值标签: []
+影响分析:
+  加油: 传统化石能源消费总量受控,加油市场长期承压;ESG披露成为合作前提
+  充电: 新型电力系统配套充电基础设施加速,清洁电力为充电站赋能
+  电力_储能_V2G_交易: 新型电力系统/绿电交易体系建设提速,储能与V2G获政策支撑;碳市场扩容预期
+  乡村: 郊区低碳产业园、农林光储项目可能与乡村充电出行结合
+行动建议:
+- 'B 研究: 平台碳账户体系与上海碳市场对接路径,识别可纳入CCER的减排场景'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 运输/能源结构双重低碳化倒逼平台减碳路径与电动化

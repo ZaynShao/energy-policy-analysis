@@ -1,0 +1,23 @@
+pid: P_2021_SH_f5815abd
+scores:
+  D1: 5
+  D2: 4
+  D3: 5
+  D4: 5
+  D5: 3
+  D6: 4
+重要性: 5
+行动分类: A
+价值标签: []
+影响分析:
+  加油: 网约车油转电节奏加速,加油业务在沪份额结构性收缩
+  充电: 网约车充电需求规模化释放,公共/快充站布局是关键;城市充电网络车桩比2:1要求提升运营密度
+  电力_储能_V2G_交易: 新型电力系统建设伴随车网互动试点扩大,V2G/有序充电场景成熟
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 配合沪网约车纯电过渡进行车桩匹配规划,加密商圈/居住区直流快充'
+- 'B 研究: V2G参与电网互动的运营/收益模型'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 沪网约车新增车辆全面纯电,平台调度与充电服务承压上行

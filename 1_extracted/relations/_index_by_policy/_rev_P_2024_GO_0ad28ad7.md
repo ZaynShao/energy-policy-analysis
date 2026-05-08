@@ -4,7 +4,7 @@ title: 省发展改革委转发《国家发展改革委关于第三监管周期�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:55+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【省发展改革委转发《国家发展改革委关于第三监管周期省级电网输配 ...】-政府门户.fgw.nanjing.gov.cn-0ad28ad7.md
 ---
 

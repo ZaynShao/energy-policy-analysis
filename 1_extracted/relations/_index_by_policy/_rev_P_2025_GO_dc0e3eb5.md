@@ -4,7 +4,7 @@ title: — 1 — 附件1 2025 年能源领域行业标准制定计划 序 号 �
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:55+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【— 1 — 附件1 2025 年能源领域行业标准制定计划 序 号 项目编号 标准项目名称
   标准 类别 完成 年限 标准化管理机构 技术委员会或技术 归口单位】-国家能源局-dc0e3eb5.md
 ---

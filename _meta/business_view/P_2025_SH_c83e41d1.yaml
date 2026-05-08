@@ -1,0 +1,23 @@
+pid: P_2025_SH_c83e41d1
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 活动以中小企业服务为主,与加油零售业务无直接连接
+  充电: 无直接影响
+  电力_储能_V2G_交易: 无直接影响
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 区级信用惠企平台对中小车队/油站合作的潜在通道'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 区域信用惠企平台可作为本地企业服务合作触点
+archive: low_score

@@ -4,7 +4,7 @@ title: 2025年北京市进一步推动汽车以旧换新实施方案
 inbound_edge_count: 2
 outbound_edge_count: 8
 commentary_inbound_count: 1
-last_updated: '2026-05-08T11:00:56+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【2025年北京市进一步推动汽车以旧换新实施方案(京商流通字〔2025〕2号)】-北京市商务局等8部门-4b6f.md
 ---
 

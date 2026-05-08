@@ -299,6 +299,23 @@
       "filename": "【【关于加快建设全国统一电力市场体系的指导意见(发改体改〔2022〕118号)】-国家发展和改革委员会(发改体改〔2022〕118号)】-国家发展和改革委员会-dae672c9.md"
     },
     {
+      "id": "P_2022_SH_34824905",
+      "title": "上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件",
+      "date": "2022-02-24",
+      "official": "沪府办规〔2022〕1号",
+      "issuer": [
+        "上海市发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "310000",
+        "name": "上海市"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件(沪府办规〔2022〕1号)】-上海市发展和改革委员会-34824905.md"
+    },
+    {
       "id": "P_2022_GO_311f906d",
       "title": "【两会丨关于2021年国民经济和社会发展计划执行情况与2022年国民经济和社会发展计划草案的报告】-国家发展和改革委员会",
       "date": "2022-03-05",
@@ -656,23 +673,6 @@
       "filename": "【电力需求侧管理办法(2023年版)】-国家发展和改革委员会等六部门-7611.md"
     },
     {
-      "id": "P_2023_GD_db18148c",
-      "title": "广东省发展和改革委员会 - 广东省能源局关于印发《广东电力零售市场管理办法》的通知",
-      "date": "2023-09-27",
-      "official": "",
-      "issuer": [
-        "广东省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "440000",
-        "name": "广东省"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【广东省发展和改革委员会 - 广东省能源局关于印发《广东电力零售市场管理办法》的通知】-广东省发展和改革委员会-db18148c.md"
-    },
-    {
       "id": "P_2023_GD_8ec12248",
       "title": "广东省能源局关于印发《广东电力零售市场管理办法》的通知",
       "date": "2023-09-27",
@@ -688,6 +688,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【广东省能源局关于印发《广东电力零售市场管理办法》的通知】-广东省发展和改革委员会-8ec12248.md"
+    },
+    {
+      "id": "P_2023_GD_db18148c",
+      "title": "广东省发展和改革委员会 - 广东省能源局关于印发《广东电力零售市场管理办法》的通知",
+      "date": "2023-09-27",
+      "official": "",
+      "issuer": [
+        "广东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "440000",
+        "name": "广东省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【广东省发展和改革委员会 - 广东省能源局关于印发《广东电力零售市场管理办法》的通知】-广东省发展和改革委员会-db18148c.md"
     },
     {
       "id": "P_2023_SD_b285d119",
@@ -1064,23 +1081,6 @@
       "filename": "【福建省发展和改革委员会关于印发福建省电力负荷管理实施细则的通知 _ 本委规范性文件 _ 省发改委】-福建省发展和改革委员会-89cec6cc.md"
     },
     {
-      "id": "P_2024_SN_468da6ab",
-      "title": "陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委",
-      "date": "2024-05-17",
-      "official": "",
-      "issuer": [
-        "陕西省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "610000",
-        "name": "陕西省"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委】-陕西省发展和改革委员会-468da6ab.md"
-    },
-    {
       "id": "P_2024_SN_6a3d7fdd",
       "title": "陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施 ...",
       "date": "2024-05-17",
@@ -1096,6 +1096,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施 ...】-陕西省发展和改革委员会-6a3d7fdd.md"
+    },
+    {
+      "id": "P_2024_SN_468da6ab",
+      "title": "陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委",
+      "date": "2024-05-17",
+      "official": "",
+      "issuer": [
+        "陕西省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "610000",
+        "name": "陕西省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委】-陕西省发展和改革委员会-468da6ab.md"
     },
     {
       "id": "P_2024_SC_12_a",
@@ -1557,23 +1574,6 @@
       "filename": "【关于大力实施可再生能源替代行动的指导意见 - 河南省发展和改革委员会(发改能源〔2024〕1537号)】-河南省发展和改革委员会-2824bc55.md"
     },
     {
-      "id": "P_2024_ZJ_65c18e53",
-      "title": "省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知",
-      "date": "2024-11-01",
-      "official": "",
-      "issuer": [
-        "浙江省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "330000",
-        "name": "浙江省"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知】-浙江省发展和改革委员会-65c18e53.md"
-    },
-    {
       "id": "P_2024_GD_4f183861",
       "title": "广东省能源局关于做好2026年电力市场年度交易工作的通知",
       "date": "2024-11-01",
@@ -1589,6 +1589,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【广东省能源局关于做好2026年电力市场年度交易工作的通知】-广东省发展和改革委员会-4f183861.md"
+    },
+    {
+      "id": "P_2024_ZJ_65c18e53",
+      "title": "省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知",
+      "date": "2024-11-01",
+      "official": "",
+      "issuer": [
+        "浙江省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "330000",
+        "name": "浙江省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【省发展改革委 浙江能源监管办 省能源局关于做好2025年度浙江省电力市场化交易相关工作的通知】-浙江省发展和改革委员会-65c18e53.md"
     },
     {
       "id": "P_2024_MEE_1101f119",
@@ -1829,23 +1846,6 @@
       "filename": "【国家发展改革委国家能源局关于深化提升“获得电力”服务水平全面打造 ...(发改能源规〔2025〕624号)】-江西省发展和改革委员会-63772b05.md"
     },
     {
-      "id": "P_1900_HN_70420f94",
-      "title": "湖南省电力支撑能力提升行动方案（2022—2025年）",
-      "date": "2025-01-01",
-      "official": "",
-      "issuer": [
-        "湖南省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "430000",
-        "name": "湖南省"
-      },
-      "importance": 3,
-      "tags": [],
-      "filename": "【湖南省电力支撑能力提升行动方案（2022—2025年）】-湖南省发展和改革委员会-70420f94.md"
-    },
-    {
       "id": "P_2025_SD_e6ccca2a",
       "title": "山东深化电力市场化改革，明确新能源入市时间表",
       "date": "2025-01-01",
@@ -1861,6 +1861,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【山东深化电力市场化改革，明确新能源入市时间表】-山东省能源局-e6ccca2a.md"
+    },
+    {
+      "id": "P_1900_HN_70420f94",
+      "title": "湖南省电力支撑能力提升行动方案（2022—2025年）",
+      "date": "2025-01-01",
+      "official": "",
+      "issuer": [
+        "湖南省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "430000",
+        "name": "湖南省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【湖南省电力支撑能力提升行动方案（2022—2025年）】-湖南省发展和改革委员会-70420f94.md"
     },
     {
       "id": "P_2025_GO_0f4f2da4",
@@ -3327,7 +3344,7 @@
       "filename": "【2024 年能源领域行业标准制定计划项目】-国家能源局-4d012393.md"
     }
   ],
-  "policies_count": 195,
+  "policies_count": 196,
   "relations": [
     {
       "from": "P_2025_NDRC_1656_a",
@@ -3390,7 +3407,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_BJ_3701c968",
@@ -3401,7 +3418,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_BJ_3701c968",
@@ -3412,7 +3429,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_58",
@@ -3423,7 +3440,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_58",
@@ -3434,7 +3451,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_58",
@@ -3445,7 +3462,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_58",
@@ -3456,7 +3473,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_36",
@@ -3467,7 +3484,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_36",
@@ -3478,7 +3495,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_36",
@@ -3489,7 +3506,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_36",
@@ -3500,7 +3517,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_36",
@@ -3511,7 +3528,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_36",
@@ -3522,7 +3539,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_36",
@@ -3533,7 +3550,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_FJ_1220060b",
@@ -3544,7 +3561,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_2532ff54",
@@ -3555,7 +3572,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
+    },
+    {
+      "from": "P_2022_SH_34824905",
+      "to": "P_2020_GO_39_b",
+      "rel": "references",
+      "evidence": "厅印发的《新能源汽车产业发展规划（2021-2035年）》（国办发〔2020〕39号），进一步推动本市充",
+      "doc_num_matched": "国办发〔2020〕39号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -3566,7 +3594,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -3577,7 +3605,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
+    },
+    {
+      "from": "P_2025_SH_3",
+      "to": "P_2022_SH_34824905",
+      "rel": "references",
+      "evidence": "〈关于本市进一步推动充换电基础设施建设的实施意见〉的通知》（沪府办规〔2022〕1号）、《上海市推动电动",
+      "doc_num_matched": "沪府办规〔2022〕1号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_MIIT_60",
@@ -3588,7 +3627,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SC_fb908e63",
@@ -3599,7 +3638,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_GO_33651c82",
@@ -3610,7 +3649,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SC_cc687c4e",
@@ -3621,7 +3660,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_57f372bd",
@@ -3632,7 +3671,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_57f372bd",
@@ -3643,7 +3682,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HI_924d5bb2",
@@ -3654,7 +3693,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_a9a5497c",
@@ -3665,7 +3704,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2019_HA_6e13fc6b",
@@ -3676,7 +3715,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_LN_b8af81b7",
@@ -3687,7 +3726,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2017_GZ_f47663f2",
@@ -3698,7 +3737,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -3709,7 +3748,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -3720,7 +3759,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -3731,7 +3770,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_83de916f",
@@ -3742,7 +3781,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -3753,7 +3792,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_NDRC_475",
@@ -3764,7 +3803,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_SN_c3329f2b",
@@ -3775,7 +3814,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NM_f00c4428",
@@ -3786,7 +3825,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -3797,7 +3836,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3808,7 +3847,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3819,7 +3858,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3830,7 +3869,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3841,7 +3880,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3852,7 +3891,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_BJ_4",
@@ -3863,7 +3902,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -3874,7 +3913,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SD_0101d17a",
@@ -3885,7 +3924,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3896,7 +3935,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3907,7 +3946,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3918,7 +3957,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -3929,7 +3968,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -3940,7 +3979,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_bcf4a9d8",
@@ -3951,7 +3990,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_bcf4a9d8",
@@ -3962,7 +4001,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_GO_572b0ea8",
@@ -3973,7 +4012,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -3984,7 +4023,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_0d11749b",
@@ -3995,7 +4034,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -4006,7 +4045,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -4017,7 +4056,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -4028,7 +4067,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -4039,7 +4078,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -4050,7 +4089,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -4061,7 +4100,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -4072,7 +4111,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -4083,7 +4122,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_f7cdbaaf",
@@ -4094,7 +4133,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_ecfdb60b",
@@ -4105,7 +4144,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -4116,7 +4155,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -4127,7 +4166,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_ce9b782c",
@@ -4138,7 +4177,7 @@
       "evidence_count": 10,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_ce9b782c",
@@ -4149,7 +4188,7 @@
       "evidence_count": 5,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_ce9b782c",
@@ -4160,7 +4199,7 @@
       "evidence_count": 4,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_ce9b782c",
@@ -4171,7 +4210,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_ce9b782c",
@@ -4182,7 +4221,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_GD_6b3cf977",
@@ -4193,7 +4232,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_GD_6b3cf977",
@@ -4204,7 +4243,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_GD_6b3cf977",
@@ -4215,7 +4254,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GX_594",
@@ -4226,7 +4265,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GX_594",
@@ -4237,7 +4276,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_GX_8da1cac9",
@@ -4248,7 +4287,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GX_64d2bf01",
@@ -4259,7 +4298,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GX_64d2bf01",
@@ -4270,7 +4309,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_GX_583085e4",
@@ -4281,7 +4320,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_GX_583085e4",
@@ -4292,7 +4331,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_GX_a6b60bac",
@@ -4303,7 +4342,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -4314,7 +4353,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -4325,7 +4364,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_GO_e6f6f834",
@@ -4336,7 +4375,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_1c7a3139",
@@ -4347,7 +4386,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_1c7a3139",
@@ -4358,7 +4397,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_1c7a3139",
@@ -4369,7 +4408,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_53b1ddc3",
@@ -4380,7 +4419,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_53b1ddc3",
@@ -4391,7 +4430,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_53b1ddc3",
@@ -4402,7 +4441,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_JX_d7975d50",
@@ -4413,7 +4452,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_JX_d7975d50",
@@ -4424,7 +4463,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HE_0ba39595",
@@ -4435,7 +4474,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HE_79c43f8b",
@@ -4446,7 +4485,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HE_79c43f8b",
@@ -4457,7 +4496,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2021_HE_900a18f5",
@@ -4468,7 +4507,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HE_9a2d5057",
@@ -4479,7 +4518,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HE_9a2d5057",
@@ -4490,7 +4529,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HE_9a2d5057",
@@ -4501,7 +4540,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_ZJ_9913d312",
@@ -4512,7 +4551,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_HI_4eac1187",
@@ -4523,7 +4562,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_HI_0e896708",
@@ -4534,7 +4573,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_HI_e92db1eb",
@@ -4545,7 +4584,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -4556,7 +4595,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_OTHER7F45_060777c1",
@@ -4567,7 +4606,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_GO_a3388811",
@@ -4578,7 +4617,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_GO_a3388811",
@@ -4589,7 +4628,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_830",
@@ -4600,7 +4639,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_830",
@@ -4611,7 +4650,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_4c6d1c45",
@@ -4622,7 +4661,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_4c6d1c45",
@@ -4633,7 +4672,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_72fc216c",
@@ -4644,7 +4683,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_HN_4ff67fd4",
@@ -4655,7 +4694,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NDRC_1123_a",
@@ -4666,7 +4705,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -4677,7 +4716,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -4688,7 +4727,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -4699,7 +4738,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -4710,7 +4749,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -4721,7 +4760,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NEA_76",
@@ -4732,7 +4771,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NDRC_411",
@@ -4743,7 +4782,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2021_GZ_449c8d68",
@@ -4754,7 +4793,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_ad769c90",
@@ -4765,7 +4804,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_ad769c90",
@@ -4776,7 +4815,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -4787,7 +4826,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -4798,7 +4837,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -4809,7 +4848,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -4820,7 +4859,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -4831,7 +4870,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_FJ_fbf45d27",
@@ -4842,7 +4881,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_FJ_759b106d",
@@ -4853,7 +4892,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_FJ_2b5d229a",
@@ -4864,7 +4903,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_FJ_28bc7851",
@@ -4875,7 +4914,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -4886,7 +4925,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_CQ_3c8f1eea",
@@ -4897,7 +4936,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_413d5fdc",
@@ -4908,7 +4947,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_86",
@@ -4919,7 +4958,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_86",
@@ -4930,7 +4969,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_86",
@@ -4941,7 +4980,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -4952,7 +4991,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -4963,7 +5002,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_84593d49",
@@ -4974,7 +5013,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_84593d49",
@@ -4985,7 +5024,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -4996,7 +5035,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -5007,7 +5046,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_468da6ab",
@@ -5018,7 +5057,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_468da6ab",
@@ -5029,7 +5068,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -5040,7 +5079,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -5051,7 +5090,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -5062,7 +5101,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NEA_107",
@@ -7079,7 +7118,7 @@
       "reason": "对接国家2030碳达峰方案"
     }
   ],
-  "relations_count": 326,
+  "relations_count": 328,
   "diff_files": [],
   "opinion_policy_ids": [
     "P_2024_SH_28",
@@ -7112,6 +7151,7 @@
       "河南省": 11,
       "河北省": 3,
       "重庆市": 12,
+      "上海市": 6,
       "北京市": 6,
       "海南省": 3,
       "宁夏回族自治区": 3,
@@ -7122,7 +7162,6 @@
       "广东省": 8,
       "山东省": 9,
       "云南省": 1,
-      "上海市": 5,
       "福建省": 9,
       "陕西省": 5,
       "浙江省": 2,
@@ -7191,6 +7230,23 @@
       "filename": "【国家发展改革委等部门关于进一步提升电动汽车充电基础设施服务保障能力的实施意见(发改能源规〔2022〕53号)】-国家发改委等10部门-cb65.md"
     },
     {
+      "id": "P_2022_SH_34824905",
+      "title": "上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件",
+      "date": "2022-02-24",
+      "official": "沪府办规〔2022〕1号",
+      "issuer": [
+        "上海市发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "310000",
+        "name": "上海市"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件(沪府办规〔2022〕1号)】-上海市发展和改革委员会-34824905.md"
+    },
+    {
       "id": "P_2023_NDRC_092751f2_a",
       "title": "电力需求侧管理办法(2023年版)",
       "date": "2023-09-27",
@@ -7240,23 +7296,6 @@
       "importance": 5,
       "tags": [],
       "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
-    },
-    {
-      "id": "P_2024_CQ_04038544",
-      "title": "重庆市新能源汽车便捷超充行动计划(2024—2025年)",
-      "date": "2024-04-03",
-      "official": "",
-      "issuer": [
-        "重庆市人民政府办公厅"
-      ],
-      "region": {
-        "level": "省",
-        "code": "500000",
-        "name": "重庆市"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【重庆市新能源汽车便捷超充行动计划(2024—2025年)】-重庆市人民政府办公厅-1ede.md"
     }
   ]
 }

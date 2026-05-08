@@ -4,7 +4,7 @@ title: 扎实推动大规模设备更新和消费品以旧换新
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 1
-last_updated: '2026-05-08T11:00:56+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【扎实推动大规模设备更新和消费品以旧换新】-习近平经济思想研究中心-7d12.md
 ---
 

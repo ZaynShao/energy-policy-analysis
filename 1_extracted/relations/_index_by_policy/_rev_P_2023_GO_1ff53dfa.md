@@ -4,7 +4,7 @@ title: 《四川成都市电动汽车充（换）电基础设施建设运营政�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:55+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【《四川成都市电动汽车充（换）电基础设施建设运营政策措施实施 ...(川发改能源〔2023〕197号)】-未知机构-1ff53dfa.md
 ---
 

@@ -4,7 +4,7 @@ title: 推动消费品以旧换新行动方案
 inbound_edge_count: 8
 outbound_edge_count: 2
 commentary_inbound_count: 5
-last_updated: '2026-05-08T11:00:55+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【推动消费品以旧换新行动方案(商消费发〔2024〕58号)】-商务部、国家发展改革委、工信部、公安部等14部门-17b0.md
 ---
 

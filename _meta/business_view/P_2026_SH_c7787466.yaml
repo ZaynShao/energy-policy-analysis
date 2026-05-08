@@ -1,0 +1,23 @@
+pid: P_2026_SH_c7787466
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 嘉定企业帮办加油站活动针对中小企业信用修复,可作为加油B端获客触点
+  充电: 信用案例尚未直接覆盖充电场景,但可作未来宣传范本
+  电力_储能_V2G_交易: 无直接影响
+  乡村: 乡镇/街道信用宣传案例可延伸至乡村出行/能源服务
+行动建议:
+- 'C 关注: 嘉定企业帮办加油站类活动作为本地B端营销叠加场景'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 案例库含企业帮办加油站信用修复指导,可作B端合作切入参照
+archive: low_score

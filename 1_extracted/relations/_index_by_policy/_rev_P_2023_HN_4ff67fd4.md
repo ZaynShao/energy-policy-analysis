@@ -4,7 +4,7 @@ title: 湖南省发展和改革委员会关于印发《关于进一步加快电�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:56+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【湖南省发展和改革委员会关于印发《关于进一步加快电动汽车充电 ...(湘发改能源规〔2022〕1052号)】-湖南省发展和改革委员会-4ff67fd4.md
 ---
 

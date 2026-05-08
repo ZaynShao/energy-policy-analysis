@@ -1970,3 +1970,118 @@ items:
     ref_count: 1
     evidence_sample: 风险提示明确依据成品油经营许可制度发布,issuer 为广州市工业和信息化局(市级)
     last_seen: '2026-05-08T10:59:53'
+  成品油市场管理办法(商务部):
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2020_GO_d3a442c8
+    ref_count: 1
+    evidence_sample: 沪经信运〔2019〕541号,issuer为上海市经信委,内容直接落地《成品油市场管理办法》
+    last_seen: '2026-05-08T11:12:49'
+  新能源汽车产业发展规划(2021-2035年):
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2021_SH_f5815abd
+    ref_count: 1
+    evidence_sample: 沪府办〔2021〕10号,issuer上海市政府办公厅,根据国家《新能源汽车产业发展规划》制定
+    last_seen: '2026-05-08T11:12:49'
+  上海市诚信计量示范社(街)区创建活动:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2022_SH_47385a82
+    ref_count: 1
+    evidence_sample: 嘉真街发〔2021〕5号,issuer嘉定区市场监督管理局/真新街道,区级文件
+    last_seen: '2026-05-08T11:12:49'
+  电子商务法/平台经济常态化监管要求:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2023_SH_9c81df89
+    ref_count: 1
+    evidence_sample: issuer上海市市场监管局、药监局,落实国家平台经济监管
+    last_seen: '2026-05-08T11:12:49'
+  国家发展改革委成品油价格调整通知:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2023_SH_d77eb078
+    - P_2023_SH_ef0a56f5
+    - P_2026_SH_875645c5
+    ref_count: 3
+    evidence_sample: 沪发改价管〔2023〕21号,issuer上海市发改委,根据国家发改委通知执行
+    last_seen: '2026-05-08T11:12:49'
+  上海国际航运中心数字化智能化绿色化转型发展方案:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2024_SH_121049df
+    ref_count: 1
+    evidence_sample: 沪发改能源〔2024〕225号,issuer上海市发改委等三部门
+    last_seen: '2026-05-08T11:12:49'
+  上海市国民经济和社会发展第十四个五年规划纲要:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_SH_55e80cf1
+    ref_count: 1
+    evidence_sample: issuer上海市政府,根据上海市十四五规划纲要制定
+    last_seen: '2026-05-08T11:12:49'
+  沪发改能源〔2023〕190号、244号:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_SH_61c2eb9e
+    ref_count: 1
+    evidence_sample: issuer上海市发改委等三部门,本市文件公示
+    last_seen: '2026-05-08T11:12:49'
+  央行等四部门《关于发挥绿色金融作用 服务美丽中国建设的意见》:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2024_SH_d99b1af3
+    ref_count: 1
+    evidence_sample: 由信用上海转载,新闻稿性质,issuer非国家机关原发
+    last_seen: '2026-05-08T11:12:49'
+  国家税务总局新闻发布:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_SH_a083b151
+    ref_count: 1
+    evidence_sample: 由信用上海转载,新闻类内容,issuer非国家机关原发
+    last_seen: '2026-05-08T11:12:49'
+  上海市信用惠企一件事:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_SH_c83e41d1
+    ref_count: 1
+    evidence_sample: issuer杨浦区发改委,区级活动报道
+    last_seen: '2026-05-08T11:12:49'
+  全国碳排放权交易管理办法/上海市碳排放管理试行办法:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2026_GO_4341b9a3
+    ref_count: 1
+    evidence_sample: issuer上海市生态环境局,系列本市碳市场公告
+    last_seen: '2026-05-08T11:12:49'
+  上海市社会信用体系建设规划:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2026_SH_6bf9be53
+    - P_2026_SH_c7787466
+    ref_count: 2
+    evidence_sample: 信用上海平台栏目汇总,issuer为上海市/区级机关
+    last_seen: '2026-05-08T11:12:49'
+  信用上海国家层面栏目汇编:
+    first_seen: '2026-05-08T11:12:49'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2026_SH_7ff5c81b
+    ref_count: 1
+    evidence_sample: 信用上海平台栏目汇总,本市平台对国家政策的转载/索引,issuer非国家机关
+    last_seen: '2026-05-08T11:12:49'

@@ -4,7 +4,7 @@ title: 关于全国价格工作先进集体和先进个人重庆市正式推荐�
 inbound_edge_count: 1
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:56+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【关于全国价格工作先进集体和先进个人重庆市正式推荐对象的公示_ ...(人社部函〔2025〕39号)】-重庆市发展和改革委员会-ff0b2e00.md
 ---
 

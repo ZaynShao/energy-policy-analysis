@@ -537,6 +537,23 @@
       "filename": "【国家发展改革委等部门关于进一步提升电动汽车充电基础设施服务保障能力的实施意见(发改能源规〔2022〕53号)】-国家发改委等10部门-cb65.md"
     },
     {
+      "id": "P_2022_SH_34824905",
+      "title": "上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件",
+      "date": "2022-02-24",
+      "official": "沪府办规〔2022〕1号",
+      "issuer": [
+        "上海市发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "310000",
+        "name": "上海市"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件(沪府办规〔2022〕1号)】-上海市发展和改革委员会-34824905.md"
+    },
+    {
       "id": "P_2022_CQ_18",
       "title": "重庆市战略性新兴产业发展十四五规划（2021—2025年）",
       "date": "2022-03-02",
@@ -928,23 +945,6 @@
       "filename": "【自治区发展改革委文件(宁发改规发〔2023〕16号)】-宁夏回族自治区发展和改革委员会-3df3969b.md"
     },
     {
-      "id": "P_1900_SN_fad607e4",
-      "title": "我省圆满完成年度充电基础设施建设目标",
-      "date": "2024-01-01",
-      "official": "",
-      "issuer": [
-        "陕西省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "610000",
-        "name": "陕西省"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【我省圆满完成年度充电基础设施建设目标】-陕西省发展和改革委员会-fad607e4.md"
-    },
-    {
       "id": "P_1900_CQ_734bd346",
       "title": "重庆入选全国首批车网互动规模化应用试点 将采取五类专项行动加以推广应用",
       "date": "2024-01-01",
@@ -960,6 +960,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【重庆入选全国首批车网互动规模化应用试点 将采取五类专项行动加以推广应用】-重庆市人民政府-734bd346.md"
+    },
+    {
+      "id": "P_1900_SN_fad607e4",
+      "title": "我省圆满完成年度充电基础设施建设目标",
+      "date": "2024-01-01",
+      "official": "",
+      "issuer": [
+        "陕西省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "610000",
+        "name": "陕西省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【我省圆满完成年度充电基础设施建设目标】-陕西省发展和改革委员会-fad607e4.md"
     },
     {
       "id": "P_2024_NDRC_1721",
@@ -996,23 +1013,6 @@
       "filename": "【关于《郑州市电动汽车充电基础设施发展规划（2024-2035年 ...】-政府门户.fgw.zhengzhou.gov.cn-8dd8800e.md"
     },
     {
-      "id": "P_2024_BJ_01265eb0",
-      "title": "2024年北京市政府工作报告重点任务清单",
-      "date": "2024-01-26",
-      "official": "",
-      "issuer": [
-        "北京市人民政府"
-      ],
-      "region": {
-        "level": "省",
-        "code": "110000",
-        "name": "北京市"
-      },
-      "importance": 2,
-      "tags": [],
-      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
-    },
-    {
       "id": "P_2024_BJ_0126a2e6",
       "title": "2024年市政府工作报告重点任务清单",
       "date": "2024-01-26",
@@ -1028,6 +1028,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【2024年市政府工作报告重点任务清单】-北京市人民政府-0079.md"
+    },
+    {
+      "id": "P_2024_BJ_01265eb0",
+      "title": "2024年北京市政府工作报告重点任务清单",
+      "date": "2024-01-26",
+      "official": "",
+      "issuer": [
+        "北京市人民政府"
+      ],
+      "region": {
+        "level": "省",
+        "code": "110000",
+        "name": "北京市"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【2024年北京市政府工作报告重点任务清单】-北京市人民政府-2e6b.md"
     },
     {
       "id": "P_2024_NX_359f10fd",
@@ -1183,23 +1200,6 @@
       "filename": "【青海省人民政府关于印发青海省推动大规模设备更新和消费品 ...(青政〔2024〕23号)】-青海省发展和改革委员会-e197e5d1.md"
     },
     {
-      "id": "P_2024_SN_468da6ab",
-      "title": "陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委",
-      "date": "2024-05-17",
-      "official": "",
-      "issuer": [
-        "陕西省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "610000",
-        "name": "陕西省"
-      },
-      "importance": 4,
-      "tags": [],
-      "filename": "【陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委】-陕西省发展和改革委员会-468da6ab.md"
-    },
-    {
       "id": "P_2024_SN_6a3d7fdd",
       "title": "陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施 ...",
       "date": "2024-05-17",
@@ -1215,6 +1215,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施 ...】-陕西省发展和改革委员会-6a3d7fdd.md"
+    },
+    {
+      "id": "P_2024_SN_468da6ab",
+      "title": "陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委",
+      "date": "2024-05-17",
+      "official": "",
+      "issuer": [
+        "陕西省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "610000",
+        "name": "陕西省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【陕西省发展和改革委员会关于印发《陕西省电动汽车充电基础设施建设运营管理办法》的通知-陕西省发改委】-陕西省发展和改革委员会-468da6ab.md"
     },
     {
       "id": "P_2024_SC_12_a",
@@ -2033,23 +2050,6 @@
       "filename": "【对省政协十三届三次会议关于推进新能源汽车充电基础设施高质量发展（第120号）提案的答复】-辽宁省发展和改革委员会-5c2cc25a.md"
     },
     {
-      "id": "P_2025_LN_2ec89729",
-      "title": "对省十四届人大三次会议关于完善城市新能源汽车充电装置的建议（第1100号）的答复",
-      "date": "2025-12-03",
-      "official": "",
-      "issuer": [
-        "辽宁省发展和改革委员会"
-      ],
-      "region": {
-        "level": "省",
-        "code": "210000",
-        "name": "辽宁省"
-      },
-      "importance": 3,
-      "tags": [],
-      "filename": "【对省十四届人大三次会议关于完善城市新能源汽车充电装置的建议（第1100号）的答复】-辽宁省发展和改革委员会-2ec89729.md"
-    },
-    {
       "id": "P_2025_LN_12038a1a",
       "title": "辽宁省加快推进充电桩建设人大建议答复",
       "date": "2025-12-03",
@@ -2065,6 +2065,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【辽宁省加快推进充电桩建设人大建议答复】-辽宁省发展和改革委员会-9373.md"
+    },
+    {
+      "id": "P_2025_LN_2ec89729",
+      "title": "对省十四届人大三次会议关于完善城市新能源汽车充电装置的建议（第1100号）的答复",
+      "date": "2025-12-03",
+      "official": "",
+      "issuer": [
+        "辽宁省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "210000",
+        "name": "辽宁省"
+      },
+      "importance": 3,
+      "tags": [],
+      "filename": "【对省十四届人大三次会议关于完善城市新能源汽车充电装置的建议（第1100号）的答复】-辽宁省发展和改革委员会-2ec89729.md"
     },
     {
       "id": "P_2025_JX_b87eea72",
@@ -2339,7 +2356,7 @@
       "filename": "【市城市管理委专题研究车网互动示范应用工作 - 北京市人民政府】-北京市人民政府-f3da0370.md"
     }
   ],
-  "policies_count": 137,
+  "policies_count": 138,
   "relations": [
     {
       "from": "P_2024_GO_2532ff54",
@@ -2350,7 +2367,7 @@
       "evidence_count": 3,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_2532ff54",
@@ -2361,7 +2378,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_GO_2532ff54",
@@ -2372,7 +2389,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
+    },
+    {
+      "from": "P_2022_SH_34824905",
+      "to": "P_2020_GO_39_b",
+      "rel": "references",
+      "evidence": "厅印发的《新能源汽车产业发展规划（2021-2035年）》（国办发〔2020〕39号），进一步推动本市充",
+      "doc_num_matched": "国办发〔2020〕39号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -2383,7 +2411,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SH_3",
@@ -2394,7 +2422,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
+    },
+    {
+      "from": "P_2025_SH_3",
+      "to": "P_2022_SH_34824905",
+      "rel": "references",
+      "evidence": "〈关于本市进一步推动充换电基础设施建设的实施意见〉的通知》（沪府办规〔2022〕1号）、《上海市推动电动",
+      "doc_num_matched": "沪府办规〔2022〕1号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -2405,7 +2444,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_GO_2664d44e",
@@ -2416,7 +2455,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_AH_a970b007",
@@ -2427,7 +2466,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NEA_77",
@@ -2438,7 +2477,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NEA_77",
@@ -2449,7 +2488,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NEA_77",
@@ -2460,7 +2499,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_NDRC_475",
@@ -2471,7 +2510,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_SN_c3329f2b",
@@ -2482,7 +2521,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -2493,7 +2532,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_FJ_5",
@@ -2504,7 +2543,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -2515,7 +2554,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -2526,7 +2565,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -2537,7 +2576,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -2548,7 +2587,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_JL_0208240d",
@@ -2559,7 +2598,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NDRC_632_c",
@@ -2570,7 +2609,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -2581,7 +2620,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -2592,7 +2631,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -2603,7 +2642,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -2614,7 +2653,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -2625,7 +2664,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_1900_GO_70875d73",
@@ -2636,7 +2675,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2019_GO_781f09c6",
@@ -2647,7 +2686,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2019_GO_781f09c6",
@@ -2658,7 +2697,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2019_GO_0c52cbb8",
@@ -2669,7 +2708,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -2680,7 +2719,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -2691,7 +2730,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2026_GO_1c7a3139",
@@ -2702,7 +2741,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2020_GO_1020e9f0",
@@ -2713,7 +2752,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_AH_95eb685f",
@@ -2724,7 +2763,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_AH_95eb685f",
@@ -2735,7 +2774,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_GO_96193460",
@@ -2746,7 +2785,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HE_79c43f8b",
@@ -2757,7 +2796,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HA_0908b9ef",
@@ -2768,7 +2807,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_HI_4eac1187",
@@ -2779,7 +2818,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_HI_0e896708",
@@ -2790,7 +2829,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -2801,7 +2840,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -2812,7 +2851,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -2823,7 +2862,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -2834,7 +2873,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_1023dd1b",
@@ -2845,7 +2884,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_OTHER7F45_060777c1",
@@ -2856,7 +2895,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_HN_4ff67fd4",
@@ -2867,7 +2906,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_HN_289",
@@ -2878,7 +2917,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_HN_848",
@@ -2889,7 +2928,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2023_HN_848",
@@ -2900,7 +2939,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_FJ_a37c3fb4",
@@ -2911,7 +2950,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_FJ_21c28996",
@@ -2922,7 +2961,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_NX_6eea1796",
@@ -2933,7 +2972,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2944,7 +2983,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2955,7 +2994,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2966,7 +3005,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2977,7 +3016,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2988,7 +3027,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2022_CQ_3c8f1eea",
@@ -2999,7 +3038,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_86",
@@ -3010,7 +3049,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_86",
@@ -3021,7 +3060,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_86",
@@ -3032,7 +3071,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -3043,7 +3082,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -3054,7 +3093,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_84593d49",
@@ -3065,7 +3104,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2025_CQ_84593d49",
@@ -3076,7 +3115,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -3087,7 +3126,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_6a3d7fdd",
@@ -3098,7 +3137,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_468da6ab",
@@ -3109,7 +3148,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_SN_468da6ab",
@@ -3120,7 +3159,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T10:50:22"
+      "extracted_at": "2026-05-08T11:02:31"
     },
     {
       "from": "P_2024_CQ_86",
@@ -4222,7 +4261,7 @@
       "reason": "新疆能源体系建设与国家新型电力系统方案对齐"
     }
   ],
-  "relations_count": 165,
+  "relations_count": 167,
   "diff_files": [],
   "opinion_policy_ids": [
     "P_2025_NDRC_101520b2",
@@ -4258,6 +4297,7 @@
       "湖南省": 7,
       "江西省": 4,
       "陕西省": 8,
+      "上海市": 2,
       "重庆市": 10,
       "吉林省": 2,
       "山西省": 3,
@@ -4266,7 +4306,6 @@
       "北京市": 5,
       "青海省": 1,
       "浙江省": 1,
-      "上海市": 1,
       "山东省": 1,
       "云南省": 1
     },
@@ -4354,6 +4393,23 @@
       "filename": "【国家发展改革委等部门关于进一步提升电动汽车充电基础设施服务保障能力的实施意见(发改能源规〔2022〕53号)】-国家发改委等10部门-cb65.md"
     },
     {
+      "id": "P_2022_SH_34824905",
+      "title": "上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件",
+      "date": "2022-02-24",
+      "official": "沪府办规〔2022〕1号",
+      "issuer": [
+        "上海市发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "310000",
+        "name": "上海市"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【上海市人民政府办公厅印发《关于本市进一步推动充换电基础设施建设的实施意见》的通知_规范性文件(沪府办规〔2022〕1号)】-上海市发展和改革委员会-34824905.md"
+    },
+    {
       "id": "P_2023_GO_19_b",
       "title": "进一步构建高质量充电基础设施体系的指导意见",
       "date": "2023-06-08",
@@ -4369,23 +4425,6 @@
       "importance": 5,
       "tags": [],
       "filename": "【进一步构建高质量充电基础设施体系的指导意见(国办发〔2023〕19号)】-国务院办公厅-ead1.md"
-    },
-    {
-      "id": "P_2024_NDRC_1721",
-      "title": "加强新能源汽车与电网融合互动的实施意见",
-      "date": "2024-01-04",
-      "official": "发改能源〔2023〕1721号",
-      "issuer": [
-        "国家发展改革委等部门"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【加强新能源汽车与电网融合互动的实施意见(发改能源〔2023〕1721号)】-国家发展改革委等部门-8a92.md"
     }
   ]
 }

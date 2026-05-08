@@ -4,7 +4,7 @@ title: 重庆市能源局国家能源局华中监管局关于印发《重庆市�
 inbound_edge_count: 1
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:00:55+08:00'
+last_updated: '2026-05-08T11:13:52+08:00'
 policy_file: ../../../0_raw/policies/【重庆市能源局国家能源局华中监管局关于印发《重庆市分布式光伏 ...(渝能源电〔2025〕56号)】-重庆市发展和改革委员会-d2578cbc.md
 ---
 
