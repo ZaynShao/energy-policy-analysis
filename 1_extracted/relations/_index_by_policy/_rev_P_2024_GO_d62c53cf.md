@@ -4,7 +4,7 @@ title: 广州市市场监督管理局关于印发广州市以标准提升牵引�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:43+08:00'
 policy_file: ../../../0_raw/policies/【广州市市场监督管理局关于印发广州市以标准提升牵引设备更新和消费品以旧换新行动方案的通知】-政府门户.scjgj.gz.gov.cn-d62c53cf.md
 ---
 

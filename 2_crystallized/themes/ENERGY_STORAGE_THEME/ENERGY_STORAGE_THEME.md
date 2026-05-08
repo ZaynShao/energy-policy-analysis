@@ -3,7 +3,7 @@ theme_id: energy_storage_theme
 theme_zh: 新型储能
 theme_dir: ENERGY_STORAGE_THEME
 type: theme_hub
-policy_count: 135
+policy_count: 136
 opinion_count: 18
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 新型储能(ENERGY_STORAGE_THEME)— 主题入口
 
-**政策数**: 135  ·  **观点矩阵**: 18
+**政策数**: 136  ·  **观点矩阵**: 18
 
 ## 主题文档
 

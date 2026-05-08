@@ -1,0 +1,23 @@
+pid: P_2017_JS_a3e9260f
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无关联
+  充电: 无关联
+  电力_储能_V2G_交易: 无关联
+  乡村: 扶贫协作框架与陕西县域工作触点存在间接联系，但已过时效
+行动建议:
+- 'C 关注: 文件已过时效（2020 年到期），无后续操作必要'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 与滴滴能源四块业务无直接关联，可不深读
+archive: low_score

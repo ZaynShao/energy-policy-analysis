@@ -4,7 +4,7 @@ title: 国家发展改革委 财政部 国家能源局关于做好可再生能�
 inbound_edge_count: 8
 outbound_edge_count: 0
 commentary_inbound_count: 8
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:42+08:00'
 policy_file: ../../../0_raw/policies/【国家发展改革委 财政部 国家能源局关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知(发改能源〔2023〕1044号)】-国家发展改革委、财政部、国家能源局-4274.md
 ---
 

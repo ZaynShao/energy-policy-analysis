@@ -2294,3 +2294,44 @@ items:
     ref_count: 1
     evidence_sample: 为山东省发改委‘他山之石'栏目转载河北省市场监管局工作要点
     last_seen: '2026-05-08T11:44:02'
+  国务院《十三五脱贫攻坚规划》（国发〔2016〕64号）:
+    first_seen: '2026-05-08T11:52:45'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2017_JS_a3e9260f
+    ref_count: 1
+    evidence_sample: fm.issuer 为江苏省发展和改革委员会，文件文本明确据中央东西部扶贫协作部署及国发〔2016〕64号编制
+    last_seen: '2026-05-08T11:52:45'
+  中华人民共和国招标投标法及实施条例:
+    first_seen: '2026-05-08T11:52:45'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2023_JS_eeda02f4
+    ref_count: 1
+    evidence_sample: fm.issuer 为江苏省发展和改革委员会；条例据《招标投标法》《招标投标法实施条例》制定
+    last_seen: '2026-05-08T11:52:45'
+  国家《氢能产业发展中长期规划（2021-2035年）》:
+    first_seen: '2026-05-08T11:52:45'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2025_JS_a62dfcad
+    ref_count: 1
+    evidence_sample: fm.issuer 为江苏省发展和改革委员会；据国家氢能产业发展中长期规划及江苏省氢能中长期规划制定
+    last_seen: '2026-05-08T11:52:45'
+  国家两新政策与大气污染防治政策框架:
+    first_seen: '2026-05-08T11:52:45'
+    linkage_type: 借鉴框架
+    ref_pids:
+    - P_2026_GO_55dd902a
+    - P_2026_GO_d2e50b48
+    ref_count: 2
+    evidence_sample: fm.issuer 来源为杭州市人民政府办公厅；本文件由杭州市政府印发
+    last_seen: '2026-05-08T11:52:45'
+  商务部等5部门《关于做好2026年家电以旧换新、数码和智能产品购新补贴工作的通知》:
+    first_seen: '2026-05-08T11:52:45'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2026_GO_6614b9ad
+    ref_count: 1
+    evidence_sample: fm.issuer 为南京市政府门户；新闻明确据商务部等5部门通知衔接
+    last_seen: '2026-05-08T11:52:45'

@@ -4,7 +4,7 @@ title: 对省十四届人大三次会议第602号建议的答复 - 河南省发�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:43+08:00'
 policy_file: ../../../0_raw/policies/【对省十四届人大三次会议第602号建议的答复 - 河南省发展和改革委员会】-河南省发展和改革委员会-f7cdbaaf.md
 ---
 

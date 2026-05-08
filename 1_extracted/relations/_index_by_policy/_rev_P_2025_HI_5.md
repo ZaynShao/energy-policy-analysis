@@ -4,7 +4,7 @@ title: 海南省2025年加力扩围实施大规模设备更新和消费品以旧
 inbound_edge_count: 0
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:42+08:00'
 policy_file: ../../../0_raw/policies/【海南省2025年加力扩围实施大规模设备更新和消费品以旧换新政策(琼府办〔2025〕5号)】-海南省人民政府办公厅-438a.md
 ---
 

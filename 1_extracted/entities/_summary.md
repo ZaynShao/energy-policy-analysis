@@ -5,9 +5,9 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **1009**
+- 输入政策: **1020**
 - registry 实体: **99**
-- 命中实体的政策: **970**
+- 命中实体的政策: **981**
 - 零实体命中政策: **39**(召回缺口,LLM 补抽 candidate)
 - 平均每政策命中实体: **6.9**
 - 已被引用的 canonical: **73/99**
@@ -24,25 +24,25 @@ date: 2026-04-25
 
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
-| 1 | `nea` | 国家能源局 | org | 351 |
-| 2 | `power_market` | 电力市场 | concept | 326 |
-| 3 | `state_council` | 国务院 | org | 313 |
+| 1 | `nea` | 国家能源局 | org | 352 |
+| 2 | `power_market` | 电力市场 | concept | 328 |
+| 3 | `state_council` | 国务院 | org | 317 |
 | 4 | `grid_company` | 电网企业 | stakeholder / org | 290 |
-| 5 | `distribution_grid_opening` | 配电网开放 | theme | 279 |
-| 6 | `rural_revitalization_theme` | 乡村振兴 | theme | 268 |
-| 7 | `nev` | 新能源汽车 | concept | 266 |
+| 5 | `distribution_grid_opening` | 配电网开放 | theme | 281 |
+| 6 | `rural_revitalization_theme` | 乡村振兴 | theme | 270 |
+| 7 | `nev` | 新能源汽车 | concept | 270 |
 | 8 | `new_ess` | 新型储能 | concept | 258 |
 | 9 | `vpp` | 虚拟电厂 | concept | 216 |
 | 10 | `green_power_trading_theme` | 绿电交易 | theme | 210 |
 | 11 | `region_beijing` | 北京 | region | 209 |
-| 12 | `region_shanghai` | 上海 | region | 167 |
-| 13 | `power_user` | 电力用户 | stakeholder | 163 |
-| 14 | `equipment_renewal_theme` | 以旧换新 | theme | 159 |
-| 15 | `energy_storage_theme` | 新型储能 | theme | 145 |
+| 12 | `region_shanghai` | 上海 | region | 168 |
+| 13 | `equipment_renewal_theme` | 以旧换新 | theme | 163 |
+| 14 | `power_user` | 电力用户 | stakeholder | 163 |
+| 15 | `energy_storage_theme` | 新型储能 | theme | 146 |
 | 16 | `charging_infra` | 充电基础设施 | concept | 144 |
 | 17 | `region_xinjiang` | 新疆 | region | 143 |
-| 18 | `power_generator` | 发电企业 | stakeholder | 139 |
-| 19 | `consumer` | 消费者 | stakeholder | 139 |
+| 18 | `consumer` | 消费者 | stakeholder | 142 |
+| 19 | `power_generator` | 发电企业 | stakeholder | 140 |
 | 20 | `carbon_market_theme` | 碳市场 | theme | 131 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)

@@ -4,7 +4,7 @@ title: 广州市天河区人民政府关于印发广州市天河区碳达峰实�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:42+08:00'
 policy_file: ../../../0_raw/policies/【广州市天河区人民政府关于印发广州市天河区碳达峰实施方案的通知(穗天府〔2024〕8号)】-政府门户.www.thnet.gov.cn-8db6fb96.md
 ---
 

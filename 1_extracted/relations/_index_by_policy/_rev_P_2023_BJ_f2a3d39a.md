@@ -4,7 +4,7 @@ title: 北京市城市管理委員會關於印發《北京市居住區新能源�
 inbound_edge_count: 0
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:42+08:00'
 policy_file: ../../../0_raw/policies/【北京市城市管理委員會關於印發《北京市居住區新能源汽車充電“統建 ...】-北京市人民政府-f2a3d39a.md
 ---
 

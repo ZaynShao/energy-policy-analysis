@@ -3,7 +3,7 @@ theme_id: petroleum_retail_compliance
 theme_zh: 加油零售/平台合规
 theme_dir: PETROLEUM_RETAIL_COMPLIANCE
 type: theme_hub
-policy_count: 14
+policy_count: 15
 opinion_count: 2
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 加油零售/平台合规(PETROLEUM_RETAIL_COMPLIANCE)— 主题入口
 
-**政策数**: 14  ·  **观点矩阵**: 2
+**政策数**: 15  ·  **观点矩阵**: 2
 
 ## 主题文档
 

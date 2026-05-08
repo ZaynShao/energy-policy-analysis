@@ -2,7 +2,7 @@
 theme: petroleum_retail_compliance
 theme_name: 加油零售/平台合规
 title: 政策时间线
-total_policies: 14
+total_policies: 15
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (auto data)
 ---
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (auto data)
 
 按行政层级 + 日期排序。仅列**重要性 ≥4** 的政策(全量见 _input.json)。
 
-## 国家级(6 篇,≥4 分 1 篇)
+## 国家级(7 篇,≥4 分 1 篇)
 
 - **2025-08-01**  ⭐⭐⭐⭐⭐  `P_2025_MOFCOM_4_a` [商务部令2025年第4号]
   - 成品油流通管理办法
@@ -34,8 +34,8 @@ generated_by: crystallize_theme.py (auto data)
 
 ## 时间线观察(自动统计)
 
-- 主题总政策数:**14**
-- 重要性 ≥4 的政策:**3** (21%)
-- 平均重要性:**2.14**
-- 政策密集年份:**2025** (5 篇)
-- 年度分布:2021=1 · 2023=1 · 2024=4 · 2025=5 · 2026=3
+- 主题总政策数:**15**
+- 重要性 ≥4 的政策:**3** (20%)
+- 平均重要性:**2.00**
+- 政策密集年份:**2025** (6 篇)
+- 年度分布:2021=1 · 2023=1 · 2024=4 · 2025=6 · 2026=3

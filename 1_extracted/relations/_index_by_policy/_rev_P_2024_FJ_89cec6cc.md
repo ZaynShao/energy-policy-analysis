@@ -4,7 +4,7 @@ title: 福建省发展和改革委员会关于印发福建省电力负荷管理�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:42+08:00'
 policy_file: ../../../0_raw/policies/【福建省发展和改革委员会关于印发福建省电力负荷管理实施细则的通知 _ 本委规范性文件 _
   省发改委】-福建省发展和改革委员会-89cec6cc.md
 ---

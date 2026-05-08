@@ -4,7 +4,7 @@ title: 北京市“十四五”时期应对气候变化和节能规划-五年规
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:45:10+08:00'
+last_updated: '2026-05-08T11:53:43+08:00'
 policy_file: ../../../0_raw/policies/【北京市“十四五”时期应对气候变化和节能规划-五年规划-北京市发展和改革委员会(京环发〔2022〕16号)】-北京市发展和改革委员会-aefbc355.md
 ---
 
