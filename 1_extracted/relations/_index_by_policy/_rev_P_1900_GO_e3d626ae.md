@@ -4,7 +4,7 @@ title: 7万度起步！开启车网互动国家试点“深圳加速度”
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【7万度起步！开启车网互动国家试点“深圳加速度”】-政府门户.fgw.sz.gov.cn-e3d626ae.md
 ---
 

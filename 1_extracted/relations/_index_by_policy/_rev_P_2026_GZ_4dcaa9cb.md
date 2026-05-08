@@ -4,7 +4,7 @@ title: 贵州省国民经济和社会发展第十五个五年规划纲要
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【贵州省国民经济和社会发展第十五个五年规划纲要】-贵州省发展和改革委员会-4dcaa9cb.md
 ---
 

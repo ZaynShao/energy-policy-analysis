@@ -4,7 +4,7 @@ title: 对省政协十三届三次会议第1330265号提案的答复
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【对省政协十三届三次会议第1330265号提案的答复】-河南省发展和改革委员会-ecfdb60b.md
 ---
 

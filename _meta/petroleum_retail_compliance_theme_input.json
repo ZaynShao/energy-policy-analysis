@@ -120,6 +120,23 @@
       "filename": "【广东省发展和改革委员会 - 广东省成品油流通管理条例】-广东省发展和改革委员会-6416d7e9.md"
     },
     {
+      "id": "P_2025_SD_638f3d3d",
+      "title": "山东省发展和改革委员会他山之石国办提出21条举措推动成品油流通 ...",
+      "date": "2025-02-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会他山之石国办提出21条举措推动成品油流通 ...】-山东省发展和改革委员会-638f3d3d.md"
+    },
+    {
       "id": "P_2025_OTHERBDE4_5",
       "title": "国务院办公厅关于推动成品油流通高质量发展的意见(转载)",
       "date": "2025-02-07",
@@ -239,7 +256,7 @@
       "filename": "【广州市工业和信息化局关于编码LCD72#加油站规划点规划确认的函】-政府门户.gxj.gz.gov.cn-ebb85784.md"
     }
   ],
-  "policies_count": 13,
+  "policies_count": 14,
   "relations": [
     {
       "from": "P_2025_MOFCOM_4_a",
@@ -263,7 +280,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -274,7 +291,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -285,7 +302,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHER1925_061777d5",
@@ -296,7 +313,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_OTHER28CF_02013fa8",
@@ -307,7 +324,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -344,9 +361,24 @@
       "confidence": 0.66,
       "extracted_by": "heuristic",
       "extracted_at": "2026-04-26T23:42:01"
+    },
+    {
+      "from": "P_2025_SD_638f3d3d",
+      "to": "P_2025_OTHERBDE4_5",
+      "rel": "aligns_with",
+      "evidence": "正文：国务院办公厅近日发布《关于推动成品油流通高质量发展的意见》……提出5方面21条具体举措。",
+      "confidence": 0.95,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T11:34:15+08:00",
+      "signals": [
+        "title_match",
+        "central_document",
+        "policy_summary"
+      ],
+      "reason": "Article summarizes State Council Office 国办发〔2025〕5号 opinion on 成品油流通高质量发展; aligns with vault entry by exact title."
     }
   ],
-  "relations_count": 9,
+  "relations_count": 10,
   "diff_files": [],
   "opinion_policy_ids": [
     "P_2025_OTHERBDE4_5",
@@ -367,6 +399,7 @@
     },
     "省": {
       "广东省": 1,
+      "山东省": 1,
       "江苏省": 1
     }
   },
@@ -376,6 +409,7 @@
     "重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会": 1,
     "承德市商务局": 1,
     "广东省发展和改革委员会": 1,
+    "山东省发展和改革委员会": 1,
     "承德市自然资源和规划局(转载)": 1,
     "江苏省商务厅": 1,
     "武汉市商务局": 1,
@@ -398,6 +432,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197.md"
+    },
+    {
+      "id": "P_2025_SD_638f3d3d",
+      "title": "山东省发展和改革委员会他山之石国办提出21条举措推动成品油流通 ...",
+      "date": "2025-02-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会他山之石国办提出21条举措推动成品油流通 ...】-山东省发展和改革委员会-638f3d3d.md"
     },
     {
       "id": "P_2025_OTHERBDE4_5",
@@ -449,23 +500,6 @@
       "importance": 3,
       "tags": [],
       "filename": "【2024年全区打击整治成品油非法经营专项行动方案(綦油联办发〔2024〕2号)】-重庆市綦江区成品油市场监管联席会议办公室、綦江区商务委员会-17eb.md"
-    },
-    {
-      "id": "P_2025_JS_56",
-      "title": "江苏省2024年度成品油零售经营企业年度监督检查工作通知",
-      "date": "2025-02-17",
-      "official": "苏商运〔2025〕56号",
-      "issuer": [
-        "江苏省商务厅"
-      ],
-      "region": {
-        "level": "省",
-        "code": "320000",
-        "name": "江苏省"
-      },
-      "importance": 3,
-      "tags": [],
-      "filename": "【江苏省2024年度成品油零售经营企业年度监督检查工作通知(苏商运〔2025〕56号)】-江苏省商务厅-637a.md"
     }
   ]
 }

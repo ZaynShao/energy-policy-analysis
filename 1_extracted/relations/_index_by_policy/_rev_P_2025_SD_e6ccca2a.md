@@ -4,7 +4,7 @@ title: 山东深化电力市场化改革，明确新能源入市时间表
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:34+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【山东深化电力市场化改革，明确新能源入市时间表】-山东省能源局-e6ccca2a.md
 ---
 

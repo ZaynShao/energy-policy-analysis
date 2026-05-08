@@ -4,7 +4,7 @@ title: 北京市商务局关于申报北京市消费新业态新模式新场景�
 inbound_edge_count: 1
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【北京市商务局关于申报北京市消费新业态新模式新场景试点建设资金 ...(财建〔2025〕341号)】-政府门户.sw.beijing.gov.cn-af4a930b.md
 ---
 

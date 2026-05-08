@@ -4,7 +4,7 @@ title: 进一步强化碳达峰碳中和标准计量体系建设行动方案（2
 inbound_edge_count: 1
 outbound_edge_count: 1
 commentary_inbound_count: 1
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【进一步强化碳达峰碳中和标准计量体系建设行动方案（2024-2025年）(发改环资〔2024〕1046号)】-国家发展和改革委员会、市场监督管理总局、生态环境部-670e.md
 ---
 

@@ -1,0 +1,25 @@
+pid: P_2026_GO_886a0b22
+scores:
+  D1: 1
+  D2: 0
+  D3: 0
+  D4: 2
+  D5: 0
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 济南高新稼轩加油站具备成品油零售经营资质,可纳入合作候选评估;反映市级仍稳定颁发零售证(与国办21条电商禁令相关合规节点)
+  充电: 无直接关联
+  电力_储能_V2G_交易: 无
+  乡村: 无
+行动建议:
+- 'A 立即: 评估济南高新稼轩等新批油站合作可行性'
+- 'B 研究: 跟踪济南批复节奏作为济南拓站节拍参考'
+- 'C 关注: 同批次其他批复'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 新增加油站准入个案,平台合作油站清单增量参考
+archive: low_score

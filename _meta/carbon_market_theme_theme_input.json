@@ -96,23 +96,6 @@
       "filename": "【国家能源局有关负责同志就《关于加强新能源汽车与电网融合互动的 ...】-湖南省发展和改革委员会-7de5ab8e.md"
     },
     {
-      "id": "P_2020_GO_39_b",
-      "title": "新能源汽车产业发展规划(2021—2035年)",
-      "date": "2020-10-20",
-      "official": "国办发〔2020〕39号",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
-    },
-    {
       "id": "P_2020_GO_1020e9f0",
       "title": "新能源汽车产业发展规划（2021—2035年）",
       "date": "2020-10-20",
@@ -128,6 +111,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
+    },
+    {
+      "id": "P_2020_GO_39_b",
+      "title": "新能源汽车产业发展规划(2021—2035年)",
+      "date": "2020-10-20",
+      "official": "国办发〔2020〕39号",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
     },
     {
       "id": "P_2020_MEE_1230dbd8",
@@ -179,6 +179,23 @@
       "importance": 3,
       "tags": [],
       "filename": "【关于印发河南省“十三五”电力发展规划的通知(豫发改能源〔2017〕705号)】-河南省发展和改革委员会-1ae8d6fa.md"
+    },
+    {
+      "id": "P_2021_SD_99a56a36",
+      "title": "山东省发展和改革委员会他山之石2225家发电企业先行入市全国碳 ...",
+      "date": "2021-07-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会他山之石2225家发电企业先行入市全国碳 ...】-山东省发展和改革委员会-99a56a36.md"
     },
     {
       "id": "P_2021_SC_0922fb2b",
@@ -385,6 +402,23 @@
       "filename": "【吕梁市氢能产业中长期发展规划(2022-2035)】-吕梁市人民政府-bf65.md"
     },
     {
+      "id": "P_2022_SD_67a335e9",
+      "title": "山东省发展和改革委员会节能降碳全国碳市场基本框架初步建立 ...",
+      "date": "2022-07-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会节能降碳全国碳市场基本框架初步建立 ...】-山东省发展和改革委员会-67a335e9.md"
+    },
+    {
       "id": "P_2022_GO_878cc85c",
       "title": "【上海市人民政府关于印发《上海市碳达峰实施方案》的通知】-国家发展和改革委员会",
       "date": "2022-07-08",
@@ -417,6 +451,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【北京市“十四五”时期应对气候变化和节能规划-五年规划-北京市发展和改革委员会(京环发〔2022〕16号)】-北京市发展和改革委员会-aefbc355.md"
+    },
+    {
+      "id": "P_2022_SD_1e77c2d2",
+      "title": "山东省发展和改革委员会节能降碳全国碳市场建设不是简单地就碳论碳",
+      "date": "2022-08-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会节能降碳全国碳市场建设不是简单地就碳论碳】-山东省发展和改革委员会-1e77c2d2.md"
     },
     {
       "id": "P_2022_MIIT_0802c974",
@@ -555,6 +606,23 @@
       "filename": "【上海市科技支撑碳达峰碳中和实施方案】-上海市科委等多部门-6b4f.md"
     },
     {
+      "id": "P_2023_SD_b51963fe",
+      "title": "山东省发展和改革委员会时政要闻山东构建碳普惠体系延伸补充全国 ...",
+      "date": "2023-03-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会时政要闻山东构建碳普惠体系延伸补充全国 ...】-山东省发展和改革委员会-b51963fe.md"
+    },
+    {
       "id": "P_2023_NEA_27",
       "title": "加快推进能源数字化智能化发展的若干意见",
       "date": "2023-03-28",
@@ -604,6 +672,23 @@
       "importance": 4,
       "tags": [],
       "filename": "【电力需求侧管理办法(征求意见稿正文)】-国家发展和改革委员会-8c09.md"
+    },
+    {
+      "id": "P_2023_SD_82423871",
+      "title": "山东省发展和改革委员会节能降碳碳交易市场建设未进入“深水区” 提高 ...",
+      "date": "2023-06-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 1,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会节能降碳碳交易市场建设未进入“深水区” 提高 ...】-山东省发展和改革委员会-82423871.md"
     },
     {
       "id": "P_2023_LN_0626600d",
@@ -844,6 +929,23 @@
       "filename": "【广东省发展和改革委员会 - 广东省发展和改革委员会 广东省科学技术厅 广东省工业和信息化厅关于印发《广东省培育发展未来绿色低碳产业集群行动计划》的通知(粤发改资环〔2024〕53号).md"
     },
     {
+      "id": "P_2024_SD_d62a7386",
+      "title": "山东省发展和改革委员会时政要闻山东交出碳市场两个履约周期“高分 ...",
+      "date": "2024-03-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会时政要闻山东交出碳市场两个履约周期“高分 ...】-山东省发展和改革委员会-d62a7386.md"
+    },
+    {
       "id": "P_2024_SH_8_a",
       "title": "上海市加快建立产品碳足迹管理体系打造绿色低碳供应链行动方案",
       "date": "2024-03-16",
@@ -876,6 +978,23 @@
       "importance": 2,
       "tags": [],
       "filename": "【北京大兴区碳达峰实施方案】-北京市大兴区人民政府-7934.md"
+    },
+    {
+      "id": "P_2024_SD_061b4a99",
+      "title": "山东省发展和改革委员会省级政策山东省人民政府关于印发山东省 ...",
+      "date": "2024-04-01",
+      "official": "鲁政发〔2024〕3号",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 4,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会省级政策山东省人民政府关于印发山东省 ...(鲁政发〔2024〕3号)】-山东省发展和改革委员会-061b4a99.md"
     },
     {
       "id": "P_2024_BJ_04024e0d",
@@ -1764,6 +1883,23 @@
       "filename": "【关于公开遴选湖南省新型电力系统课题研究第三方机构的公告】-湖南省发展和改革委员会-97082d60.md"
     },
     {
+      "id": "P_2025_SD_e5834863",
+      "title": "山东省发展和改革委员会工作推进瞄准“双碳”目标全国碳市场建设稳步 ...",
+      "date": "2025-11-01",
+      "official": "",
+      "issuer": [
+        "山东省发展和改革委员会"
+      ],
+      "region": {
+        "level": "省",
+        "code": "370000",
+        "name": "山东省"
+      },
+      "importance": 2,
+      "tags": [],
+      "filename": "【山东省发展和改革委员会工作推进瞄准“双碳”目标全国碳市场建设稳步 ...】-山东省发展和改革委员会-e5834863.md"
+    },
+    {
       "id": "P_2025_MEE_2",
       "title": "2024、2025年度全国碳排放权交易市场钢铁水泥铝冶炼行业配额总量和分配方案",
       "date": "2025-11-16",
@@ -2087,7 +2223,7 @@
       "filename": "【北京市生态环境局关于做好2026年本市碳排放单位管理和碳排放权交易有关工作的通知_政策文件_首都之窗_北京市人民政府门户网站(京环发〔2026〕7号)】-北京市人民政府-559a203d.md"
     }
   ],
-  "policies_count": 122,
+  "policies_count": 130,
   "relations": [
     {
       "from": "P_2023_NDRC_092751f2_a",
@@ -2124,7 +2260,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_1900_BJ_3701c968",
@@ -2135,7 +2271,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_1900_BJ_3701c968",
@@ -2146,7 +2282,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_58",
@@ -2157,7 +2293,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_58",
@@ -2168,7 +2304,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_36",
@@ -2179,7 +2315,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_1900_SX_02f1bbdd",
@@ -2190,7 +2326,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2022_SH_34824905",
@@ -2201,7 +2337,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SH_5_c",
@@ -2212,7 +2348,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SH_407",
@@ -2223,7 +2359,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -2234,7 +2370,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2021_OTHERD5A9_0416b7bf",
@@ -2245,7 +2381,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
+    },
+    {
+      "from": "P_2024_GO_ecd2931e",
+      "to": "P_2024_SD_061b4a99",
+      "rel": "references",
+      "evidence": "关于印发山东省推动大规模设备更新和消费品以旧换新实施方案》（鲁政发〔2024〕3号）、《济南市人民政府",
+      "doc_num_matched": "鲁政发〔2024〕3号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_NEA_77",
@@ -2256,7 +2403,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_GO_33651c82",
@@ -2267,7 +2414,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_GO_33651c82",
@@ -2278,7 +2425,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_GO_33651c82",
@@ -2289,7 +2436,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_GO_33651c82",
@@ -2300,7 +2447,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_GO_33651c82",
@@ -2311,7 +2458,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SC_cc687c4e",
@@ -2322,7 +2469,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SC_cc687c4e",
@@ -2333,7 +2480,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SC_cc687c4e",
@@ -2344,7 +2491,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SC_cc687c4e",
@@ -2355,7 +2502,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SC_cc687c4e",
@@ -2366,7 +2513,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_NEA_082065e7",
@@ -2377,7 +2524,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_NDRC_1721",
@@ -2388,7 +2535,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_CQ_122582ad",
@@ -2399,7 +2546,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_SD_0101d17a",
@@ -2410,7 +2557,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2421,7 +2568,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2432,7 +2579,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_107",
@@ -2443,7 +2590,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2022_JL_11114fee",
@@ -2454,7 +2601,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_GO_bcf4a9d8",
@@ -2465,7 +2612,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_1900_GO_572b0ea8",
@@ -2476,7 +2623,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2022_NDRC_53",
@@ -2487,7 +2634,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_NEA_16",
@@ -2498,7 +2645,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_NEA_PilotBatch1",
@@ -2509,7 +2656,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_GO_0d11749b",
@@ -2520,7 +2667,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -2531,7 +2678,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_08060ff3",
@@ -2542,7 +2689,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_53_a",
@@ -2553,7 +2700,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -2564,7 +2711,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_1900_HN_7de5ab8e",
@@ -2575,7 +2722,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_SD_03271ffc",
@@ -2586,7 +2733,18 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
+    },
+    {
+      "from": "P_2024_SD_061b4a99",
+      "to": "P_2024_SC_7",
+      "rel": "references",
+      "evidence": "关于印发推动大规模设备更新和消费品以旧换新行动方案的通知》（国发〔2024〕7号）文件要求，结合山东",
+      "doc_num_matched": "国发〔2024〕7号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SD_fb6fcdeb",
@@ -2597,7 +2755,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_GO_ce9b782c",
@@ -2608,7 +2766,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHERA0CD_0821a681",
@@ -2619,7 +2777,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2023_GD_6b3cf977",
@@ -2630,7 +2788,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_NDRC_718",
@@ -2641,7 +2799,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_AH_d8c28a5c",
@@ -2652,7 +2810,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_BJ_29c77bd2",
@@ -2663,7 +2821,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2026_BJ_29c77bd2",
@@ -2674,7 +2832,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2020_GO_1020e9f0",
@@ -2685,7 +2843,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_JX_d7975d50",
@@ -2696,7 +2854,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_JX_b32efb76",
@@ -2707,7 +2865,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_HE_79c43f8b",
@@ -2718,7 +2876,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_HE_9a2d5057",
@@ -2729,7 +2887,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_HE_9a2d5057",
@@ -2740,7 +2898,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_HE_9a2d5057",
@@ -2751,7 +2909,18 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
+    },
+    {
+      "from": "P_2024_GO_53c79e41",
+      "to": "P_2024_SD_061b4a99",
+      "rel": "references",
+      "evidence": "山东省推动大规模设备更新和消费品以旧换新实施方案〉的通知》（鲁政发〔2024〕3号）要求，结合我市实际",
+      "doc_num_matched": "鲁政发〔2024〕3号",
+      "evidence_count": 1,
+      "confidence": 0.7,
+      "extracted_by": "regex",
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2022_HI_4eac1187",
@@ -2762,7 +2931,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_HI_0adc6a74",
@@ -2773,7 +2942,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_OTHER7F45_060777c1",
@@ -2784,7 +2953,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_NDRC_1123_a",
@@ -2795,7 +2964,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NDRC_1656_a",
@@ -2806,7 +2975,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NDRC_1810",
@@ -2817,7 +2986,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_NEA_76",
@@ -2828,7 +2997,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NDRC_411",
@@ -2839,7 +3008,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -2850,7 +3019,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -2861,7 +3030,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -2872,7 +3041,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -2883,7 +3052,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHER98DD_09231fde",
@@ -2894,7 +3063,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_FJ_28bc7851",
@@ -2905,7 +3074,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NX_6eea1796",
@@ -2916,7 +3085,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_OTHER1B33_34",
@@ -2927,7 +3096,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_NM_0101e295",
@@ -2938,7 +3107,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_OTHER420B_1201deda",
@@ -2949,7 +3118,7 @@
       "evidence_count": 2,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2960,7 +3129,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2971,7 +3140,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_CQ_86",
@@ -2982,7 +3151,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2024_CQ_04038544",
@@ -2993,7 +3162,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_CQ_84593d49",
@@ -3004,7 +3173,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_SN_cea944a1",
@@ -3015,7 +3184,7 @@
       "evidence_count": 1,
       "confidence": 0.7,
       "extracted_by": "regex",
-      "extracted_at": "2026-05-08T11:15:46"
+      "extracted_at": "2026-05-08T11:34:57"
     },
     {
       "from": "P_2025_NEA_107",
@@ -3419,6 +3588,21 @@
         "广州市推动大规模设备更新和消费品以旧换新实施方案"
       ],
       "reason": "细化市级实施方案的标准支撑"
+    },
+    {
+      "from": "P_2026_SD_09bacb8e",
+      "to": "P_2024_SD_061b4a99",
+      "rel": "iterates",
+      "evidence": "页面置于‘推动大规模设备更新和消费品以旧换新’栏目下，发布《2026年山东省汽车置换更新补贴实施细则》《2026年山东省汽车报废更新补贴实施细则》。",
+      "confidence": 0.75,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T11:34:15+08:00",
+      "signals": [
+        "same_jurisdiction",
+        "policy_chain_consumer_goods_trade_in",
+        "year_iteration"
+      ],
+      "reason": "2026 Shandong auto trade-in detailed rules iterate the Shandong province-level 设备更新和消费品以旧换新 implementation plan; same jurisdiction and policy chain."
     },
     {
       "from": "P_2022_CQ_18",
@@ -4437,9 +4621,69 @@
         "carbon_peak"
       ],
       "reason": "Article mentions Beijing's carbon-peak implementation plan; content suggests temporal alignment."
+    },
+    {
+      "from": "P_2022_SD_67a335e9",
+      "to": "P_2024_GO_L775",
+      "rel": "aligns_with",
+      "evidence": "正文：积极推动《碳排放权交易管理暂行条例》（以下简称《条例》）出台，并完善配套交易制度和相关技术规范，构建完善以《条例》为法律基础……的制度体系。",
+      "confidence": 0.7,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T11:34:15+08:00",
+      "signals": [
+        "title_match",
+        "central_document",
+        "carbon_market"
+      ],
+      "reason": "2022 article anticipates the 暂行条例; later promulgated as 国务院令第775号 in 2024. Aligns with vault entry on title."
+    },
+    {
+      "from": "P_2023_SD_82423871",
+      "to": "P_2022_MEE_111",
+      "rel": "aligns_with",
+      "evidence": "正文：生态环境部今年3月发布的《2021、2022年度全国碳排放权交易配额总量设定与分配实施方案（发电行业）》显示，相较上一履约周期，各机组碳排放基准值整体收紧。",
+      "confidence": 0.8,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T11:34:15+08:00",
+      "signals": [
+        "title_match",
+        "central_document",
+        "carbon_market"
+      ],
+      "reason": "Article references the 2021、2022年度配额总量设定与分配实施方案 (vault entry exists as 征求意见稿 by MEE 111号); describes baseline tightening — alignment relationship."
+    },
+    {
+      "from": "P_2024_SD_d62a7386",
+      "to": "P_2024_GO_L775",
+      "rel": "aligns_with",
+      "evidence": "正文：《碳排放权交易管理暂行条例》将于5月1日起施行，碳排放权交易市场有望首次扩围。",
+      "confidence": 0.9,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T11:34:15+08:00",
+      "signals": [
+        "title_match",
+        "central_document",
+        "carbon_market"
+      ],
+      "reason": "Article aligns with the 国务院令第775号《碳排放权交易管理暂行条例》effective May 1."
+    },
+    {
+      "from": "P_2025_SD_e5834863",
+      "to": "P_2025_MEE_2",
+      "rel": "aligns_with",
+      "evidence": "正文：生态环境部印发《2024、2025年度全国碳排放权交易市场钢铁、水泥、铝冶炼行业配额总量和分配方案》，这是碳排放权交易市场扩围工作的重要部署安排。",
+      "confidence": 0.95,
+      "extracted_by": "rebuild_l2_rel_judge",
+      "extracted_at": "2026-05-08T11:34:15+08:00",
+      "signals": [
+        "title_match",
+        "central_document",
+        "carbon_market"
+      ],
+      "reason": "Article reports MEE 国环规气候〔2025〕2号 allocation plan for steel/cement/aluminum sectors — direct alignment."
     }
   ],
-  "relations_count": 209,
+  "relations_count": 217,
   "diff_files": [],
   "opinion_policy_ids": [
     "P_2024_OTHER764F_337",
@@ -4470,10 +4714,10 @@
       "山西省": 4,
       "湖南省": 2,
       "河南省": 5,
+      "山东省": 10,
       "重庆市": 8,
       "海南省": 1,
       "上海市": 9,
-      "山东省": 2,
       "贵州省": 2,
       "辽宁省": 1,
       "浙江省": 1,
@@ -4503,6 +4747,7 @@
     }
   },
   "top_issuers": {
+    "山东省发展和改革委员会": 9,
     "北京市人民政府": 7,
     "生态环境部": 7,
     "国家能源局": 7,
@@ -4516,27 +4761,9 @@
     "广东省发展和改革委员会": 2,
     "湖南省发展和改革委员会": 2,
     "重庆市发展和改革委员会": 2,
-    "贵州省发展和改革委员会": 2,
-    "国家发展改革委等部门": 2
+    "贵州省发展和改革委员会": 2
   },
   "top_5_importance": [
-    {
-      "id": "P_2020_GO_39_b",
-      "title": "新能源汽车产业发展规划(2021—2035年)",
-      "date": "2020-10-20",
-      "official": "国办发〔2020〕39号",
-      "issuer": [
-        "国务院办公厅"
-      ],
-      "region": {
-        "level": "国家",
-        "code": "000000",
-        "name": "全国"
-      },
-      "importance": 5,
-      "tags": [],
-      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
-    },
     {
       "id": "P_2020_GO_1020e9f0",
       "title": "新能源汽车产业发展规划（2021—2035年）",
@@ -4553,6 +4780,23 @@
       "importance": 5,
       "tags": [],
       "filename": "【新能源汽车产业发展规划（2021—2035年）】-国务院办公厅-b733.md"
+    },
+    {
+      "id": "P_2020_GO_39_b",
+      "title": "新能源汽车产业发展规划(2021—2035年)",
+      "date": "2020-10-20",
+      "official": "国办发〔2020〕39号",
+      "issuer": [
+        "国务院办公厅"
+      ],
+      "region": {
+        "level": "国家",
+        "code": "000000",
+        "name": "全国"
+      },
+      "importance": 5,
+      "tags": [],
+      "filename": "【新能源汽车产业发展规划(2021—2035年)(国办发〔2020〕39号)】-国务院办公厅-9884.md"
     },
     {
       "id": "P_2021_SC_0922fb2b",

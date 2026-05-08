@@ -1,0 +1,25 @@
+pid: P_2026_SD_6d1acd2f
+scores:
+  D1: 2
+  D2: 3
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 汽车以旧换新带动燃油车结构优化,加油结构性变化
+  充电: 新能源车换购需求支撑充电桩规模增长
+  电力_储能_V2G_交易: 弱相关
+  乡村: 下沉市场协同,济青烟有奖发票试点偏城市
+行动建议:
+- 'A 立即: 同步跟进山东商务厅以旧换新月度数据,纳入运营仪表盘'
+- 'B 研究: 评估有奖发票试点对网约车出行与司机加油消费场景的边际影响'
+- 'C 关注: 春季焕新消费季的促销节点'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 山东汽车以旧换新7.5万辆,平台司机端换购窗口扩大
+archive: low_score

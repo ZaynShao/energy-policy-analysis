@@ -4,7 +4,7 @@ title: 广西壮族自治区发展和改革委员会关于印发推进广西集�
 inbound_edge_count: 3
 outbound_edge_count: 5
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:34+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【广西壮族自治区发展和改革委员会关于印发推进广西集中共享新型储能示范建设的通知 - 通知公告
   - 广西壮族自治区发展和改革委员会网站(桂发改电力〔2022〕1043号)】-广西壮族自治区发展.md
 ---

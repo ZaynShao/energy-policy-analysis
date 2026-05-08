@@ -1,0 +1,25 @@
+pid: P_2022_SD_ef2e3f46
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 3
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 炼油企业、加油站点抽检力度加大;郊区/农村/国道/高速油站抽检比例提升;不合格曝光与黑名单经验对山东合规筛站具有借鉴意义
+  充电: 无直接关联
+  电力_储能_V2G_交易: 无
+  乡村: 郊县与农村油站抽检比例提升,关联乡村加油合作筛选
+行动建议:
+- 'A 立即: 无'
+- 'B 研究: 借鉴‘网格员包联+数字化监管''用于平台合作油站合规风控'
+- 'C 关注: 山东省内类似要点是否出台/更新'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 他省加油站抽检与黑名单趋严,经验外溢影响山东油站合作合规标准
+archive: low_score

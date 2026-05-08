@@ -4,7 +4,7 @@ title: 国家发展改革委办公厅国家能源局综合司关于进一步加�
 inbound_edge_count: 9
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【国家发展改革委办公厅国家能源局综合司关于进一步加快电力现货 ...(发改办体改〔2023〕813号)】-河南省发展和改革委员会-6c0de10b.md
 ---
 

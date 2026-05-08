@@ -1,0 +1,25 @@
+pid: P_2023_SD_0a818b21
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 3
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 山东本省加油站环保合规基础好,加大型站三次回收+在线监控趋势,合作站点环保资质要求清晰
+  充电: 无直接关联
+  电力_储能_V2G_交易: 无直接关联
+  乡村: 弱关联,小型乡村油站可能仍是合规薄弱环节
+行动建议:
+- 'A 立即: 无紧急动作'
+- 'B 研究: 区分大型站与小型站合规度,梳理拓站合规筛选清单'
+- 'C 关注: 三次回收剩余7%站点强制升级时点'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 山东油站环保合规水平居前,平台合作油站资质门槛已普遍达标
+archive: low_score

@@ -4,7 +4,7 @@ title: 关于2026年实施大规模设备更新和消费品以旧换新政策的
 inbound_edge_count: 30
 outbound_edge_count: 6
 commentary_inbound_count: 8
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【关于2026年实施大规模设备更新和消费品以旧换新政策的通知(发改环资〔2025〕1745号)】-国家发展和改革委员会、财政部-c223.md
 ---
 

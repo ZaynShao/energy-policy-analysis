@@ -4,7 +4,7 @@ title: 关于加快推进充电基础设施建设支持新能源汽车产业发�
 inbound_edge_count: 0
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:32:33+08:00'
+last_updated: '2026-05-08T11:45:10+08:00'
 policy_file: ../../../0_raw/policies/【关于加快推进充电基础设施建设支持新能源汽车产业发展的建议答复摘要(国能建电力〔2024〕77号)】-国家能源局-e961.md
 ---
 

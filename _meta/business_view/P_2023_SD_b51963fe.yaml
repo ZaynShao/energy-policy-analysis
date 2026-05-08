@@ -1,0 +1,25 @@
+pid: P_2023_SD_b51963fe
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 4
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 弱相关
+  充电: 电动出行减排可量化为个人碳账户积分,与平台积分商城联动潜力
+  电力_储能_V2G_交易: 碳普惠+碳市场延伸为低碳出行提供市场化激励;远期与CCER等接通
+  乡村: 弱关联
+行动建议:
+- 'A 立即: 评估接入山东碳普惠平台的可行路径(乘客/司机端电动出行碳积分)'
+- 'B 研究: 出行场景减排方法学开发与碳币兑换商业模式'
+- 'C 关注: 山东省级碳普惠平台上线节奏与个人碳账户落地'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 山东碳普惠覆盖出行/生活,平台用户低碳出行减排量可纳入碳积分体系
+archive: low_score
