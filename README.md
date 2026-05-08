@@ -68,12 +68,18 @@ SCHEMA.md               数据契约(与 pipeline 仓同步)
 数字由 pipeline 仓的 status 脚本生成,见 `~/dev/政策分析-pipeline/state/STATUS.md`。
 本 README 不手写"当前数字"以避免过期。
 
-## 三层架构与数据流
+## 当前阶段范围
 
-| 层 | 职责 | 落地 | 由谁写 |
+聚焦 **L1 完整采集 + L2 高质量派生**。
+**L3 月报 / 决策卡片不在本阶段范围**——`2_crystallized/_reports/` 既存月报作为历史数据保留,不再更新。
+
+## 架构层
+
+| 层 | 职责 | 落地 | 当前阶段 |
 |---|---|---|---|
-| L1 raw | 政策/评论原始入库 | `0_raw/` | pipeline 入库脚本 |
-| L2 派生 | 实体/关系/评分/摘要 | `1_extracted/` + `_meta/business_view/` | pipeline 派生脚本 |
-| L3 结晶 | 主题页/区域页/月报 | `2_crystallized/` | pipeline 渲染脚本 |
+| L1 raw | 政策/评论原始入库 | `0_raw/` | ✓ 重点(市级覆盖扩展) |
+| L2 派生 | 实体/关系/评分/摘要 | `1_extracted/` + `_meta/business_view/` | ✓ 重点(质量审计) |
+| L3 结晶 | 主题页/区域页 | `2_crystallized/themes,regions/` | 维持 |
+| L3 渲染 | 月报 / 决策卡片 | `2_crystallized/_reports/` | — 暂不维护 |
 
 数据流 + 哲学详见 [SCHEMA.md](SCHEMA.md) §0。

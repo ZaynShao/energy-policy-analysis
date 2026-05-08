@@ -104,18 +104,25 @@ region:
 provenance:
   url: https://www.ndrc.gov.cn/...
   source_type: A                 # A 政府/B 媒体/C 公众号/D PDF/E 会议讲话
-  fetched_via: firecrawl         # firecrawl / tavily+trafilatura / wechat-pipeline
+  fetched_via: firecrawl         # 或 fetched_method(legacy 别名),见 §F
   fetched_at: '2026-04-25T11:07:53'
   collected_by: policy-watch
   collected_mode: cron-daily     # cron-daily / url-intake / build-phase-manual
   confidence: 0.95
+  # ↓ 以下子键为审计派生(可选,见 §F drift register)
+  audit_run: ~
+  candidate_priority: ~
+  src_count: ~
 
 # === 派生辅助(可选) ===
 issuer_canonical:
   - ndrc                         # 渠道目录 URL 映射,deterministic
 
-type: 核心政策                   # 固定枚举(可选,默认核心政策)
+type: policy                     # 枚举:policy / core_policy / 核心政策(同义,见 §F)
 subtype: ~                       # 子类(可选)
+
+# === Top-level confidence(legacy 字段,见 §F) ===
+confidence: 0.95                 # 或 high / medium / low(legacy 字符串值)
 
 # === Dedup 标记(可选,仅 _duplicates/) ===
 dup_aliases: []
@@ -128,7 +135,7 @@ _duplicate_reason: ~
 
 ### 字段白名单(强制约束)
 
-**只允许**上述字段。**禁止**:`tags` / `重要性` / `行动分类` / `价值标签` / `scores` / `影响分析` / `行动建议` / `related` / `business_tags` 等业务派生字段。这些字段已下沉到 `_meta/business_view/{pid}.yaml`。
+**只允许**上述字段(含 §F 列出的 legacy 别名)。**禁止**:`tags` / `重要性` / `行动分类` / `价值标签` / `scores` / `影响分析` / `行动建议` / `related` / `business_tags` 等业务派生字段。这些字段已下沉到 `_meta/business_view/{pid}.yaml`。
 
 ### Body 约束
 
@@ -156,18 +163,30 @@ P_<year>_<issuer_short>_<num_or_hash>
 ```yaml
 ---
 title: 评论标题
-source_account: 电动汽车观察家     # 公众号或媒体名
+type: 政策评论                    # 固定枚举(可选)
+source_type: B                    # A/B/C/D(与 policy 同枚举,可选)
+source_account: 电动汽车观察家     # 公众号或媒体名;web 媒体可为域名
 source_url: https://mp.weixin.qq.com/s/...
-date_published: '2026-01-22'      # 发表日期
+date_published: '2026-01-22'      # 发表日期(可 null)
 fetched_at: '2026-04-28 20:52:51+08:00'
 commentary_type: A                # A 解读 / B 分析 / C 案例 / D 数据 / E 转发(枚举)
 business_tag: charging            # power / charging / gas / cross
 source: wewe-rss                  # wewe-rss / tavily / firecrawl / wechat-article-to-markdown
 confidence: 0.9                   # 权威号 0.9 / 行业媒体 0.7 / 匿名 0.5
 
+# === provenance(嵌套,从 v2→v3 迁移残留,可选) ===
+provenance:
+  confidence: 0.9
+  collected_by: policy-watch
+  fetched_at: ...
+  fm_v3_migrated_at: ~
+  fm_v3_migrated_from_v2: ~
+
 # === 关系字段(白名单例外,见 §C) ===
 related_policy: ~                 # [[P_xxx]] 或数组(可空)
-related_policy_source: ~          # B1_official_number / B2_title_fuzzy / B3_llm / tavily_pull / manual
+related_policy_source: ~          # B1_official_number / B2_title_fuzzy / B3_llm / B4_llm_body_review / tavily_pull / manual
+related_policy_confidence: ~      # 关系附属置信度(可选)
+related_policy_matched_at: ~      # 关系匹配时间戳(可选)
 not_policy_related: ~             # true=已确认无政策可关联(化工/法律/海外行情等)
 ---
 ```
@@ -335,6 +354,8 @@ Canonical 注册在 `_meta/entities/registry.yaml`(或 vault 内等价位置,以
 - `regional-coverage.md` — 区域覆盖矩阵 + 空白发现
 - `opinions-summary.md` — 同主题舆论元分析
 
+**`2_crystallized/_reports/`(月报渲染产物)**:本阶段**不再维护**。既存 March 月报作为历史数据保留,不删但不更新。
+
 ---
 
 ## C. Raw 不可变的边界例外(白名单)
@@ -368,6 +389,45 @@ Canonical 注册在 `_meta/entities/registry.yaml`(或 vault 内等价位置,以
 4. 派生层重新跑该 pid
 
 不就地编辑 raw frontmatter / body。
+
+---
+
+## F. Drift Register(legacy 字段 + 迁移目标)
+
+vault 当前内含一些字段,与"理想 schema"有出入,但是真实存在的数据。本 register 显式标注,避免静默 drift。
+
+### Policy frontmatter drift
+
+| 字段 | 现状 | 目标 | 处置 |
+|---|---|---|---|
+| top-level `confidence` | 存在,值 `0.95` 数字 / `medium` 字符串混用 | 仅保留 `provenance.confidence` 数字 | 保留兼容,新写入只写 `provenance.confidence`;未来一次性归一 |
+| `provenance.fetched_method` | 部分政策用 `fetched_method`,部分用 `fetched_via` | 统一 `fetched_via` | 保留兼容,validator 接受两个,新写入只写 `fetched_via` |
+| `provenance.audit_run` / `candidate_priority` / `src_count` | tier A/B 补抓时引入的审计派生字段 | 移到工程仓 state,不进 raw | 保留兼容,后续 cleanup pass 把它们抽出去 |
+| `type: policy` vs `核心政策` | 两种值并存 | 统一英文枚举 `policy` / `core_policy` | 保留兼容,新写入只用英文 |
+
+### Commentary frontmatter drift
+
+| 字段 | 现状 | 目标 | 处置 |
+|---|---|---|---|
+| `provenance` 嵌套 | v2→v3 迁移残留,部分 commentary 还在用 | commentary 不需要嵌套 provenance | 保留兼容,新评论入库不再写 provenance |
+| `fm_v3_migrated_at` / `fm_v3_migrated_from_v2` | v2→v3 迁移标记 | 迁移完成后删 | 等 commentary 全量重写时清 |
+| `related_policy_confidence` / `related_policy_matched_at` | B4 LLM 判定时附加的置信度/时间 | 应进派生层,不在 raw frontmatter | 保留兼容,后续把这些迁到 `1_extracted/commentary_audit/` |
+| **缺 `title` 字段** | ~67 / 283 评论 frontmatter 缺 title(标题在文件名) | 必填 title 字段 | **数据缺陷**,后续 cleanup pass 从文件名补回 |
+
+### 严重违反(应清理但作为 cleanup pass 跑,不阻塞)
+
+| 违反 | 现状 | 来源 | 处置 |
+|---|---|---|---|
+| Policy 含 `tags` + `classification` 字段 | ~81 / 1020 政策(7.9%) | `isolated_classification` 任务 LLM 派生倒灌 raw | **违反 LESSONS A2/A3**,需 cleanup pass 清出。`classification` 派生信息迁到 `1_extracted/commentary_audit/` 或类似派生层 |
+| Commentary 缺 `title` | ~67 / 283 评论(23.7%) | 入库时未抽 title | cleanup pass 从文件名补回 |
+| Commentary 留有 policy 字段(reclassified) | ~14 / 283 评论 | 原政策被 reclassify 为评论(`_migrated_from: policies`),policy frontmatter 字段未清 | cleanup pass 删除 policy-only 字段(id/region/issuer/issuer_canonical/official_number/tags/_migrated_*/_review_needed_*) |
+
+### Drift 处置纪律
+
+1. SCHEMA validator 接受 drift 字段(标 `legacy`,不报错)
+2. **新写入**严格按"目标"写,不写 legacy 别名
+3. Drift cleanup 是独立任务,有 dedicated cleanup pass(不是日常工作的副作用)
+4. Drift 字段在派生层不被依赖——派生层只读"目标"字段,legacy 字段视为不存在
 
 ---
 
