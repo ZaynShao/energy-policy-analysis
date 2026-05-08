@@ -4,7 +4,7 @@ title: 财政部 税务总局 工业和信息化部关于延续和优化新能�
 inbound_edge_count: 2
 outbound_edge_count: 0
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:55+08:00'
 policy_file: ../../../0_raw/policies/【财政部 税务总局 工业和信息化部关于延续和优化新能源汽车车辆购置税减免政策的公告(2023年第10号)】-财政部、税务总局、工业和信息化部-6fbf.md
 ---
 

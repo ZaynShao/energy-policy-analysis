@@ -4,7 +4,7 @@ title: 关于加快推进虚拟电厂发展的指导意见
 inbound_edge_count: 38
 outbound_edge_count: 3
 commentary_inbound_count: 5
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:56+08:00'
 policy_file: ../../../0_raw/policies/【关于加快推进虚拟电厂发展的指导意见(发改能源〔2025〕357号)】-国家发展和改革委员会、国家能源局-d547.md
 ---
 

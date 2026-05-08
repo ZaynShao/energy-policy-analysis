@@ -1,16 +1,20 @@
 ---
 policy_id: P_2025_MOFCOM_4_a
 title: 成品油流通管理办法
-inbound_edge_count: 0
+inbound_edge_count: 1
 outbound_edge_count: 1
 commentary_inbound_count: 3
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:55+08:00'
 policy_file: ../../../0_raw/policies/【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197.md
 ---
 
 > 政策原文:[[【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197|成品油流通管理办法]]
 
 # 入向反链:P_2025_MOFCOM_4_a
+
+## 被落地 (landed_by) — 1
+
+- [[【广东省发展和改革委员会 - 广东省成品油流通管理条例】-广东省发展和改革委员会-6416d7e9|P_2024_GD_6416d7e9]] — 广东省发展和改革委员会 - 广东省成品油流通管理条例 (2024-09-26) [借鉴框架]
 
 ## 被评论 (commented_by) — 3
 

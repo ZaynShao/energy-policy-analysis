@@ -1,0 +1,23 @@
+pid: P_2017_GD_406db0aa
+scores:
+  D1: 0
+  D2: 1
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 2
+重要性: 0
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 本年度配额未覆盖加油站零售环节,无直接合规义务
+  充电: 配额未覆盖充电服务,但电力行业被纳入间接影响购电成本
+  电力_储能_V2G_交易: 电力行业纳入碳配额管理,长期看绿电消费、CCER等碳资产对储能/VPP有衍生收益
+  乡村: 无直接乡村议题
+行动建议:
+- 'C 关注: 跟进广东碳市场后续年度方案对交通/充电行业的覆盖动向'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广东碳市场配额覆盖六行业不含交通,对充电/加油业务无直接配额约束
+archive: low_score

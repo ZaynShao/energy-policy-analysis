@@ -4,7 +4,7 @@ title: 新疆发布《关于加快推进新疆新能源就近消纳有关事项�
 inbound_edge_count: 0
 outbound_edge_count: 8
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:55+08:00'
 policy_file: ../../../0_raw/policies/【新疆发布《关于加快推进新疆新能源就近消纳有关事项的通知》】-未知机构-53b1ddc3.md
 ---
 

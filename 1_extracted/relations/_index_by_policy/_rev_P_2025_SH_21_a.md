@@ -4,7 +4,7 @@ title: 2025年上海市汽车置换更新补贴政策实施细则
 inbound_edge_count: 1
 outbound_edge_count: 9
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:56+08:00'
 policy_file: ../../../0_raw/policies/【2025年上海市汽车置换更新补贴政策实施细则(沪商市场〔2025〕21号)】-上海市商务委员会等五部门-ec01.md
 ---
 

@@ -4,7 +4,7 @@ title: 安徽省能源局关于征求《安徽省绿色电力交易实施方案�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:55+08:00'
 policy_file: ../../../0_raw/policies/【安徽省能源局关于征求《安徽省绿色电力交易实施方案（2026年版 ...】-安徽省发展和改革委员会-f6d75f7f.md
 ---
 

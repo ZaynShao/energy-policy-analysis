@@ -3,7 +3,7 @@ theme_id: gas_station_transition_theme
 theme_zh: 加油站转型
 theme_dir: GAS_STATION_TRANSITION_THEME
 type: theme_hub
-policy_count: 69
+policy_count: 89
 opinion_count: 6
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 加油站转型(GAS_STATION_TRANSITION_THEME)— 主题入口
 
-**政策数**: 69  ·  **观点矩阵**: 6
+**政策数**: 89  ·  **观点矩阵**: 6
 
 ## 主题文档
 

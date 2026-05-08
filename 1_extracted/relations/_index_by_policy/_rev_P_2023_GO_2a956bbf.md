@@ -4,7 +4,7 @@ title: 湖南省人民政府办公厅关于印发《湖南省新型电力系统�
 inbound_edge_count: 1
 outbound_edge_count: 2
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:56+08:00'
 policy_file: ../../../0_raw/policies/【湖南省人民政府办公厅关于印发《湖南省新型电力系统发展规划纲要 ...(湘政办发〔2023〕52号)】-政府门户.www.mayang.gov.cn-2a956bbf.md
 ---
 

@@ -3,7 +3,7 @@ theme_id: green_power_trading_theme
 theme_zh: 绿电交易
 theme_dir: GREEN_POWER_TRADING_THEME
 type: theme_hub
-policy_count: 189
+policy_count: 195
 opinion_count: 21
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # 绿电交易(GREEN_POWER_TRADING_THEME)— 主题入口
 
-**政策数**: 189  ·  **观点矩阵**: 21
+**政策数**: 195  ·  **观点矩阵**: 21
 
 ## 主题文档
 

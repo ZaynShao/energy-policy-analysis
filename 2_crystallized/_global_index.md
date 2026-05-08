@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-05-08T02:34:56+08:00
-policy_count: 821
+last_updated: 2026-05-08T11:00:51+08:00
+policy_count: 881
 commentary_count: 283
 entity_count: 100
-edge_count: 1150
-opinion_coverage_pct: 9.1
+edge_count: 1188
+opinion_coverage_pct: 8.5
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-05-08T02:34:56+08:00
+**最后更新**: 2026-05-08T11:00:51+08:00
 
 ---
 
@@ -18,12 +18,12 @@ opinion_coverage_pct: 9.1
 
 | 类型 | 数量 |
 |---|:-:|
-| 政策原文 (policies/) | **821** (79 个 main_graph_excluded 噪声不计) |
+| 政策原文 (policies/) | **881** (79 个 main_graph_excluded 噪声不计) |
 | 评论 (commentaries/) | **283** |
 | 规范化实体 (entities/registry) | **100** |
-| 关系网总边数 | **1150** |
-| 反链页 (_index_by_policy) | **774** |
-| 政策舆论矩阵 (opinions) | **75** (9.1% 覆盖率) |
+| 关系网总边数 | **1188** |
+| 反链页 (_index_by_policy) | **705** |
+| 政策舆论矩阵 (opinions) | **75** (8.5% 覆盖率) |
 
 ---
 
@@ -32,15 +32,15 @@ opinion_coverage_pct: 9.1
 | 关系类型 | 边数 | 含义 |
 |---|:-:|---|
 | supersedes | 7 | 显式废止 |
-| iterates | 54 | 版本升级 |
+| iterates | 57 | 版本升级 |
 | extends | 34 | 范围扩展 |
 | clarifies | 110 | 实施细化 |
-| references | 429 | 文号/标题引用 |
-| aligns_with | 173 | 同向对齐 |
+| references | 437 | 文号/标题引用 |
+| aligns_with | 176 | 同向对齐 |
 | conflicts_with | 0 | 口径冲突 |
-| cites_basis | 343 | 制定依据 |
+| cites_basis | 367 | 制定依据 |
 
-**关系网密度**:1150 / 821×(821-1) = 1.71 ‰
+**关系网密度**:1188 / 881×(881-1) = 1.53 ‰
 
 ---
 
@@ -60,24 +60,24 @@ opinion_coverage_pct: 9.1
 
 | level | 数量 |
 |---|:-:|
-| 省 | 543 |
-| 国家 | 212 |
+| 省 | 582 |
+| 国家 | 233 |
 | 市 | 37 |
 | 区 | 24 |
 | 县 | 5 |
 
 ### Top 10 region.name(按政策数)
 
-- 全国: 153 篇
+- 全国: 154 篇
+- 未知: 61 篇
+- 上海市: 50 篇
 - 北京市: 46 篇
 - 重庆市: 46 篇
 - 河南省: 42 篇
-- 未知: 41 篇
-- 上海市: 30 篇
+- 广东省: 31 篇
 - 辽宁省: 29 篇
 - 广西壮族自治区: 25 篇
 - 海南省: 25 篇
-- 宁夏回族自治区: 25 篇
 
 ---
 
@@ -176,7 +176,7 @@ opinion_coverage_pct: 9.1
 
 ## 10. 数据健康指标
 
-- **opinion 覆盖率**: 9.1% (75/821) ⚠️
-- **issuer_canonical 覆盖**: 237/821
+- **opinion 覆盖率**: 8.5% (75/881) ⚠️
+- **issuer_canonical 覆盖**: 237/881
 - **5 星政策(高重要性)**: 57
-- **冲突边密度**: 0/1150 ⚠️ 0 条
+- **冲突边密度**: 0/1188 ⚠️ 0 条

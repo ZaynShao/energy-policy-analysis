@@ -4,7 +4,7 @@ title: 碳市场、绿证、绿电政策知识包(政策汇编)
 inbound_edge_count: 0
 outbound_edge_count: 5
 commentary_inbound_count: 0
-last_updated: '2026-05-08T02:34:58+08:00'
+last_updated: '2026-05-08T11:00:55+08:00'
 policy_file: ../../../0_raw/policies/【碳市场、绿证、绿电政策知识包(政策汇编)】-包头市人民政府-de7e.md
 ---
 
