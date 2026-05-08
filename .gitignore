@@ -26,8 +26,6 @@ package-lock.json
 *.tmp
 *.bak
 *.log
-_meta/backup/
-_meta/tmp/
 
 # Obsidian 工作区(本地配置,不入版本)
 .obsidian/workspace*
@@ -40,6 +38,12 @@ _meta/tmp/
 * [3-9].md
 * [3-9].yaml
 * [3-9].json
+
+# 反污染:工程层在 ~/dev/政策分析-pipeline/。本仓不再放工程脚本/状态。
+# 若误产生,加进下面规则避免误 commit。
+_meta/tmp/
+_meta/scripts/
+_meta/audit*/
 _l2_rebuild_state/
 _l2_rebuild_state_backup_*/
 0_raw/policies_staging_*/

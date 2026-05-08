@@ -1,115 +1,79 @@
-# Energy Policy Analysis
+# 政策分析 Vault
 
-能源政策分析知识库 — 三层架构(L1 采集 / L2 知识图谱 / L3 报告产出)。
+能源政策分析项目的**数据层**。政策 raw、评论 raw、派生产物、canonical 配置、工作日志在本仓。
 
-服务公司决策层,覆盖三大业务:加油 / 充电 / 电力(后者含储能·V2G·电力交易)。乡村是关注方向(非业务线)。
+工程层(脚本 / SOP / 中间产物)在另一仓:`~/dev/政策分析-pipeline/`。
+两仓通过 [SCHEMA.md](SCHEMA.md)(数据契约)解耦。
 
----
+```
+~/Documents/Zayn Main/政策分析/   ← 本仓(vault)
+~/dev/政策分析-pipeline/           ← 工程仓
+~/政策分析-legacy-archive/         ← 已废弃的旧脚本/产物(物理隔离)
+```
 
-## 三层架构
+## 在本仓内做什么
 
-| 层 | 职责 | 方法论 | 当前状态 |
+- 读数据(`0_raw/` / `1_extracted/` / `2_crystallized/` / `_meta/business_view/`)
+- 维护背景资料和 canonical 词表(`00 背景资料/` / `_meta/themes_registry.yaml` / `_meta/issuer_review_queue.yaml`)
+- 写人工工作日志(`开发日记/`)
+- 在 `2_crystallized/` 做人工 polish
+
+## 不在本仓做什么
+
+- 不写脚本(去 pipeline)
+- 不建工程目录(audit / staging / tmp 全部去 pipeline `state/`)
+- 不修改 raw 内容(详见 [SCHEMA.md](SCHEMA.md) §0 + §C 白名单)
+- 不参考 `~/政策分析-legacy-archive/`(已隔离的废弃产物,**禁止读**)
+
+详细约束见 [CLAUDE.md](CLAUDE.md)。
+
+## 目录速览
+
+```
+0_raw/                  L1 raw(不可改)
+  policies/             政策原文
+  commentaries/         评论原文
+  _archive/             归档 raw(版本替换)
+  _duplicates/          dup 隔离
+
+1_extracted/            L2 派生(可重抽)
+  policy_summaries.jsonl
+  relations/            9 类关系 jsonl + 反链页
+  entities/
+  opinions/
+  commentary_audit/
+
+2_crystallized/         L3 结晶(主题/区域聚合)
+  themes/
+  regions/
+  _global_index.md
+  _reports/
+
+3_lints/                lint 报告
+
+_meta/
+  business_view/        业务派生(评分/影响分析/行动建议)
+  themes_registry.yaml  主题 canonical
+  business_tags_legacy.jsonl  legacy 暂存
+  issuer_review_queue.yaml    机构 canonical 评审
+  backlog/
+
+00 背景资料/             业务背景 / 渠道目录 / 评分体系
+SCHEMA.md               数据契约(与 pipeline 仓同步)
+开发日记/                人工工作日志
+```
+
+## 当前规模
+
+数字由 pipeline 仓的 status 脚本生成,见 `~/dev/政策分析-pipeline/state/STATUS.md`。
+本 README 不手写"当前数字"以避免过期。
+
+## 三层架构与数据流
+
+| 层 | 职责 | 落地 | 由谁写 |
 |---|---|---|---|
-| **L1 采集** | 政策发现 / 抓取 / 入库 | 8 步采集法 | 289 政策入库,日志在 `0_raw/policies/` |
-| **L2 知识图谱** | canonical 实体 / 关系 / 主题结晶 | Karpathy LLM Wiki v2 (schema v3) | 9 个派生脚本跑通,3 个主题已结晶(V2G / 电力市场 / 充电基建) |
-| **L3 报告产出** | 月报 / 决策卡片 / 深度报告 | 四维决策框架 | 月报蓝本完成(2026-03 v6) |
+| L1 raw | 政策/评论原始入库 | `0_raw/` | pipeline 入库脚本 |
+| L2 派生 | 实体/关系/评分/摘要 | `1_extracted/` + `_meta/business_view/` | pipeline 派生脚本 |
+| L3 结晶 | 主题页/区域页/月报 | `2_crystallized/` | pipeline 渲染脚本 |
 
----
-
-## 目录结构
-
-```
-.
-├── 00 背景资料/         # L1+L2+L3 方法论文档
-│   ├── 滴滴能源-政策分析背景.md   # 业务定位、决策框架
-│   ├── 渠道目录.md                # 46 个已验证政策来源
-│   ├── 政策重要性打分体系.md      # 六维打分 + 四象限
-│   ├── 策略-八步采集法.md         # L1 SOP
-│   └── 策略-L3月报需求原型.md     # L3 月报规范(本月新增)
-├── 0_raw/               # L1 原始政策(frontmatter v3 + body)
-│   └── policies/*.md    # 289 篇政策
-├── 1_extracted/         # L2 派生:实体 / 关系 / 立场
-│   ├── entities/
-│   ├── relations/
-│   └── stances/
-├── 2_crystallized/      # L2 主题结晶页
-│   └── themes/          # V2G / 电力市场 / 充电基建
-├── 3_lints/             # L2 lint 报告(每周)
-└── _meta/               # 工具链
-    ├── scripts/         # L2 派生脚本 + L3 渲染脚本
-    ├── schema_v3.md     # L2 schema 契约
-    ├── pipeline.md      # 派生管道说明
-    └── march_report_batches/  # L3 月报中间产物
-```
-
----
-
-## L3 月报生成管道
-
-数据层 + 双 renderer 解耦,docx 和 html 同源:
-
-```
-prep_docx_data.py   →  _docx_data.json  ┬→  render_docx.js  →  *.docx
-                                        └→  render_html.py  →  *.html
-
-render_march_charts.py  →  charts/*.png  →  (两个 renderer 都用)
-```
-
-**重生成月报(当前手动 4 步,后续 OpenClaw cron 部署后自动):**
-
-```bash
-cd "/path/to/vault"
-python3 _meta/scripts/render_march_charts.py    # chart 不变可跳
-python3 _meta/scripts/prep_docx_data.py         # 数据层
-NODE_PATH=/opt/homebrew/lib/node_modules \
-  node _meta/scripts/render_docx.js             # docx
-python3 _meta/scripts/render_html.py            # html
-```
-
-输出:`~/Desktop/能源政策月报-YYYY-MM.docx` + `.html`
-
----
-
-## L2 派生管道
-
-**daily mode**(单篇/小批量):
-
-```bash
-python3 _meta/scripts/upgrade_frontmatter_v2_to_v3.py    # 升级 frontmatter
-python3 _meta/scripts/extract_entities.py                # canonical 实体
-python3 _meta/scripts/extract_relations_regex.py         # 文号引用关系
-python3 _meta/scripts/extract_relations_heuristic.py     # 启发式关系
-python3 _meta/scripts/aggregate_opinions.py              # 立场聚合
-python3 _meta/scripts/dedup_policies.py                  # 去重(3 规则)
-python3 _meta/scripts/lint.py                            # 11 项 lint
-```
-
-**weekly mode**(全量重建主题结晶页):
-
-```bash
-python3 _meta/scripts/crystallize_theme.py --theme v2g --aliases ... --theme_zh "V2G/车网"
-```
-
-详见 `_meta/pipeline.md`。
-
----
-
-## L1 采集
-
-8 步采集法见 `00 背景资料/策略-八步采集法.md`。
-
-当前为手动触发,未来通过 OpenClaw `policy-watch` skill 双模运行(daily cron 拉模式 + 频道触发推模式)。
-
----
-
-## 重要规则(写入决策层文档前必读)
-
-详见 `00 背景资料/策略-L3月报需求原型.md` 第 4-7 节,核心摘要:
-
-- **业务表述:** 唯一合法是「公司三大业务(加油/充电/电力)」+「乡村能源关注方向」。禁用「四大业务」「乡村业务」等任何虚构业务线。
-- **品牌:** 对内统一用「公司」,不用任何品牌名。
-- **行动分类:** 4 级 = A 趁早 / B 研究 / C 跟进 / D 跟踪。不用「立即」(过激紧迫感)。
-- **emoji:** 全文无 emoji,仅 ⭐ 用于重要性打分。
-- **工具痕迹:** 不出现 Claude / docx-js / Agent / token / 自动生成 等。
-- **比较级 fact-check:** 「首批 / 首个 / 首破」必须查 vault 验证,不能仅凭印象。
-- **国家级 → 省级因果:** 同月发布属「同源并行」,非「派生因果」(省级专项起草周期 6-12 月)。
+数据流 + 哲学详见 [SCHEMA.md](SCHEMA.md) §0。
