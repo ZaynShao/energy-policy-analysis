@@ -4,7 +4,7 @@ title: 《海南省电力需求响应实施细则（试行）》政策解读
 inbound_edge_count: 12
 outbound_edge_count: 3
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:13:52+08:00'
+last_updated: '2026-05-08T11:32:33+08:00'
 policy_file: ../../../0_raw/policies/【《海南省电力需求响应实施细则（试行）》政策解读(发改运行规〔2023〕1261号)】-海南省发展和改革委员会-45faa5f8.md
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: 政策分析全局大盘
-last_updated: 2026-05-08T11:13:49+08:00
-policy_count: 908
+last_updated: 2026-05-08T11:32:31+08:00
+policy_count: 930
 commentary_count: 283
 entity_count: 100
-edge_count: 1194
-opinion_coverage_pct: 8.3
+edge_count: 1211
+opinion_coverage_pct: 8.1
 ---
 
 # 政策分析全局大盘
 
-**最后更新**: 2026-05-08T11:13:49+08:00
+**最后更新**: 2026-05-08T11:32:31+08:00
 
 ---
 
@@ -18,12 +18,12 @@ opinion_coverage_pct: 8.3
 
 | 类型 | 数量 |
 |---|:-:|
-| 政策原文 (policies/) | **908** (79 个 main_graph_excluded 噪声不计) |
+| 政策原文 (policies/) | **930** (79 个 main_graph_excluded 噪声不计) |
 | 评论 (commentaries/) | **283** |
 | 规范化实体 (entities/registry) | **100** |
-| 关系网总边数 | **1194** |
-| 反链页 (_index_by_policy) | **886** |
-| 政策舆论矩阵 (opinions) | **75** (8.3% 覆盖率) |
+| 关系网总边数 | **1211** |
+| 反链页 (_index_by_policy) | **1024** |
+| 政策舆论矩阵 (opinions) | **75** (8.1% 覆盖率) |
 
 ---
 
@@ -33,14 +33,14 @@ opinion_coverage_pct: 8.3
 |---|:-:|---|
 | supersedes | 7 | 显式废止 |
 | iterates | 57 | 版本升级 |
-| extends | 34 | 范围扩展 |
-| clarifies | 110 | 实施细化 |
-| references | 439 | 文号/标题引用 |
-| aligns_with | 176 | 同向对齐 |
+| extends | 36 | 范围扩展 |
+| clarifies | 113 | 实施细化 |
+| references | 440 | 文号/标题引用 |
+| aligns_with | 181 | 同向对齐 |
 | conflicts_with | 0 | 口径冲突 |
-| cites_basis | 371 | 制定依据 |
+| cites_basis | 377 | 制定依据 |
 
-**关系网密度**:1194 / 908×(908-1) = 1.45 ‰
+**关系网密度**:1211 / 930×(930-1) = 1.40 ‰
 
 ---
 
@@ -60,8 +60,8 @@ opinion_coverage_pct: 8.3
 
 | level | 数量 |
 |---|:-:|
-| 省 | 608 |
-| 国家 | 234 |
+| 省 | 625 |
+| 国家 | 239 |
 | 市 | 37 |
 | 区 | 24 |
 | 县 | 5 |
@@ -69,15 +69,15 @@ opinion_coverage_pct: 8.3
 ### Top 10 region.name(按政策数)
 
 - 全国: 156 篇
-- 北京市: 73 篇
-- 未知: 60 篇
+- 未知: 65 篇
+- 北京市: 65 篇
 - 上海市: 49 篇
 - 重庆市: 46 篇
+- 山东省: 45 篇
 - 河南省: 42 篇
 - 广东省: 31 篇
 - 辽宁省: 29 篇
 - 广西壮族自治区: 25 篇
-- 海南省: 25 篇
 
 ---
 
@@ -176,7 +176,7 @@ opinion_coverage_pct: 8.3
 
 ## 10. 数据健康指标
 
-- **opinion 覆盖率**: 8.3% (75/908) ⚠️
-- **issuer_canonical 覆盖**: 237/908
+- **opinion 覆盖率**: 8.1% (75/930) ⚠️
+- **issuer_canonical 覆盖**: 237/930
 - **5 星政策(高重要性)**: 60
-- **冲突边密度**: 0/1194 ⚠️ 0 条
+- **冲突边密度**: 0/1211 ⚠️ 0 条

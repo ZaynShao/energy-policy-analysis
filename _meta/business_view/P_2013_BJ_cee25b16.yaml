@@ -1,0 +1,22 @@
+pid: P_2013_BJ_cee25b16
+scores:
+  D1: 3
+  D2: 4
+  D3: 3
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 高耗能加油站作为间接排放主体可能纳入报告范围，运营商需关注核算口径
+  充电: 充电站若年用电换算超阈值需关注报告义务；绿电消纳使排放因子归零
+  电力_储能_V2G_交易: 为未来车网互动、储能调峰资产参与CCER开发奠基
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 京碳市场制度演进，关注配额范围与CCER项目机会'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 首都碳市场为后续滴滴新能源置换、绿电采购形成减排资产打开通道

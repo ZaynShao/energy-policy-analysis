@@ -1,0 +1,22 @@
+pid: P_2023_GO_bed9e918
+scores:
+  D1: 3
+  D2: 3
+  D3: 3
+  D4: 3
+  D5: 2
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 经营资质加油站可参与生物柴油加注试点，B端物流/公交/环卫车队为切入口；以产定销模式或要求平台撮合废油-生柴-加注闭环
+  充电: 无直接影响
+  电力_储能_V2G_交易: 无直接影响
+  乡村: 京郊餐厨废弃油脂收集与生物柴油生产可形成乡村增值场景
+行动建议:
+- 'B 研究: 评估北京市试点申报情况与合规加油站参与路径，预研生物柴油加注接入方案'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 加油业务可探索接入生物柴油加注站，差异化绿色品类有望切入营运车队

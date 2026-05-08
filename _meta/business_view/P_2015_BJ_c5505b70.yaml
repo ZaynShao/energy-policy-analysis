@@ -1,0 +1,23 @@
+pid: P_2015_BJ_c5505b70
+scores:
+  D1: 3
+  D2: 1
+  D3: 3
+  D4: 1
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 京内零售价下调，单笔加油金额下降；合规站点价格透明度要求维持
+  充电: 油电比价向油侧短期回调，但长期趋势仍利好电动化
+  电力_储能_V2G_交易: 无直接影响
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 文件已失效，归档为京地油价联动机制历史样本'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 成品油降价短期降低司机加油成本，加油业务客单收缩但流量稳定
+archive: low_score

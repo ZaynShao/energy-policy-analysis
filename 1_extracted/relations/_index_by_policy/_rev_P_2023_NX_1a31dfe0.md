@@ -4,7 +4,7 @@ title: 自治区发展改革委关于进一步降低高可靠性供电费标准�
 inbound_edge_count: 2
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:13:52+08:00'
+last_updated: '2026-05-08T11:32:34+08:00'
 policy_file: ../../../0_raw/policies/【自治区发展改革委关于进一步降低高可靠性供电费标准的通知(国办函〔2020〕129号)】-宁夏回族自治区发展和改革委员会-1a31dfe0.md
 ---
 

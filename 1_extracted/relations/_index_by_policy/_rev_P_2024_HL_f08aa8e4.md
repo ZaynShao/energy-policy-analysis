@@ -4,7 +4,7 @@ title: 关于印发《黑龙江省电力市场运营规则及配套实施细则�
 inbound_edge_count: 0
 outbound_edge_count: 4
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:13:52+08:00'
+last_updated: '2026-05-08T11:32:34+08:00'
 policy_file: ../../../0_raw/policies/【关于印发《黑龙江省电力市场运营规则及配套实施细则（试行2.0版 ...】-黑龙江省发展和改革委员会-f08aa8e4.md
 ---
 

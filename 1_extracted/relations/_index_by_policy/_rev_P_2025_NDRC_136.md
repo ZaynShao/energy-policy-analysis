@@ -4,7 +4,7 @@ title: 关于深化新能源上网电价市场化改革促进新能源高质量�
 inbound_edge_count: 46
 outbound_edge_count: 4
 commentary_inbound_count: 14
-last_updated: '2026-05-08T11:13:52+08:00'
+last_updated: '2026-05-08T11:32:33+08:00'
 policy_file: ../../../0_raw/policies/【关于深化新能源上网电价市场化改革促进新能源高质量发展的通知(发改价格〔2025〕136号)】-国家发展和改革委员会、国家能源局-b26b.md
 ---
 

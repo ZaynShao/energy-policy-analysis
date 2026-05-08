@@ -2085,3 +2085,59 @@ items:
     ref_count: 1
     evidence_sample: 信用上海平台栏目汇总,本市平台对国家政策的转载/索引,issuer非国家机关
     last_seen: '2026-05-08T11:12:49'
+  国家发展改革委关于提高成品油价格的通知（发改电〔2012〕154号）:
+    first_seen: '2026-05-08T11:31:40'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2012_BJ_466935e2
+    ref_count: 1
+    evidence_sample: issuer为北京市发改委，文件本身为转发国家发改委发改电〔2012〕154号
+    last_seen: '2026-05-08T11:31:40'
+  国家发改委2011年关于开展碳排放权交易试点工作的通知:
+    first_seen: '2026-05-08T11:31:40'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2013_BJ_cee25b16
+    ref_count: 1
+    evidence_sample: issuer为北京市人民政府/发改委，落实国家发改委2011年试点城市批复及十二五规划纲要
+    last_seen: '2026-05-08T11:31:40'
+  国家发展改革委关于降低国内成品油价格的通知（发改电〔2015〕477号）:
+    first_seen: '2026-05-08T11:31:40'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2015_BJ_c5505b70
+    ref_count: 1
+    evidence_sample: issuer为北京市发改委，文件转发国家发改委发改电〔2015〕477号
+    last_seen: '2026-05-08T11:31:40'
+  北京市发改委关于规范本市居民住宅小区电动自行车充电设施收费标准等有关事项的通知:
+    first_seen: '2026-05-08T11:31:40'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2022_BJ_d4768883
+    ref_count: 1
+    evidence_sample: issuer为北京市发改委媒体引用，文件本身为京地发改委规范性文件
+    last_seen: '2026-05-08T11:31:40'
+  国家发改委等关于加快建设新型电力系统的指导意见:
+    first_seen: '2026-05-08T11:31:40'
+    linkage_type: 主题对应
+    ref_pids:
+    - P_2025_BJ_7efe36f3
+    ref_count: 1
+    evidence_sample: issuer为北京市发改委，京发改〔2025〕1059号系京地申报通知
+    last_seen: '2026-05-08T11:31:40'
+  中共中央办公厅国务院办公厅关于推进绿色低碳转型加强全国碳市场建设的意见:
+    first_seen: '2026-05-08T11:31:40'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2026_BJ_559a203d
+    ref_count: 1
+    evidence_sample: issuer为北京市生态环境局，京环发〔2026〕7号，落实两办意见与北京市人大碳市场试点决定
+    last_seen: '2026-05-08T11:31:40'
+  国家发展改革委国内成品油价格调整安排:
+    first_seen: '2026-05-08T11:31:40'
+    linkage_type: 直接落地
+    ref_pids:
+    - P_2026_BJ_99ffa774
+    ref_count: 1
+    evidence_sample: issuer为北京市发改委，文件根据国家发改委国内成品油价格调整安排执行
+    last_seen: '2026-05-08T11:31:40'

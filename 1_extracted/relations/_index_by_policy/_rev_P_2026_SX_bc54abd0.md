@@ -4,7 +4,7 @@ title: 关于2025年国民经济和社会发展计划执行情况与2026年国�
 inbound_edge_count: 0
 outbound_edge_count: 1
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:13:52+08:00'
+last_updated: '2026-05-08T11:32:33+08:00'
 policy_file: ../../../0_raw/policies/【关于2025年国民经济和社会发展计划执行情况与2026年国民经济和 ...】-山西省发展和改革委员会-bc54abd0.md
 ---
 

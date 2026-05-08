@@ -1,0 +1,22 @@
+pid: P_2025_BJ_7efe36f3
+scores:
+  D1: 4
+  D2: 4
+  D3: 4
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 4
+行动分类: B
+价值标签: []
+影响分析:
+  加油: 加油（气）站列入超充优先支持范围，存量加油站固投补贴换取超充改造空间
+  充电: 大功率超充与车网互动场站30%固投补贴直接拉低投建门槛，鼓励既有站点升级
+  电力_储能_V2G_交易: 支持双向充放电站建设并接入市级平台，V2G/虚拟电厂商业闭环加速；车网互动设施纳入固投支持
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 梳理可申报站点，赶申报窗口；优先布局加油站/高速服务区超充与V2G示范'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 京固投补贴30%叠加加油站/高速服务区优先，能源侧布局超充+V2G窗口

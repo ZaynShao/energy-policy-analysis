@@ -4,7 +4,7 @@ title: 广东省发展和改革委员会 - 关于印发广东省2026年大规模
 inbound_edge_count: 0
 outbound_edge_count: 6
 commentary_inbound_count: 0
-last_updated: '2026-05-08T11:13:52+08:00'
+last_updated: '2026-05-08T11:32:34+08:00'
 policy_file: ../../../0_raw/policies/【广东省发展和改革委员会 - 关于印发广东省2026年大规模设备更新和消费品以旧换新工作方案的通知(粤发改资环〔2026〕41号)】-广东省发展和改革委员会-2c7d52ac.md
 ---
 

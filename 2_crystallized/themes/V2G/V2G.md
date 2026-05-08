@@ -3,7 +3,7 @@ theme_id: v2g
 theme_zh: V2G(车网互动)
 theme_dir: V2G
 type: theme_hub
-policy_count: 110
+policy_count: 111
 opinion_count: 25
 generated_at: 2026-05-08
 generated_by: crystallize_theme.py (theme_hub)
@@ -11,7 +11,7 @@ generated_by: crystallize_theme.py (theme_hub)
 
 # V2G(车网互动)(V2G)— 主题入口
 
-**政策数**: 110  ·  **观点矩阵**: 25
+**政策数**: 111  ·  **观点矩阵**: 25
 
 ## 主题文档
 

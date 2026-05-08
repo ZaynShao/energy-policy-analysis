@@ -5,9 +5,9 @@ date: 2026-04-25
 
 # Step 5 · 实体抽取汇总
 
-- 输入政策: **957**
+- 输入政策: **979**
 - registry 实体: **99**
-- 命中实体的政策: **918**
+- 命中实体的政策: **940**
 - 零实体命中政策: **39**(召回缺口,LLM 补抽 candidate)
 - 平均每政策命中实体: **7.0**
 - 已被引用的 canonical: **73/99**
@@ -24,26 +24,26 @@ date: 2026-04-25
 
 | # | canonical_id | 名称 | type | 引用政策数 |
 |---|--------------|------|------|:-----:|
-| 1 | `nea` | 国家能源局 | org | 349 |
-| 2 | `power_market` | 电力市场 | concept | 323 |
-| 3 | `state_council` | 国务院 | org | 303 |
-| 4 | `grid_company` | 电网企业 | stakeholder / org | 288 |
-| 5 | `distribution_grid_opening` | 配电网开放 | theme | 277 |
-| 6 | `new_ess` | 新型储能 | concept | 255 |
-| 7 | `rural_revitalization_theme` | 乡村振兴 | theme | 254 |
-| 8 | `nev` | 新能源汽车 | concept | 252 |
+| 1 | `nea` | 国家能源局 | org | 350 |
+| 2 | `power_market` | 电力市场 | concept | 325 |
+| 3 | `state_council` | 国务院 | org | 309 |
+| 4 | `grid_company` | 电网企业 | stakeholder / org | 289 |
+| 5 | `distribution_grid_opening` | 配电网开放 | theme | 278 |
+| 6 | `rural_revitalization_theme` | 乡村振兴 | theme | 259 |
+| 7 | `nev` | 新能源汽车 | concept | 258 |
+| 8 | `new_ess` | 新型储能 | concept | 257 |
 | 9 | `vpp` | 虚拟电厂 | concept | 216 |
-| 10 | `green_power_trading_theme` | 绿电交易 | theme | 207 |
-| 11 | `region_beijing` | 北京 | region | 182 |
+| 10 | `green_power_trading_theme` | 绿电交易 | theme | 209 |
+| 11 | `region_beijing` | 北京 | region | 204 |
 | 12 | `power_user` | 电力用户 | stakeholder | 163 |
 | 13 | `region_shanghai` | 上海 | region | 163 |
-| 14 | `energy_storage_theme` | 新型储能 | theme | 145 |
-| 15 | `equipment_renewal_theme` | 以旧换新 | theme | 143 |
+| 14 | `equipment_renewal_theme` | 以旧换新 | theme | 149 |
+| 15 | `energy_storage_theme` | 新型储能 | theme | 145 |
 | 16 | `region_xinjiang` | 新疆 | region | 143 |
-| 17 | `charging_infra` | 充电基础设施 | concept | 141 |
+| 17 | `charging_infra` | 充电基础设施 | concept | 142 |
 | 18 | `power_generator` | 发电企业 | stakeholder | 136 |
-| 19 | `aggregator_access` | 聚合商准入 | theme | 128 |
-| 20 | `consumer` | 消费者 | stakeholder | 126 |
+| 19 | `consumer` | 消费者 | stakeholder | 132 |
+| 20 | `aggregator_access` | 聚合商准入 | theme | 128 |
 
 ## 孤儿 canonical(0 政策引用,可能是 backup 残余)
 

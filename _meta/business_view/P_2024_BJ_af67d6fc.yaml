@@ -1,0 +1,22 @@
+pid: P_2024_BJ_af67d6fc
+scores:
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 燃油车补贴上行短期稳定加油用户基盘
+  充电: 新能源乘用车2万补贴叠加置换政策，京内充电需求继续扩张
+  电力_储能_V2G_交易: 无直接影响
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 司机服务端结合补贴申领指引强化油换电促转化'
+extracted_at: '2026-05-08'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 京两新补贴信息扩散助推司机端油换电咨询与转化
