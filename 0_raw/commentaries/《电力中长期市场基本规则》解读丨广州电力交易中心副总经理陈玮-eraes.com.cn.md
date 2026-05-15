@@ -1,4 +1,5 @@
 ---
+title: '《电力中长期市场基本规则》解读丨广州电力交易中心副总经理陈玮'
 type: 政策评论
 source_type: B
 related_policy:

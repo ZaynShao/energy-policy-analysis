@@ -1,0 +1,23 @@
+pid: P_2017_SX_8bdfd02b
+scores:
+  D1: 3
+  D2: 2
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接
+  充电: 新能源汽车推广与综合能源服务为充电业务铺路
+  电力_储能_V2G_交易: 山西作为电改先行省,VPP/现货/储能机会突出,长期跟踪
+  乡村: 支持脱贫与乡村能源民生改善
+行动建议:
+- 'B 研究: 跟踪山西电力现货市场+VPP管理办法的最新版本,选择重点城市切入'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 对滴滴电力业务:山西作为能源革命试点,长期为综合能源/VPP/绿电交易提供土壤
+archive: low_score

@@ -1,4 +1,5 @@
 ---
+title: '加力支持大规模设备更新和消费品以旧换新（政策解读）'
 type: 政策评论
 source_type: B
 related_policy:

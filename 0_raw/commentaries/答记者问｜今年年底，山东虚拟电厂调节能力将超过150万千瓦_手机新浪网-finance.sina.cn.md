@@ -1,4 +1,5 @@
 ---
+title: '答记者问｜今年年底，山东虚拟电厂调节能力将超过150万千瓦_手机新浪网'
 type: 政策评论
 source_type: B
 related_policy:

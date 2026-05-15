@@ -1,4 +1,5 @@
 ---
+title: '《关于加强电网调峰储能和智能化调度能力建设的指导意见》文件解读_电力网'
 type: 政策评论
 source_type: B
 related_policy:

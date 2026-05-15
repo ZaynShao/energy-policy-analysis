@@ -1,4 +1,5 @@
 ---
+title: '《北京市积极推动设备更新和消费品以旧换新行动方案》政策解读'
 type: 政策评论
 source_type: A
 related_policy:

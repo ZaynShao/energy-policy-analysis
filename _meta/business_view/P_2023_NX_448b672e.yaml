@@ -1,0 +1,23 @@
+pid: P_2023_NX_448b672e
+scores:
+  D1: 2
+  D2: 4
+  D3: 4
+  D4: 4
+  D5: 1
+  D6: 1
+重要性: 3
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 10kV以上工商业用户必须入市为充电站(含直流快充)用电主体提供更灵活的电价
+  电力_储能_V2G_交易: 独立储能、虚拟电厂(发电或用户身份)正式作为新型主体入市,925亿kWh市场规模,日融合5分钟撮合,VPP套利窗口清晰
+  乡村: 无直接影响
+行动建议:
+- 'A 立即: 把宁夏作为西北区域VPP/独立储能复制候选,梳理可调资源池'
+- 'B 研究: 拿宁夏分时尖峰/深谷设置作为电池套利模型校准基准'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 宁夏明确独立储能与VPP准入路径,可作滴滴VPP复制模板

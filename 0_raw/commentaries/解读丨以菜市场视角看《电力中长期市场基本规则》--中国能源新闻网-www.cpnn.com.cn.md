@@ -1,4 +1,5 @@
 ---
+title: '解读丨以菜市场视角看《电力中长期市场基本规则》'
 type: 政策评论
 source_type: B
 related_policy:

@@ -1,4 +1,5 @@
 ---
+title: '《关于进一步构建高质量充电基础设施体系的实施意见》政策解读'
 type: 政策评论
 source_type: A
 related_policy:

@@ -1,4 +1,5 @@
 ---
+title: '可再生能源绿色电力证书”新政分析与解读  信息化观察网'
 type: 政策评论
 source_type: B
 related_policy:

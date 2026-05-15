@@ -1,4 +1,5 @@
 ---
+title: '国务院办公厅 关于完善全国统一电力市场体系的实施意见（附解读）'
 type: 政策评论
 source_type: B
 related_policy:

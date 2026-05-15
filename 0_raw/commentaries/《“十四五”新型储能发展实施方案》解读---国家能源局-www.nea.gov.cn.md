@@ -1,4 +1,5 @@
 ---
+title: '《“十四五”新型储能发展实施方案》解读'
 type: 政策评论
 source_type: A
 related_policy:

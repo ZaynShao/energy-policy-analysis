@@ -1,4 +1,5 @@
 ---
+title: '绿电、绿证差异化分析及应用场景介绍 - 新闻 - 上海瑞旭绿循技术服务有限公司 - 瑞旭集团 CIRS Group'
 type: 政策评论
 source_type: B
 related_policy:

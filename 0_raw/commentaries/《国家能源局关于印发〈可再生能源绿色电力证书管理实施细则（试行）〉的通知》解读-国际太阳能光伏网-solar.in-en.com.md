@@ -1,4 +1,5 @@
 ---
+title: '《国家能源局关于印发〈可再生能源绿色电力证书管理实施细则（试行）〉的通知》解读'
 type: 政策评论
 source_type: B
 related_policy:

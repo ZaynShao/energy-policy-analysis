@@ -1,6 +1,7 @@
 ---
-id: P_1900_JX_dd27cf9b
+id: P_2026_JX_dd27cf9b
 aliases:
+- P_2026_JX_dd27cf9b
 - P_1900_JX_dd27cf9b
 title: 《江西省发展改革委关于支持独立储能健康有序发展的通知》政策解读
 official_number: ''
@@ -19,6 +20,9 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 1
   src_count: 2
+  id_fixed_at: '2026-05-12T15:12:30+08:00'
+  id_fixed_method: id_recompute_from_metadata
+  id_fixed_from: P_1900_JX_dd27cf9b
 confidence: medium
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: '《关于加快推进虚拟电厂发展的指导意见》政策解读'
 type: 政策评论
 source_type: A
 related_policy:

@@ -1,4 +1,5 @@
 ---
+title: '政策解读丨促进虚拟电厂高质量发展 为加快构建新型电力系统注入新动能'
 type: 政策评论
 source_type: A
 related_policy:

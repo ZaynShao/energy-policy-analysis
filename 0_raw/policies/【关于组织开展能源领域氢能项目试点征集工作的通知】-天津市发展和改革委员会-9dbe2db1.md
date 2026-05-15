@@ -1,12 +1,13 @@
 ---
-id: P_1900_TJ_9dbe2db1
+id: P_2025_TJ_9dbe2db1
 aliases:
+- P_2025_TJ_9dbe2db1
 - P_1900_TJ_9dbe2db1
 title: 关于组织开展能源领域氢能项目试点征集工作的通知
 official_number: ''
 issuer:
 - 天津市发展和改革委员会
-date: '2026-05-06'
+date: '2025-06-19'
 region:
   level: 省
   code: '120000'
@@ -19,6 +20,12 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 3
   src_count: 1
+  date_fixed_at: '2026-05-12T15:12:30+08:00'
+  date_fixed_method: url_path_pattern
+  date_fixed_from: '2026-05-06'
+  id_fixed_at: '2026-05-12T15:12:30+08:00'
+  id_fixed_method: id_recompute_from_metadata
+  id_fixed_from: P_1900_TJ_9dbe2db1
 confidence: medium
 ---
 

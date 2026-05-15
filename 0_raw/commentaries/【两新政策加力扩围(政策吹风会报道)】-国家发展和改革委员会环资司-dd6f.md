@@ -1,13 +1,5 @@
 ---
-id: P_2025_NDRC_010916c7
 title: 两新政策加力扩围(政策吹风会报道)
-official_number: ''
-issuer:
-- 国家发展和改革委员会环资司
-region:
-  level: 国家
-  code: '000000'
-  name: 全国
 provenance:
   url: https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/gzdt/202501/t20250109_1395606.html
   source_type: B
@@ -24,17 +16,7 @@ provenance:
   - 行动分类
   fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
   fm_v3_migrated_from_v2: true
-tags:
-- 充电基础设施
-- 新能源汽车
-- 节能降碳
-- 设备更新
-issuer_canonical:
-- ndrc
 type: 政策评论
-_review_needed_related_policy: true
-_migrated_from: policies
-_migrated_at: '2026-04-28'
 related_policy:
 - P_2025_NDRC_13_b
 related_policy_source: B4_llm_body_review

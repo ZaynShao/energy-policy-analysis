@@ -1,12 +1,13 @@
 ---
-id: P_1900_SX_8bdfd02b
+id: P_2017_SX_8bdfd02b
 aliases:
+- P_2017_SX_8bdfd02b
 - P_1900_SX_8bdfd02b
 title: 《贯彻落实国务院支持山西省进一步深化改革促进资源型经济转型发展意见行动计划》-山西省发改委门户网站
 official_number: ''
 issuer:
 - 山西省发展和改革委员会
-date: '2020-01-01'
+date: '2017-11-23'
 region:
   level: 省
   code: '140000'
@@ -19,6 +20,12 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 1
   src_count: 2
+  date_fixed_at: '2026-05-12T15:12:30+08:00'
+  date_fixed_method: url_path_pattern
+  date_fixed_from: '2020-01-01'
+  id_fixed_at: '2026-05-12T15:12:30+08:00'
+  id_fixed_method: id_recompute_from_metadata
+  id_fixed_from: P_1900_SX_8bdfd02b
 confidence: medium
 ---
 

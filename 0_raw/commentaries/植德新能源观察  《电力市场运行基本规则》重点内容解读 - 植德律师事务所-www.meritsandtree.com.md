@@ -1,4 +1,5 @@
 ---
+title: '植德新能源观察  《电力市场运行基本规则》重点内容解读'
 type: 政策评论
 source_type: B
 related_policy:

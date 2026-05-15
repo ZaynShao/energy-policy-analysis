@@ -1,4 +1,5 @@
 ---
+title: '《云南省电动汽车充电设施服务能力倍增行动方案》政策解读'
 type: 政策评论
 source_type: B
 related_policy:

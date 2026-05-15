@@ -1,6 +1,7 @@
 ---
-id: P_1900_JX_d35b0ffb
+id: P_2025_JX_d35b0ffb
 aliases:
+- P_2025_JX_d35b0ffb
 - P_1900_JX_d35b0ffb
 title: 《关于新形势下配电网高质量发展的指导意见》 政策解读
 official_number: ''
@@ -19,6 +20,9 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 1
   src_count: 2
+  id_fixed_at: '2026-05-12T15:12:30+08:00'
+  id_fixed_method: id_recompute_from_metadata
+  id_fixed_from: P_1900_JX_d35b0ffb
 confidence: medium
 ---
 

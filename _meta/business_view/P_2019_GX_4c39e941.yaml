@@ -1,0 +1,23 @@
+pid: P_2019_GX_4c39e941
+scores:
+  D1: 1
+  D2: 1
+  D3: 3
+  D4: 1
+  D5: 0
+  D6: 0
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无直接影响
+  充电: 增量配电网内充电站可走就近交易+免穿越费路径,降低用电成本
+  电力_储能_V2G_交易: 市场化电量+目录电价并行,园区储能套利有空间
+  乡村: 无直接影响
+行动建议:
+- 'C 关注: 与广西增量配电试点园区接洽,识别充电特许或储能合作机会'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 广西增量配电+就近交易机制为滴滴特许配电+绿电直连提供模板
+archive: low_score

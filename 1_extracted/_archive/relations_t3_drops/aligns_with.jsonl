@@ -1,0 +1,1 @@
+{"from": "P_2023_NX_3df3969b", "to": "P_1900_NX_ffe6eeec", "rel": "aligns_with", "evidence": "汇总目录含'宁夏发展改革委 国家能源局西北监管局关于印发《宁夏回族自治区虚拟电厂运营管理细则》的通知 宁发改规发〔2023〕16号'，与vault虚拟电厂运营管理细则条目一致。", "confidence": 0.85, "extracted_by": "rebuild_l2_rel_judge", "extracted_at": "2026-05-08T00:40:04+08:00", "signals": ["explicit_official_number_match", "title_match"], "reason": "目录列出虚拟电厂运营细则"}

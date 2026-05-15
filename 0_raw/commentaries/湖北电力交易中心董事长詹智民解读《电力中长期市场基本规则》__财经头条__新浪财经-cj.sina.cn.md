@@ -1,4 +1,5 @@
 ---
+title: '湖北电力交易中心董事长詹智民解读《电力中长期市场基本规则》__财经头条__新浪财经'
 type: 政策评论
 source_type: B
 related_policy:

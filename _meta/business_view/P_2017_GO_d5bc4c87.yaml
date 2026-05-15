@@ -1,0 +1,23 @@
+pid: P_2017_GO_d5bc4c87
+scores:
+  D1: 0
+  D2: 0
+  D3: 3
+  D4: 1
+  D5: 0
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签: []
+影响分析:
+  加油: 无影响。
+  充电: 绿证制度是滴滴绿色充电产品的政策源头，可对接绿电服务。
+  电力_储能_V2G_交易: 绿证是绿电交易、绿色权益服务的基础凭证。
+  乡村: 弱影响。
+行动建议:
+- 'C 关注: 作为绿证业务的政策溯源文件归档。'
+extracted_at: '2026-05-06'
+extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
+extracted_model: claude-opus-4-7-via-subagent
+didi_impact_one_liner: 绿证制度起点，绿色充电与绿电交易溯源依据
+archive: low_score

@@ -1,12 +1,13 @@
 ---
-id: P_1900_QH_ab4dcbb6
+id: P_2026_QH_ab4dcbb6
 aliases:
+- P_2026_QH_ab4dcbb6
 - P_1900_QH_ab4dcbb6
 title: 青海省能源局关于印发《青海省虚拟电厂建设与运行管理方案》的通知
 official_number: ''
 issuer:
 - 青海省发展和改革委员会
-date: '2026-05-06'
+date: '2026-02-02'
 region:
   level: 省
   code: '630000'
@@ -19,6 +20,12 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 1
   src_count: 2
+  date_fixed_at: '2026-05-12T15:12:30+08:00'
+  date_fixed_method: url_path_pattern
+  date_fixed_from: '2026-05-06'
+  id_fixed_at: '2026-05-12T15:12:30+08:00'
+  id_fixed_method: id_recompute_from_metadata
+  id_fixed_from: P_1900_QH_ab4dcbb6
 confidence: medium
 ---
 

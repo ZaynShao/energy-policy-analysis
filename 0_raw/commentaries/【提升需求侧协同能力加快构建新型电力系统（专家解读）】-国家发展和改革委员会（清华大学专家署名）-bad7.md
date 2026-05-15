@@ -1,13 +1,5 @@
 ---
-id: P_2024_NDRC_08094e9d
 title: 提升需求侧协同能力加快构建新型电力系统（专家解读）
-official_number: ''
-issuer:
-- 国家发展和改革委员会（清华大学专家署名）
-region:
-  level: 国家
-  code: '000000'
-  name: 全国
 provenance:
   url: https://www.ndrc.gov.cn/xxgk/jd/jd/202408/t20240809_1392335.html
   source_type: D
@@ -25,16 +17,7 @@ provenance:
   - archive
   fm_v3_migrated_at: '2026-05-06T12:27:37+08:00'
   fm_v3_migrated_from_v2: true
-tags:
-- 充电基础设施
-- 虚拟电厂
-- 需求响应
-issuer_canonical:
-- ndrc
 type: 政策评论
-_review_needed_related_policy: true
-_migrated_from: policies
-_migrated_at: '2026-04-28'
 related_policy:
 - P_2024_NDRC_0806117c
 - P_2024_NEA_08098f4e

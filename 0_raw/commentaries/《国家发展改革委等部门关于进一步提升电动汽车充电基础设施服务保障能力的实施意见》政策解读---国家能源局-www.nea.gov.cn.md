@@ -1,4 +1,5 @@
 ---
+title: '《国家发展改革委等部门关于进一步提升电动汽车充电基础设施服务保障能力的实施意见》政策解读'
 type: 政策评论
 source_type: A
 source_url: http://www.nea.gov.cn/2022-01/25/c_1310442213.htm

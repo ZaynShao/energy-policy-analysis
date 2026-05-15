@@ -1,4 +1,5 @@
 ---
+title: '国家能源局：关于促进新型储能并网和调度运用的通知（及解读）'
 type: 政策评论
 source_type: B
 related_policy:

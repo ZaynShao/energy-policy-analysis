@@ -1,4 +1,5 @@
 ---
+title: '电力重磅文件发布！首批新型电力系统建设能力提升试点名单出炉，43个项目、10个城市入选电力系统_新浪财经_新浪网'
 type: 政策评论
 source_type: B
 source_url: https://finance.sina.com.cn/roll/2026-02-27/doc-inhphqny6532624.shtml
