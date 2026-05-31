@@ -5,6 +5,22 @@
     level: 国家
     code: '000000'
     name: 全国
+- domain: cds.sczwfw.gov.cn
+  issuer_short: SC
+  issuer_canonical: 成都市人民政府
+  region:
+    level: 市
+    code: '510000'
+    name: 四川省成都市
+    needs_city_code: true
+- domain: cqqj.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市綦江区人民政府
+  region:
+    level: 区
+    code: '500000'
+    name: 重庆市綦江区
+    needs_city_code: true
 - domain: credit.fgw.sh.gov.cn
   issuer_short: SH
   issuer_canonical: 上海市
@@ -431,6 +447,13 @@
     level: 国家
     code: '000000'
     name: 全国
+- domain: nyj.nmg.gov.cn
+  issuer_short: NM
+  issuer_canonical: 内蒙古自治区能源局
+  region:
+    level: 省
+    code: '150000'
+    name: 内蒙古自治区
 - domain: nyj.shandong.gov.cn
   issuer_short: SD
   issuer_canonical: 山东省
@@ -476,6 +499,13 @@
     code: '440000'
     name: 广州市
     needs_city_code: true
+- domain: scms.gov.cn
+  issuer_short: SC
+  issuer_canonical: 四川省人民政府
+  region:
+    level: 省
+    code: '510000'
+    name: 四川省
 - domain: sf.sz.gov.cn
   issuer_short: GD
   issuer_canonical: 深圳市
@@ -549,6 +579,14 @@
     code: '130000'
     name: 承德市
     needs_city_code: true
+- domain: swj.chongyang.gov.cn
+  issuer_short: HB
+  issuer_canonical: 崇阳县商务局
+  region:
+    level: 县
+    code: '420000'
+    name: 湖北省崇阳县
+    needs_city_code: true
 - domain: swj.nanjing.gov.cn
   issuer_short: JS
   issuer_canonical: 南京市
@@ -578,6 +616,14 @@
     level: 市
     code: '310000'
     name: 上海市
+- domain: www.baiyinqu.gov.cn
+  issuer_short: GS
+  issuer_canonical: 白银区人民政府
+  region:
+    level: 区
+    code: '620000'
+    name: 甘肃省白银市白银区
+    needs_city_code: true
 - domain: www.baotou.gov.cn
   issuer_short: NM
   issuer_canonical: 包头市
@@ -593,6 +639,30 @@
     level: 市
     code: '110000'
     name: 北京市
+- domain: www.bjft.gov.cn
+  issuer_short: BJ
+  issuer_canonical: 北京市丰台区人民政府
+  region:
+    level: 区
+    code: '110000'
+    name: 北京市丰台区
+    needs_city_code: true
+- domain: www.by.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市白云区人民政府
+  region:
+    level: 区
+    code: '440000'
+    name: 广州市白云区
+    needs_city_code: true
+- domain: www.bypc.gov.cn
+  issuer_short: GS
+  issuer_canonical: 白银市平川区人民政府
+  region:
+    level: 区
+    code: '620000'
+    name: 甘肃省白银市平川区
+    needs_city_code: true
 - domain: www.changzhou.gov.cn
   issuer_short: JS
   issuer_canonical: 常州市
@@ -601,6 +671,14 @@
     code: '320000'
     name: 常州市
     needs_city_code: true
+- domain: www.conghua.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市从化区人民政府
+  region:
+    level: 区
+    code: '440000'
+    name: 广州市从化区
+    needs_city_code: true
 - domain: www.cq.gov.cn
   issuer_short: CQ
   issuer_canonical: 重庆市人民政府
@@ -608,6 +686,38 @@
     level: 市
     code: '500000'
     name: 重庆市
+- domain: www.cqkz.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市开州区人民政府
+  region:
+    level: 区
+    code: '500000'
+    name: 重庆市开州区
+    needs_city_code: true
+- domain: www.cqnc.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市南川区人民政府
+  region:
+    level: 区
+    code: '500000'
+    name: 重庆市南川区
+    needs_city_code: true
+- domain: www.fangshan.gov.cn
+  issuer_short: SX
+  issuer_canonical: 方山县人民政府
+  region:
+    level: 县
+    code: '140000'
+    name: 山西省方山县
+    needs_city_code: true
+- domain: www.fl.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市涪陵区人民政府
+  region:
+    level: 区
+    code: '500000'
+    name: 重庆市涪陵区
+    needs_city_code: true
 - domain: www.forestry.gov.cn
   issuer_short: NFA
   issuer_canonical: 国家林业和草原局
@@ -630,6 +740,14 @@
     code: '440000'
     name: 广州市
     needs_city_code: true
+- domain: www.haizhu.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市海珠区人民政府
+  region:
+    level: 区
+    code: '440000'
+    name: 广州市海珠区
+    needs_city_code: true
 - domain: www.hd.gov.cn
   issuer_short: HE
   issuer_canonical: 邯郸市
@@ -638,6 +756,14 @@
     code: '130000'
     name: 邯郸市
     needs_city_code: true
+- domain: www.hechengqu.gov.cn
+  issuer_short: HN
+  issuer_canonical: 怀化市鹤城区人民政府
+  region:
+    level: 区
+    code: '430000'
+    name: 湖南省怀化市鹤城区
+    needs_city_code: true
 - domain: www.hlj.gov.cn
   issuer_short: HL
   issuer_canonical: 黑龙江省人民政府
@@ -645,6 +771,29 @@
     level: 省
     code: '230000'
     name: 黑龙江省
+- domain: www.hnswjrb.gov.cn
+  issuer_short: HA
+  issuer_canonical: 河南省地方金融监督管理局
+  region:
+    level: 省
+    code: '410000'
+    name: 河南省
+- domain: www.huichang.gov.cn
+  issuer_short: JX
+  issuer_canonical: 会昌县人民政府
+  region:
+    level: 县
+    code: '360000'
+    name: 江西省会昌县
+    needs_city_code: true
+- domain: www.huimin.gov.cn
+  issuer_short: SD
+  issuer_canonical: 惠民县人民政府
+  region:
+    level: 县
+    code: '370000'
+    name: 山东省惠民县
+    needs_city_code: true
 - domain: www.hunan.gov.cn
   issuer_short: HN
   issuer_canonical: 湖南省人民政府
@@ -690,6 +839,14 @@
     level: 市
     code: '140000'
     name: 吕梁市
+    needs_city_code: true
+- domain: www.mayang.gov.cn
+  issuer_short: HN
+  issuer_canonical: 麻阳苗族自治县人民政府
+  region:
+    level: 县
+    code: '430000'
+    name: 湖南省麻阳苗族自治县
     needs_city_code: true
 - domain: www.mct.gov.cn
   issuer_short: MCT
@@ -762,6 +919,14 @@
     level: 国家
     code: '000000'
     name: 全国
+- domain: www.pds.gov.cn
+  issuer_short: HA
+  issuer_canonical: 平顶山市人民政府
+  region:
+    level: 市
+    code: '410000'
+    name: 河南省平顶山市
+    needs_city_code: true
 - domain: www.pudong.gov.cn
   issuer_short: SH
   issuer_canonical: 浦东新区
@@ -769,6 +934,14 @@
     level: 市
     code: '310000'
     name: 浦东新区
+    needs_city_code: true
+- domain: www.qianjiang.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市黔江区人民政府
+  region:
+    level: 区
+    code: '500000'
+    name: 重庆市黔江区
     needs_city_code: true
 - domain: www.qinghai.gov.cn
   issuer_short: QH
@@ -813,6 +986,22 @@
     level: 市
     code: '310000'
     name: 上海市
+- domain: www.shpt.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市普陀区人民政府
+  region:
+    level: 区
+    code: '310000'
+    name: 上海市普陀区
+    needs_city_code: true
+- domain: www.shqp.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市青浦区人民政府
+  region:
+    level: 区
+    code: '310000'
+    name: 上海市青浦区
+    needs_city_code: true
 - domain: www.songjiang.gov.cn
   issuer_short: SH
   issuer_canonical: 松江区
@@ -837,6 +1026,38 @@
     code: '440000'
     name: 深圳市
     needs_city_code: true
+- domain: www.szgm.gov.cn
+  issuer_short: GD
+  issuer_canonical: 深圳市光明区人民政府
+  region:
+    level: 区
+    code: '440000'
+    name: 深圳市光明区
+    needs_city_code: true
+- domain: www.thnet.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市天河区人民政府
+  region:
+    level: 区
+    code: '440000'
+    name: 广州市天河区
+    needs_city_code: true
+- domain: www.txzf.gov.cn
+  issuer_short: HA
+  issuer_canonical: 通许县人民政府
+  region:
+    level: 县
+    code: '410000'
+    name: 河南省通许县
+    needs_city_code: true
+- domain: www.wuda.gov.cn
+  issuer_short: NM
+  issuer_canonical: 乌达区人民政府
+  region:
+    level: 区
+    code: '150000'
+    name: 内蒙古自治区乌海市乌达区
+    needs_city_code: true
 - domain: www.wuhan.gov.cn
   issuer_short: HB
   issuer_canonical: 武汉市
@@ -845,6 +1066,29 @@
     code: '420000'
     name: 武汉市
     needs_city_code: true
+- domain: www.wuji.gov.cn
+  issuer_short: HE
+  issuer_canonical: 无极县人民政府
+  region:
+    level: 县
+    code: '130000'
+    name: 河北省石家庄市无极县
+    needs_city_code: true
+- domain: www.xam.gov.cn
+  issuer_short: NM
+  issuer_canonical: 内蒙古自治区人民政府
+  region:
+    level: 省
+    code: '150000'
+    name: 内蒙古自治区
+- domain: www.xiangyin.gov.cn
+  issuer_short: HN
+  issuer_canonical: 湘阴县人民政府
+  region:
+    level: 县
+    code: '430000'
+    name: 湖南省湘阴县
+    needs_city_code: true
 - domain: www.xinjiang.gov.cn
   issuer_short: XJ
   issuer_canonical: 新疆维吾尔自治区人民政府
@@ -852,6 +1096,14 @@
     level: 省
     code: '650000'
     name: 新疆维吾尔自治区
+- domain: www.yandu.gov.cn
+  issuer_short: JS
+  issuer_canonical: 盐城市盐都区人民政府
+  region:
+    level: 区
+    code: '320000'
+    name: 江苏省盐城市盐都区
+    needs_city_code: true
 - domain: www.yinchuan.gov.cn
   issuer_short: NX
   issuer_canonical: 银川市
@@ -875,6 +1127,14 @@
     level: 省
     code: '220000'
     name: 吉林省
+- domain: xxgk.lczf.gov.cn
+  issuer_short: SX
+  issuer_canonical: 陵川县人民政府
+  region:
+    level: 县
+    code: '140000'
+    name: 山西省晋城市陵川县
+    needs_city_code: true
 - domain: xxgk.mot.gov.cn
   issuer_short: MOT
   issuer_canonical: 交通运输部
@@ -882,6 +1142,13 @@
     level: 国家
     code: '000000'
     name: 全国
+- domain: xygx.fgw.gxzf.gov.cn
+  issuer_short: GX
+  issuer_canonical: 广西壮族自治区发展和改革委员会
+  region:
+    level: 省
+    code: '450000'
+    name: 广西壮族自治区
 - domain: yndrc.yn.gov.cn
   issuer_short: YN
   issuer_canonical: 云南省发展和改革委员会
@@ -939,4 +1206,12 @@
     level: 市
     code: '130000'
     name: 承德市
+    needs_city_code: true
+- domain: zwgk.shcn.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市长宁区发展和改革委员会
+  region:
+    level: 区
+    code: '310000'
+    name: 上海市长宁区
     needs_city_code: true
