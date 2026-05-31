@@ -202,6 +202,12 @@ not_policy_related: ~             # true=已确认无政策可关联(化工/法�
 ```yaml
 pid: P_2024_NDRC_718
 
+# === 主题归属(必填) ===
+themes:                  # 命中的全部 theme,∈ themes_registry(13 主题);alias 可跨 theme 共享
+  - energy_storage_theme
+  - power_market
+primary_theme: energy_storage_theme   # 最重要的 1 个,∈ themes
+
 # === 评分(必填) ===
 scores:
   D1: 5                  # 业务关联度
@@ -216,29 +222,31 @@ scores:
   - 合规
   - 机会
 
-# === 影响分析(可选,D1≥3 时填) ===
-影响分析:
+# === 影响分析(可选,重要性≥3 OR region.level∈{国家,省} 时填) ===
+影响分析:                # 仅 3 个业务键(正向白名单,无其他键)
   加油: 加油业务影响描述
   充电: 充电业务影响描述
   电力_储能_V2G_交易: 电力业务影响描述
-  乡村: 乡村方向影响描述
 
-# === 行动建议(可选,D1≥3 时填) ===
+# === 行动建议(可选,重要性≥3 OR region.level∈{国家,省} 时填) ===
 行动建议:
   - 'A 趁早: 具体动作'
   - 'B 研究: 具体动作'
 
-# === 一句话精髓(可选) ===
+# === 一句话精髓(可选,过深档门时填) ===
 didi_impact_one_liner: 业务一句话精髓(≤25 字)
 
 # === 可追溯字段(必填) ===
-extracted_at: '2026-04-29'
-extracted_by: scripts/l2_derive/derive_business_view.py
-extracted_model: claude-opus-4-7
 sanitized_from: 0_raw/policies/{filename}.md     # 指回 raw
+extracted_at: '2026-06-01'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: <模型A>                  # ②-B generator 模型
+gate_passed_deep: true   # 是否过深档门(重要性≥3 OR region.level∈{国家,省});决定是否填 影响分析/行动建议
 
-# === Archive 标记(可选,综合分 <3 时) ===
+# === Archive 标记(可选,重要性 <3 时) ===
 archive: low_score
+
+# 评审记录 2026-06-01 ②-B 校准:深档门 D1≥3 → 重要性≥3 OR region.level∈{国家,省};新增 themes/primary_theme/gate_passed_deep;影响分析改 3 键正向白名单(去乡村)。理由见 spec §10。
 ```
 
 ---
