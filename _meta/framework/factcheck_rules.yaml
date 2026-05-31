@@ -1,0 +1,42 @@
+# factcheck_rules.yaml — 政策分析 fact-check 规则(agent 可 load)
+# 来源: 00 背景资料/策略-L3月报需求原型.md §5 + §6
+# 用途: ④消费层 LLM 生成分析/月报时,据此自检,防止比较级错/伪因果/修辞错
+schema_version: 1.0
+source_doc: "00 背景资料/策略-L3月报需求原型.md §5/§6"
+generated_at: 2026-05-31
+
+rules:
+  - id: comparative_claims
+    name: 比较级论断必须查证
+    trigger_words: [首批, 首个, 首破, 首次, 创新, 标杆, 唯一, 第一]
+    procedure: |
+      任何比较级论断必须 fact-check vault:
+      1. 查询同主题政策(目标论断的限定范围:如"省级")按时间排序
+      2. 第 1 个出现的才能称「首批/首个」
+      3. 实际是第 N 个时,改称「第 N 个」并列出前序
+    cautionary_example: "山东 VPP 方案(2026-03-27)不是 NDRC 357 后省级首批——上海 SH_407(2025-06)早 9 个月;山东实际第 2 个,须注明前序"
+
+  - id: national_to_provincial_causation
+    name: 国家级→省级因果禁忌
+    fact: 省级专项政策起草周期 = 6-12 月
+    rule: 同月发布的国家级和省级政策,不能画因果链
+    correct: 同源并行(同根并行)
+    wrong: 本月国家级 X → 本月省级 Y(派生因果)
+    provincial_true_source: 通常是 1-2 年前的国家级文件(如 NDRC 357《2025-04》/新型电力系统行动方案《2025-08》/充电基础设施意见《2023》)
+
+  - id: linkage_rhetoric_defense
+    name: linkage 字段修辞防御
+    linkage_two_parts:
+      fact_segment: 追溯到的国家级政策标题/文号(机器可校验,可用)
+      rhetoric_segment: linkage 描述(如"省级首批落地""全国首破")——易掺比较级错,不可直接用
+    render_rule: 只用 linkage 的事实段,不用修辞段;修辞错由派生层 lint 拦截
+
+linkage_types:             # §6.3 落地证据三类(Agent 旧 taxonomy → 重映射)
+  直接落地: {judge: 省级文本直接引用国家级文号, from_legacy: 直接落地}
+  补充细化: {judge: 主题对齐+条款扩展(地方实施细则), from_legacy: 借鉴框架}
+  同向部署: {judge: 主题/目标/节奏吻合,无显式引用, from_legacy: 主题对应}
+
+provincial_evidence_scope:  # §5/§6.1 落地证据入选(窄口径)
+  include: 仅省/市/区级(国家级跳过,它们是源头不是落地)
+  threshold: ⭐≥4 OR linkage 字段非空
+  narrative_must_state: ["同源并行非派生因果", "省级专项起草周期 6-12 月", "追溯源头多为 2023-2025 早期文件"]

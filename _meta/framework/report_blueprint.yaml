@@ -1,0 +1,63 @@
+# report_blueprint.yaml — L3 月报蓝图 + 业务表述规范(agent 可 load)
+# 来源: 00 背景资料/策略-L3月报需求原型.md §3/§4/§7/§8 (2026-04-27,从 2026-03 月报 v1→v6 提炼)
+# 用途: ④消费层 LLM 合成月报时 load;章节蓝图 + 表述/禁用规范
+schema_version: 1.0
+source_doc: "00 背景资料/策略-L3月报需求原型.md"
+generated_at: 2026-05-31
+
+scope:
+  target: 公司决策层(对内,不用品牌名)
+  businesses: 三大业务 = 加油 / 充电 / 电力(含储能·V2G·电力交易);乡村=关注方向(非业务线)
+  freq: 每月 1 次(覆盖该月 1-31 日)
+  formats: [Word docx(正式可批注), HTML 单文件(邮件/移动端)]
+  out_of_scope: [季度/年度综述, 单业务深度报告(属另一类L3产出), 实时推送]
+
+chapters:                  # §3 章节蓝图
+  - {id: cover, zh: 封面, use: 标题+月份+报告日期+入库#强/中/弱}
+  - {id: toc, zh: 目录, use: 10 个 H1 锚点(静态段落,非字段)}
+  - {id: s1, zh: 月度速览, use: "1.1 月度比较表+图;1.2 本月最重要 2 件事(narrative)"}
+  - {id: s2, zh: 决策卡片, use: 仅 ⭐≥4 业务命中,≤4 张,差异化配色}
+  - {id: s3, zh: 政策全列表, use: 3 子表(强/中/弱)+相关性饼图}
+  - {id: s4, zh: 重点解读-国家级新政, use: "3 篇国家级深度,每篇:政策核心/三大业务影响/行动建议"}
+  - {id: s5, zh: 省级落地证据(国家级追溯), use: 链条图+5列追溯表+linkage说明(与§4并行,非派生)}
+  - {id: s6, zh: 机会-风险 2×2 矩阵, use: 业务相关性 × 行动窗口}
+  - {id: s7, zh: 缺口/盲区警示, use: 主题×31省覆盖表+本月新填空白+持续盲区}
+  - {id: s8, zh: 下月 watching list, use: 4-6 条预期出台/落地}
+  - {id: appendix_a, zh: 国家级重要政策生效周期, use: timeline图+已失效政策表(真空期警示)}
+  - {id: appendix_b, zh: 重要政策各省覆盖度, use: 热力图+各主题覆盖+扩散预期}
+
+banned_chapters: [数据健康度小卡, 数据出处与方法论附录, 工具链尾注, 舆论温度计(评论数据不足时降级)]
+
+business_expression:       # §4.1 唯一合法表述
+  legal:
+    - "公司三大业务 = 加油 / 充电 / 电力(含储能·V2G·电力交易)"
+    - "乡村能源(关注方向,非业务线)单独展示,不计入业务计数"
+  biz_impact_keys: [加油, 充电, 电力_储能_V2G_交易, 乡村]   # Agent 输出 4 key,前3统一标签,第4独立小节
+  banned: ["四大业务", "五条业务线", "六大业务", 把乡村作为业务线]
+
+action_display:            # §4.2 L3 显示用 4 级行动语言(注:与 scoring.yaml action_class 定义不同!)
+  A: {label: "[趁早行动]", trigger: ⭐5+业务命中, color: "#C62828"}
+  B: {label: "[研究/跟进]", trigger: ⭐4+业务命中, color: "#F57C00"}
+  C: {label: "[跟踪]", trigger: ⭐3+业务命中, color: "#2E7D32"}
+  D: {label: "[关注]", trigger: "<3 或弱命中", color: "#616161"}
+  sanitize: "Agent 输出的 'A 立即:' → prep 阶段改 'A 趁早:'(取代过激紧迫感)"
+
+brand_tool_rules:          # §4.3
+  internal_term: 公司(不用任何品牌名如「滴滴」)
+  banned_tool_traces: [Claude, Anthropic, GPT, LLM, 大模型, 语言模型, docx-js, matplotlib, Agent, token, prompt, 自动生成, AI生成, 工具链尾注, 版本号]
+  exception: 文档元数据 creator 字段(非读者可见)可保留工具标识
+
+emoji_rule:                # §4.4
+  policy: 全文无 emoji;等级标签用方括号文本(如 [趁早行动]);章节序号用「一·二·三」
+  exception: "⭐ 仅用于重要性打分显示(⭐4 / ⭐≥4)"
+
+charts:                    # §7 关键约束
+  count: 6
+  list: [01_timeline甘特, 02_2x2矩阵, 03_regional_heatmap, 04_evolution_chain, 05_monthly_compare, 06_relevance_pie]
+  constraints: [图宽≤540px(超6.27"会被Word挤压), 图独占段落居中, chart内不出现品牌/工具/虚假业务线]
+
+compat:                    # §8 Word/HTML 兼容
+  word_decouple_banned: [TOC field, 任何field(date/page/cross-ref), trackChanges, updateFields, 外部图片链接, OLE, "TargetMode=External"]
+  toc_impl: 静态段落 + Bookmark + InternalHyperlink(可点跳无字段)
+  html: charts内联base64 + 内置CSS(响应式+print-friendly) + 章节锚点
+  fonts: {word: Microsoft YaHei, html: "PingFang SC / Microsoft YaHei / Hiragino Sans GB"}

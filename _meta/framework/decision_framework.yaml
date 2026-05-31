@@ -1,0 +1,52 @@
+# decision_framework.yaml — 滴滴能源决策层分析框架(agent 可 load)
+# 来源: 00 背景资料/滴滴能源-政策分析背景.md (2026-04-10)
+# 用途: ④消费层 LLM 做政策分析时 load;四维决策 + 三业务关注点 + 核心原则
+schema_version: 1.0
+source_doc: "00 背景资料/滴滴能源-政策分析背景.md"
+generated_at: 2026-05-31
+
+audience:
+  company: 滴滴能源(对内文档用「公司」,不用品牌名)
+  level: 决策层(仅对决策层输出,不对业务部门)
+  stage: 成熟经营阶段(转型基本完成,优化运营+深耕市场)
+
+four_dimensions:           # 四维决策框架
+  - {id: whether, q: 要不要做, desc: 战略判断——这个政策方向值不值得布局}
+  - {id: how, q: 怎么做, desc: 路径设计——落地执行路径是什么}
+  - {id: when, q: 什么时候做, desc: 时机选择——政策窗口期还有多久}
+  - {id: risk, q: 风险在哪, desc: 风险兜底——有哪些不确定性和潜在风险}
+
+businesses:                # 三大业务 + 各自政策分析焦点
+  - id: fuel
+    zh: 加油业务(滴滴加油)
+    model: 撮合平台(用户↔平台↔加油站,双向服务费)+ 少量转售
+    focus: 合规风险——平台油品零售合规性不确定,正评估是否舍弃
+    note: 加油站设备更新/工业节能类非关心方向(不持有设备);但「加油-充电融合/油站综合能源化」作为长期合规出路值得跟踪
+  - id: charging
+    zh: 充电业务(滴滴充电)
+    model: 充电场站平台经营,特许经营(加盟)为主 + 互联互通;无自有场站
+    focus: 宏观利好利空——政策对市场规模/竞争格局的正负影响
+  - id: power
+    zh: 滴滴电力
+    model: 储能(为场站提供)+ 需求侧响应(充电桩调峰)+ 虚拟电厂(聚合充电负荷)+ 电力交易(批发/现货)
+    focus: 机会识别+风险规避——政策打开的新业务空间 + 合规/监管风险
+rural_note: 乡村能源 = 关注方向(非业务线),单独展示不计入业务计数
+
+analysis_types:            # 双轨并行,同等重要
+  - {id: interpret, zh: 政策解读, desc: 政策发布后第一时间分析影响}
+  - {id: forecast, zh: 政策预判, desc: 前瞻性预测政策走向,提前布局}
+
+core_principles:
+  - 结论前置: 决策层要的是"政策对我们有什么影响,接下来怎么做"
+  - 可执行: 分析结论必须能转化为具体行动建议
+  - 不废话: 简洁/直接/有价值
+
+policy_sources:
+  core: [国家发改委, 国家能源局, 商务部]
+  aux: [工信部, 生态环境部, 财政部]
+  range: 2020-2026,聚焦近三年
+
+outputs:                   # 产出形态
+  - {id: monthly_brief, zh: 月度简报, freq: 每月一期, blueprint: report_blueprint.yaml}
+  - {id: decision_card, zh: 决策卡片, freq: 事件驱动(按月汇总)}
+  - {id: deep_report, zh: 深度报告, freq: 不定期}

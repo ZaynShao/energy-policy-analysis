@@ -1,0 +1,39 @@
+# index.yaml — 分析框架索引(agent 一次性 load 入口)
+# ①源到位 子项 c 产出。把散在 00 背景资料/ 的框架收成 agent 可 load 的结构化文件。
+schema_version: 1.0
+generated_at: 2026-05-31
+node: ①源到位 · 子项 c(框架结构化)
+
+files:
+  - id: scoring
+    path: _meta/framework/scoring.yaml
+    zh: 政策重要性打分体系
+    content: 六维 D1-D6 + 重要性公式 + 分级 + 行动分类(2×2) + 价值标签
+    source: 00 背景资料/政策重要性打分体系.md
+  - id: decision_framework
+    path: _meta/framework/decision_framework.yaml
+    zh: 滴滴能源决策分析框架
+    content: 四维决策(要不要/怎么/何时/风险) + 三业务关注点 + 核心原则 + 信息来源
+    source: 00 背景资料/滴滴能源-政策分析背景.md
+  - id: factcheck_rules
+    path: _meta/framework/factcheck_rules.yaml
+    zh: fact-check 规则
+    content: 比较级查证 + 国家级→省级因果禁忌(6-12月) + linkage 修辞防御 + 落地证据三类
+    source: 00 背景资料/策略-L3月报需求原型.md §5/§6
+  - id: report_blueprint
+    path: _meta/framework/report_blueprint.yaml
+    zh: L3 月报蓝图 + 业务表述规范
+    content: 月报章节蓝图 + 禁用章节 + 三业务表述 + 4级行动显示 + 品牌/工具/emoji 禁用 + 图表/兼容规则
+    source: 00 背景资料/策略-L3月报需求原型.md §3/§4/§7/§8
+
+# 结构化时发现的源文档内部不一致 —— 显式登记,留待 ④/L3 reconcile,不静默
+known_discrepancies:
+  - id: action_class_ABCD
+    issue: scoring.yaml 与 report_blueprint.yaml 都定义 A/B/C/D,但定义不同
+    scoring_version: "行动分类 = 紧迫(D4)×实操(D5) 2×2 + D6修正;A=立即行动 B=优先研究 C=计划跟进 D=持续跟踪"
+    blueprint_version: "action_display = ⭐-based;A=[趁早行动]⭐5 B=[研究/跟进]⭐4 C=[跟踪]⭐3 D=[关注]<3"
+    note: 月报原型(2026-04-27)较新且显式把'立即'sanitize 为'趁早';L3 渲染以 blueprint_version 为准,scoring_version 是打分体系内部的象限分类。④/L3 用时需明确取哪套。
+    resolve_at: ④消费层 / L3 月报实现时
+
+# 框架文件是 source 层资产(deterministic 结构化已有人写框架,非 LLM 自由生成)。
+# 规则演进:改 00 背景资料/ 源文档 → 重新结构化重生本目录(零补丁,整体重生)。
