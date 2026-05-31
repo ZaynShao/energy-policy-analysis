@@ -1,7 +1,8 @@
 ---
-id: P_2025_OTHER8C4E_07110176
+id: P_2025_SD_07110176
 aliases:
 - P_2025_OTHER8C4E_07110176
+- P_2025_SD_07110176
 title: 关于推动加油站向新能源充电站转型及构建光储充多层停车综合体提案的答复
 official_number: ''
 issuer:
@@ -19,7 +20,12 @@ provenance:
   collected_by: policy-watch
   collected_mode: build-phase-manual
   confidence: 0.85
+  id_fixed_at: '2026-05-31T16:08:57+08:00'
+  id_fixed_method: id_recompute_from_metadata
+  id_fixed_from: P_2025_OTHER8C4E_07110176
+  id_fix_confidence: 0.99
 ---
+
 # 关于推动加油站向新能源充电站转型及构建光储充多层停车综合体提案的答复
 
 **文号**: （无）  

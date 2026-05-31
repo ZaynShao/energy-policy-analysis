@@ -1,7 +1,8 @@
 ---
-id: P_2025_OTHER98DD_09231fde
+id: P_2025_NM_09231fde
 aliases:
 - P_2025_OTHER98DD_09231fde
+- P_2025_NM_09231fde
 title: 碳市场、绿证、绿电政策知识包(政策汇编)
 official_number: ''
 issuer:
@@ -19,7 +20,12 @@ provenance:
   collected_by: policy-watch
   collected_mode: build-phase-manual
   confidence: 0.7
+  id_fixed_at: '2026-05-31T16:08:57+08:00'
+  id_fixed_method: id_recompute_from_metadata
+  id_fixed_from: P_2025_OTHER98DD_09231fde
+  id_fix_confidence: 0.99
 ---
+
 # 碳市场、绿证、绿电政策知识包(政策汇编)
 
 **文号**: （无）  

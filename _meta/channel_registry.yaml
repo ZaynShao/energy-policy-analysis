@@ -1,0 +1,942 @@
+- domain: big5.www.gov.cn
+  issuer_short: GWY
+  issuer_canonical: 国务院
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: credit.fgw.sh.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: csglw.beijing.gov.cn
+  issuer_short: BJ
+  issuer_canonical: 北京市
+  region:
+    level: 市
+    code: '110000'
+    name: 北京市
+- domain: czj.cq.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市
+  region:
+    level: 市
+    code: '500000'
+    name: 重庆市
+- domain: czt.fujian.gov.cn
+  issuer_short: FJ
+  issuer_canonical: 福建省
+  region:
+    level: 省
+    code: '350000'
+    name: 福建省
+- domain: dcj.mofcom.gov.cn
+  issuer_short: MOFCOM
+  issuer_canonical: 商务部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: drc.changchun.gov.cn
+  issuer_short: JL
+  issuer_canonical: 长春市
+  region:
+    level: 市
+    code: '220000'
+    name: 长春市
+    needs_city_code: true
+- domain: drc.gd.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广东省发展和改革委员会
+  region:
+    level: 省
+    code: '440000'
+    name: 广东省
+- domain: drc.hangzhou.gov.cn
+  issuer_short: ZJ
+  issuer_canonical: 杭州市
+  region:
+    level: 市
+    code: '330000'
+    name: 杭州市
+    needs_city_code: true
+- domain: drc.hlj.gov.cn
+  issuer_short: HL
+  issuer_canonical: 黑龙江省发展和改革委员会
+  region:
+    level: 省
+    code: '230000'
+    name: 黑龙江省
+- domain: drc.jiangxi.gov.cn
+  issuer_short: JX
+  issuer_canonical: 江西省发展和改革委员会
+  region:
+    level: 省
+    code: '360000'
+    name: 江西省
+- domain: fagaiwei.tangshan.gov.cn
+  issuer_short: HE
+  issuer_canonical: 唐山市
+  region:
+    level: 市
+    code: '130000'
+    name: 唐山市
+    needs_city_code: true
+- domain: fgk.chinatax.gov.cn
+  issuer_short: STA
+  issuer_canonical: 国家税务总局
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: fgw.beijing.gov.cn
+  issuer_short: BJ
+  issuer_canonical: 北京市发展和改革委员会
+  region:
+    level: 市
+    code: '110000'
+    name: 北京市
+- domain: fgw.fujian.gov.cn
+  issuer_short: FJ
+  issuer_canonical: 福建省发展和改革委员会
+  region:
+    level: 省
+    code: '350000'
+    name: 福建省
+- domain: fgw.guizhou.gov.cn
+  issuer_short: GZ
+  issuer_canonical: 贵州省发展和改革委员会
+  region:
+    level: 省
+    code: '520000'
+    name: 贵州省
+- domain: fgw.gxzf.gov.cn
+  issuer_short: GX
+  issuer_canonical: 广西壮族自治区发展和改革委员会
+  region:
+    level: 省
+    code: '450000'
+    name: 广西壮族自治区
+- domain: fgw.henan.gov.cn
+  issuer_short: HA
+  issuer_canonical: 河南省发展和改革委员会
+  region:
+    level: 省
+    code: '410000'
+    name: 河南省
+- domain: fgw.hunan.gov.cn
+  issuer_short: HN
+  issuer_canonical: 湖南省发展和改革委员会
+  region:
+    level: 省
+    code: '430000'
+    name: 湖南省
+- domain: fgw.liuzhou.gov.cn
+  issuer_short: GX
+  issuer_canonical: 柳州市
+  region:
+    level: 市
+    code: '450000'
+    name: 柳州市
+    needs_city_code: true
+- domain: fgw.ln.gov.cn
+  issuer_short: LN
+  issuer_canonical: 辽宁省发展和改革委员会
+  region:
+    level: 省
+    code: '210000'
+    name: 辽宁省
+- domain: fgw.nanjing.gov.cn
+  issuer_short: JS
+  issuer_canonical: 南京市
+  region:
+    level: 市
+    code: '320000'
+    name: 南京市
+    needs_city_code: true
+- domain: fgw.nmg.gov.cn
+  issuer_short: NM
+  issuer_canonical: 内蒙古自治区发展和改革委员会
+  region:
+    level: 省
+    code: '150000'
+    name: 内蒙古自治区
+- domain: fgw.qinghai.gov.cn
+  issuer_short: QH
+  issuer_canonical: 青海省发展和改革委员会
+  region:
+    level: 省
+    code: '630000'
+    name: 青海省
+- domain: fgw.sc.gov.cn
+  issuer_short: SC
+  issuer_canonical: 四川省发展和改革委员会
+  region:
+    level: 省
+    code: '510000'
+    name: 四川省
+- domain: fgw.sh.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市发展和改革委员会
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: fgw.shandong.gov.cn
+  issuer_short: SD
+  issuer_canonical: 山东省发展和改革委员会
+  region:
+    level: 省
+    code: '370000'
+    name: 山东省
+- domain: fgw.shanxi.gov.cn
+  issuer_short: SX
+  issuer_canonical: 山西省发展和改革委员会
+  region:
+    level: 省
+    code: '140000'
+    name: 山西省
+- domain: fgw.sz.gov.cn
+  issuer_short: GD
+  issuer_canonical: 深圳市
+  region:
+    level: 市
+    code: '440000'
+    name: 深圳市
+    needs_city_code: true
+- domain: fgw.wuhan.gov.cn
+  issuer_short: HB
+  issuer_canonical: 武汉市
+  region:
+    level: 市
+    code: '420000'
+    name: 武汉市
+    needs_city_code: true
+- domain: fgw.zhengzhou.gov.cn
+  issuer_short: HA
+  issuer_canonical: 郑州市
+  region:
+    level: 市
+    code: '410000'
+    name: 郑州市
+    needs_city_code: true
+- domain: files.chaoyang.gov.cn
+  issuer_short: LN
+  issuer_canonical: 朝阳市
+  region:
+    level: 市
+    code: '210000'
+    name: 朝阳市
+    needs_city_code: true
+- domain: fzgg.tj.gov.cn
+  issuer_short: TJ
+  issuer_canonical: 天津市发展和改革委员会
+  region:
+    level: 市
+    code: '120000'
+    name: 天津市
+- domain: fzggw.ah.gov.cn
+  issuer_short: AH
+  issuer_canonical: 安徽省发展和改革委员会
+  region:
+    level: 省
+    code: '340000'
+    name: 安徽省
+- domain: fzggw.cq.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市发展和改革委员会
+  region:
+    level: 市
+    code: '500000'
+    name: 重庆市
+- domain: fzggw.jiangsu.gov.cn
+  issuer_short: JS
+  issuer_canonical: 江苏省发展和改革委员会
+  region:
+    level: 省
+    code: '320000'
+    name: 江苏省
+- domain: fzggw.nx.gov.cn
+  issuer_short: NX
+  issuer_canonical: 宁夏回族自治区发展和改革委员会
+  region:
+    level: 省
+    code: '640000'
+    name: 宁夏回族自治区
+- domain: fzggw.zj.gov.cn
+  issuer_short: ZJ
+  issuer_canonical: 浙江省发展和改革委员会
+  region:
+    level: 省
+    code: '330000'
+    name: 浙江省
+- domain: gb.shandong.gov.cn
+  issuer_short: SD
+  issuer_canonical: 山东省
+  region:
+    level: 省
+    code: '370000'
+    name: 山东省
+- domain: ggzyjy.fzggw.nx.gov.cn
+  issuer_short: NX
+  issuer_canonical: 宁夏回族自治区
+  region:
+    level: 省
+    code: '640000'
+    name: 宁夏回族自治区
+- domain: ggzyjy.sc.gov.cn
+  issuer_short: SC
+  issuer_canonical: 四川省
+  region:
+    level: 省
+    code: '510000'
+    name: 四川省
+- domain: guangdong.chinatax.gov.cn
+  issuer_short: STA
+  issuer_canonical: 国家税务总局
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: gxj.gz.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市
+  region:
+    level: 市
+    code: '440000'
+    name: 广州市
+    needs_city_code: true
+- domain: gxt.fujian.gov.cn
+  issuer_short: FJ
+  issuer_canonical: 福建省
+  region:
+    level: 省
+    code: '350000'
+    name: 福建省
+- domain: gxt.hebei.gov.cn
+  issuer_short: HE
+  issuer_canonical: 河北省
+  region:
+    level: 省
+    code: '130000'
+    name: 河北省
+- domain: gxt.henan.gov.cn
+  issuer_short: HA
+  issuer_canonical: 河南省
+  region:
+    level: 省
+    code: '410000'
+    name: 河南省
+- domain: gxt.hunan.gov.cn
+  issuer_short: HN
+  issuer_canonical: 湖南省
+  region:
+    level: 省
+    code: '430000'
+    name: 湖南省
+- domain: gzw.fujian.gov.cn
+  issuer_short: FJ
+  issuer_canonical: 福建省
+  region:
+    level: 省
+    code: '350000'
+    name: 福建省
+- domain: hbdrc.hebei.gov.cn
+  issuer_short: HE
+  issuer_canonical: 河北省发展和改革委员会
+  region:
+    level: 省
+    code: '130000'
+    name: 河北省
+- domain: hunan.gov.cn
+  issuer_short: HN
+  issuer_canonical: 湖南省
+  region:
+    level: 省
+    code: '430000'
+    name: 湖南省
+- domain: jjxxw.cq.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市经济和信息化委员会
+  region:
+    level: 市
+    code: '500000'
+    name: 重庆市
+- domain: jnzwfw.jinan.gov.cn
+  issuer_short: SD
+  issuer_canonical: 济南市
+  region:
+    level: 市
+    code: '370000'
+    name: 济南市
+    needs_city_code: true
+- domain: jtj.chifeng.gov.cn
+  issuer_short: NM
+  issuer_canonical: 赤峰市
+  region:
+    level: 市
+    code: '150000'
+    name: 赤峰市
+    needs_city_code: true
+- domain: jtj.nanjing.gov.cn
+  issuer_short: JS
+  issuer_canonical: 南京市
+  region:
+    level: 市
+    code: '320000'
+    name: 南京市
+    needs_city_code: true
+- domain: jtw.sh.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市交通委员会
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: jtyst.yn.gov.cn
+  issuer_short: YN
+  issuer_canonical: 云南省
+  region:
+    level: 省
+    code: '530000'
+    name: 云南省
+- domain: jx.ah.gov.cn
+  issuer_short: AH
+  issuer_canonical: 安徽省
+  region:
+    level: 省
+    code: '340000'
+    name: 安徽省
+- domain: jxj.beijing.gov.cn
+  issuer_short: BJ
+  issuer_canonical: 北京市
+  region:
+    level: 市
+    code: '110000'
+    name: 北京市
+- domain: m.12371.gov.cn
+  issuer_short: CPC
+  issuer_canonical: 共产党员网
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: njhs.moa.gov.cn
+  issuer_short: MOA
+  issuer_canonical: 农业农村部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: nyj.shandong.gov.cn
+  issuer_short: SD
+  issuer_canonical: 山东省
+  region:
+    level: 省
+    code: '370000'
+    name: 山东省
+- domain: ordos.gov.cn
+  issuer_short: NM
+  issuer_canonical: 鄂尔多斯市
+  region:
+    level: 市
+    code: '150000'
+    name: 鄂尔多斯市
+    needs_city_code: true
+- domain: plan.hainan.gov.cn
+  issuer_short: HI
+  issuer_canonical: 海南省发展和改革委员会
+  region:
+    level: 省
+    code: '460000'
+    name: 海南省
+- domain: policy.mofcom.gov.cn
+  issuer_short: MOFCOM
+  issuer_canonical: 商务部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: rsj.gz.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市
+  region:
+    level: 市
+    code: '440000'
+    name: 广州市
+    needs_city_code: true
+- domain: scjgj.gz.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市
+  region:
+    level: 市
+    code: '440000'
+    name: 广州市
+    needs_city_code: true
+- domain: sf.sz.gov.cn
+  issuer_short: GD
+  issuer_canonical: 深圳市
+  region:
+    level: 市
+    code: '440000'
+    name: 深圳市
+    needs_city_code: true
+- domain: sfj.beijing.gov.cn
+  issuer_short: BJ
+  issuer_canonical: 北京市
+  region:
+    level: 市
+    code: '110000'
+    name: 北京市
+- domain: shanghai.chinatax.gov.cn
+  issuer_short: STA
+  issuer_canonical: 国家税务总局
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: sheitc.sh.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: sndrc.shaanxi.gov.cn
+  issuer_short: SN
+  issuer_canonical: 陕西省发展和改革委员会
+  region:
+    level: 省
+    code: '610000'
+    name: 陕西省
+- domain: sthj.sh.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: sthjj.cq.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市
+  region:
+    level: 市
+    code: '500000'
+    name: 重庆市
+- domain: sw.beijing.gov.cn
+  issuer_short: BJ
+  issuer_canonical: 北京市
+  region:
+    level: 市
+    code: '110000'
+    name: 北京市
+- domain: sw.wuhan.gov.cn
+  issuer_short: HB
+  issuer_canonical: 武汉市
+  region:
+    level: 市
+    code: '420000'
+    name: 武汉市
+    needs_city_code: true
+- domain: swj.chengde.gov.cn
+  issuer_short: HE
+  issuer_canonical: 承德市
+  region:
+    level: 市
+    code: '130000'
+    name: 承德市
+    needs_city_code: true
+- domain: swj.nanjing.gov.cn
+  issuer_short: JS
+  issuer_canonical: 南京市
+  region:
+    level: 市
+    code: '320000'
+    name: 南京市
+    needs_city_code: true
+- domain: swt.fujian.gov.cn
+  issuer_short: FJ
+  issuer_canonical: 福建省
+  region:
+    level: 省
+    code: '350000'
+    name: 福建省
+- domain: sww.cq.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市商务委员会
+  region:
+    level: 市
+    code: '500000'
+    name: 重庆市
+- domain: sww.sh.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: www.baotou.gov.cn
+  issuer_short: NM
+  issuer_canonical: 包头市
+  region:
+    level: 市
+    code: '150000'
+    name: 包头市
+    needs_city_code: true
+- domain: www.beijing.gov.cn
+  issuer_short: BJ
+  issuer_canonical: 北京市人民政府
+  region:
+    level: 市
+    code: '110000'
+    name: 北京市
+- domain: www.changzhou.gov.cn
+  issuer_short: JS
+  issuer_canonical: 常州市
+  region:
+    level: 市
+    code: '320000'
+    name: 常州市
+    needs_city_code: true
+- domain: www.cq.gov.cn
+  issuer_short: CQ
+  issuer_canonical: 重庆市人民政府
+  region:
+    level: 市
+    code: '500000'
+    name: 重庆市
+- domain: www.forestry.gov.cn
+  issuer_short: NFA
+  issuer_canonical: 国家林业和草原局
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.gov.cn
+  issuer_short: GWY
+  issuer_canonical: 国务院
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.gz.gov.cn
+  issuer_short: GD
+  issuer_canonical: 广州市
+  region:
+    level: 市
+    code: '440000'
+    name: 广州市
+    needs_city_code: true
+- domain: www.hd.gov.cn
+  issuer_short: HE
+  issuer_canonical: 邯郸市
+  region:
+    level: 市
+    code: '130000'
+    name: 邯郸市
+    needs_city_code: true
+- domain: www.hlj.gov.cn
+  issuer_short: HL
+  issuer_canonical: 黑龙江省人民政府
+  region:
+    level: 省
+    code: '230000'
+    name: 黑龙江省
+- domain: www.hunan.gov.cn
+  issuer_short: HN
+  issuer_canonical: 湖南省人民政府
+  region:
+    level: 省
+    code: '430000'
+    name: 湖南省
+- domain: www.jinan.gov.cn
+  issuer_short: SD
+  issuer_canonical: 济南市
+  region:
+    level: 市
+    code: '370000'
+    name: 济南市
+    needs_city_code: true
+- domain: www.jining.gov.cn
+  issuer_short: SD
+  issuer_canonical: 济宁市
+  region:
+    level: 市
+    code: '370000'
+    name: 济宁市
+    needs_city_code: true
+- domain: www.ln.gov.cn
+  issuer_short: LN
+  issuer_canonical: 辽宁省人民政府
+  region:
+    level: 省
+    code: '210000'
+    name: 辽宁省
+- domain: www.luan.gov.cn
+  issuer_short: AH
+  issuer_canonical: 六安市
+  region:
+    level: 市
+    code: '340000'
+    name: 六安市
+    needs_city_code: true
+- domain: www.lvliang.gov.cn
+  issuer_short: SX
+  issuer_canonical: 吕梁市
+  region:
+    level: 市
+    code: '140000'
+    name: 吕梁市
+    needs_city_code: true
+- domain: www.mct.gov.cn
+  issuer_short: MCT
+  issuer_canonical: 文化和旅游部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.mee.gov.cn
+  issuer_short: MEE
+  issuer_canonical: 生态环境部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.mofcom.gov.cn
+  issuer_short: MOFCOM
+  issuer_canonical: 商务部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.mot.gov.cn
+  issuer_short: MOT
+  issuer_canonical: 交通运输部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.nanjing.gov.cn
+  issuer_short: JS
+  issuer_canonical: 南京市
+  region:
+    level: 市
+    code: '320000'
+    name: 南京市
+    needs_city_code: true
+- domain: www.ncsti.gov.cn
+  issuer_short: NCSTI
+  issuer_canonical: 国家科技信息研究所
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.ndrc.gov.cn
+  issuer_short: NDRC
+  issuer_canonical: 国家发展和改革委员会
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.nea.gov.cn
+  issuer_short: NEA
+  issuer_canonical: 国家能源局
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.nhc.gov.cn
+  issuer_short: NHC
+  issuer_canonical: 国家卫生健康委员会
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.nsfc.gov.cn
+  issuer_short: NSFC
+  issuer_canonical: 国家自然科学基金委员会
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.pudong.gov.cn
+  issuer_short: SH
+  issuer_canonical: 浦东新区
+  region:
+    level: 市
+    code: '310000'
+    name: 浦东新区
+    needs_city_code: true
+- domain: www.qinghai.gov.cn
+  issuer_short: QH
+  issuer_canonical: 青海省人民政府
+  region:
+    level: 省
+    code: '630000'
+    name: 青海省
+- domain: www.sasac.gov.cn
+  issuer_short: SASAC
+  issuer_canonical: 国务院国资委
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: www.shanghai.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市人民政府
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: www.shanwei.gov.cn
+  issuer_short: GD
+  issuer_canonical: 汕尾市
+  region:
+    level: 市
+    code: '440000'
+    name: 汕尾市
+    needs_city_code: true
+- domain: www.shanxi.gov.cn
+  issuer_short: SX
+  issuer_canonical: 山西省人民政府
+  region:
+    level: 省
+    code: '140000'
+    name: 山西省
+- domain: www.sheitc.sh.gov.cn
+  issuer_short: SH
+  issuer_canonical: 上海市
+  region:
+    level: 市
+    code: '310000'
+    name: 上海市
+- domain: www.songjiang.gov.cn
+  issuer_short: SH
+  issuer_canonical: 松江区
+  region:
+    level: 市
+    code: '310000'
+    name: 松江区
+    needs_city_code: true
+- domain: www.suzhou.gov.cn
+  issuer_short: JS
+  issuer_canonical: 苏州市
+  region:
+    level: 市
+    code: '320000'
+    name: 苏州市
+    needs_city_code: true
+- domain: www.sz.gov.cn
+  issuer_short: GD
+  issuer_canonical: 深圳市
+  region:
+    level: 市
+    code: '440000'
+    name: 深圳市
+    needs_city_code: true
+- domain: www.wuhan.gov.cn
+  issuer_short: HB
+  issuer_canonical: 武汉市
+  region:
+    level: 市
+    code: '420000'
+    name: 武汉市
+    needs_city_code: true
+- domain: www.xinjiang.gov.cn
+  issuer_short: XJ
+  issuer_canonical: 新疆维吾尔自治区人民政府
+  region:
+    level: 省
+    code: '650000'
+    name: 新疆维吾尔自治区
+- domain: www.yinchuan.gov.cn
+  issuer_short: NX
+  issuer_canonical: 银川市
+  region:
+    level: 市
+    code: '640000'
+    name: 银川市
+    needs_city_code: true
+- domain: www.zs.gov.cn
+  issuer_short: GD
+  issuer_canonical: 中山市
+  region:
+    level: 市
+    code: '440000'
+    name: 中山市
+    needs_city_code: true
+- domain: xxgk.jl.gov.cn
+  issuer_short: JL
+  issuer_canonical: 吉林省
+  region:
+    level: 省
+    code: '220000'
+    name: 吉林省
+- domain: xxgk.mot.gov.cn
+  issuer_short: MOT
+  issuer_canonical: 交通运输部
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: yndrc.yn.gov.cn
+  issuer_short: YN
+  issuer_canonical: 云南省发展和改革委员会
+  region:
+    level: 省
+    code: '530000'
+    name: 云南省
+- domain: yyglxxbs.ndrc.gov.cn
+  issuer_short: NDRC
+  issuer_canonical: 国家发展和改革委员会
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: zcom.zj.gov.cn
+  issuer_short: ZJ
+  issuer_canonical: 浙江省
+  region:
+    level: 省
+    code: '330000'
+    name: 浙江省
+- domain: zfgb.hangzhou.gov.cn
+  issuer_short: ZJ
+  issuer_canonical: 杭州市
+  region:
+    level: 市
+    code: '330000'
+    name: 杭州市
+    needs_city_code: true
+- domain: zfxxgk.ndrc.gov.cn
+  issuer_short: NDRC
+  issuer_canonical: 国家发展和改革委员会
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: zfxxgk.nea.gov.cn
+  issuer_short: NEA
+  issuer_canonical: 国家能源局
+  region:
+    level: 国家
+    code: '000000'
+    name: 全国
+- domain: zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn
+  issuer_short: ZJ
+  issuer_canonical: 浙江省
+  region:
+    level: 省
+    code: '330000'
+    name: 浙江省
+- domain: zrgh.chengde.gov.cn
+  issuer_short: HE
+  issuer_canonical: 承德市
+  region:
+    level: 市
+    code: '130000'
+    name: 承德市
+    needs_city_code: true
