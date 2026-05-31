@@ -24,7 +24,10 @@ provenance:
 issuer_canonical:
 - ndrc
 - mof
+dedup_at: '2026-05-31'
+dedup_rule: three_dim_url_offnum_title
 ---
+
 # 关于加力支持大规模设备更新和消费品以旧换新的若干措施
 
 **文号**: （无）  
