@@ -935,7 +935,7 @@ note: |
 
 - id: v2g
   canonical_name: 车网互动
-  type: [concept]
+  type: [concept, theme]   # 同时是 themes_registry 主题(②-B B5 收口补 type=theme)
   aliases:
     - V2G
     - 车网互动
@@ -967,7 +967,7 @@ note: |
 
 - id: charging_infra
   canonical_name: 充电基础设施
-  type: [concept]
+  type: [concept, theme]   # 同时是 themes_registry 主题(②-B B5 收口补 type=theme)
   aliases:
     - 充电基础设施
   desc: 充换电基础设施(充电桩/换电站等)
@@ -987,7 +987,7 @@ note: |
 
 - id: power_market
   canonical_name: 电力市场
-  type: [concept]
+  type: [concept, theme]   # 同时是 themes_registry 主题(②-B B5 收口补 type=theme)
   aliases:
     - 电力市场
   desc: 电力市场(中长期 / 现货 / 辅助服务等)
@@ -1169,7 +1169,6 @@ note: |
     - 油气电氢一体化
     - 综合能源补给站
     - 加油站升级
-    - 成品油零售
     - 油站综合能源
   desc: 加油站向综合能源服务站转型政策主题
   added_at: 2026-04-28
@@ -1232,25 +1231,6 @@ note: |
   desc: 全国碳排放权交易市场及配套制度(暂行条例 / 管理办法 / 核查指南 / CCER)
   added_at: 2026-04-30
   added_by: l2_themes_expansion_v2_carbon
-  confidence: 0.95
-
-- id: rural_revitalization_theme
-  canonical_name: 乡村振兴
-  type: [theme]
-  aliases:
-    - 乡村振兴
-    - 农村
-    - 新能源汽车下乡
-    - 农村电网
-    - 县域充电
-    - 农村充电基础设施
-    - 充电下乡
-    - 县域新能源
-    - 农村能源
-    - 乡村清洁能源
-  desc: 乡村振兴 / 县域 / 农村相关能源政策主题(充电下乡 / 农村电网 / 县域充电基建)
-  added_at: 2026-05-06
-  added_by: l2_themes_expansion_v3_rural_T15
   confidence: 0.95
 
 - id: petroleum_retail_compliance
