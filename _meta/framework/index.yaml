@@ -19,12 +19,22 @@ files:
     path: _meta/framework/factcheck_rules.yaml
     zh: fact-check 规则
     content: 比较级查证 + 国家级→省级因果禁忌(6-12月) + linkage 修辞防御 + 落地证据三类
-    source: 00 背景资料/策略-L3月报需求原型.md §5/§6
+    source: 00 背景资料/_retired/策略-L3月报需求原型.md §5/§6   # ⚠️ TAINTED 源已退役,待④重生(B9)
   - id: report_blueprint
     path: _meta/framework/report_blueprint.yaml
     zh: L3 月报蓝图 + 业务表述规范
     content: 月报章节蓝图 + 禁用章节 + 三业务表述 + 4级行动显示 + 品牌/工具/emoji 禁用 + 图表/兼容规则
-    source: 00 背景资料/策略-L3月报需求原型.md §3/§4/§7/§8
+    source: 00 背景资料/_retired/策略-L3月报需求原型.md §3/§4/§7/§8   # ⚠️ TAINTED 源已退役,待④重生(B9)
+
+# ⚠️ 退役/污染登记(2026-05-31):源文档「策略-L3月报需求原型.md」已退役挖去 → 00背景资料/_retired/。
+# 其派生 factcheck_rules + report_blueprint 标 TAINTED,待 ④消费/L3 依新需求重生。
+# 乡村污染(误抬为与三业务并列的第4类目)已从 decision_framework + 八步采集法 清除;report_blueprint 的乡村随整体重生处理。
+retired_tainted:
+  retired_source: 00 背景资料/_retired/策略-L3月报需求原型.md
+  reason: 月报需求原型为退役材料(用户 2026-05-31 确认),曾未察觉仍在影响派生
+  tainted_derived: [factcheck_rules, report_blueprint]
+  remediate_at: ④消费 / L3 月报实现时(依新需求重生)
+  ref: pipeline docs/BACKLOG.md B9
 
 # 结构化时发现的源文档内部不一致 —— 显式登记,留待 ④/L3 reconcile,不静默
 known_discrepancies:
