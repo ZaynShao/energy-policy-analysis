@@ -207,6 +207,7 @@ themes:                  # 命中的全部 theme,∈ themes_registry(13 主题);
   - energy_storage_theme
   - power_market
 primary_theme: energy_storage_theme   # 最重要的 1 个,∈ themes
+comprehensive: false     # 综合/纲领政策(跨多主题无单一中心)=true,此时 primary 为名义主书架,下游勿当唯一焦点
 
 # === 评分(必填) ===
 scores:
@@ -247,6 +248,7 @@ gate_passed_deep: true   # 是否过深档门(重要性≥3 OR region.level∈{�
 archive: low_score
 
 # 评审记录 2026-06-01 ②-B 校准:深档门 D1≥3 → 重要性≥3 OR region.level∈{国家,省};新增 themes/primary_theme/gate_passed_deep;影响分析改 3 键正向白名单(去乡村)。理由见 spec §10。
+# 评审记录 2026-06-01 gold评审反馈:新增 comprehensive(综合政策标记,源自"大综合政策 primary 勉强"问题);过期政策 D2 按无现行约束力打低(只入 generator 提示词,不加字段)。
 ```
 
 ---
