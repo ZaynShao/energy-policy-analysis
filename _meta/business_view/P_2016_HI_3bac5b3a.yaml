@@ -1,23 +1,31 @@
 pid: P_2016_HI_3bac5b3a
+themes:
+- charging_infra
+- residential_charging
+primary_theme: charging_infra
+comprehensive: false
 scores:
-  D1: 2
+  D1: 4
   D2: 2
-  D3: 1
-  D4: 1
-  D5: 1
+  D3: 3
+  D4: 2
+  D5: 3
   D6: 1
-重要性: 2
+重要性: 3
 行动分类: D
-价值标签: []
+价值标签:
+- 壁垒
 影响分析:
-  加油: 无直接影响
-  充电: 海南建设期布局指引性文件,框架性指导省内充电网络规划,对站点选址研判有间接参考
-  电力_储能_V2G_交易: 无直接影响,仅提及电网公司参与机制
-  乡村: 未明确乡村专项部署
+  加油: 未直接涉及。该政策聚焦电动汽车充电基础设施，加油业务不在本规划范围内。
+  充电: 直接影响。正文明确以推动充电基础设施建设为核心，要求各市县政府建立协调机制、制定充电基础设施发展规划或实施方案、明确建设布局、制定支持政策和配套措施，省发展改革委负责跟踪分析和督促检查，为充电基础设施建设提供明确的政策推动力。
+  电力_储能_V2G_交易: 未直接涉及。正文仅聚焦于充电基础设施建设，未提及储能、虚拟电厂(VPP)、V2G或电力交易机制。
 行动建议:
-- 'C 关注: 作为海南充电政策演进起点存档,无需立即响应'
-extracted_at: '2026-05-08'
-extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
-extracted_model: claude-opus-4-7-via-subagent
-didi_impact_one_liner: 海南充电网络早期框架,对当前业务直接指导有限
-archive: low_score
+- A 趁早:跟踪所在市县充电基础设施规划编制动向，主动对接主管部门，争取纳入建设布局
+- B 研究:研判各市县即将出台的支持政策和配套措施，提前布局充电运营或设备供应业务
+- C 趁早:关注省发展改革委后续评估和检查动态，及时响应政策调整
+didi_impact_one_liner: 海南省充电基础设施专项规划为充电业务提供省级政策背书，滴滴应趁早对接市县规划布局，争取纳入充电设施建设体系。
+sanitized_from: 0_raw/policies/【海南省发展和改革委员会关于印发《海南省电动汽车充电基础设施 ...(琼发改交能〔2016〕1697号)】-海南省发展和改革委员会-3bac5b3a.md
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7
+gate_passed_deep: true

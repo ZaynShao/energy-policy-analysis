@@ -1,23 +1,32 @@
 pid: P_2012_BJ_466935e2
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
 scores:
   D1: 3
   D2: 1
   D3: 3
   D4: 1
   D5: 1
-  D6: 2
+  D6: 1
 重要性: 2
 行动分类: D
-价值标签: []
+价值标签:
+- 合规
 影响分析:
-  加油: 京内汽柴油零售价上行，网约车/货运司机加油成本上升，加油钱包补贴/折扣感知度增强；批零价差稳定为合规站点报价提供锚点
-  充电: 油电比价向电倾斜，间接利好新能源充电需求
-  电力_储能_V2G_交易: 无直接影响
-  乡村: 无直接影响
+  加油: 直接涉及。本政策转发国家发改委调价通知，汽柴油最高零售价上调（90#~97#汽油、0#~-35#柴油），同时明确批发价扣减300元/吨计算规则，要求明码标价及价格主管部门加强监督检查。
+  充电: 未直接涉及。政策仅针对汽柴油价格调整，不涉及电动汽车充电服务。
+  电力_储能_V2G_交易: 未直接涉及。政策完全围绕成品油价调整，不涉及电力交易、储能或V2G机制。
 行动建议:
-- 'C 关注: 该文件已失效，仅作为京地成品油定价转发机制的历史样本归档'
-extracted_at: '2026-05-08'
-extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
-extracted_model: claude-opus-4-7-via-subagent
-didi_impact_one_liner: 成品油价上行抬升网约车/城配油费成本，加油钱包/折扣权益吸引力扩大
+- A 趁早更新站点零售价格公示，确保不超过最高零售价且符合明码标价要求
+- B 趁早复核与供方配送合同条款，明确是否适用配送/非配送批发价核算
+- C 研究建立内部油价合规监测流程，应对后续价格主管部门的监督检查
+- D 研究将本轮调价影响纳入站点成本测算，评估对销售毛利的影响
+didi_impact_one_liner: 政策直接上调北京地区汽柴油最高零售价，加油站需调整标价并确保批发成本核算合规。
+sanitized_from: 0_raw/policies/【（失效）北京市发展和改革委员会转发国家发展改革委关于提高成品 ...(京发改〔2012〕1370号)】-北京市发展和改革委员会-466935e2.md
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7
+gate_passed_deep: true
 archive: low_score

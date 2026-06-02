@@ -1,23 +1,30 @@
 pid: P_2015_BJ_c5505b70
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
 scores:
-  D1: 3
+  D1: 2
   D2: 1
-  D3: 3
+  D3: 2
   D4: 1
   D5: 1
-  D6: 2
+  D6: 1
 重要性: 2
 行动分类: D
-价值标签: []
+价值标签:
+- 合规
 影响分析:
-  加油: 京内零售价下调，单笔加油金额下降；合规站点价格透明度要求维持
-  充电: 油电比价向油侧短期回调，但长期趋势仍利好电动化
-  电力_储能_V2G_交易: 无直接影响
-  乡村: 无直接影响
+  加油: 直接涉及。政策明确了汽柴油最高零售价和批发价计算方式，要求实行明码标价、价格公示，并规定各级价格主管部门加强监督检查和打击价格违法行为。
+  充电: 未直接涉及。政策针对汽柴油价格调整，不涉及充电服务定价或监管要求。
+  电力_储能_V2G_交易: 未直接涉及。政策聚焦成品油价机制，无储能/V2G/VPP/电力交易相关表述。
 行动建议:
-- 'C 关注: 文件已失效，归档为京地油价联动机制历史样本'
-extracted_at: '2026-05-08'
-extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
-extracted_model: claude-opus-4-7-via-subagent
-didi_impact_one_liner: 成品油降价短期降低司机加油成本，加油业务客单收缩但流量稳定
+- A 趁早:梳理加油站在售油品价格公示状态，对照附件价格表核查最高零售价执行情况，确保明码标价合规
+- B 研究:此为转发性文件且已失效，重点关注国家层面是否有新的油价形成机制改革方向，提前预判合规要求变化
+didi_impact_one_liner: 此为汽柴油价格下调转发通知，核心影响是加油业务的价格合规与明码标价要求，充电与电力业务未涉及。
+sanitized_from: 0_raw/policies/【（失效）北京市发展和改革委员会转发国家发展改革委关于降低国内 ...(京发改〔2015〕1668号)】-北京市发展和改革委员会-c5505b70.md
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7
+gate_passed_deep: true
 archive: low_score

@@ -1,20 +1,31 @@
 pid: P_1990_NEA_1162
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
 scores:
-  D1: 2
+  D1: 1
   D2: 1
   D3: 4
   D4: 1
-  D5: 1
+  D5: 2
   D6: 1
 重要性: 2
 行动分类: D
-价值标签: []
-archive: low_score
-影响分析: null
-sanitized_at: '2026-04-29'
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。该文件针对发电侧调峰和电网调度管理，未涉及油品销售业务。
+  充电: 未直接涉及。文件聚焦于传统电源侧调峰（火电、水电）及跨省电网联络线考核，未涉及充电桩建设、运营或电动汽车负荷侧管理。
+  电力_储能_V2G_交易: 部分涉及。文件第十条明确鼓励建设抽水蓄能电站作为调峰手段，为储能提供了早期政策依据；第十五条要求实行高峰低谷电价和丰枯季节差价，奠定了分时电价机制基础。但该文件不涉及虚拟电厂、V2G、电力现货交易或新型储能，电力交易范畴限于省网间互供电量结算。
+行动建议:
+- 'A 趁早: 梳理现行抽水蓄能项目审批及并网流程，对比本规定与现行新型储能政策的衔接点，排查合规差距。'
+- 'B 研究: 针对文件确立的高峰低谷电价机制，结合公司充电业务峰谷套利空间开展经济性测算，为定价策略提供依据。'
+- 'C 研究: 本文件为1990年发布、2011年网站重新发布的归档文件，应厘清其是否仍为现行有效依据，或已被《电力辅助服务管理办法》等新规替代。'
+didi_impact_one_liner: 该文件确立了发电侧调峰义务及分时电价框架，与公司充电业务峰谷定价策略间接相关，但不对加油、储能或电力交易构成直接规制约束。
 sanitized_from: 0_raw/policies/【加强电网调峰工作若干规定(能源办〔1990〕1162号)】-国家能源局（原能源部）-c7c5.md
-split_at: '2026-04-29'
-行动建议: []
-extracted_at: '2026-04-29'
-extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
-extracted_model: claude-opus-4-7-via-subagent
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7
+gate_passed_deep: true
+archive: low_score

@@ -1,23 +1,29 @@
 pid: P_2016_CQ_58e17873
+themes:
+- distribution_grid_opening
+primary_theme: distribution_grid_opening
+comprehensive: false
 scores:
-  D1: 1
-  D2: 1
+  D1: 5
+  D2: 4
   D3: 2
-  D4: 1
-  D5: 1
-  D6: 1
-重要性: 1
-行动分类: D
-价值标签: []
+  D4: 5
+  D5: 4
+  D6: 0
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
 影响分析:
-  加油: 无直接影响
-  充电: 若选定的增量配电网区域内布局充电站,可享配电网内绿电直供等政策红利,但本文仅为咨询机构招标
-  电力_储能_V2G_交易: 增量配电业务开放是售电/储能侧业务的基础制度,本文为操作环节的程序性文件
-  乡村: 无直接乡村部署
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及
 行动建议:
-- 'C 关注: 程序性文件,实际市场化机会需关注后续业主名单'
-extracted_at: '2026-05-08'
-extracted_by: _meta/scripts/oneshot_apply_5c_subagent_results.py
-extracted_model: claude-opus-4-7-via-subagent
-didi_impact_one_liner: 增量配电试点开放为售电/配套业务提供新接入路径,但执行节点已较早
-archive: low_score
+- A 趁早:跟踪重庆市增量配电业务改革试点进展，关注试点区域配电网开放对社会资本的机会窗口
+- B 研究:梳理公司业务区域是否涉及增量配电试点范围，提前研判配电侧改革对后续充电基础设施布局和电力业务协同的潜在影响
+didi_impact_one_liner: 增量配电改革试点推进中，配电网开放引入社会资本，本政策聚焦试点业主优选流程，暂未直接触及充电/储能/V2G/电力交易等具体业务领域
+sanitized_from: 0_raw/policies/【重庆市能源局关于开展重庆市增量配电业务试点项目业主市场化优选 ...(发改经体〔2016〕2120号)】-重庆市发展和改革委员会-58e17873.md
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7
+gate_passed_deep: true
