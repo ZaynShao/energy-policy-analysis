@@ -1,0 +1,21 @@
+pid: P_1900_SX_caf8e7eb
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【国家发展改革委、国务院国资委、中国证监会、全国工商联有关负责同志就《关于完善中国特色现代企业制度的意见》相关情况答记者问-山西省发改委门户网站】-山西省发展和改革委员会-.md
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7+judge-crosscheck+manual-review+v11-global-hardening
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,30 @@
+pid: P_2024_GD_d62c53cf
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。正文主要聚焦工业设备更新标准、消费品以旧换新标准（汽车/家电/家居），以及公共设施（电梯/燃气用具/游乐设施）安全标准，未涉及加油站设备或燃油相关标准。
+  充电: 间接影响。正文提到支持参与汽车、电动自行车及电池等产品标准制修订，以及新能源汽车领域行业标准制定，可能影响充电设施相关标准完善；但未明确充电桩建设、运营或市场准入政策。
+  电力_储能_V2G_交易: 直接涉及。正文明确支持企业联合行业协会参与制定储能、虚拟电厂领域行业标准，并涉及新能源汽车和氢能领域标准研制。
+行动建议:
+- A 趁早:协调集团标准制定资源，申报参与广州市储能、虚拟电厂领域行业标准研制项目
+- B 研究:跟踪政策落地节奏，重点关注储能系统安全标准、虚拟电厂调度标准的技术规范方向
+- C 趁早:梳理集团在新能源汽车充放电（V2G）领域的技术积累，提前布局准备参与相关标准预研
+didi_impact_one_liner: 广州政策通过标准引领为集团新能源业务（储能/VPP/V2G）提供参与行业标准制定的窗口机会，充电业务间接受益。
+sanitized_from: 0_raw/policies/【广州市市场监督管理局关于印发广州市以标准提升牵引设备更新和消费品以旧换新行动方案的通知】-政府门户.scjgj.gz.gov.cn-d62c53cf.md
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7+judge-crosscheck+manual-review+v11-global-hardening
+gate_passed_deep: true

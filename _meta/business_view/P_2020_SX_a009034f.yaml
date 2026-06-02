@@ -1,0 +1,21 @@
+pid: P_2020_SX_a009034f
+themes: []
+primary_theme: ''
+comprehensive: true
+scores:
+  D1: 0
+  D2: 2
+  D3: 2
+  D4: 3
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【陵川县人民政府办公室关于2019年贯彻落实国发42号文件重点工作的 ...(陵政办发〔2019〕44号)】-政府门户.xxgk.lczf.gov.cn-a009034f.md
+extracted_at: '2026-06-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7+judge-crosscheck+manual-review+v11-global-hardening
+gate_passed_deep: false
+archive: low_score
