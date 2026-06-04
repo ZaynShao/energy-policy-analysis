@@ -1,6 +1,6 @@
 ---
 title: 政策分析数据 Schema(契约文档)
-version: v1.0 (post-split,2026-05-08)
+version: v1.2 (derived signals,2026-06-04)
 authority: 本文件是 vault 与 pipeline 之间的唯一契约。所有读写以本文为准。
 ---
 
@@ -35,6 +35,8 @@ vault/
 │   ├── policy_summaries.jsonl 政策客观摘要(每行 by policy_id)
 │   ├── relations/*.jsonl      9 类关系 + _index_by_policy/ 反链页
 │   ├── entities/              canonical 实体 + 反链页
+│   ├── commentary_signals.jsonl 评论内部校准信号
+│   ├── market_intel_signals.jsonl 市场内部验证信号
 │   ├── opinions/              评论观点 + 政策舆论矩阵
 │   └── commentary_audit/      评论审计
 │
@@ -202,13 +204,6 @@ not_policy_related: ~             # true=已确认无政策可关联(化工/法�
 ```yaml
 pid: P_2024_NDRC_718
 
-# === 主题归属(必填) ===
-themes:                  # 命中的全部 theme,∈ themes_registry(13 主题);alias 可跨 theme 共享
-  - energy_storage_theme
-  - power_market
-primary_theme: energy_storage_theme   # 最重要的 1 个,∈ themes
-comprehensive: false     # 综合/纲领政策(跨多主题无单一中心)=true,此时 primary 为名义主书架,下游勿当唯一焦点
-
 # === 评分(必填) ===
 scores:
   D1: 5                  # 业务关联度
@@ -223,32 +218,29 @@ scores:
   - 合规
   - 机会
 
-# === 影响分析(可选,重要性≥3 OR region.level∈{国家,省} 时填) ===
-影响分析:                # 仅 3 个业务键(正向白名单,无其他键)
+# === 影响分析(可选,D1≥3 时填) ===
+影响分析:
   加油: 加油业务影响描述
   充电: 充电业务影响描述
   电力_储能_V2G_交易: 电力业务影响描述
+  乡村: 乡村方向影响描述
 
-# === 行动建议(可选,重要性≥3 OR region.level∈{国家,省} 时填) ===
+# === 行动建议(可选,D1≥3 时填) ===
 行动建议:
   - 'A 趁早: 具体动作'
   - 'B 研究: 具体动作'
 
-# === 一句话精髓(可选,过深档门时填) ===
+# === 一句话精髓(可选) ===
 didi_impact_one_liner: 业务一句话精髓(≤25 字)
 
 # === 可追溯字段(必填) ===
+extracted_at: '2026-04-29'
+extracted_by: scripts/l2_derive/derive_business_view.py
+extracted_model: claude-opus-4-7
 sanitized_from: 0_raw/policies/{filename}.md     # 指回 raw
-extracted_at: '2026-06-01'
-extracted_by: scripts/l2_themescore/run_2b.py
-extracted_model: <模型A>                  # ②-B generator 模型
-gate_passed_deep: true   # 是否过深档门(重要性≥3 OR region.level∈{国家,省});决定是否填 影响分析/行动建议
 
-# === Archive 标记(可选,重要性 <3 时) ===
+# === Archive 标记(可选,综合分 <3 时) ===
 archive: low_score
-
-# 评审记录 2026-06-01 ②-B 校准:深档门 D1≥3 → 重要性≥3 OR region.level∈{国家,省};新增 themes/primary_theme/gate_passed_deep;影响分析改 3 键正向白名单(去乡村)。理由见 spec §10。
-# 评审记录 2026-06-01 gold评审反馈:新增 comprehensive(综合政策标记,源自"大综合政策 primary 勉强"问题);过期政策 D2 按无现行约束力打低(只入 generator 提示词,不加字段)。
 ```
 
 ---
@@ -353,6 +345,59 @@ Canonical 注册在 `_meta/entities/registry.yaml`(或 vault 内等价位置,以
 `polarity` 4 档:`supportive` / `critical` / `neutral` / `mixed`。
 
 舆论矩阵 = 共识(≥3 独立来源同向)+ 分歧 + 中性观察 + 待跟进。
+
+### 5.6 评论校准信号 `1_extracted/commentary_signals.jsonl`
+
+每行一条评论派生信号。该文件来自 `0_raw/commentaries/` 的已关联评论 dry-run 结果,用于内部校准、审计追溯和分析师复核。它不直接覆盖政策事实、主题归属或 `_meta/business_view/` 分数,也不作为消费层外显方法论。
+
+```json
+{
+  "schema_version": 1,
+  "source_kind": "commentary",
+  "commentary_id": "C_0d474bd19965",
+  "title": "评论标题",
+  "related_policy_ids": ["P_2026_SC_0305e288"],
+  "theme_ids": ["power_market"],
+  "signal_role": "risk",
+  "confidence": 0.72,
+  "evidence": "评论中的证据片段",
+  "source_account": "来源账号",
+  "business_tag": "power",
+  "sanitized_from": "0_raw/commentaries/{filename}.md",
+  "extracted_by": "scripts/derived_signals/run.py"
+}
+```
+
+`signal_role` 是内部分析角色,可取 `risk` / `opportunity` / `execution` / `attention` / `interpretation` / `noise`。
+
+### 5.7 市场验证信号 `1_extracted/market_intel_signals.jsonl`
+
+每行一条市场情报派生信号。该文件来自已登记 `market_intel` manifest 的 dry-run 结果,用于内部验证项目、容量、补贴、价格、招标、交易、准入或落地动作是否存在。它不混入 policy 或 commentary raw,不直接覆盖政策事实、主题归属或 `_meta/business_view/` 分数。
+
+```json
+{
+  "schema_version": 1,
+  "source_kind": "market_intel",
+  "market_signal_id": "MI_c3474ca838d9",
+  "source_pid": "P_2026_GO_63fd5297",
+  "current_policy_id": "P_2026_GO_63fd5297",
+  "title": "银川电网侧储能项目清单公示(2.4GW/8.1GWh)",
+  "region": {"level": "市", "code": "640100", "name": "银川市"},
+  "theme_ids": ["energy_storage_theme"],
+  "business_lines": ["power"],
+  "signal_type": "project_list",
+  "observed_date": "2026-02-09",
+  "time_validity": "point_in_time",
+  "related_policy_ids": [],
+  "confidence": 0.9,
+  "evidence": "市场情报中的证据片段",
+  "source_url": "https://example.com/source",
+  "sanitized_from": "0_raw/policies/{filename}.md",
+  "extracted_by": "scripts/derived_signals/run.py"
+}
+```
+
+`signal_type` 按工程 registry 控制;未知或边界不清的行进入 review queue,不进入本文件。
 
 ---
 
@@ -474,6 +519,12 @@ vault 当前内含一些字段,与"理想 schema"有出入,但是真实存在的
 ---
 
 ## Changelog
+
+### v1.2 — 2026-06-04(derived signals 契约)
+
+- `1_extracted/` 新增 `commentary_signals.jsonl` 和 `market_intel_signals.jsonl`
+- 明确评论信号是内部校准,市场信号是内部验证,默认不作为消费层外显方法论
+- 明确 review queue 不能被当成 accepted 派生行写入上述文件
 
 ### v1.1 — 2026-05-12(身份字段重算白名单)
 
