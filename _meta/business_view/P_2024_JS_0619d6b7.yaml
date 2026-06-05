@@ -1,0 +1,22 @@
+pid: P_2024_JS_0619d6b7
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 1
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 4
+  D6: 4
+重要性: 2
+行动分类: A
+价值标签:
+- 机会
+sanitized_from: 0_raw/policies/【推动大规模设备更新和消费品以旧换新盐都行动方案】-盐城市盐都区人民政府-0d75.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

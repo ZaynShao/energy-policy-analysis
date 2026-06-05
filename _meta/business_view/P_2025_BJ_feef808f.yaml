@@ -1,0 +1,21 @@
+pid: P_2025_BJ_feef808f
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 2
+  D2: 3
+  D3: 2
+  D4: 3
+  D5: 4
+  D6: 3
+重要性: 2
+行动分类: C
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【北京市商務局關於進一步擴圍2025年消費品以舊換新補貼商品的公告】-北京市人民政府-feef808f.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

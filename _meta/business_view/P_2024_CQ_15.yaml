@@ -1,0 +1,21 @@
+pid: P_2024_CQ_15
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【重庆市空气质量持续改善行动实施方案(渝府发〔2024〕15号)】-重庆市人民政府-cc63.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,21 @@
+pid: P_2025_FJ_0091db8f
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 3
+  D4: 2
+  D5: 3
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【政策文件_ 福建省数据管理局_ 福建省发展和改革委员会】-福建省发展和改革委员会-0091db8f.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,29 @@
+pid: P_2024_NDRC_4e3d5520
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 5
+  D3: 4
+  D4: 5
+  D5: 4
+  D6: 2
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。正文仅包含通知文件抬头和基本信息，未涉及成品油相关设备更新或以旧换新措施。
+  充电: 未直接涉及。正文未提供具体政策措施内容，无法判断充电基础设施或新能源汽车相关更新补贴范围。
+  电力_储能_V2G_交易: 未直接涉及。正文未出现储能、虚拟电厂、V2G、电力交易等具体机制或支持措施。
+行动建议:
+- 'A 趁早: 关注附件《措施》正式文本发布,核对是否将充电桩、储能设备纳入大规模设备更新补贴范围'
+- 'B 研究: 跟踪各省贯彻落实方案出台情况,研判加油站点设备更新能否纳入支持范围'
+didi_impact_one_liner: 正文仅含通知文件头,具体设备更新和以旧换新支持措施未披露,需等待附件政策全文发布后评估业务影响。
+sanitized_from: 0_raw/policies/【印发《关于加力支持大规模设备更新和消费品以旧换新的若干措施》的通知(发改环资〔2024〕1104号)_政府信息公开_政务公开-国家发展改革委(发改环资〔2024〕1104号)】-政府门户.zfxxgk.ndrc.gov.c.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

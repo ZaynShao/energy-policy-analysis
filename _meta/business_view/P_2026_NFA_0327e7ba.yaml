@@ -1,0 +1,21 @@
+pid: P_2026_NFA_0327e7ba
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 4
+  D4: 2
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【加快推动小水电绿色转型高质量发展的指导意见】-国家林业和草原局(转载)-4377.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

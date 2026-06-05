@@ -1,0 +1,29 @@
+pid: P_2025_ZJ_FGW_64b2dbc2
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。本文件为电力保供补贴公示，与加油业务无关联。
+  充电: 未直接涉及。文件补贴对象为错避峰用电、柴发顶峰发电、用户侧储能顶峰放电，未明确提及充电桩或新能源汽车充电补贴。
+  电力_储能_V2G_交易: 直接涉及。用户侧储能顶峰放电明确列入补贴范围，这是对储能参与电力保供的直接激励政策。
+行动建议:
+- A 趁早:核查杭州市2024年电力保供补贴清单PDF，确认用户侧储能项目是否在列，及时处理异议反馈期内的资格确认事项
+- B 研究:跟踪后续补贴发放细则，了解用户侧储能顶峰放电的补贴标准、申报流程及资金拨付时间节点
+didi_impact_one_liner: 杭州用户侧储能顶峰放电可获2024年保供补贴，公示期至3月27日，储能运营方需趁早核查清单并处理异议反馈。
+sanitized_from: 0_raw/policies/杭州市发改委关于2024年电力保供补贴清单的公示03-21.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

@@ -1,0 +1,31 @@
+pid: P_2020_SD_2e7cf9bf
+themes:
+- charging_infra
+- residential_charging
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: C
+价值标签:
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 直接涉及。国家电网2020年投资27亿元新增充电桩7.8万个，其中居住区5.3万个（占比最大）、公共1.8万个、专用0.7万个；明确补齐居民区充电难短板；将强化并网服务开辟绿色通道；推进全国充电一张网建设，促进运营商互联互通；充电桩设备厂商及已通过两网招标认证的公司直接受益
+  电力_储能_V2G_交易: 未直接涉及。仅泛泛提到充电桩可能成为能源互联网入口，未具体涉及储能、V2G、电力交易或虚拟电厂机制
+行动建议:
+- 趁早对接国网充电桩并网服务，争取省内核准绿色通道支持
+- 趁早布局居住区充电桩建设运营，响应补齐居民区充电难的政策重点
+- 趁早对接已通过国网招标认证的设备供应商，抓住设备采购市场机遇
+- 趁早研究加入全国充电一张网互联互通体系的路径
+sanitized_from: 0_raw/policies/【山东省发展和改革委员会他山之石今年计划投资27亿元国家电网新一 ...】-山东省发展和改革委员会-2e7cf9bf.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

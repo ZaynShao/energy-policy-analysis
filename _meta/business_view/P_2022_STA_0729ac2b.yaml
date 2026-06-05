@@ -1,0 +1,21 @@
+pid: P_2022_STA_0729ac2b
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 4
+  D4: 5
+  D5: 4
+  D6: 1
+重要性: 1
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【国家税务总局关于取消增值税扣税凭证认证确认期限等增值税征管】-政府门户.fgk.chinatax.gov.cn-0729ac2b.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,30 @@
+pid: P_2023_MOFCOM_0603e88a
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 2
+  D3: 4
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 4
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及。文件标题即明确针对‘成品油流通’，征求意见稿一旦落地将对加油站零售合规、经营行为、市场准入等方面形成系统性监管框架，可能新增经营资质、储存运输、质量管控等合规要求。
+  充电: 未直接涉及。正文仅聚焦成品油流通管理，未提及充电基础设施、新能源车辆补给或相关运营资质。
+  电力_储能_V2G_交易: 未直接涉及。正文未涉及储能、虚拟电厂、V2G、电力交易或任何新型电力系统机制。
+行动建议:
+- 'A 趁早: 组织内部法务与运营团队研读征求意见稿全文，识别与现有加油站经营模式的关联条款，评估合规调整成本。'
+- 'B 研究: 关注商务部后续正式发布的《成品油流通管理办法》全文及配套细则，提前预判零售合规门槛提升对网点布局的影响。'
+- 'C 趁早: 在7月11日意见征集截止前，通过公告提供的渠道（网站/邮箱/信函）提交企业对现行框架中经营资质要求、过渡期安排等条款的反馈。'
+didi_impact_one_liner: 该政策直接影响加油站零售合规要求，新规落地后将重构成品油气站经营资质与运营标准，需提前评估合规调整压力。
+sanitized_from: 0_raw/policies/【成品油流通管理办法(征求意见稿)】-商务部-2d80.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

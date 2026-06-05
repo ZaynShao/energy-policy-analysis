@@ -1,0 +1,21 @@
+pid: P_2025_NDRC_efca57ff
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 4
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【关于印发《抽水蓄能电站开发建设管理暂行办法》的通知(发改能源规 ...(发改能源规〔2025〕93号)】-国家发展和改革委员会-efca57ff.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

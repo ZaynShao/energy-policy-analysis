@@ -1,0 +1,33 @@
+pid: P_2023_HA_4b539d50
+themes:
+- power_market
+- energy_storage_theme
+- distribution_grid_opening
+primary_theme: power_market
+comprehensive: true
+scores:
+  D1: 4
+  D2: 4
+  D3: 2
+  D4: 3
+  D5: 4
+  D6: 3
+重要性: 4
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。正文仅涉及民生商品中的粮油菜肉等,未提及加油站、成品油或汽柴油价格机制。
+  充电: 直接涉及。正文明确提出实施支持性电价政策,免收电动汽车集中式充电基本电费,直接降低充电运营成本。
+  电力_储能_V2G_交易: 直接涉及储能领域。正文明确提出落实抽水蓄能两部制电价政策,探索建立新型储能价格形成机制,为储能项目收益提供价格政策保障。但未直接涉及V2G、电力交易或虚拟电厂机制。
+行动建议:
+- A 趁早梳理现有充电场站的基本电费构成,评估免收政策覆盖范围与执行路径,争取政策红利最大化
+- B 趁早对接地方价格主管部门,确认充电基本电费免收的操作细则和申报流程
+- C 趁早研究抽水蓄能和新型储能项目的两部制电价机制,提前布局储能项目收益模型
+- D 研究关注居民阶梯电价制度后续调整动向,评估对充电桩用电定价的潜在影响
+didi_impact_one_liner: 充电享基本电费免收利好,储能获价格机制明确支持,但V2G和电力交易领域尚未直接涉及
+sanitized_from: 0_raw/policies/【关于印发《河南省“十四五”时期深化价格机制改革实施方案》的通知】-河南省发展和改革委员会-4b539d50.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

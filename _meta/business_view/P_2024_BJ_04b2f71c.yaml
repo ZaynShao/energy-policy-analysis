@@ -1,0 +1,21 @@
+pid: P_2024_BJ_04b2f71c
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【城市更新政策汇编_首都之窗 - 北京市人民政府(京规自发〔2024〕298号)】-北京市人民政府-04b2f71c.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,34 @@
+pid: P_2026_HN_1c02e10e
+themes:
+- gas_station_transition_theme
+- charging_infra
+- energy_storage_theme
+- green_power_trading_theme
+primary_theme: gas_station_transition_theme
+comprehensive: true
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 3
+  D5: 4
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签:
+- 机会
+- 壁垒
+影响分析:
+  加油: 政策明确构建重点公路LNG补能体系，国高网LNG加注站按每100公里一对布局，省高网按每200公里一对布局，为传统加油站向综合能源补给站转型提供政策依据；2035年LNG加气站布局建设全面完成，现有加油站在规划区域内的转型需求提升。
+  充电: 政策明确持续优化完善公路水路充（换）电设施布局，干线充换电场站间隔距离宜大于30公里，新建交通枢纽场站需预留储能设施及装配式变电站建设条件，为充电运营网络扩张和场站选址提供规划依据。
+  电力_储能_V2G_交易: 政策要求加强电网与交通网的融合互济，适度超前规划电网设施和储能设施，新建交通枢纽场区预留储能设施建设条件；但未明确V2G机制、电力交易参与路径或储能商业化模式。
+行动建议:
+- A 趁早研究现有加油站向LNG、充电综合补能站转型的规划条件与审批流程，匹配政策明确的LNG布局间距要求，布局转型节点
+- B 趁早对接交通枢纽场站预留储能设施建设条件，探索与电网公司合作开发交通场景储能项目的可行性
+- C 研究公路充（换）电设施间隔30公里的布局要求，结合湖南省干线网络规划，锁定重点路段充换电站选址机会
+didi_impact_one_liner: 政策驱动湖南省交通能源融合加速，传统加油站面临LNG转型窗口，充电基础设施迎规划扩张机遇，储能进入交通场景应用前期，V2G和电力交易机制尚未明确。
+sanitized_from: 0_raw/policies/【关于印发《关于推动湖南省交通运输与能源融合发展的实施意见》的通知 - 湖南省发展和改革委员会(湘发改能源〔2026〕23号)】-湖南省发展和改革委员会-1c02e10e.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

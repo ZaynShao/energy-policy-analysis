@@ -1,0 +1,21 @@
+pid: P_2022_NEA_0819bb07
+themes: []
+primary_theme: ''
+comprehensive: true
+scores:
+  D1: 2
+  D2: 2
+  D3: 4
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【科技支撑碳达峰碳中和实施方案(2022-2030年)新闻】-科技日报(国家能源局转载)-8bfb.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

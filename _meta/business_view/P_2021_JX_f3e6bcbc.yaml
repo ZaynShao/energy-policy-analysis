@@ -1,0 +1,21 @@
+pid: P_2021_JX_f3e6bcbc
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【关于印发江西省促进工业经济平稳增长的行动方案的通知- 江西省发展 ...(发改产业〔2021〕1780号)】-江西省发展和改革委员会-f3e6bcbc.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,30 @@
+pid: P_2026_HI_2ed1e9e2
+themes:
+- distribution_grid_opening
+primary_theme: distribution_grid_opening
+comprehensive: false
+scores:
+  D1: 2
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。该通知聚焦分布式光伏配电网开放容量,未提及加油站或燃油业务。
+  充电: 未直接涉及。该通知针对分布式光伏并网容量评估,不涉及充电基础设施建设或运营规定。但配电网承载能力测算结果可能间接影响未来充电设施选址的电网接入条件(间接)。
+  电力_储能_V2G_交易: 未直接涉及。该通知仅公布分布式光伏可开放容量数据,未明确涉及储能配置要求、V2G机制、电力交易规则或虚拟电厂建设等具体业务安排。
+行动建议:
+- A 趁早:趁早对接海南电网,获取分布式光伏可开放容量详细数据,评估现有配电网条件下分布式光伏并网空间,预判后续容量约束对其他新能源业务的影响。
+- B 研究:研究本通知与后续分布式光伏项目建设管理规定的衔接关系,关注可开放容量变化趋势,提前布局配电网改造或增容需求对应的业务机会。
+didi_impact_one_liner: 海南分布式光伏配电网可开放容量公布,配电网承载力评估机制初步建立,尚未直接触及加油、充电、储能或电力交易具体业务,但配电网开放边界将为后续新能源业务布局提供参考框架。
+sanitized_from: 0_raw/policies/【关于公布海南省2026年第二季度分布式(琼发改便函〔2026〕941号)】-海南省发展和改革委员会-2ed1e9e2.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

@@ -1,0 +1,31 @@
+pid: P_2024_BJ_aa3412b5
+themes:
+- charging_infra
+- gas_station_transition_theme
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 4
+  D5: 4
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 壁垒
+影响分析:
+  加油: 方案明确支持利用现状加油站建设立体超充站，鼓励已建充电站升级改造为超充站，直接推动加油站向充换电业务转型
+  充电: 超级充电站建设迎来政策窗口期，明确2024年底建成500座、2025年底建成1000座目标，配套用地保障（公共停车场、交通枢纽、闲置土地、桥下空间）和国企资源支持（市属国企利用公交场站、现状加油站等）
+  电力_储能_V2G_交易: 未直接涉及。政策聚焦充电基础设施布点，未涉及储能配置、V2G机制或电力交易机制
+行动建议:
+- 趁早研究利用现有加油站场地建设超充站的立体空间方案和报批路径
+- 趁早与市属国企对接，锁定公交场站、环卫站等场地超充站合作资源
+- 趁早布局高速公路服务区超充站，响应京津冀全覆盖目标
+didi_impact_one_liner: 北京明确支持加油站转型超充站，2025年目标1000座超充站，用地与国企资源双重保障，充电基础设施进入加速期
+sanitized_from: 0_raw/policies/【新能源车上路可“随行随充”-报纸网络-北京市发展和改革委员会】-北京市发展和改革委员会-aa3412b5.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

@@ -1,0 +1,30 @@
+pid: P_2024_CQ_0101a5e5
+themes:
+- charging_infra
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 4
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 壁垒
+影响分析:
+  加油: 标题明确针对新能源汽车超充基础设施，未直接涉及传统加油业务。
+  充电: 标题明确为新能源汽车便捷超充行动计划（2024—2025年），核心业务即充电基础设施建设运营，直接涉及超充站规划、布局、建设及运营。
+  电力_储能_V2G_交易: 标题聚焦充电基础设施本身，未直接涉及储能、V2G、电力交易或虚拟电厂等配套机制。
+行动建议:
+- 趁早研究重庆市超充站布局规划与建设标准，明确区域内竞争格局
+- 趁早评估超充设备采购与运维成本结构，储备大功率充电技术能力
+- 趁早对接重庆市经信委/发改委等部门，跟踪超充行动计划配套细则
+didi_impact_one_liner: 重庆超充行动计划（2024-2025）以充电基础设施为核心，直接影响充电业务布局，需关注超充标准与区域规划落地节奏。
+sanitized_from: 0_raw/policies/【重庆市新能源汽车便捷超充行动计划（2024—2025年）】-重庆市人民政府办公厅-8a90.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

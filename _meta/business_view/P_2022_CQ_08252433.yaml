@@ -1,0 +1,21 @@
+pid: P_2022_CQ_08252433
+themes: []
+primary_theme: ''
+comprehensive: true
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【重庆市城市更新提升十四五行动计划】-重庆市人民政府-324d.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

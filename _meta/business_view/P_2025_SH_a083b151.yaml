@@ -1,0 +1,30 @@
+pid: P_2025_SH_a083b151
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 2
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。该政策聚焦于设备更新和消费品以旧换新的总体成效，未提及加油站、燃油消费或传统能源业务。
+  充电: 未直接涉及。政策提到全国新能源车销量同比增长81.7%，反映新能源汽车消费市场活跃度提升，但未直接涉及充电桩建设、充电服务运营或充换电基础设施政策。
+  电力_储能_V2G_交易: 未直接涉及。政策数据聚焦于设备采购、零售消费和制造业销售收入层面，未涉及电力交易、储能建设、V2G机制或虚拟电厂等电力系统侧业务。
+行动建议:
+- A 趁早研判：新能源车销量81.7%的高增速或带动充电需求增长，结合本地新能源车保有量和出行特征，评估现有充电网络承载能力。
+- B 研究：关注后续“两新”政策加力扩围动态，看是否有充电基础设施或新能源汽车配套设施被纳入补贴或支持范围。
+didi_impact_one_liner: 政策数据显示新能源车消费高速增长（81.7%），或为充电业务带来增量需求空间，但本政策未直接涉及充换电基础设施部署。
+sanitized_from: 0_raw/policies/【“两新”政策实施以来成效明显2025年08月27日1548 - 信用上海】-上海市发展和改革委员会-a083b151.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

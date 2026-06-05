@@ -1,0 +1,29 @@
+pid: P_2024_BJ_082685cd
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 5
+  D5: 4
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。该方案聚焦于设备更新与消费品以旧换新，加油业务（燃油零售）不在正文明确的补贴/支持范围内。
+  充电: 未直接涉及。标题及正文节选均未出现充电桩建设、新能源汽车购置补贴或充换电设施更新等具体内容，无法确认对充电业务的直接支持。
+  电力_储能_V2G_交易: 未直接涉及。标题中的"设备更新"未明确涵盖储能、V2G、虚拟电厂或电力交易机制，正文节选亦未提供相关业务影响的具体依据。
+行动建议:
+- A 趁早:密切跟踪该方案配套细则出台，研判设备更新目录是否将涵盖充电场站运营设备或换电设施，评估潜在受益空间。
+- B 研究:结合公司现有业务资产布局，梳理符合"以旧换新"范畴的设备清单，为后续政策对接做好准备。
+didi_impact_one_liner: 该实施方案以工业设备、老旧小区设备及耐用消费品更新为主线，加油/充电/储能/电力交易业务均未在正文证据中出现直接支持条款。
+sanitized_from: 0_raw/policies/【北京市加力支持设备更新和消费品以旧换新实施方案】-北京市发展改革委、北京市财政局-f912.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

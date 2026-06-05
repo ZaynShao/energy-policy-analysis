@@ -1,0 +1,21 @@
+pid: P_2022_HN_8a3cd18b
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 2
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【关于拟纳入湖南省新能源发电项目配置新型储能首批试点候选项目 ...(湘发改能源〔2022〕687号)】-湖南省发展和改革委员会-8a3cd18b.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

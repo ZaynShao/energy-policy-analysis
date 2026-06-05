@@ -1,0 +1,32 @@
+pid: P_2026_AH_84c79734
+themes:
+- vpp_theme
+- aggregator_access
+- power_market
+primary_theme: vpp_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 4
+  D3: 2
+  D4: 2
+  D5: 4
+  D6: 4
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 直接涉及。安徽省明确暂未出台虚拟电厂实施细则，企业须依据《电力市场注册基本规则》在电力交易中心完成市场注册。虚拟电厂需在安徽电力交易平台提交注册申请并联系交易中心了解具体要求，售电资质为参与电力市场交易的前置条件。
+行动建议:
+- A 趁早联系安徽电力交易中心（0551-63402298）获取虚拟电厂注册要求及操作指南
+- B 趁早完成售电资质申请，明确为参与电力市场交易的前置条件
+- C 研究《电力市场注册基本规则》（国能发监管规〔2024〕76号）全文，提前对标注册条件
+didi_impact_one_liner: 安徽虚拟电厂实施细则暂缺，需先完成电力交易中心注册和售电资质方能入市，三大业务中仅电力板块直接受影响。
+sanitized_from: 0_raw/policies/【关于虚拟电厂相关实施细则问题_安徽省发展和改革委员会】-安徽省发展和改革委员会-84c79734.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

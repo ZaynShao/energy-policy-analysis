@@ -1,0 +1,32 @@
+pid: P_2024_CQ_1023dd1b
+themes:
+- gas_station_transition_theme
+- charging_infra
+- v2g
+primary_theme: gas_station_transition_theme
+comprehensive: true
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+- 壁垒
+影响分析:
+  加油: 正文未直接涉及具体业务内容,仅从标题'综合能源站发展规划'及已判主题'gas_station_transition_theme'推测涉及传统加油站向综合能源站转型,但缺乏正文具体规划目标、转型路径或建设要求等直接证据,无法确认具体影响范围
+  充电: 正文未直接涉及具体业务内容,仅从标题'综合能源站发展规划'及已判主题'charging_infra'推测涉及充电基础设施建设,但缺乏正文具体规模、数量、布局或政策支持措施等直接证据,无法确认具体影响范围
+  电力_储能_V2G_交易: 正文未直接涉及具体业务内容,虽已判主题包含'v2g',但正文节选仅含部门街镇名单,无V2G、储能、电力交易相关规划目标、技术路线或市场机制等直接证据,无法确认具体影响范围
+行动建议:
+- A 趁早:向区发展改革委等发文部门申请获取规划正文完整文本,以便准确评估对加油/充电/储能-V2G-电力交易三大业务的实际影响
+- B 研究:在获取完整规划后,重点研究综合能源站的能源品类组合、技术路线选择及投资运营模式,预判与现有加油站业务转型及充电业务的协同机会
+didi_impact_one_liner: 当前正文节选仅含参与部门街镇名单,无法提取对加油/充电/储能-V2G-电力交易三大业务的具体影响,需索取完整规划文本才能进行准确分析
+sanitized_from: 0_raw/policies/【涪陵区综合能源站发展规划(2023—2030年)】-重庆市涪陵区人民政府-6819.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

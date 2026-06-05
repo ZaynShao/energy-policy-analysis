@@ -1,0 +1,29 @@
+pid: P_2024_CQ_162
+themes:
+- carbon_market_theme
+primary_theme: carbon_market_theme
+comprehensive: false
+scores:
+  D1: 2
+  D2: 3
+  D3: 3
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 未直接涉及。正文为碳排放配额分配方案，未涉及燃油零售或加油站相关业务规定。
+  充电: 未直接涉及。正文为碳排放配额分配方案，未提及充电基础设施或新能源汽车充电业务。
+  电力_储能_V2G_交易: 未直接涉及。虽电力行业碳排放管控可能影响发电企业碳成本，但正文仅涉及配额分配方案本身，未明确写出储能、V2G、虚拟电厂、电力交易等具体机制或影响路径。
+行动建议:
+- A 趁早:研究本方案对发电企业的碳配额履约影响，评估对电力采购成本可能产生的连锁反应
+- B 研究:持续跟踪重庆市碳市场履约规则动态，提前布局碳资产管理能力
+didi_impact_one_liner: 重庆2023年度碳配额分配方案仅涉及碳市场履约机制，充电、加油、储能/V2G/电力交易业务均未直接涉及。
+sanitized_from: 0_raw/policies/【重庆市2023年度碳排放配额分配实施方案(渝环办〔2024〕162号)】-重庆市生态环境局办公室-1208.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

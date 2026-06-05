@@ -1,0 +1,31 @@
+pid: P_2022_NX_6ecf38b4
+themes:
+- charging_infra
+primary_theme: charging_infra
+comprehensive: true
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+影响分析:
+  加油: 未直接涉及。政策虽提振汽车消费市场，但重点在配套设施建设（充电桩、换电站），对传统加油站业务无直接部署。
+  充电: 直接涉及。政策明确要求'加快停车场、充电桩、换电站等配套设施建设'，且与'推进农用汽车下乡'结合部署，充电基础设施建设获政策支撑。
+  电力_储能_V2G_交易: 未直接涉及。正文仅出现'充电桩、换电站'表述，未涉及储能、V2G、虚拟电厂、电力交易或双向充放电机制。
+行动建议:
+- A 趁早对接农业农村主管部门，摸清农用汽车下乡区域充电桩建设需求，提前布局乡镇充电网络
+- B 趁早对接停车设施建设主体，将充电桩建设纳入停车场配套规划
+- C 研究:'推进农用汽车下乡'政策对新能源汽车渗透率的潜在提升作用，评估县域充电需求增长空间
+didi_impact_one_liner: 宁夏政策明确支持充电桩、换电站建设，随农用汽车下乡扩面，充电基础设施部署获直接政策支撑
+sanitized_from: 0_raw/policies/【宁夏回族自治区“十四五”扩大内需实施方案_宁夏回族自治区发展和改革委员会】-宁夏回族自治区发展和改革委员会-6ecf38b4.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

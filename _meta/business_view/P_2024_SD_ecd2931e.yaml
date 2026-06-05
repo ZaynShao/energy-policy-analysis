@@ -1,0 +1,22 @@
+pid: P_2024_SD_ecd2931e
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+sanitized_from: 0_raw/policies/【关于《济南市市中区推动大规模设备更新和消费品以旧换新工作方案 ...】-政府门户.www.jinan.gov.cn-ecd2931e.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

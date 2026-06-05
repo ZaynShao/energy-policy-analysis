@@ -1,0 +1,30 @@
+pid: P_2022_NX_0d7f402e
+themes:
+- vpp_theme
+- power_market
+primary_theme: vpp_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 4
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及（正文仅涉及需求响应补贴清算，未直接涉及VPP、储能、V2G或电力交易机制，但需求响应作为负荷调节手段与虚拟电厂存在机制关联，属间接观察）
+行动建议:
+- A 趁早:趁早研究《宁夏回族自治区电力需求响应管理办法》(宁发改运行〔2022〕408号)的准入条件和结算规则，评估作为负荷聚合商参与需求响应的可行性
+- B 研究:研究需求响应补贴清算的申报流程和时间节点，提前准备2024年度需求响应参与资质材料
+didi_impact_one_liner: 宁夏2022年需求响应补贴清算公示，补贴规模4187.82万元，负荷聚合商作为参与主体之一，为后续参与需求响应市场提供参考路径。
+sanitized_from: 0_raw/policies/【自治区2022年度电力需求响应补贴资金清单公示(宁发改运行〔2022〕408号)】-宁夏回族自治区发展和改革委员会-0d7f402e.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

@@ -1,0 +1,30 @@
+pid: P_2026_QH_ab4dcbb6
+themes:
+- vpp_theme
+primary_theme: vpp_theme
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及（正文仅包含通知网页结构及政府网站导航链接，未见虚拟电厂建设方案的实质性内容，无法判断具体业务影响）
+行动建议:
+- A 趁早:向青海省能源局获取《青海省虚拟电厂建设与运行管理方案》全文，以便准确评估对电力交易和储能业务的潜在影响
+- B 研究:关注青海省后续发布的虚拟电厂实施细则、准入条件及运营规则，提前布局市场机会
+didi_impact_one_liner: 该通知仅提供了虚拟电厂建设方案的发布信息，但正文节选未包含方案实质性内容，无法评估对加油、充电及电力交易储能业务的实际影响程度
+sanitized_from: 0_raw/policies/【青海省能源局关于印发《青海省虚拟电厂建设与运行管理方案》的通知】-青海省发展和改革委员会-ab4dcbb6.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

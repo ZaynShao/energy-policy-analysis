@@ -1,0 +1,31 @@
+pid: P_2023_GD_3b63a79c
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 电力现货市场转入正式运行标志着广东已建立集中式现货市场机制和交易规则体系，为储能、虚拟电厂等灵活性资源参与电力市场交易奠定制度基础（间接）。正文未明确提及储能、V2G或虚拟电厂的具体参与机制和交易规则
+行动建议:
+- A 趁早研究储能参与现货市场的技术接口和准入条件，为未来灵活性资源入市做准备
+- B 趁早关注广东现货市场"1+8"规则体系的修订动态，特别是新增经营主体类型对储能、负荷聚合商的影响
+- C 研究:密切跟踪后续政策是否出台储能、虚拟电厂等新型主体参与现货市场的实施细则
+didi_impact_one_liner: 广东现货市场正式运行构建了电力市场化交易的基础框架，储能等灵活性资源参与市场的制度路径逐步清晰但尚待明确细化
+sanitized_from: 0_raw/policies/【广东省发展和改革委员会 - 广东电力现货市场“闯”出全国经验】-广东省发展和改革委员会-3b63a79c.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

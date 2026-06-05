@@ -1,0 +1,33 @@
+pid: P_2023_HL_6ad69af6
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: true
+scores:
+  D1: 3
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 新型储能发展路径已明确。黑龙江在化学储能（液流电池为重点）、物理储能（压缩空气储能由中能建推进选址地勘）、抽水蓄能（8个项目纳入国家十四五规划、2024年争取全部开工）三路并进，但储能价格补偿机制和成本回收方案仍在探索阶段。调研文件尚未形成具体的储能市场准入、交易机制或补贴政策。
+行动建议:
+- A 趁早摸清黑龙江液流电池产业链底数
+- B 趁早跟踪中能建压缩空气储能项目选址进展
+- C 趁早对接省发改委研究抽水蓄能项目合作机会
+- D 研究储能价格补偿机制的政策窗口
+- E 研究新能源制氢柔性负荷对电网调度的影响
+didi_impact_one_liner: 黑龙江储能多元路线并行推进，价格补偿机制待破题，新能源制氢共识初成。
+sanitized_from: 0_raw/policies/【调研进行时丨推动龙江能源绿色低碳转型直指“源网荷储”关键点】-黑龙江省发展和改革委员会-6ad69af6.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

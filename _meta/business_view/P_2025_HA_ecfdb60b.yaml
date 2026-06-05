@@ -1,0 +1,32 @@
+pid: P_2025_HA_ecfdb60b
+themes:
+- distribution_grid_opening
+- vpp_theme
+primary_theme: distribution_grid_opening
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。政策聚焦电力和天然气领域，未提及加油站或油品供应相关内容。
+  充电: 政策明确推进源网荷储一体化项目，新能源装机714万千瓦，清洗能源就近消纳机制或为充电场站提供绿电供给渠道（间接）。
+  电力_储能_V2G_交易: 直接涉及。政策明确加快源网荷储一体化项目建设，省级实施方案已出台（豫政办〔2024〕72号），明确扩大项目实施范围；储能是源网荷储一体化的核心要素，政策支持为储能应用创造项目载体。V2G和电力交易机制未在正文出现。
+行动建议:
+- A 趁早研究：密切跟踪豫政办〔2024〕72号文件细则，摸排所在区域工商业主体源网荷储一体化申报意向，提前锁定潜在合作园区或大用户
+- B 趁早布局：对接省内已批复的480个源网荷储项目，挖掘储能设备供应或集成服务机会
+- C 研究：关注政策'应批尽批'导向下增量配电网类项目释放空间，评估作为负荷聚合商参与一体化运营的可行性（间接）
+didi_impact_one_liner: 源网荷储一体化政策加速落地，储能业务迎来项目载体机会，充电绿电供给渠道有望拓展，但V2G和电力交易机制尚未明确。
+sanitized_from: 0_raw/policies/【对省政协十三届三次会议第1330265号提案的答复】-河南省发展和改革委员会-ecfdb60b.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

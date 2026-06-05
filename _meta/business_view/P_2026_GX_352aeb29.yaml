@@ -1,0 +1,29 @@
+pid: P_2026_GX_352aeb29
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 3
+  D5: 4
+  D6: 4
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 政策明确了广西新型储能项目实行属地备案管理，完成备案并落实建设条件后即可开工，无需先纳入示范项目名单，降低了项目准入门槛；同时，自治区能源局将适时组织开展示范项目申报，经第三方评估后发布示范项目清单，为优质储能项目提供了进入示范名单的渠道。
+行动建议:
+- 趁早研究属地备案流程和材料要求，提前准备备案申报工作，争取项目快速通过备案，尽早具备开工条件
+- 趁早跟进自治区能源局示范项目申报动态，在申报窗口开启时第一时间提交参评材料，争取纳入自治区示范项目清单获取政策背书
+didi_impact_one_liner: 广西储能项目备案制落地，开工不再以示范名单为前提，审批路径明确简化
+sanitized_from: 0_raw/policies/【关于电网侧新型储能项目投资及审批事宜 - 新能源 - 广西壮族自治区发展和改革委员会网站(国能发科技规〔2021〕47号)】-广西壮族自治区发展和改革委员会-352aeb29.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

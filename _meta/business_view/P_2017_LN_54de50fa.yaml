@@ -1,0 +1,31 @@
+pid: P_2017_LN_54de50fa
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 2
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及。本通知仅涉及电力市场管理委员会的机构组建，未涉及充电定价机制、充电运营商市场准入或充放电交易规则
+  电力_储能_V2G_交易: 未直接涉及。本通知为电力市场管理委员会的机构设置文件，未涉及储能并网调度、V2G双向充放电、电力现货或中长期交易品种的具体机制设计或规则
+行动建议:
+- A 趁早跟踪辽宁省电力市场管理委员会后续工作动态，关注其是否将储能、需求响应等新型主体纳入市场成员类别
+- B 研究辽宁省后续可能出台的电力市场交易规则修订，评估对本公司电力交易和储能业务的潜在影响
+- C 趁早建立与辽宁省电力市场管理委员会的沟通渠道，为未来参与电力市场做好准备
+didi_impact_one_liner: 辽宁电力市场管理委员会组建通知仅涉及机构设置，未直接涉及加油、充电或储能V2G交易等具体业务，三大业务均不受直接影响
+sanitized_from: 0_raw/policies/【省发展改革委关于组建辽宁电力市场管理委员会的通知】-辽宁省发展和改革委员会-54de50fa.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

@@ -1,0 +1,22 @@
+pid: P_2024_HN_0921ac90
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+sanitized_from: 0_raw/policies/【怀化市鹤城区工业和信息化领域大规模设备更新实施方案】-怀化市鹤城区工业和信息化局-249d.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

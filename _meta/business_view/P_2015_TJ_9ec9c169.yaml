@@ -14,8 +14,8 @@ scores:
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【市发展改革委关于进一步规范光伏发电项目建设管理有关事项的通知_ ...(津发改能源〔2015〕980号)】-天津市发展和改革委员会-9ec9c169.md
-extracted_at: '2026-06-02'
+extracted_at: '2026-06-05'
 extracted_by: scripts/l2_themescore/run_2b.py
-extracted_model: MiniMax-M2.7+judge-crosscheck+manual-review+v11-global-hardening
+extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false
 archive: low_score

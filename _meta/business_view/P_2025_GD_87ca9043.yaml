@@ -1,0 +1,23 @@
+pid: P_2025_GD_87ca9043
+themes:
+- energy_storage_theme
+- green_power_trading_theme
+primary_theme: energy_storage_theme
+comprehensive: true
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+sanitized_from: 0_raw/policies/【《花都区支持新能源产业高质量发展的十条措施》的音频 ... - 广州市政府】-政府门户.www.gz.gov.cn-87ca9043.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,21 @@
+pid: P_2026_SH_04015bfb
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【长宁区节能降碳和循环经济发展十五五规划(草案)】-上海市长宁区发展和改革委员会-3e29.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

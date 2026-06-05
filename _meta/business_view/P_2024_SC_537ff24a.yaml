@@ -1,0 +1,32 @@
+pid: P_2024_SC_537ff24a
+themes:
+- residential_charging
+- charging_infra
+primary_theme: residential_charging
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 4
+  D5: 5
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 直接涉及。本规定明确了居民小区充电设施的建设技术标准：安装位置限制(地下停车场负四层及以下禁止)、建设前须提交资质证明和施工方案、投入使用前须第三方竣工验收、须满足消防设施要求、防火单元须独立分隔。这些要求将直接影响充电设施的选址、施工合规性和运营准入门槛。
+  电力_储能_V2G_交易: 未直接涉及。虽提及充电设施须响应电网侧负荷调度管理、支撑有序充电，但未明确涉及V2G、虚拟电厂、储能或电力交易机制。
+行动建议:
+- A 趁早:趁早排查现有项目选址，对照负四层以下禁止规定调整地下停车场充电桩布局规划
+- B 趁早:趁早建立与具备资质的第三方检测机构的合作关系，确保竣工验收环节顺畅
+- C 研究:研究充电桩保险产品配套方案，降低验收后运营风险
+- D 研究:研究消防设施配置标准与防火单元设计要求，提前纳入新项目设计合规性审查
+didi_impact_one_liner: 政策直接影响充电设施选址(负四层以下禁止)、施工资质门槛和验收流程，增加合规成本但提升行业规范性
+sanitized_from: 0_raw/policies/【成都市居民小区电动汽车充电设施技术规定（试行）》发布】-政府门户.cds.sczwfw.gov.cn-537ff24a.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

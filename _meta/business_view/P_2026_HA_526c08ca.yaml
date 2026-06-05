@@ -1,0 +1,29 @@
+pid: P_2026_HA_526c08ca
+themes:
+- distribution_grid_opening
+primary_theme: distribution_grid_opening
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 2
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: '未直接涉及（间接: 配电区域划分可能影响后续充电基础设施的电力接入条件）'
+  电力_储能_V2G_交易: '未直接涉及（间接: 增量配电网试点可能为后续储能等业务的电力接入提供基础设施，但本文件仅涉及区域划分）'
+行动建议:
+- '趁早研究: 趁早研究增量配电业务改革试点对后续配电网投资准入的影响'
+- '趁早关注: 趁早关注河南省后续可能发布的增量配电业务配套实施细则和试点项目进展'
+didi_impact_one_liner: 本公示仅明确宜阳县10.02平方公里试点配电区域划分范围，暂未直接涉及加油、充电、储能等具体业务机会
+sanitized_from: 0_raw/policies/【关于宜阳县先进制造业开发区增量配电业务 ... - 河南省发展和改革委员会(发改能源规〔2024〕317号)】-河南省发展和改革委员会-526c08ca.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

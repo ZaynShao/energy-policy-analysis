@@ -1,0 +1,21 @@
+pid: P_2026_SH_6e089c0e
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【沪府办发文件_上海市人民政府】-上海市人民政府-6e089c0e.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

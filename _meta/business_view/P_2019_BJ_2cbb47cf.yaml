@@ -1,0 +1,29 @@
+pid: P_2019_BJ_2cbb47cf
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 4
+  D4: 2
+  D5: 3
+  D6: 1
+重要性: 4
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 正文节选未包含具体政策内容,无法判断具体影响。标题指向石油成品油流通管理领域"放管服"改革,间接可能涉及成品油零售环节审批流程简化或监管方式调整,但须以正文实质内容为准(间接)。
+  充电: 未直接涉及。正文节选无充电、新能源汽车相关内容。
+  电力_储能_V2G_交易: 未直接涉及。正文节选无储能、虚拟电厂、V2G、电力交易相关内容。
+行动建议:
+- A 待补充:密切跟踪商务部后续配套文件或省级商务部门实施细则发布,待正文实质内容明确后再评估对成品油零售业务的直接影响。
+- B 研究:基于标题推断的"放管服"改革方向,提前梳理现有加油站审批、备案、监管流程,识别可能优化环节,做好承接准备。
+didi_impact_one_liner: 正文节选缺失,无法判断实质影响;标题指向石油流通"放管服"改革,可能间接影响加油业务流程,但须待正文内容明确。
+sanitized_from: 0_raw/policies/【商务部关于做好石油成品油流通管理“放管服”改革工作的通知(商运函〔2019〕659号)】-北京市人民政府-2cbb47cf.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

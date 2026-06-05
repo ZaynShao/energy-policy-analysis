@@ -1,0 +1,30 @@
+pid: P_2024_GD_060777c1
+themes:
+- vpp_theme
+- aggregator_access
+primary_theme: vpp_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。该政策聚焦虚拟电厂领域，未明确提及燃油补给相关业务。
+  充电: 未直接涉及。正文节选未包含充电相关表述；虽虚拟电厂聚合资源可能包含充电设施，但正文未明确写出充电业务影响。（间接观察：政策支持虚拟电厂发展，理论上可促进充电桩等资源参与电网互动，但本政策正文未明确关联）
+  电力_储能_V2G_交易: 直接涉及。标题明确为虚拟电厂加快发展的支持措施，主题含'vpp_theme'和'aggregator_access'，聚焦聚合商准入与虚拟电厂发展，将直接影响电力交易和能源聚合运营领域。
+行动建议:
+- 'A 趁早: 梳理现有聚合资源池，评估充电桩、储能及可调负荷参与虚拟电厂的技术可行性与合规门槛，对齐聚合商准入要求'
+- 'B 研究: 密切跟踪深圳市虚拟电厂聚合商资质认定、接入标准及电力市场交易规则细化出台，把握准入窗口期'
+didi_impact_one_liner: 政策明确支持虚拟电厂与聚合商发展，能源聚合与电力交易业务迎来直接利好，需趁早布局聚合商资质与资源接入
+sanitized_from: 0_raw/policies/【深圳市支持虚拟电厂加快发展的若干措施】-深圳市发展和改革委员会-9bce.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

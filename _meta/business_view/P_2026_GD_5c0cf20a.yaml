@@ -1,0 +1,21 @@
+pid: P_2026_GD_5c0cf20a
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【深圳市光明区人民政府关于废止《光明区经济发展专项资金管理办法 ...(深光府规〔2026〕3号)】-政府门户.www.szgm.gov.cn-5c0cf20a.md
+extracted_at: '2026-06-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score
