@@ -1,17 +1,16 @@
 ---
 policy_id: P_2023_MOFCOM_0603e88a
 title: 成品油流通管理办法(征求意见稿)
-inbound_edge_count: 1
-outbound_edge_count: 0
-commentary_inbound_count: 0
-last_updated: '2026-05-08T11:53:42+08:00'
-policy_file: ../../../0_raw/policies/【成品油流通管理办法(征求意见稿)】-商务部-2d80.md
+inbound_edge_count: 0
+outbound_edge_count: 1
+last_updated: '2026-06-06T20:47:58+08:00'
 ---
 
 > 政策原文:[[【成品油流通管理办法(征求意见稿)】-商务部-2d80|成品油流通管理办法(征求意见稿)]]
 
-# 入向反链:P_2023_MOFCOM_0603e88a
+# 出向引用:P_2023_MOFCOM_0603e88a
 
-## 被废止 (superseded_by) — 1
+## 对齐了 — 1
 
-- [[【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197|P_2025_MOFCOM_4_a]] — 成品油流通管理办法 (2025-08-01)
+- [[【广东省发展和改革委员会 - 广东省成品油流通管理条例】-广东省发展和改革委员会-6416d7e9|P_2024_GD_6416d7e9]] — 广东省发展和改革委员会 - 广东省成品油流通管理条例 (2024-09-26)
+
