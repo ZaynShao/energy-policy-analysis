@@ -4,7 +4,7 @@ primary_theme: ''
 comprehensive: false
 scores:
   D1: 0
-  D2: 0
+  D2: 1
   D3: 0
   D4: 0
   D5: 0
@@ -14,7 +14,7 @@ scores:
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【车轮上的新河南——河南新能源汽车突围记 - 河南省发展和改革委员会】-河南省发展和改革委员会-cb386c18.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

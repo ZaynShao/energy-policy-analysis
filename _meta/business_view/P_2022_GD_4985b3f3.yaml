@@ -1,20 +1,32 @@
 pid: P_2022_GD_4985b3f3
-themes: []
-primary_theme: ''
-comprehensive: true
+themes:
+- gas_station_transition_theme
+primary_theme: gas_station_transition_theme
+comprehensive: false
 scores:
-  D1: 3
-  D2: 3
-  D3: 4
-  D4: 3
-  D5: 4
+  D1: 2
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
   D6: 3
-重要性: 3
-行动分类: C
+重要性: 2
+行动分类: D
 价值标签:
 - 趋势
+影响分析:
+  加油: 直接涉及。政策明确推进燃料电池汽车示范城市群建设，'十四五'期间全省布局建设300座加氢站，明确替代能源补给站加速布局。现有加油站网络面临向综合能源站（含加氢功能）转型的竞争压力与政策导向。
+  充电: 未直接涉及。政策聚焦氢燃料电池汽车产业链，不涉及电动汽车充电设施建设、运营或补贴内容。
+  电力_储能_V2G_交易: 未直接涉及。政策目标为燃料电池汽车推广与加氢站建设，未涉及储能、虚拟电厂、V2G或电力交易机制。
+行动建议:
+- A 趁早:将部分核心加油站纳入综合能源站改造试点论证，预留加氢功能接口，响应城市群产业创新走廊规划
+- B 研究:跟踪广州、深圳、佛山等引擎城市加氢站具体选址与特许经营政策，评估现有站网竞争替代风险
+- C 趁早:对接省发展改革委'一事一议'重大产业链项目支持政策，探索参与燃料电池关键零部件或制氢设备领域
+- D 研究:关注'车用氢气终端售价降到30元/公斤以下'目标对氢燃料汽车经济性拐点的预判时点，调整中长期能源结构规划
+didi_impact_one_liner: 广东加速布局300座加氢站、推广1万辆燃料电池汽车，加油站向综合能源站转型压力与机遇并存，需趁早布局加氢或制氢能力以应对替代能源补给网络竞争
 sanitized_from: 0_raw/policies/【广东省发展和改革委员会 - 关于印发《广东省加快建设燃料电池汽车示范城市群行动计划（2022-2025年）》的通知(粤发改产业〔2022〕345号)】-广东省发展和改革委员会-4985b3f3.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: false
+gate_passed_deep: true
+archive: low_score

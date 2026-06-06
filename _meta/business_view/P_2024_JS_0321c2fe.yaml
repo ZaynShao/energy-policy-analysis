@@ -1,0 +1,31 @@
+pid: P_2024_JS_0321c2fe
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: true
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 正文提到推动老旧长输油气输送管道淘汰更新，属于管道基础设施更新范畴，加油站终端设备未直接涉及。该政策通过管道更新改造可能对油气供应链效率产生间接影响。
+  充电: 未直接涉及充电桩、充换电站或新能源汽车充电基础设施的具体更新改造内容。虽有多领域设备更新框架，但充电业务未被正文明确列为更新改造对象。
+  电力_储能_V2G_交易: 正文明确列出实施一批燃机、光伏、储能等清洁电源替代项目，并对电网配电网和农村电网设备线路改造和智能化升级，为储能项目提供了设施更新层面的政策支撑环境。电力交易、V2G未在正文中出现等价机制或明确表述。
+行动建议:
+- 趁早:跟踪电网配电网智能化改造进程,寻找储能项目接入配电网络的合作机会
+- 趁早:对接南京市清洁电源替代项目清单发布,梳理储能业务参与路径
+- 研究:关注老旧油气管道更新改造对区域油气供应格局的影响
+- 研究:持续监测政策扩展至充电基础设施领域的可能性
+didi_impact_one_liner: 储能项目获政策明确支持,趁早布局电网智能化改造中的储能接入机会
+sanitized_from: 0_raw/policies/【中共南京市委 南京市人民政府】-政府门户.www.nanjing.gov.cn-0321c2fe.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

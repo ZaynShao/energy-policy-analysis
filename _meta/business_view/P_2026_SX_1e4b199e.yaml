@@ -1,30 +1,21 @@
 pid: P_2026_SX_1e4b199e
-themes:
-- equipment_renewal_theme
-primary_theme: equipment_renewal_theme
-comprehensive: true
+themes: []
+primary_theme: ''
+comprehensive: false
 scores:
-  D1: 3
-  D2: 2
-  D3: 4
-  D4: 2
+  D1: 0
+  D2: 1
+  D3: 5
+  D4: 3
   D5: 2
   D6: 2
-重要性: 3
+重要性: 1
 行动分类: D
 价值标签:
-- 机会
-影响分析:
-  加油: 未直接涉及。正文提及大规模设备更新和消费品以旧换新政策加力扩围，但主要聚焦于设备更新资金2000亿元、消费品以旧换新资金3000亿元带动相关投资和销售额，未明确提及加油站设备更新或油品消费刺激。
-  充电: 正文提及2025年新能源汽车销量增长28.2%，反映新能源车市场持续扩张，这将对充电需求形成正向拉动，但未直接写充电基础设施建设、运营或补贴政策。
-  电力_储能_V2G_交易: 未直接涉及。正文虽涉及大规模设备更新和政策金融工具支持重点项目建设，但未明确提及储能、虚拟电厂(VPP)、V2G或电力交易机制。
-行动建议:
-- A 趁早:研究大规模设备更新政策对本业务板块的适用性，梳理加油站/充电站设备是否在17个设备更新领域实施细则覆盖范围内。
-- B 趁早:跟踪2026年计划草案中设备更新和消费品以旧换新政策扩围方向，提前布局充电设施更新改造申请。
-- C 研究:密切跟踪后续发布的设备更新实施细则具体领域清单，评估与现有业务设施的匹配度。
-didi_impact_one_liner: 政策聚焦大规模设备更新和以旧换新，新能源车销量增长28.2%利好充电需求，但三业务均无直接政策支持，需主动研究设备更新清单寻找机会。
+- 趋势
 sanitized_from: 0_raw/policies/【关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告（摘要）-山西省发改委门户网站】-山西省发展和改革委员会-1e4b199e.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: true
+gate_passed_deep: false
+archive: low_score

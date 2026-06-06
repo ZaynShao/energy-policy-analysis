@@ -1,32 +1,21 @@
 pid: P_2022_HI_b04ccb3c
-themes:
-- energy_storage_theme
-primary_theme: energy_storage_theme
+themes: []
+primary_theme: ''
 comprehensive: false
 scores:
-  D1: 3
-  D2: 2
-  D3: 2
-  D4: 3
-  D5: 4
-  D6: 3
-重要性: 2
-行动分类: C
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
 价值标签:
-- 机会
-影响分析:
-  加油: 未直接涉及。本通知为新型储能规划研究课题遴选文件，研究内容聚焦储能发展方向与商业模式，不涉及加油站或成品油相关业务。
-  充电: 未直接涉及。虽然研究范围涵盖源网荷三侧电力系统，但本通知仅是规划研究课题的遴选公告，不直接涉及充电基础设施建设或运营政策。
-  电力_储能_V2G_交易: 直接涉及。通知明确以新型储能规划为研究对象，研究内容涵盖储能的发展方向、发展原则、发展规模、全省布局、发展时序、商业模式，并强调落实国家新型储能发展指导意见，为后续储能项目落地提供规划依据。
-行动建议:
-- A 趁早研判:密切跟踪海南省新型储能规划研究成果发布，提前评估对本公司储能业务布局的影响半径
-- B 研究:深入分析课题研究中提出的储能商业模式方向，为后续业务对接蓄备策略
-- C 趁早对接:关注海南省储能规划发布后的具体项目清单和布局时序，寻找合作切入点
-- D 研究:梳理财委能源规〔2021〕1051号与本省规划的承接关系，识别政策叠加机遇
-didi_impact_one_liner: 省级储能规划研究课题启动，为后续储能项目建设规模和商业模式定调，需提前布局研究跟进与机会捕捉
+- 趋势
 sanitized_from: 0_raw/policies/【海南省发展和改革委员会关于遴选《海南省“十四五”新型储能规划研究 ...】-海南省发展和改革委员会-b04ccb3c.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: true
+gate_passed_deep: false
 archive: low_score

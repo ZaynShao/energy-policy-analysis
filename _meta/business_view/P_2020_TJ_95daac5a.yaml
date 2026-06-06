@@ -7,14 +7,14 @@ scores:
   D2: 1
   D3: 2
   D4: 1
-  D5: 2
-  D6: 2
+  D5: 1
+  D6: 1
 重要性: 1
 行动分类: D
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【市发展改革委关于印发天津市价格及收费改革“十三五”规划的通知_委 ...(津发改规划〔2016〕561号)】-天津市发展和改革委员会-95daac5a.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

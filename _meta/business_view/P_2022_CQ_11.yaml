@@ -1,0 +1,21 @@
+pid: P_2022_CQ_11
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【黔江区能源保障十四五规划(黔江府办发〔2022〕11号)】-重庆市黔江区人民政府办公室-95c3.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

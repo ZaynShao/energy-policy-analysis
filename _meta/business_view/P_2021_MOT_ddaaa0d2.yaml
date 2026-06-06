@@ -1,0 +1,21 @@
+pid: P_2021_MOT_ddaaa0d2
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 4
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【“十四五”交通运输发展规划-中华人民共和国交通运输部】-政府门户.www.mot.gov.cn-ddaaa0d2.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

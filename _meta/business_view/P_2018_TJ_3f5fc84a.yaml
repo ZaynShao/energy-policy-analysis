@@ -1,31 +1,21 @@
 pid: P_2018_TJ_3f5fc84a
-themes:
-- power_market
-- distribution_grid_opening
-primary_theme: power_market
+themes: []
+primary_theme: ''
 comprehensive: false
 scores:
   D1: 2
-  D2: 2
+  D2: 3
   D3: 2
-  D4: 2
-  D5: 4
+  D4: 1
+  D5: 3
   D6: 1
 重要性: 2
 行动分类: D
 价值标签:
-- 机会
-影响分析:
-  加油: 未直接涉及。该文件针对一般工商业电价调整，明确大工业、居民和农业用电价格不作调整，加油业务不属于直接调整对象。
-  充电: 未直接涉及。该文件电价调整对象为一般工商业及其他用电，不涉及充电服务定价机制，也未提及新能源汽车充电相关内容。
-  电力_储能_V2G_交易: 未直接涉及。该文件主要针对一般工商业电价降价和转供电规范，虽提及自备电厂系统备用费政策，但未涉及储能、V2G、虚拟电厂或电力交易机制。
-行动建议:
-- A 趁早研究两部制电价灵活性政策：关注用户可选择按实际最大需量计费的政策窗口，为后续可能的电价计费方式优化做好准备。
-- B 趁早梳理转供电用户清单：文件明确规范转供电加价行为并要求公示分摊清单，应提前排查是否存在转供电场景，评估受影响程度。
-didi_impact_one_liner: 本政策为一般工商业电价降价措施，未直接涉及加油、充电及储能V2G电力交易业务，主要影响产业园区和商业综合体的转供电收费规范。
+- 趋势
 sanitized_from: 0_raw/policies/【天津市发展和改革委员会(发改价格〔2018〕500号)】-天津市发展和改革委员会-3f5fc84a.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: true
+gate_passed_deep: false
 archive: low_score

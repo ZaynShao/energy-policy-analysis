@@ -1,21 +1,30 @@
 pid: P_2024_GZ_03841527
-themes: []
-primary_theme: ''
-comprehensive: false
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: true
 scores:
-  D1: 0
-  D2: 1
+  D1: 4
+  D2: 3
   D3: 2
-  D4: 1
-  D5: 1
-  D6: 1
-重要性: 1
-行动分类: D
+  D4: 4
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: B
 价值标签:
-- 趋势
+- 机会
+影响分析:
+  加油: 未直接涉及。报告聚焦新型综合能源基地、煤炭、燃煤发电、新能源电池材料及动力电池产业，未提及加油业务相关内容。
+  充电: 未直接涉及。报告提及"电动贵州"建设和新能源汽车产业链集群发展，但仅围绕电池材料、动力电池到新能源汽车的生产制造展开，未明确涉及充电基础设施建设或运营服务内容。
+  电力_储能_V2G_交易: 直接利好储能。报告明确：①195万千瓦新型储能示范项目已并网运行；②开工建设贵阳、黔南抽水蓄能电站；③新型综合能源基地建设持续推进。这些项目落地为储能投资运营创造实质性市场空间。V2G、电力交易机制未在报告中出现。
+行动建议:
+- A 趁早对接贵州省新型储能示范项目业主单位，探索储能项目投资合作或资产运营机会
+- B 研究抽水蓄能电站建设进度与并网时序，提前布局储能调峰资源整合业务
+- C 趁早对接贵州省级能源集团，了解新型综合能源基地中储能配套需求
+didi_impact_one_liner: 贵州明确195万千瓦储能示范项目并网、抽水蓄能开工，储能规模化建设进入实质推进阶段。
 sanitized_from: 0_raw/policies/【2024年贵州省政府工作报告（全文）】-贵州省发展和改革委员会-03841527.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: false
-archive: low_score
+gate_passed_deep: true

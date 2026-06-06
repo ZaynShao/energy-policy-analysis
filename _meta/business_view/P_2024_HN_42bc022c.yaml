@@ -1,0 +1,20 @@
+pid: P_2024_HN_42bc022c
+themes: []
+primary_theme: ''
+comprehensive: true
+scores:
+  D1: 4
+  D2: 2
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【关于印发《湖南省锂电池及先进储能材料产业三年行动计划（2024—2026年）》的通知 - 湖南省工业和信息化厅(湘工信原材料〔2024〕213号)】-政府门户.gxt.hunan.gov.cn-42bc022c.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false

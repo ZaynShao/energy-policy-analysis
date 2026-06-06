@@ -1,0 +1,34 @@
+pid: P_2022_JS_68e2ddd3
+themes:
+- residential_charging
+- charging_infra
+- distribution_grid_opening
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 5
+  D5: 4
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+- 壁垒
+影响分析:
+  加油: 未直接涉及。本办法聚焦居民区电动汽车充电基础设施，与加油站业务无直接关联。
+  充电: 直接利好。新建居民区100%预留安装条件、20%配建率，释放规模化建设需求；既有居民区申请流程标准化（3+5工作日），破解物业阻挠痛点，缩短建设周期。
+  电力_储能_V2G_交易: 未直接涉及。本办法聚焦充电基础设施建设安装，虽明确有序充电功能要求（错峰充电），但未涉及储能、V2G、电力交易或虚拟电厂等机制。
+行动建议:
+- A 趁早研究:针对新建居民区100%预留+20%配建的政策要求，重新评估区域市场容量，锁定重点开发地块，提前布局配套电力容量规划。
+- B 趁早对接:主动联系国网南京供电公司及区级住建、规划部门，建立信息共享通道，及时获取新建居民区项目立项信息。
+- C 趁早介入:借鉴新建标准优化既有居民区充电桩安装服务方案，重点服务流程合规性和时效管理，提升存量市场竞争力。
+- D 研究:关注有序充电功能技术标准，预判其向有序充电运营延伸的政策可能性，储备相关技术能力。
+didi_impact_one_liner: 南京新建居民区强制配建20%充电桩且100%预留条件，简化既有小区安装流程，释放规模化建设需求。
+sanitized_from: 0_raw/policies/【关于印发《南京市居民区电动汽车充电基础设施建设管理办法》的通知】-政府门户.jtj.nanjing.gov.cn-68e2ddd3.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

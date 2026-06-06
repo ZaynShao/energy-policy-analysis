@@ -14,7 +14,7 @@ scores:
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【《关于新形势下配电网高质量发展的指导意见》 政策解读-陕西省发改委】-陕西省发展和改革委员会-6ad9c2a8.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

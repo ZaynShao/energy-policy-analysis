@@ -1,20 +1,20 @@
 pid: P_2021_FJ_d8cdf3d5
 themes: []
 primary_theme: ''
-comprehensive: true
+comprehensive: false
 scores:
-  D1: 0
+  D1: 1
   D2: 1
   D3: 2
   D4: 2
-  D5: 2
+  D5: 1
   D6: 1
 重要性: 1
 行动分类: D
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【福建省人民政府关于印发福建省“十四五”制造业高质量发展专项规划的 ...】-福建省发展和改革委员会-d8cdf3d5.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

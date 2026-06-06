@@ -1,0 +1,30 @@
+pid: P_2025_GX_db65ac0c
+themes:
+- distribution_grid_opening
+primary_theme: distribution_grid_opening
+comprehensive: false
+scores:
+  D1: 3
+  D2: 4
+  D3: 2
+  D4: 3
+  D5: 4
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 已备案的新型储能项目（110千伏及以上）配套送出工程可自动纳入自治区电网规划,无需单独申请纳规,可同步开展核准工作。该政策直接简化了储能项目电力送出工程的规划审批流程,加速项目落地。并网效率提升。
+行动建议:
+- 趁早:对已备案的储能项目,立即梳理配套送出工程建设计划,主动对接电网企业,利用自动纳规窗口期同步推进核准
+- 趁早:110千伏及以上新建储能项目,在备案阶段即同步启动配套送出工程可研,压缩整体并网周期
+- 研究:持续跟踪自治区能源领域各专项规划更新,关注后续是否出台配套送出工程的建设时序或技术标准要求
+didi_impact_one_liner: 储能项目配套送出工程自动纳规政策落地,大幅简化并网审批环节,建议趁早启动配套送出工程前期工作。
+sanitized_from: 0_raw/policies/【对于尚未纳入电网规划的新能源企业自行建设的配套电力送出工程】-广西壮族自治区发展和改革委员会-db65ac0c.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true

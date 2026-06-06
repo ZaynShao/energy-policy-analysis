@@ -6,15 +6,15 @@ scores:
   D1: 1
   D2: 1
   D3: 5
-  D4: 1
+  D4: 3
   D5: 1
-  D6: 1
+  D6: 2
 重要性: 2
 行动分类: D
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【2024年中央一号文件（全文） - 七一客户端】-政府门户.m.12371.gov.cn-190327fb.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

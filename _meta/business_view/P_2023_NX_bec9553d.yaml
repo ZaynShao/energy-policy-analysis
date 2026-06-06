@@ -1,0 +1,21 @@
+pid: P_2023_NX_bec9553d
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 2
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【自治区发展改革委关于切实加强电力安全风险防范工作的通知(宁发改运行〔2023〕410号)】-宁夏回族自治区发展和改革委员会-bec9553d.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

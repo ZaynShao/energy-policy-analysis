@@ -3,19 +3,18 @@ themes: []
 primary_theme: ''
 comprehensive: false
 scores:
-  D1: 1
-  D2: 3
-  D3: 3
-  D4: 4
+  D1: 4
+  D2: 5
+  D3: 2
+  D4: 5
   D5: 5
-  D6: 4
-重要性: 2
+  D6: 3
+重要性: 4
 行动分类: A
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【北京市商務局關於印發《北京市2026年家電以舊換新、數位和智慧産品購新補貼實施細則》的通知_政策文件_首都之窗_北京市人民政府門戶網站】-北京市人民政府-9c711758.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false
-archive: low_score

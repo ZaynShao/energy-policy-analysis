@@ -1,21 +1,33 @@
 pid: P_2025_GD_399ed9f5
-themes: []
-primary_theme: ''
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
 comprehensive: false
 scores:
-  D1: 1
-  D2: 1
+  D1: 2
+  D2: 2
   D3: 2
   D4: 5
   D5: 1
   D6: 1
-重要性: 1
+重要性: 2
 行动分类: C
 价值标签:
-- 趋势
+- 合规
+影响分析:
+  加油: 直接涉及。本次政策系依据国家成品油价格形成机制下调广东省汽、柴油零售最高销售价格（汽油降265元/吨、柴油降255元/吨），直接影响加油站零售定价及利润空间。
+  充电: 未直接涉及。本文件仅涉及汽、柴油价格调整，未涉及新能源汽车充电服务定价或充电基础设施。
+  电力_储能_V2G_交易: 未直接涉及。文件仅针对成品油（汽油、柴油）价格调整，未涉及电力交易、储能、虚拟电厂或V2G机制。
+行动建议:
+- 趁早：更新加油站零售定价系统及内部调价流程，确保10月27日24时后按新最高零售限价执行，避免合规风险。
+- 趁早：核算本次调价对库存油品的成本影响，评估短期利润压缩程度，提前调整采购与库存策略。
+- 趁早：梳理现行油价联动机制条款，比对调价频率与幅度，做好后续常规调价的常态化应对预案。
+- 研究：跟踪国际油价走势及国家机制后续调整信号，结合广东省油价水平研判中短期内是否存在回涨压力。
+- 研究：分析本次调价对区域内终端用油需求（物流、工矿等）的潜在影响，评估对加油业务量的间接传导。
+didi_impact_one_liner: 广东汽柴油最高零售价下调，加油站趁早更新定价系统并评估利润压缩。
 sanitized_from: 0_raw/policies/【广东省发展和改革委员会 - 2025年10月27日24时起成品油价格按机制调整】-广东省发展和改革委员会-399ed9f5.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: false
+gate_passed_deep: true
 archive: low_score

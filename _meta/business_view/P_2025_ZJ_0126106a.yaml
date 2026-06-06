@@ -1,0 +1,30 @@
+pid: P_2025_ZJ_0126106a
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 3
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。该细则是消费品以旧换新补贴实施细则，虽可能间接影响燃油汽车更新需求，但正文节选未含汽车以旧换新具体条款。
+  充电: 未直接涉及。标题及正文节选未出现新能源汽车、充电桩或充换电设施相关内容。
+  电力_储能_V2G_交易: 未直接涉及。该政策聚焦消费品以旧换新补贴，未涉及储能、虚拟电厂、V2G或电力交易机制。
+行动建议:
+- A 趁早:鉴于本政策已标注'已废止',趁早排查本地同类消费品以旧换新补贴是否存续或已替换,避免援引已失效政策版本。
+- B 研究:研究后续替代性补贴政策方向(尤其汽车或家电板块),评估对油品需求侧的间接传导影响。
+didi_impact_one_liner: 已废止的省级消费品以旧换新补贴细则,重要性仅2分,对加油/充电/电力三大业务无直接关联,建议排查后续政策接续情况。
+sanitized_from: 0_raw/policies/【2025年浙江省消费品以旧换新补贴实施细则(已废止)】-浙江省商务厅等6部门-da81.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: true
+archive: low_score

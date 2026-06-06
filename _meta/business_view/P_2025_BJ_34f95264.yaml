@@ -1,35 +1,21 @@
 pid: P_2025_BJ_34f95264
-themes:
-- vpp_theme
-- green_power_trading_theme
-- distribution_grid_opening
-- aggregator_access
-primary_theme: vpp_theme
-comprehensive: true
+themes: []
+primary_theme: ''
+comprehensive: false
 scores:
-  D1: 3
-  D2: 2
+  D1: 1
+  D2: 1
   D3: 2
   D4: 1
-  D5: 2
-  D6: 2
-重要性: 2
+  D5: 1
+  D6: 1
+重要性: 1
 行动分类: D
 价值标签:
-- 机会
-影响分析:
-  加油: 未直接涉及。正文聚焦天然气、电能等清洁能源结构优化，未涉及车用燃油业务调整或监管变化。
-  充电: 未直接涉及。正文仅提及华商三优的充电桩自动化检测流水线获日内瓦发明金奖，属于技术成果展示，未涉及充电桩建设、市场准入、运营补贴或V2G机制。
-  电力_储能_V2G_交易: 直接涉及。①明确提出发展"虚拟电厂""负荷聚合商"等新业态；②绿电占比已达29.3%并持续提升；③明确加强氢能、储能等产业创新发展；④依托北京国家绿色技术交易中心提供技术评价推广服务；⑤设立百亿级绿色能源和低碳产业投资基金。
-行动建议:
-- 趁早研究虚拟电厂和负荷聚合商政策框架：政策明确将其列为新业态发展方向，业务团队应趁早对标北京标准提前布局。
-- 趁早研究参与北京绿电交易机制路径：绿电占比29.3%且持续提升，结合国家绿色技术交易中心平台，趁早探索绿电采购和交易模式。
-- 趁早对接储能产业创新发展机会：政策明确加强储能产业创新，百亿级基金提供资金支撑，趁早了解技术评价和融资对接渠道。
-- 趁早跟进充电桩自动化检测技术标准：华商三优获奖技术具有行业示范效应，趁早研究相关技术标准以保持行业同步。
-didi_impact_one_liner: 北京明确推进虚拟电厂和负荷聚合商等新业态，绿电交易比例提升至29.3%，储能产业获百亿基金支持，为公司参与北京能源互联网和绿电交易提供窗口机遇。
+- 趋势
 sanitized_from: 0_raw/policies/【北京能源结构实现历史性优化-报纸网络-北京市发展和改革委员会】-北京市发展和改革委员会-34f95264.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: true
+gate_passed_deep: false
 archive: low_score

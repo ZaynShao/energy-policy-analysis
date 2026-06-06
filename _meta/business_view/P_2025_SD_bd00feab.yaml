@@ -1,21 +1,30 @@
 pid: P_2025_SD_bd00feab
-themes: []
-primary_theme: ''
+themes:
+- power_market
+primary_theme: power_market
 comprehensive: false
 scores:
-  D1: 0
-  D2: 0
-  D3: 0
-  D4: 0
-  D5: 0
-  D6: 0
-重要性: 0
+  D1: 3
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 2
 行动分类: D
 价值标签:
-- 趋势
+- 机会
+影响分析:
+  加油: 未直接涉及。该活动聚焦电力市场体系建设与党建融合，正文未提及加油业务、成品油市场或相关改革举措。
+  充电: 未直接涉及。正文虽提及山东电力市场运营体系和用户侧改革，但未明确涉及充电桩、充换电基础设施或新能源汽车充电市场准入、价格机制与运营规则。
+  电力_储能_V2G_交易: 直接相关。正文明确聚焦山东省全国统一电力市场体系建设，重点包括市场规则制度体系、基本框架、特色交易机制、两级市场衔接，以及打造全国主体类型最全、要素最完整的电力市场。储能作为市场主体类型、电力交易作为核心机制，均属该市场体系建设的直接覆盖范围，理论上参与规则和交易品种将受省级示范建设影响。
+行动建议:
+- A 趁早摸清山东电力市场主体注册条件及储能、售电等主体准入路径，储备入市能力
+- B 研究山东省电力市场规则体系6个"省级示范"方向的细化内容，识别储能、批发用户等主体在市场中的角色定位与参与机会
+didi_impact_one_liner: 山东电力市场"省级示范"建设加速推进，储能及售电主体须趁早研究市场准入与交易机制，窗口期布局入市通道。
 sanitized_from: 0_raw/policies/【省能源局电力处、国网山东电力发展策划部党支部联合开展“党建赋能 ...】-山东省发展和改革委员会-bd00feab.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: false
+gate_passed_deep: true
 archive: low_score

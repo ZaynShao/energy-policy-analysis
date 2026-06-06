@@ -1,21 +1,31 @@
 pid: P_2023_SD_0a818b21
-themes: []
-primary_theme: ''
+themes:
+- gas_station_transition_theme
+primary_theme: gas_station_transition_theme
 comprehensive: false
 scores:
   D1: 2
   D2: 1
   D3: 2
-  D4: 0
-  D5: 0
-  D6: 0
+  D4: 2
+  D5: 1
+  D6: 2
 重要性: 2
 行动分类: D
 价值标签:
 - 趋势
+影响分析:
+  加油: 正面。油气回收系统安装为强制合规要求，93%安装率意味着大部分加油站已完成三次回收改造；系统可将挥发油气转化为汽油销售，带来增收效益；省级帮扶检查171家、市级监督检查7890家的监管力度表明合规压力持续存在。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 对照93%三次回收安装率审视自身合规水位，对未达标站制定改造计划'
+- 'B 趁早: 研判油气回收在线监控联网趋势，年汽油销售3000吨以上的加油站趁早布局联网能力'
+- 'C 研究: 关注后续油气排放标准趋严动向，提前评估改造投入与油气回收收益的经济账'
+didi_impact_one_liner: 加油站三次油气回收安装率达93%，合规完成带来增收并面临持续监管，合规加油站受益于政策支持。
 sanitized_from: 0_raw/policies/【我省加油站三次油气回收系统安装率达93% - 山东省发展和改革委员会】-山东省发展和改革委员会-0a818b21.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: false
+gate_passed_deep: true
 archive: low_score

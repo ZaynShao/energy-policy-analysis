@@ -1,21 +1,31 @@
 pid: P_2025_NX_f2592a7e
-themes: []
-primary_theme: ''
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
 comprehensive: false
 scores:
-  D1: 1
-  D2: 1
-  D3: 3
+  D1: 2
+  D2: 2
+  D3: 2
   D4: 5
   D5: 1
   D6: 1
-重要性: 1
+重要性: 2
 行动分类: C
 价值标签:
-- 趋势
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 本通知废止了两个储能领域关键文件——《关于加快促进储能健康有序发展的通知》和《关于开展2022年新型储能项目试点工作的通知》。这两份文件分别涉及储能产业整体发展和新型储能试点项目实施规则。废止后，原文件赋予的储能项目备案依据、试点项目安排及相应管理机制已失去效力，相关企业需等待新政策衔接。
+行动建议:
+- A 趁早:密切跟踪自治区后续出台的储能新政策文本，及时掌握替代性管理规则的框架与要求
+- B 趁早:对正在推进的储能项目重新梳理合规性，必要时与主管部门确认现行阶段的备案或审批状态是否仍然有效
+- B 研究:废止的试点通知涉及2022年新型储能项目试点，若企业有相关项目在宁夏落地，需评估试点资格的后续效力及可能的政策过渡安排
+didi_impact_one_liner: 宁夏废止储能旧规文件，储能企业需待新政策衔接，重点关注后续替代性规则出台及现有项目合规性梳理。
 sanitized_from: 0_raw/policies/【通知公告 - 长者版-宁夏回族自治区发展和改革委员会(宁发改新能源〔2025〕459号)】-宁夏回族自治区发展和改革委员会-f2592a7e.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: false
+gate_passed_deep: true
 archive: low_score

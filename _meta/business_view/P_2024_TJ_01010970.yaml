@@ -1,0 +1,21 @@
+pid: P_2024_TJ_01010970
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【天津市电动汽车充电设施服务能力「质效双增」实施方案】-天津市发展和改革委员会等-daf7.md
+extracted_at: '2026-06-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: MiniMax-M2.7-highspeed
+gate_passed_deep: false
+archive: low_score

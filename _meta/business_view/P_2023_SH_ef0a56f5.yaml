@@ -3,18 +3,18 @@ themes: []
 primary_theme: ''
 comprehensive: false
 scores:
-  D1: 1
+  D1: 0
   D2: 1
   D3: 2
-  D4: 2
-  D5: 5
-  D6: 1
+  D4: 0
+  D5: 0
+  D6: 0
 重要性: 1
 行动分类: D
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【上海市发展和改革委员会关于车用汽、柴油价格的通知（2023年12月 ...(沪发改价管〔2023〕62号)】-上海市发展和改革委员会-ef0a56f5.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

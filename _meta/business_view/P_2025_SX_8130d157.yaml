@@ -1,21 +1,32 @@
 pid: P_2025_SX_8130d157
-themes: []
-primary_theme: ''
-comprehensive: false
+themes:
+- equipment_renewal_theme
+- green_power_trading_theme
+primary_theme: equipment_renewal_theme
+comprehensive: true
 scores:
-  D1: 1
-  D2: 1
-  D3: 3
-  D4: 1
+  D1: 3
+  D2: 2
+  D3: 5
+  D4: 2
   D5: 1
-  D6: 1
-重要性: 1
+  D6: 2
+重要性: 3
 行动分类: D
 价值标签:
-- 趋势
+- 机会
+影响分析:
+  加油: 设备更新政策（'两新'工作）可能推动加油站设备升级改造需求，3000亿元超长期特别国债支持设备更新，但政策未明确提及加油站具体改造要求或补贴，属于间接影响。新能源汽车销量增长35.5%显示能源消费结构变化趋势。
+  充电: 新能源汽车销量达1287万辆、增长35.5%，直接扩大充电市场增量空间。'两新'政策支持设备更新，充电基础设施更新改造有望受益。绿证绿电市场建设推进为充电站采购绿电提供市场渠道，但未明确充电与绿电交易的直接联动机制。
+  电力_储能_V2G_交易: 绿证绿电市场建设获政策明确推进，电力交易市场化改革持续深化。设备更新政策可能涉及电力行业相关设施。全文未直接出现储能、V2G、虚拟电厂(VPP)、聚合商或电力辅助服务等具体机制或量化指标，相关业务未直接涉及。
+行动建议:
+- A 趁早布局充电桩更新改造，结合'两新'政策窗口申请设备更新补贴，提升充电设施效率
+- B 研究绿电采购策略，探索充电站与绿证绿电市场的对接路径，提前锁定清洁能源供应成本
+- C 关注'两重'建设中的能源基础设施项目配套机会，跟踪后续项目清单和申报要求
+- D 研究新能源车高增长对油品需求的长期替代影响，评估加油站转型充电的可行性
+didi_impact_one_liner: 新能源汽车35.5%增速扩大充电市场，绿证绿电市场建设推进为清洁能源采购提供渠道，'两新'政策覆盖充电设施更新，但储能/V2G/虚拟电厂未直接涉及
 sanitized_from: 0_raw/policies/【关于2024年国民经济和社会发展计划执行情况与2025年国民经济和 ...】-山西省发展和改革委员会-8130d157.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: false
-archive: low_score
+gate_passed_deep: true

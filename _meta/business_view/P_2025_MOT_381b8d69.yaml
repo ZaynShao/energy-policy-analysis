@@ -3,18 +3,18 @@ themes: []
 primary_theme: ''
 comprehensive: false
 scores:
-  D1: 0
+  D1: 1
   D2: 1
-  D3: 3
-  D4: 2
+  D3: 4
+  D4: 5
   D5: 4
-  D6: 2
-重要性: 1
-行动分类: D
+  D6: 1
+重要性: 2
+行动分类: B
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【车辆运输车;专项整治;行动方案 - 交通运输部】-政府门户.xxgk.mot.gov.cn-381b8d69.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

@@ -14,7 +14,7 @@ scores:
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【贵港市发改委公示2024 年新能源项目相关竞争性配置评分结果】-未知机构-6b9f90df.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false

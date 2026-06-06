@@ -1,30 +1,21 @@
 pid: P_2024_QH_2457693a
-themes:
-- power_market
-primary_theme: power_market
+themes: []
+primary_theme: ''
 comprehensive: false
 scores:
-  D1: 1
+  D1: 2
   D2: 1
   D3: 2
   D4: 1
   D5: 1
   D6: 1
-重要性: 1
+重要性: 2
 行动分类: D
 价值标签:
-- 机会
-影响分析:
-  加油: 未直接涉及。该文件为青海省电力市场化交易月度数据报告，仅统计电力市场主体及交易电量，不涉及油气零售业务。
-  充电: 未直接涉及。文件虽提及688家电力用户，但属于电力市场注册主体统计，未明确指向充电服务运营或充电桩建设等具体充电业务。
-  电力_储能_V2G_交易: 直接涉及。文件明确记录独立储能企业3家（同比+100%）、辅助服务聚合商10家（同比+100%）的注册增长数据，以及省内交易结算、跨省外送、外购电量的具体数值，为储能/聚合商参与青海电力市场的规模参考。
-行动建议:
-- A 趁早:趁早建立青海电力市场动态追踪机制，将独立储能企业、辅助服务聚合商数量变化及交易电量波动纳入季度监测指标。
-- B 研究:研究青海跨省跨区外送电量增长86.4%背后的通道消纳逻辑,评估对本公司储能/VPP参与省间辅助服务的可行性。
-didi_impact_one_liner: 青海储能及聚合商主体翻倍增长、省间外送电量激增,反映新型主体市场参与度提升,电力交易类业务存在潜在机会。
+- 趋势
 sanitized_from: 0_raw/policies/【2024年6月份电力市场化交易电量情况】-青海省发展和改革委员会-2457693a.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
-gate_passed_deep: true
+gate_passed_deep: false
 archive: low_score

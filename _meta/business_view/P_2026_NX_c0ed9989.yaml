@@ -1,12 +1,12 @@
 pid: P_2026_NX_c0ed9989
 themes: []
 primary_theme: ''
-comprehensive: false
+comprehensive: true
 scores:
   D1: 2
   D2: 2
   D3: 2
-  D4: 2
+  D4: 3
   D5: 2
   D6: 2
 重要性: 2
@@ -14,7 +14,7 @@ scores:
 价值标签:
 - 趋势
 sanitized_from: 0_raw/policies/【银川市人民政府办公室关于印发《银川市关于加快新型工业化推动制造业高质量发展实施方案（2026—2028年）》的通知-银川市人民政府门户网站】-政府门户.www.yinchuan.gov.cn-c0ed9989.md
-extracted_at: '2026-06-05'
+extracted_at: '2026-06-06'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: MiniMax-M2.7-highspeed
 gate_passed_deep: false
