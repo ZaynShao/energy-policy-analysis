@@ -1,0 +1,29 @@
+pid: P_2026_HB_X_7659689a
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 1
+  D4: 3
+  D5: 4
+  D6: 3
+重要性: 4
+行动分类: C
+价值标签:
+- 合规
+影响分析:
+  加油: 直接影响：该细则针对湖北省成品油流通管理，加油业务需符合新的管理办法实施细则，包括合规经营、资质要求等。具体条款需待正文详细解读。
+  充电: 未直接涉及。但间接而言，成品油管理规范可能影响加油站增设充电设施的空间布局或审批流程。
+  电力_储能_V2G_交易: 未直接涉及。无任何与电力、储能、V2G、虚拟电厂或电力交易相关的内容。
+行动建议:
+- A 趁早：全面梳理湖北省加油业务现有合规文件，比对细则要求，确保经营资质、油品来源、安全环保等符合新规。
+- B 研究：若加油站计划转型综合能源站，需结合细则中的空间布局与审批要求，提前规划充电或储能设施衔接路径。
+didi_impact_one_liner: 该细则仅规范湖北成品油零售合规，对充电及电力业务无直接业务影响，但加油站多业态布局需留意管理衔接。
+sanitized_from: 0_raw/policies/湖北省成品油流通管理办法实施细则2026-06-09.md
+extracted_at: '2026-06-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

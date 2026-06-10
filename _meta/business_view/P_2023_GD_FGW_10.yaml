@@ -1,0 +1,29 @@
+pid: P_2023_GD_FGW_10
+themes:
+- charging_infra
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 1
+  D4: 3
+  D5: 4
+  D6: 3
+重要性: 4
+行动分类: C
+价值标签:
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 直接涉及——深圳市新能源汽车充换电设施管理办法对充电设施的规划、建设、运营等提出管理要求，直接影响充电业务在深圳市的准入、合规及运营方式。
+  电力_储能_V2G_交易: 未直接涉及（正文节选未提及储能、V2G或电力交易具体机制，间接观察：充电设施管理办法可能为未来V2G等提供管理基础，但无直接业务影响）
+行动建议:
+- 趁早 梳理深圳市充换电设施管理办法全文，对照现有深圳充电站/桩的合规状况，确保运营许可、安全标准、数据接入等要求已满足。
+- 研究 政策中关于充电设施运营商的权利义务条款，提前规划在深圳新增或改造充电网络的布局与投资节奏。
+didi_impact_one_liner: 深圳市出台充电设施管理办法，直接规范充电业务本地运营合规，对加油与储能V2G业务无直接影响。
+sanitized_from: 0_raw/policies/【规范性文件查询】深圳市发展和改革委员会关于印发《深圳市新能源汽车充换电设施管理办法》的通知.md
+extracted_at: '2026-06-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

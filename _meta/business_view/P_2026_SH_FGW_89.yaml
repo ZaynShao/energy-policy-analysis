@@ -1,0 +1,22 @@
+pid: P_2026_SH_FGW_89
+themes:
+- carbon_market_theme
+primary_theme: carbon_market_theme
+comprehensive: false
+scores:
+  D1: 2
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 5
+  D6: 1
+重要性: 2
+行动分类: B
+价值标签:
+- 合规
+sanitized_from: 0_raw/policies/关于组织开展2025年度上海市重点单位报送能源利用状况报告和温室气体排放报告以及能耗、碳排放总量和强度双控目标评价考核等相关工作的通知.md
+extracted_at: '2026-06-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,21 @@
+pid: P_2025_HE_GOV_276
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 4
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/工业和信息化部关于印发《推动工业互联网平台高质量发展行动方案（2026—2028年）》的通知.md
+extracted_at: '2026-06-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

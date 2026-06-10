@@ -1,0 +1,21 @@
+pid: P_2026_HA_X_916784c0
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 4
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/市场监管总局、国家发展改革委联合印发 《人工智能计量体系和能力建设指引》 系统布局人工智能计量能力建设2026-06-08.md
+extracted_at: '2026-06-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

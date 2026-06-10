@@ -1,0 +1,21 @@
+pid: P_2022_GD_FGW_3c8b19a4
+themes: []
+primary_theme: ''
+comprehensive: true
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【政策】深圳市发展和改革委员会深圳市科技创新委员会深圳市工业和信息化局深圳市规划和自然资源局关于发布《深圳市培育发展新能源产业集群行动计划（2022-2025年.md
+extracted_at: '2026-06-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

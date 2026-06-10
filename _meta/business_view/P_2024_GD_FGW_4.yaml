@@ -1,0 +1,29 @@
+pid: P_2024_GD_FGW_4
+themes:
+- vpp_theme
+primary_theme: vpp_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 1
+  D4: 2
+  D5: 3
+  D6: 3
+重要性: 4
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及。间接看，充电负荷作为虚拟电厂潜在可调资源，但正文未明确提及充电设施接入、V2G或补贴等措施。
+  电力_储能_V2G_交易: 虚拟电厂（VPP）直接涉及：标题明确支持虚拟电厂加快发展，表明深圳市将推动VPP聚合、运营及参与电力市场。但正文无具体措施，因此不能推断对储能、V2G、电力交易的具体影响。
+行动建议:
+- '趁早: 关注深圳市虚拟电厂配套实施细则，梳理公司现有充电、储能资源作为可调负荷的接入条件。'
+- '研究: 研究虚拟电厂聚合商资质及深圳电力市场交易规则，为后续参与试点储备能力。'
+didi_impact_one_liner: 深圳虚拟电厂专项政策定调支持，直接利好VPP业务，但需等待细则明确具体路径。
+sanitized_from: 0_raw/policies/【政策】深圳市发展和改革委员会关于印发《深圳市支持虚拟电厂加快发展的若干措施》的通知.md
+extracted_at: '2026-06-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
