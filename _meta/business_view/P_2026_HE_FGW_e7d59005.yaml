@@ -1,0 +1,29 @@
+pid: P_2026_HE_FGW_e7d59005
+themes:
+- green_power_trading_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 2
+  D5: 4
+  D6: 4
+重要性: 3
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及（间接：案例提及储能配置，但非普遍要求；绿电直连项目须整体参与电力市场交易）
+行动建议:
+- 'A 趁早: 调研钢铁、算力等优先行业客户绿电直连需求，评估为其设计源荷匹配方案的可行性'
+- 'B 研究: 跟踪绿电直连项目申报流程及电力市场交易规则，为潜在客户提供合规咨询与交易代理服务'
+didi_impact_one_liner: 河北省绿电直连政策为特定行业企业开辟绿色用能新通道，间接带动储能及电力市场交易参与机会。
+sanitized_from: 0_raw/policies/河北：推进绿电直连，满足企业绿色用能需求.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

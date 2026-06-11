@@ -1,0 +1,29 @@
+pid: P_2026_YN_GOV_0a0a474a
+themes:
+- charging_infra
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 4
+重要性: 3
+行动分类: A
+价值标签:
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 新政简化居民自用充电桩报装流程，免交不动产权属证明、压缩全流程时限40%以上，直接降低安装门槛，促进充电基础设施普及。
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- A 趁早:研究并复制西山区居民充电桩报装便民模式，向其他城市/区域推广，争取政策协同。
+- B 研究:趁早评估居民自用充电桩报装便利化对公共充电网络需求结构的潜在影响，优化充电站选址布局。
+didi_impact_one_liner: 西山区充电桩报装便民新政降低居民自用桩安装门槛，加速新能源汽车普及，间接利好滴滴充电生态的长期用户增长。
+sanitized_from: 0_raw/policies/西山区率先推出充电桩报装便民新政2026-06-05.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

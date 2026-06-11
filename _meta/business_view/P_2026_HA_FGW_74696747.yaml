@@ -1,0 +1,20 @@
+pid: P_2026_HA_FGW_74696747
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 3
+  D2: 4
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 3
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/明日起我省调整成品油价格.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false

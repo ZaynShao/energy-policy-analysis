@@ -1,0 +1,29 @@
+pid: P_2026_HI_FGW_2a789bab
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 海南省汽、柴油最高零售价格每吨分别上调75元、70元，直接提高了加油站采购成本和终端零售价，影响加油业务的利润和定价调整节奏。
+  充电: 未直接涉及。间接：成品油价格上调可能小幅提升电动汽车的相对经济性，但正文未提供具体机制或量化依据。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 同步完成全省加油站价格标签、收银系统、线上显示的价格更新，确保按时合规执行新最高零售价。'
+- 'B 研究: 趁早评估本次油价上调对燃油车出行成本的影响，并结合充电业务竞品数据，研判新能源用车需求的潜在增长趋势。'
+didi_impact_one_liner: 海南省成品油按机制上调，直接影响滴滴加油业务的成本和定价，但对充电等新能源业务无直接规定冲击。
+sanitized_from: 0_raw/policies/海南省成品油价格按机制调整.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

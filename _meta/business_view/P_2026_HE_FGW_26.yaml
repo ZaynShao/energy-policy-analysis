@@ -1,0 +1,29 @@
+pid: P_2026_HE_FGW_26
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 3
+  D5: 5
+  D6: 4
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 直接涉及独立储能项目的规划、申报、建设及容量电价机制（清单外不得给予容量电价），对储能业务有明确影响；V2G和直接电力交易未直接涉及。
+行动建议:
+- A 趁早:研究河北省独立储能年度建设计划和清单管理细则，评估公司储能项目是否符合准入条件并准备申报材料。
+- B 研究:对接省级能源主管部门和电网公司，了解独立储能项目优选评分标准及接入流程，提前布局合规项目。
+didi_impact_one_liner: 河北省独立储能政策强化项目清单管理和容量电价机制，直接利好储能业务投资布局，加油和充电业务未直接涉及。
+sanitized_from: 0_raw/policies/河北省发展和改革委员会关于进一步加强独立储能项目规....md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

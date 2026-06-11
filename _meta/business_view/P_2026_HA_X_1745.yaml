@@ -1,0 +1,29 @@
+pid: P_2026_HA_X_1745
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 2
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 4
+重要性: 3
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接：政策通过补贴鼓励购买新能源乘用车，可能加速燃油车替代，长期减少燃油需求。
+  充电: 未直接涉及。间接：新能源乘用车销量增长将带动充电需求，但政策未直接建设或补贴充电设施。
+  电力_储能_V2G_交易: 未直接涉及。政策未提及储能、V2G、虚拟电厂或电力交易机制。
+行动建议:
+- 趁早评估河南省2026年新能源车补贴政策对燃油车销量的替代节奏，优化加油站的布局和运营策略。
+- 研究河南省内新能源车保有量增长趋势，为未来充电业务或车网互动（V2G）机会储备战略认知。
+didi_impact_one_liner: 河南省2026年汽车以旧换新补贴以报废和置换方式直接激励新能源车消费，间接利好充电需求但未涉及储能/V2G，长远可能压缩加油业务空间。
+sanitized_from: 0_raw/policies/河南省商务厅等8部门关于印发《河南省2026年汽车以旧换新补贴实施细则》的通知.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

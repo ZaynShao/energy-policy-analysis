@@ -1,0 +1,29 @@
+pid: P_2026_NX_FGW_1192
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 3
+  D2: 3
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 4
+重要性: 3
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 储能业务直接涉及：储能作为新能源就近消纳项目（源网荷储一体化等）的组成部分，其接入公共电网的输配电费按新机制缴纳（按容需量或两部制），可能降低运营成本。V2G、虚拟电厂、电力交易未直接涉及。
+行动建议:
+- 趁早评估宁夏新能源就近消纳项目（特别是源网荷储一体化）中储能业务的投资与接入机会，结合新输配电费计费方式优化成本模型。
+- 趁早与国网宁夏电力有限公司及宁夏电力交易中心沟通，明确储能项目在就近消纳模式下的输配电费结算细则。
+didi_impact_one_liner: 宁夏出台新能源就近消纳价格机制，储能作为项目组成部分享受新的输配电费计费方式，可能降低运营成本。
+sanitized_from: 0_raw/policies/自治区发展改革委关于落实新能源就近消纳价格机制有关事项的通知.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

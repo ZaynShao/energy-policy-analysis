@@ -1,0 +1,30 @@
+pid: P_2026_NX_FGW_87
+themes:
+- power_market
+- aggregator_access
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 4
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 1
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及。间接观察：本政策发布的保底售电公司名单中可能包含具备储能或新能源背景的售电主体，但正文未明确储能、V2G、虚拟电厂或电力交易机制的具体影响。
+行动建议:
+- 'A 趁早: 评估自身售电业务是否已纳入或需要申请宁夏保底售电公司资格，确保符合保底售电服务义务要求'
+- 'B 研究: 研究保底售电服务细则及对现有电力交易策略的潜在影响，尤其是与售电公司合作或作为市场主体的权利义务变化'
+didi_impact_one_liner: 宁夏发布2026年保底售电公司名单，强化电力市场稳定运行机制，售电侧主体需关注保底服务义务与市场秩序影响。
+sanitized_from: 0_raw/policies/自治区发展改革委关于发布2026年宁夏电力市场保底售电公司名单的通知.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

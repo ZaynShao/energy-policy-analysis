@@ -1,0 +1,29 @@
+pid: P_2026_SC_X_44
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 4
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 4
+重要性: 3
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接观察：政策对购买燃油车仍提供补贴，但比例低于新能源，可能促进低油耗燃油车更新，但对加油业务整体影响有限。
+  充电: 未直接涉及。间接观察：政策通过高额补贴鼓励购买新能源乘用车（报废更新最高2万元、置换更新最高1.5万元），将提升新能源车保有量，间接拉动充电需求。
+  电力_储能_V2G_交易: 未直接涉及。正文未提及储能、虚拟电厂、V2G或电力交易相关内容。
+行动建议:
+- A 趁早：关注绵阳市新能源汽车上牌数据，评估充电需求增长，为本地充电桩布局储备资源。
+- B 研究：评估政策对新能源车销量的实际拉动效果，测算充电业务潜在增量。
+didi_impact_one_liner: 绵阳汽车以旧换新补贴侧重新能源，间接利好充电业务，但无直接业务条款。
+sanitized_from: 0_raw/policies/绵阳市商务局等8部门关于印发《绵阳市2026年汽车以旧换新补贴实施方案》的通知.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

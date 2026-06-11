@@ -1,0 +1,29 @@
+pid: P_2026_ZJ_FGW_f31b45fe
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接影响：汽柴油价格每吨分别降低525元和505元，零售价格相应下调。以92号汽油为例，零售价从8.32元/升降至约7.94元/升（根据降幅测算），降低加油业务销售收入和毛利，但可能刺激短期加油量。
+  充电: 未直接涉及。间接观察：成品油价格下调可能短期内降低燃油车使用成本，对充电替代需求产生微弱抑制，但整体影响有限。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- A 趁早：调价窗口开启后及时更新全省加油站零售标价，确保合规并同步调整采购和库存策略，防止价差损失。
+- B 研究：趁早分析本次降价对加油/充电业务流量和利润的短期扰动，为后续价格联动决策提供依据。
+didi_impact_one_liner: 浙江省成品油价格全面下调，将短暂削弱充电相对燃油的经济性对比，但影响程度有限，核心仍是加油业务的价格合规执行。
+sanitized_from: 0_raw/policies/浙江省成品油价格调整.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

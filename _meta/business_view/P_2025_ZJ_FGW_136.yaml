@@ -1,0 +1,29 @@
+pid: P_2025_ZJ_FGW_136
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 4
+  D2: 4
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 5
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及（间接：新能源上网电价市场化可能影响批发侧电价，从而传导至充电场站购电成本，但正文未明确具体机制）
+  电力_储能_V2G_交易: 未直接涉及（间接：本政策属于电力市场化改革的一部分，可能为后续储能、V2G、聚合商参与电力市场创造更市场化的电价环境，但正文未规定具体业务规则）
+行动建议:
+- A 趁早：跟踪浙江省新能源上网电价市场化细则及后续配套规则，评估对充电场站购电成本的间接影响
+- B 研究：研究未来电力市场化改革深化背景下，储能、V2G及虚拟电厂参与现货及辅助服务市场的潜在机会
+didi_impact_one_liner: 浙江省新能源上网电价市场化改革自2026年施行，尚未直接涉及充电、储能及V2G业务，但电力市场化深化将间接影响公司购电成本及电力交易策略
+sanitized_from: 0_raw/policies/省发展改革委 省能源局关于印发《浙江省新能源上网电价市场化改革实施方案》及配....md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

@@ -1,0 +1,29 @@
+pid: P_2026_ZJ_GOV_149
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及。细则对成品油零售经营实行许可管理，要求加油业务符合《危险化学品经营许可证》等资质、安全管理制度及多部门法规标准，并需配合县级以上商务部门监管。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 组织合规专班，对照细则逐条自查现有加油站的许可、安全、环保、税务等合规状况，逐个站点完成差距分析并制定整改计划。'
+- 'B 研究: 研究省商务厅后续可能的配套检查清单与年审要求，提前准备资质文件与管理制度台账。'
+didi_impact_one_liner: 浙江省成品油流通管理实施细则强化合规要求，加油业务需聚焦许可与安全整改。
+sanitized_from: 0_raw/policies/浙江省商务厅等10部门关于印发《浙江省成品油流通管理实施细则（试行）》....md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

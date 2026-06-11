@@ -1,0 +1,21 @@
+pid: P_1900_GD_FGW_68eeffb4
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/广州市发展和改革委员会 广州市工业和信息化局关于印发广州市面向2035年电力供应保障规划的通知.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

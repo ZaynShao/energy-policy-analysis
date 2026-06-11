@@ -1,0 +1,21 @@
+pid: P_2026_ZJ_FGW_113
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 2
+  D4: 5
+  D5: 3
+  D6: 2
+重要性: 0
+行动分类: C
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/省发展改革委 省生态环境厅 省能源局关于印发....md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

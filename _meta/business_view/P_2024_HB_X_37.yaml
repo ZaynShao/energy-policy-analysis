@@ -1,0 +1,29 @@
+pid: P_2024_HB_X_37
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 2
+  D3: 2
+  D4: 1
+  D5: 5
+  D6: 1
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及（间接：燃油车补贴力度低于新能源，可能加速燃油车淘汰，长期对加油需求不利）。
+  充电: 未直接涉及（间接：新能源车购车补贴大幅提升，将刺激新能源车销量增长，间接利好充电需求）。
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- 趁早：评估湖北省汽车以旧换新政策对区域内新能源网约车增量的影响，提前优化充电网络布局以承接新增充电需求。
+- 研究：研究政策补贴对新能源车置换的推动效果，探讨在湖北试点面向网约车司机的以旧换新激励合作方案。
+didi_impact_one_liner: 湖北省汽车以旧换新补贴大幅提升新能源车购车优惠，将加速当地新能源车渗透率，间接扩大滴滴充电业务潜在市场，但加油和电力交易业务暂无直接政策关联。
+sanitized_from: 0_raw/policies/省商务厅等8部门关于进一步做好湖北省汽车以旧换新有关工作的通知2024-09-18.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
