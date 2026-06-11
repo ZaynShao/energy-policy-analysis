@@ -1,0 +1,30 @@
+pid: P_2026_SC_FGW_184
+themes:
+- green_power_trading_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 4
+  D3: 1
+  D4: 2
+  D5: 4
+  D6: 3
+重要性: 3
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 储能直接涉及：离网型绿电直连项目必须配置储能，以满足负荷安全稳定用电需求（细则第四条第（四）款）。并网型项目未强制要求储能，但鼓励源荷匹配，储能可作为调节资源。V2G、虚拟电厂、电力交易未直接涉及，余电上网仅涉及与电网的购售电合同，非市场化交易。
+行动建议:
+- 趁早评估四川省离网型绿电直连项目的储能配置需求，布局储能投资与运营机会。
+- 趁早研究并网型绿电直连项目中储能与负荷调节资源的配套模式，探索参与源荷匹配方案设计。
+- 趁早关注绿电直连余电上网的购售电合同机制，分析其对电力交易业务的间接影响。
+didi_impact_one_liner: 四川绿电直连细则为储能业务（离网型）打开明确窗口，但对充电、V2G、电力交易直接影响有限，需关注后续配套政策。
+sanitized_from: 0_raw/policies/关于印发《四川省有序推动绿电直连发展实施细则（试行）》的通知（川发改能源〔2026〕184号）.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

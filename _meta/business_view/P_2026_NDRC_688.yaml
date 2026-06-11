@@ -1,0 +1,29 @@
+pid: P_2026_NDRC_688
+themes:
+- green_power_trading_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 4
+  D4: 2
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。本政策聚焦多用户绿电直连，不涉及成品油业务。
+  充电: 未直接涉及。正文未提及充电设施或充电负荷，但间接观察：充电负荷可作为绿电直连的潜在用户（如园区充电桩），需关注后续实施细则。
+  电力_储能_V2G_交易: 储能直接涉及：正文明确项目连接线路、变电设施、储能及运营平台由项目主责单位投资建设，储能是项目组成部分。V2G、虚拟电厂、电力交易未直接涉及；正文未出现相关机制或市场准入描述。
+行动建议:
+- 'A 趁早: 梳理存量及新建新能源项目，评估是否具备调整为多用户绿电直连的条件，特别是因消纳受限无法并网的项目，趁早对接省级能源主管部门履行变更手续。'
+- 'B 研究: 研究储能配套方案，明确储能配置规模与投资模式，为参与多用户绿电直连项目做好准备。'
+didi_impact_one_liner: 多用户绿电直连政策明确允许储能投资建设，为新能源消纳受限项目提供新路径，但充电及电力交易未直接涉及。
+sanitized_from: 0_raw/policies/关于有序推动多用户绿电直连发展有关事项的通知(发改能源〔2026〕688号).md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

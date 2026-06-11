@@ -1,0 +1,21 @@
+pid: P_2023_JS_eeda02f4
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【江苏省发展和改革委员会 地方性法规规章 《江苏省招标投标条例》】-江苏省发展和改革委员会-eeda02f4.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,29 @@
+pid: P_2026_QH_ab4dcbb6
+themes:
+- vpp_theme
+primary_theme: vpp_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 2
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。该政策主题为虚拟电厂，与加油业务无直接关联。
+  充电: 未直接涉及。虚拟电厂可能聚合充电桩作为可调负荷，但正文未明确具体机制，此为间接观察。
+  电力_储能_V2G_交易: 直接涉及。该政策核心是虚拟电厂（VPP）建设与运行管理，储能、V2G及电力交易是虚拟电厂的关键组成部分，因此直接受到政策方向影响。但正文节选未提供具体条款，需关注后续细则。
+行动建议:
+- 趁早获取《青海省虚拟电厂建设与运行管理方案》全文，深入分析对储能、V2G及电力交易业务的具体影响。
+- 趁早与青海省能源局或相关行业协会沟通，了解虚拟电厂项目申报、聚合商注册及市场准入的具体要求。
+didi_impact_one_liner: 青海省发布虚拟电厂建设运行管理方案，直接利好公司电力储能及V2G业务，建议趁早跟进布局。
+sanitized_from: 0_raw/policies/【青海省能源局关于印发《青海省虚拟电厂建设与运行管理方案》的通知】-青海省发展和改革委员会-ab4dcbb6.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

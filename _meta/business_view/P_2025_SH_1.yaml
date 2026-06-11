@@ -1,0 +1,21 @@
+pid: P_2025_SH_1
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 1
+  D4: 3
+  D5: 2
+  D6: 3
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【浦东新区节能低碳专项资金管理办法(沪浦发改规〔2025〕1号)】-浦东新区发展和改革委员会等9部门-2c67.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

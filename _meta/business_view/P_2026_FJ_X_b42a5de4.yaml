@@ -1,0 +1,29 @@
+pid: P_2026_FJ_X_b42a5de4
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 4
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接影响：福州市成品油零售企业需遵守2026年质量监督抽查实施细则，车用柴油、车用汽油须符合抽查标准。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 组织加油业务团队研读已发布的榕市监消则(2026)-009和010号细则，对照油品采购、储存、销售流程，确保满足监督抽查要求。'
+- 'B 研究: 根据细则中的抽样方法和检验项目，评估当前供应商质量管控体系，必要时调整采购合同质量条款以降低合规风险。'
+didi_impact_one_liner: 福州2026年成品油质量监督抽查细则落地，加油业务合规监管趋严，充电及电力业务暂未直接涉及。
+sanitized_from: 0_raw/policies/关于公布2026年福州市成品油质量监督抽查实施细则的公告.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

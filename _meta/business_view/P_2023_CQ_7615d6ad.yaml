@@ -1,0 +1,33 @@
+pid: P_2023_CQ_7615d6ad
+themes:
+- energy_storage_theme
+- vpp_theme
+- charging_infra
+- power_market
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 1
+  D4: 2
+  D5: 3
+  D6: 5
+重要性: 4
+行动分类: C
+价值标签:
+- 机会
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 政策明确支持光储充检换电一体综合能源站建设，并鼓励结合充换电设施探索储能电池租赁、动力电池换电等商业模式，对充电业务有直接利好。
+  电力_储能_V2G_交易: 储能直接涉及：明确对独立储能电站给予150元/千瓦时一次性建设补助，探索虚拟电厂、共享储能等商业模式；电力交易间接涉及：文中提到探索交易机制、调峰补偿等，但未形成具体机制；V2G未直接涉及。
+行动建议:
+- 'A 趁早: 研究铜梁区独立储能电站补贴申请条件，抢占150元/千瓦时一次性建设补助机会。'
+- 'B 研究: 跟进重庆市新型储能设施建设方案编制动态，提前布局虚拟电厂、共享储能试点项目。'
+didi_impact_one_liner: 重庆铜梁储能示范区政策明确对独立储能电站给予补贴，鼓励光储充换一体站及虚拟电厂探索，充电与储能业务有直接利好。
+sanitized_from: 0_raw/policies/【重庆市能源局关于市政协六届一次会议第0190号提案的复函】-重庆市发展和改革委员会-7615d6ad.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

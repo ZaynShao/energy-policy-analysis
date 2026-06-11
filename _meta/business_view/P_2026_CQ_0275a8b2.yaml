@@ -1,0 +1,32 @@
+pid: P_2026_CQ_0275a8b2
+themes:
+- energy_storage_theme
+- v2g
+- vpp_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 2
+  D3: 1
+  D4: 2
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 政策明确支持新型储能与充换电基础设施融合布局，推动光储充换综合站、V2G试点示范等应用场景，为充电业务带来与储能协同发展的市场机会。
+  电力_储能_V2G_交易: 政策明确支持新型储能项目常态化参与电力现货市场交易和调频辅助服务，拓宽收益渠道；同时支持储能参与虚拟电厂、AI数据中心等新兴领域建设，推动V2G试点，直接利好储能、V2G及电力交易业务。
+行动建议:
+- 'A 趁早: 在重庆布局独立储能电站，主动对接电力现货和调频辅助服务市场，获取多元化收益。'
+- 'B 趁早: 联合充电运营商及园区，推动光储充换综合站及V2G试点项目落地，抢占示范先机。'
+- 'C 研究: 密切跟踪重庆虚拟电厂建设进展，探索储能与AI数据中心等新兴用能场景的融合创新。'
+didi_impact_one_liner: 重庆政策明确支持新型储能参与电力市场及V2G试点，为公司储能、充电及虚拟电厂业务带来直接市场机会。
+sanitized_from: 0_raw/policies/【重庆市能源局关于市六届人大四次会议第1123号建议协办意见的函】-重庆市发展和改革委员会-0275a8b2.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

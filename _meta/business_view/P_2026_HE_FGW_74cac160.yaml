@@ -1,0 +1,29 @@
+pid: P_2026_HE_FGW_74cac160
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 成品油零售价格将按本公告调整，直接影响加油业务的进销差与终端售价，需及时更新计价系统和财务核算。
+  充电: 未直接涉及。间接观察：成品油价格变动可能短期影响消费者对燃油/电动出行成本对比，但正文无任何充电业务相关内容。
+  电力_储能_V2G_交易: 未直接涉及。间接观察：成品油调价与电力、储能、V2G、电力交易无直接机制关联，正文未提及。
+行动建议:
+- 'A 趁早: 对照本省成品油价格调整幅度及执行时间，更新所有加油站零售价签、收银系统及线上价格展示，确保合规。'
+- 'B 研究: 利用本次调价数据，分析自有加油站点历史销量与价格弹性，为后续价格节奏预判储备分析模型。'
+didi_impact_one_liner: 省发改委成品油调价公告直接影响加油业务价格合规与收益，充电及储能等业务未受影响。
+sanitized_from: 0_raw/policies/关于调整成品油价格的公告（2026年第9号）.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

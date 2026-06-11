@@ -1,0 +1,29 @@
+pid: P_2026_NDRC_622
+themes:
+- green_power_trading_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 3
+  D3: 4
+  D4: 4
+  D5: 4
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及（间接：指南完善了非化石能源电力消费核算方法，可能影响绿电交易的市场参与和认证，进而间接关联储能/V2G参与的绿电消纳核算）
+行动建议:
+- A 趁早：组织业务团队学习本指南的核算方法论，确保公司电力消费的非化石能源部分能被准确计量与填报。
+- B 研究：基于指南框架，评估公司现有绿电采购和碳核算流程的对接可能性，为后续参与绿电交易或碳市场打基础。
+didi_impact_one_liner: 本指南为非化石能源电力消费核算提供了统一方法，对绿色电力交易相关业务有间接影响。
+sanitized_from: 0_raw/policies/关于印发《非化石能源电力消费核算指南(试行)》的通知(发改能源〔2026〕622号).md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

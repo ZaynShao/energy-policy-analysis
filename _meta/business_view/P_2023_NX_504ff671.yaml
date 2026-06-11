@@ -1,0 +1,31 @@
+pid: P_2023_NX_504ff671
+themes:
+- charging_infra
+- distribution_grid_opening
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 2
+  D5: 5
+  D6: 3
+重要性: 4
+行动分类: C
+价值标签:
+- 机会
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 增量配电区域内的集中式充换电站可享受基本电费减免（需量/容量取最小值），直接降低运营成本。
+  电力_储能_V2G_交易: 未直接涉及；间接观察：增量配电区域电价执行优化可能为后续分布式储能、V2G参与需量管理提供空间，但正文未明确机制。
+行动建议:
+- 趁早 梳理宁夏增量配电区域内的自营或合作充换电站，主动对接增量配电网企业申请基本电费减免。
+- 研究 增量配电区域多路供电需量扣减规则，为未来若介入储能或V2G需量管理场景储备测算能力。
+didi_impact_one_liner: 宁夏明确增量配电区域集中式充换电站可减免基本电费，直接利好充电运营降本。
+sanitized_from: 0_raw/policies/【自治区发展改革委关于明确相关电价执行方式的通知_宁夏回族自治区发展和改革委员会(发改价格规〔2018〕943号)】-宁夏回族自治区发展和改革委员会-504ff671.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

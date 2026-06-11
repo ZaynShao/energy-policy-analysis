@@ -1,0 +1,30 @@
+pid: P_2026_SC_FGW_b19620de
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 成品油最高零售价格下调，加油业务需在不超过新上限前提下自主定价，批发价格同步调整，对民营批发企业供应价差保持不少于400元。
+  充电: 未直接涉及。间接观察：成品油降价可能短期影响新能源汽车消费意愿，但政策未涉及充电业务。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 趁早：核查各站点现行零售价是否超过新最高零售价格，完成价格更新并同步调整批发协议。
+- 趁早：优化采购与库存策略，利用批发价下调窗口合理控制采购成本。
+- 研究：分析本次降价对本地市场份额及终端消费量的影响，评估是否需要调整促销或会员优惠方案。
+didi_impact_one_liner: 四川成品油最高零售价下调，加油业务须立即合规调价并监控市场动态。
+sanitized_from: 0_raw/policies/关于降低成品油价格的通知（川发改价格〔2026〕223号）.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

@@ -1,0 +1,29 @@
+pid: P_2026_XZ_X_5
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 2
+  D4: 2
+  D5: 5
+  D6: 3
+重要性: 4
+行动分类: C
+价值标签:
+- 合规
+影响分析:
+  加油: 直接影响：西藏自治区将统一成品油流通准入标准、完善管理制度，现有加油站的审批、运营、监管等合规要求可能发生变化，需关注细则具体条款。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 关注西藏自治区商务厅发布的征求意见稿全文，评估现有加油业务合规差距，并参与反馈意见。'
+- 'B 研究: 组织内部合规团队研读即将出台的细则，提前调整加油站运营流程和文档，确保符合新标准。'
+didi_impact_one_liner: 西藏成品油流通管理细则征求意见，将统一准入标准，主要影响加油业务合规，充电及电力业务未直接涉及。
+sanitized_from: 0_raw/policies/关于公开征求《西藏自治区成品油流通管理实施细则（征求意见....md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

@@ -1,0 +1,29 @@
+pid: P_2026_SX_FGW_10
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 2
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接影响：根据公告，自2026年6月4日24时起，山西省汽柴油价格每吨分别下调525元、505元，并执行新的最高零售价格表。加油业务须严格遵守国家价格政策，不得加收或代收任何费用。
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- A 趁早:更新所有加油站价格标牌及收银系统，确保自6月4日24时起执行新的最高零售价格。
+- B 趁早:全面自查对外公示价格及收费项目，确保无违规加收或代收费用，避免价格违法风险。
+didi_impact_one_liner: 山西省成品油零售价格下调明确执行和合规要求，加油业务需及时调价并严防违规收费。
+sanitized_from: 0_raw/policies/关于调整我省成品油零售价格的公告.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

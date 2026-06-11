@@ -1,0 +1,33 @@
+pid: P_2023_NX_448b672e
+themes:
+- power_market
+- vpp_theme
+- energy_storage_theme
+- aggregator_access
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。
+  充电: 未直接涉及。间接：分时段交易机制可能引导用户削峰填谷，但政策未明确提及充电设施或充电运营商参与。
+  电力_储能_V2G_交易: 直接涉及。允许具备条件的独立储能企业参与电力中长期交易；鼓励符合条件的虚拟电厂以发电企业或用户身份参与市场交易；深化中长期分时段连续运营，优化分时段价格机制，引导可调节资源参与调峰，促进新能源消纳。
+行动建议:
+- 趁早完成独立储能企业在宁夏电力交易中心的市场注册，获取参与中长期分时段交易资格。
+- 趁早研究虚拟电厂（VPP）注册条件与交易策略，结合尖峰/深谷时段电价优化聚合资源报价。
+- 趁早评估自身用能或发电特性，制定2024年分时段交易方案，满足年度/月度电量比例要求。
+didi_impact_one_liner: 宁夏2024电力中长期交易明确储能独立入市、鼓励虚拟电厂参与，分时段机制需尽早适配。
+sanitized_from: 0_raw/policies/【自治区发展改革委关于做好2024年电力中长期交易有关事项的通知_宁夏回族自治区发展和改革委员会(宁发改运行〔2023〕807号)】-宁夏回族自治区发展和改革委员会-448b672e.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

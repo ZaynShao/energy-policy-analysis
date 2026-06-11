@@ -1,0 +1,29 @@
+pid: P_2026_HN_FGW_8646b73d
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 汽柴油每吨分别下调525元和505元，零售企业可在最高限价下自主定价，短期可能压缩利润空间，但降价促进销量，需平衡定价策略与市场竞争。
+  充电: 未直接涉及。间接观察：油价下调可能对电动车消费意愿产生微弱负面情绪，但短期影响有限。
+  电力_储能_V2G_交易: 未直接涉及。正文无储能、V2G、电力交易或虚拟电厂相关条款。
+行动建议:
+- 'A 趁早: 根据新价格下调幅度，重新核算加油站点终端定价与批发成本，优化库存周转和调运计划以降低采购成本。'
+- 'B 研究: 跟踪本次降价后的市场反应，评估对加油业务量及利润的影响，并为后续价格调整预案做好准备。'
+didi_impact_one_liner: 省内成品油零售限价每吨下调超500元，短期压缩加油毛利，但调价周期内需灵活定价以稳量增效。
+sanitized_from: 0_raw/policies/关于调整成品油价格的通知(2026年6月4日).md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

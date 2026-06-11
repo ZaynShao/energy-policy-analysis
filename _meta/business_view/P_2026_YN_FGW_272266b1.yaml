@@ -1,0 +1,31 @@
+pid: P_2026_YN_FGW_272266b1
+themes:
+- green_power_trading_theme
+- carbon_market_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 3
+  D3: 4
+  D4: 2
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: C
+价值标签:
+- 合规
+- 机会
+影响分析:
+  加油: 未直接涉及。间接观察：企业若持有加油站点且涉及非化石能源电力消费（如站点屋顶光伏自用），可能需按本指南核算，但正文未明确加油业务。
+  充电: 未直接涉及。间接观察：充电场站用电若参与绿证交易或碳核算，未来可能需按本指南统一核算，但正文未提及充电设施。
+  电力_储能_V2G_交易: 电力交易直接涉及：指南明确促进电能能量交易、绿证交易、碳排放核算衔接，统一核算方法影响电力用户及交易主体。储能、VPP、V2G未直接涉及，但间接可能受益于非化石能源电力消费核算体系完善。
+行动建议:
+- 趁早梳理自身非化石能源电力消费数据，包括自发电量、绿证购买记录、电能交易合同等，为参与统一核算及碳市场衔接做准备。
+- 研究指南中交易认定与分摊认定的具体规则，评估对现有电力采购策略（含绿电直连、绿证交易）的影响，调整交易组合。
+didi_impact_one_liner: 统一非化石能源电力消费核算规则，将推动电能交易、绿证交易与碳核算衔接，企业需提前规范数据并优化电力采购策略。
+sanitized_from: 0_raw/policies/五部门发文指导非化石能源电力消费核算.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

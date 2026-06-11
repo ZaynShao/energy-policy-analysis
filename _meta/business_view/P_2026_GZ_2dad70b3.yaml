@@ -1,0 +1,31 @@
+pid: P_2026_GZ_2dad70b3
+themes:
+- energy_storage_theme
+- vpp_theme
+primary_theme: energy_storage_theme
+comprehensive: true
+scores:
+  D1: 4
+  D2: 2
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 4
+重要性: 3
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及。间接观察：政策鼓励民间投资虚拟电厂等数字能源新业态，若虚拟电厂聚合充电资源，可能为充电业务带来间接机遇，但正文未明确提及充电基础设施。
+  电力_储能_V2G_交易: 直接影响。政策明确支持民营企业投资建设新型储能、抽水蓄能等项目，并参与虚拟电厂等数字能源新业态、新模式，为储能和虚拟电厂业务提供民间资本准入机会。V2G和电力交易未直接提及。
+行动建议:
+- 趁早研究贵州省新型储能和虚拟电厂项目投资机会，对接当地能源主管部门获取项目清单和准入条件。
+- 趁早评估虚拟电厂业务在贵州的落地路径，探索与当地新能源企业或电网公司合作模式。
+- 趁早梳理已运营的充电场站，评估是否具备参与虚拟电厂聚合的潜质，为后续业务拓展储备能力。
+didi_impact_one_liner: 政策鼓励民间投资新型储能和虚拟电厂，为滴滴在贵州布局储能及虚拟电厂业务提供政策窗口。
+sanitized_from: 0_raw/policies/【省人民政府办公厅印发《贵州省扩大民间投资三年行动方案》】-贵州省发展和改革委员会-2dad70b3.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

@@ -1,0 +1,31 @@
+pid: P_2026_YN_FGW_c2d6c068
+themes:
+- green_power_trading_theme
+- vpp_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 4
+  D5: 5
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。政策全文未提及成品油、加油站等相关业务。
+  充电: 未直接涉及。政策未提及充电设施、电动汽车充电或相关支持措施。
+  电力_储能_V2G_交易: 直接涉及虚拟电厂（VPP）建设和需求侧响应参与电力市场（第6条）；明确绿电交易机制，包括省级绿证分配、绿电直连、四位一体服务（第3条）。储能、V2G未直接涉及，但虚拟电厂可间接关联储能，政策未详述。
+行动建议:
+- A 趁早:研究虚拟电厂建设机会，结合公司智算中心或高电耗项目，响应政策推动的‘绿电+算力’需求侧响应载体参与电力市场。
+- B 趁早:梳理公司绿电消费需求，对接省级绿证分配方案，争取绿电直连服务，降低碳足迹。
+- C 研究:关注虚拟电厂与储能协同的潜在路径，为后续政策细化做好准备。
+didi_impact_one_liner: 政策推动虚拟电厂和绿电交易，为公司参与电力市场及绿证消费提供机遇，但加油充电业务未受影响。
+sanitized_from: 0_raw/policies/关于印发《云南省促进绿色电力消纳的若干措施》的通知.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
