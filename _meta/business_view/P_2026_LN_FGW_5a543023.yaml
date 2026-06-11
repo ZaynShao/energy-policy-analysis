@@ -1,0 +1,29 @@
+pid: P_2026_LN_FGW_5a543023
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 公告发布成品油价格调整，自2026年5月21日24时起执行，直接影响加油业务的零售定价和成本核算，需按调价幅度同步调整销售价格。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 根据调价通知，在24时前完成加油站价格标牌、系统数据更新及库存损益测算，确保合规执行新价格。'
+- '研究: 关注后续调价周期及原料成本走势，优化成品油采购与库存节奏以平抑波动风险。'
+didi_impact_one_liner: 辽宁成品油调价直接触发加油业务零售价格调整及合规执行动作，充电及储能V2G业务暂无直接影响。
+sanitized_from: 0_raw/policies/辽宁省成品油价格调整公告（2026年5月21日24时起执行）.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

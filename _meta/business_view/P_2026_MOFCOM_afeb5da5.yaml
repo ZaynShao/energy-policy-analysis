@@ -1,0 +1,22 @@
+pid: P_2026_MOFCOM_afeb5da5
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 4
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/近日，商务部会同中央网信办、工业和信息化部、农业农村部、文化和旅游部、市场监管总局等5部门印发《关于更好服务实体经济
+  推进电子商务高质量发展的指导意见》（以下简.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
