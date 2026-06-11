@@ -1,0 +1,31 @@
+pid: P_2025_BJ_9165b7e9
+themes:
+- carbon_market_theme
+primary_theme: carbon_market_theme
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 2
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及（间接：智能网联新能源汽车产业辐射带动，但未提及充电设施或运营）
+  电力_储能_V2G_交易: 未直接涉及（间接：新能源产业支持新型电力系统实验基地、分布式先进能源、智慧能源共性技术研发平台，可能涉及储能和能源交易，但正文未明确储能、V2G、虚拟电厂或电力交易机制）
+行动建议:
+- 趁早关注北京城市副中心国家级绿色交易所建设，评估碳资产开发、咨询、审定核证等碳专业服务业务的准入机会
+- 趁早研究新能源产业中“分布式先进能源”和“智慧能源共性技术研发平台”的合作可能，间接部署储能或能源聚合能力
+- 趁早跟踪智能网联新能源汽车产业集群动向，为未来充电基础设施布局储备政策与合作伙伴信息
+didi_impact_one_liner: 北京城市副中心绿色产业方案聚焦碳市场与专业服务，对加油、充电及储能交易无直接业务影响，但为碳服务与新能源技术研发带来间接窗口。
+sanitized_from: 0_raw/policies/【最新方案出炉！北京城市副中心将布局十大绿色产业-报纸网络】-北京市发展和改革委员会-9165b7e9.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
+archive: low_score

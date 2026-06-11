@@ -1,0 +1,20 @@
+pid: P_2024_SH_09f07265
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 4
+  D4: 2
+  D5: 4
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【关于全面提升“获得电力”服务水平持续优化用电营商环境的意见】-上海市发展和改革委员会-09f07265.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false

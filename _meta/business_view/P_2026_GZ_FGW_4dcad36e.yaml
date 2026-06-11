@@ -1,0 +1,29 @@
+pid: P_2026_GZ_FGW_4dcad36e
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 合规
+影响分析:
+  加油: 成品油价格上调，贵州89#汽油、0#柴油每吨分别上调75元、70元。加油站须在2026年5月21日24时起执行新最高零售价，同时确保供应、规范经营行为，并接受价格监管。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- '趁早: 更新加油站价格标签和系统，确保2026年5月21日24时起严格按照附件公布的贵州省各价区汽柴油销售价格表执行，并做好价格公示与消费者解释。'
+- '研究: 评估本次油价上调对加油业务毛利和市场需求的短期影响，为后续量价平衡策略做准备。'
+didi_impact_one_liner: 贵州成品油价格上调，加油业务需立即合规调价并接受监管；充电、储能等业务未受直接影响。
+sanitized_from: 0_raw/policies/2026年5月21日24时起贵州成品油价格调整.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

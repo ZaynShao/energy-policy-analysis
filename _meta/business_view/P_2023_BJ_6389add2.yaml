@@ -1,0 +1,21 @@
+pid: P_2023_BJ_6389add2
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 2
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【惠及近1.2万户居民！26个老旧小区配电网年底升级-报纸网络-北京市 ...】-北京市发展和改革委员会-6389add2.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

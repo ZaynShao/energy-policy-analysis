@@ -1,0 +1,29 @@
+pid: P_2025_NDRC_122951e0
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 1
+  D3: 4
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及（间接：正文提及炼化行业能耗限额标准修订，可能推动炼油环节设备能效升级，但非加油终端业务直接影响）
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- A 趁早：梳理加油业务上游炼化及储运设备的能耗、排放标准对标现状，识别需更新的技术参数
+- B 研究：关注后续可能出台的充电桩能效、储能安全等细分标准动态，提前储备技术合规能力
+didi_impact_one_liner: 政策聚焦能耗排放标准升级以牵引设备更新，对三业务缺少直接触发点，但标委会动向值得持续跟踪。
+sanitized_from: 0_raw/policies/【加快提升标准化水平有效牵引大规模设备更新和消费品以旧换新】-国家发展和改革委员会(《习近平经济思想研究》期刊文章)-91bd.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

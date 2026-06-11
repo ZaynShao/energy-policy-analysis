@@ -1,0 +1,30 @@
+pid: P_2026_SD_0401ca27
+themes:
+- green_power_trading_theme
+- power_market
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 1
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 3
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及。间接观察：标题提及‘新能源高水平消纳’，且已判主题包含绿色电力交易和电力市场，可能涉及储能或电力交易机制，但正文节选无具体内容，不能作为直接影响。
+行动建议:
+- A 趁早：等待政策全文发布，评估新能源消纳目标对充电负荷调节及储能参与电力市场的潜在机会。
+- B 研究：关注山东省后续配套细则，特别是绿色电力交易规则和储能调度机制，为业务布局做准备。
+didi_impact_one_liner: 山东省新能源消纳方案尚未披露具体措施，需待全文发布后再评估对充电、储能及电力交易的实际影响。
+sanitized_from: 0_raw/policies/【山东省2026年新能源高水平消纳行动方案】-山东省能源局-b379.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

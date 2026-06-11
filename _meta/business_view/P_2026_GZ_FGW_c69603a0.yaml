@@ -1,0 +1,30 @@
+pid: P_2026_GZ_FGW_c69603a0
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 贵州省成品油价格于2026年4月21日24时起下调，89#汽油、0#柴油每吨分别降555元、530元；各经营企业须在不超最高批发、零售价前提下确定具体价格，并切实承担市场供应责任，严格执行国家价格政策，规范经营行为；相关部门将加强价格监督检查，消费者可通过12315举报违规行为。
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- 'A 趁早: 按照贵州省发改委公布的具体品号价格表，调整加油站点零售价格，确保不突破最高限价；同时内部审核价格执行流程，防范违规风险。'
+- 'B 趁早: 加强加油业务合规培训，明确各分公司及加盟站须严格执行国家价格政策，不得擅自加价或变相涨价，并规范经营行为以应对价格监督检查。'
+- 'C 研究: 利用此次油价下调窗口，观察区域加油量及竞争格局变化，为后续定价策略和客户维系预案做准备；但无新增项目或商业模式依据。'
+didi_impact_one_liner: 本轮贵州成品油价格下调直接影响加油业务营收与合规要求，充电及储能交易未涉及。
+sanitized_from: 0_raw/policies/2026年4月21日24时起贵州成品油价格调整.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

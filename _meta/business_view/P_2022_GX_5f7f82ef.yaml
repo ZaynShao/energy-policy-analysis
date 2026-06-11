@@ -1,0 +1,30 @@
+pid: P_2022_GX_5f7f82ef
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 1
+  D4: 1
+  D5: 4
+  D6: 1
+重要性: 4
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 直接涉及集中共享储能示范建设，明确首批12个项目总规模162万千瓦/364万千瓦时、2023年6月底前投运、支持参与电力市场并鼓励创新商业模式；V2G未直接涉及。
+行动建议:
+- 趁早评估参与广西后续集中共享储能示范项目申报的可行性，关注首批项目投运后的滚动机会。
+- 趁早与已获得市场化并网新能源项目指标的开发主体对接，协商储能服务购买协议。
+- 趁早研究广西储能参与电力市场的商业模式及收益模型，为项目运营和回收投资做准备。
+didi_impact_one_liner: 广西明确集中共享储能示范规模与建设时限，强制新能源项目购买储能服务，储能运营商可趁早布局项目申报与服务协议签订。
+sanitized_from: 0_raw/policies/【广西壮族自治区发展和改革委员会关于印发推进广西集中共享新型储能示范建设的通知 - 通知公告 - 广西壮族自治区发展和改革委员会网站(桂发改电力〔2022〕1043号)】-广西壮族自治区发展.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

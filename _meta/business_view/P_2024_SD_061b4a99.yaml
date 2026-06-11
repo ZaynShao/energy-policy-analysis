@@ -1,0 +1,29 @@
+pid: P_2024_SD_061b4a99
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 3
+重要性: 3
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接：政策推动新能源汽车替代燃油车，长期可能减少加油需求。
+  充电: 未直接涉及。间接：政策设定2025年新能源汽车保有量300万辆目标，将带动充电基础设施建设需求。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 评估山东省新能源汽车增长对加油站业务的中长期影响，规划加油站点向综合能源服务转型。'
+- 'B 研究: 研究山东省充电基础设施市场机会，考虑与地方政府合作布局，抢占新能源车队服务先机。'
+didi_impact_one_liner: 山东省设备更新政策聚焦新能源汽车推广和报废更新，对滴滴出行新能源车队置换和充电网络协同有间接利好。
+sanitized_from: 0_raw/policies/【山东省发展和改革委员会省级政策山东省人民政府关于印发山东省 ...(鲁政发〔2024〕3号)】-山东省发展和改革委员会-061b4a99.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

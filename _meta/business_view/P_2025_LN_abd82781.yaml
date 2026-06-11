@@ -1,0 +1,29 @@
+pid: P_2025_LN_abd82781
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 1
+  D4: 3
+  D5: 2
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 直接涉及新型储能项目建设（如辽水新能压缩空气等），有助于扩大储能装机规模，为未来参与电力市场、V2G等提供基础；但正文未明确V2G、虚拟电厂、电力交易等具体机制或试点，因此仅限储能项目投资与建设影响。
+行动建议:
+- 'A 趁早: 梳理辽宁省在建及规划的新型储能项目清单，评估参与设备供应、工程服务或投资合作的可行性。'
+- 'B 研究: 分析省内储能项目配套政策（如容量补偿、调用机制），为后续参与电力辅助服务或市场化交易提前储备能力。'
+didi_impact_one_liner: 辽宁46个重点能源项目明确纳入新型储能建设，为储能业务带来直接投资机会，但充电、V2G及电力交易尚未直接涉及。
+sanitized_from: 0_raw/policies/【我省谋划实施四十六个重点能源项目 - 辽宁省发改委】-辽宁省发展和改革委员会-abd82781.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

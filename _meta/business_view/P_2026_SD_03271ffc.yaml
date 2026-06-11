@@ -1,0 +1,31 @@
+pid: P_2026_SD_03271ffc
+themes:
+- vpp_theme
+- v2g
+- power_market
+primary_theme: vpp_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及（正文未提及加油业务或成品油相关）
+  充电: 直接影响：政策明确将充换电设施纳入虚拟电厂可调节资源，并加快车网互动（V2G）规模化应用，充电基础设施（含双向充电桩）可作为负荷类或分布式发电类聚合单元参与现货市场，迎来聚合运营与市场交易机会。
+  电力_储能_V2G_交易: 直接影响：政策系统设定虚拟电厂聚合分布式储能、用户侧储能和V2G资源参与电力现货市场，明确储能类聚合单元、调节量负荷类聚合单元等机制，为储能、V2G及电力交易带来明确的聚合运营、市场准入和收益模式。
+行动建议:
+- A 趁早：评估现有充电场站和用户侧储能资源，规划接入虚拟电厂聚合平台，争取先发参与现货市场。
+- B 趁早：与虚拟电厂运营商或电网公司对接，布局V2G双向充电桩和储能设施，适配政策对车网互动规模化应用的要求。
+didi_impact_one_liner: 山东虚拟电厂方案系统打通充电、储能和V2G参与电力市场路径，为聚合商和设施运营方创造明确市场机会。
+sanitized_from: 0_raw/policies/【山东省促进虚拟电厂高质量发展方案】-山东省能源局-1ffc.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

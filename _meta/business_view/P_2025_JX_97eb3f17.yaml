@@ -1,0 +1,30 @@
+pid: P_2025_JX_97eb3f17
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 4
+  D4: 4
+  D5: 4
+  D6: 5
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及具体内容（标题涉及新型储能规模化建设，间接利好储能相关业务）
+行动建议:
+- 趁早关注政策正式稿中储能建设规模、技术路线及补贴机制，评估公司投资储能电站的可行性
+- 趁早研究V2G、虚拟电厂等模式与储能政策的衔接点，为参与电力交易和需求响应做准备
+- 研究政策对储能项目并网、调度及收益模式的潜在影响，提前调整公司储能业务规划
+didi_impact_one_liner: 全国新型储能规模化建设专项行动启动，公司应跟踪政策细则以把握储能业务机遇
+sanitized_from: 0_raw/policies/【关于印发《新型储能规模化建设专项行动方案(2025—2027年)》的 ...(发改能源〔2025〕1144号)】-江西省发展和改革委员会-97eb3f17.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

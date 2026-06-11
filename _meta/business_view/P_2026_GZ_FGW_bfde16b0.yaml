@@ -1,0 +1,29 @@
+pid: P_2026_GZ_FGW_bfde16b0
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 价格上调：89#汽油每吨上调420元，0#柴油每吨上调400元；企业须在最高限价内自主定价，确保市场供应；监管部门将加大价格执行检查力度。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 调整成品油采购与销售定价策略，在本次上调后的最高限价框架内优化加油站零售与批发价格，平衡成本压力与市场份额。'
+- 'B 趁早: 对省内各加油站开展价格执行合规自查，确保严格按照国家调价政策和最高限价销售，避免因违规涨价或价格欺诈被查处。'
+didi_impact_one_liner: 贵州成品油价格显著上调，公司加油站在限价内灵活定价并加强合规管理，短期成本与监管压力增大。
+sanitized_from: 0_raw/policies/2026年4月7日24时起贵州成品油价格调整.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

@@ -1,0 +1,29 @@
+pid: P_2026_MOFCOM_01062e80
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 2
+  D3: 4
+  D4: 2
+  D5: 2
+  D6: 3
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接：新能源汽车推广将长期替代燃油车消费，可能影响加油业务增量。
+  充电: 未直接涉及。间接：新能源汽车以旧换新占比近60%，有望带动充电需求增长，但正文未明确充电设施支持措施。
+  电力_储能_V2G_交易: 未直接涉及。间接：正文提及'优化使用绿色电力'，可能促进绿电消费，但未涉及储能、V2G或电力交易的具体机制。
+行动建议:
+- A 趁早：把握新能源汽车以旧换新政策红利，加大充电网络在重点消费区域的布局预研，利用绿色消费积分体系探索充电积分互通试点。
+- B 研究：跟踪绿色电力消费激励政策动向，评估加油站增设分布式光伏及V2G设施的合规可行性与经济性。
+didi_impact_one_liner: 绿色消费推进行动以新能源汽车和绿色家电为核心，间接利好充电和绿色电力消费，但加油、储能、V2G及电力交易未获直接政策支撑。
+sanitized_from: 0_raw/policies/【商务部副部长介绍绿色消费推进行动】-国务院新闻办 商务部-053b.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

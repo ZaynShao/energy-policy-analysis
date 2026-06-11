@@ -1,0 +1,29 @@
+pid: P_2025_MOFCOM_0117488b
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 2
+  D3: 4
+  D4: 5
+  D5: 4
+  D6: 4
+重要性: 3
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接观察：政策鼓励购买新能源车，可能加速汽油车淘汰，长期影响汽油零售量。
+  充电: 未直接涉及。间接观察：新能源车补贴促进销售，可能提升公共充电需求，但无直接建设或补贴条款。
+  电力_储能_V2G_交易: 未直接涉及。正文无V2G、储能、电力交易或反向充电机制提及。
+行动建议:
+- A 趁早：评估汽车以旧换新对加油业务的中长期冲击，制定油品零售网络调整预案。
+- B 研究：关注新能源车增长对充电设施需求的拉动，趁早摸底现有充电站布局与利用率，为后续拓展积累数据。
+didi_impact_one_liner: 该政策旨在刺激汽车消费，重点补贴新能源汽车，对加油、充电、储能及电力交易无直接业务影响，但可能间接影响加油需求与充电市场潜力。
+sanitized_from: 0_raw/policies/【2025年汽车以旧换新工作通知发布新闻】-商务部新闻办公室-9119.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

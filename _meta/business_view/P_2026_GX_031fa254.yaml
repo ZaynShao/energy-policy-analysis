@@ -1,0 +1,30 @@
+pid: P_2026_GX_031fa254
+themes:
+- distribution_grid_opening
+primary_theme: distribution_grid_opening
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 2
+  D5: 4
+  D6: 3
+重要性: 2
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及（间接观察：政策鼓励分布式电源就近接入增量配电网，可能为充电设施提供绿色电力接入条件，但未具体规定充电业务）
+  电力_储能_V2G_交易: 储能方面，政策明确鼓励增量配电网配建一定比例的储能设施，推动源网荷储一体化；电力交易方面，增量配电网企业及其网内用户可参与电力市场化交易，自行结算。V2G未直接涉及。
+行动建议:
+- 趁早评估在广西增量配电网区域内投资配建储能设施的可行性，结合源网荷储一体化政策争取参与绿色供电园区建设
+- 研究增量配电网企业及用户参与广西电力市场化交易的路径与收益模型，为后续结算和交易策略制定提供依据
+didi_impact_one_liner: 广西增量配电政策明确鼓励配建储能和参与电力市场，为储能投资和电力交易带来直接机会。
+sanitized_from: 0_raw/policies/【广西壮族自治区发展和改革委员会关于进一步做好我区增量配电业务 ...(发改经体〔2019〕27号)】-广西壮族自治区发展和改革委员会-031fa254.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
+archive: low_score

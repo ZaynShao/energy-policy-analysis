@@ -1,0 +1,29 @@
+pid: P_2024_NEA_08098f4e
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 2
+  D3: 4
+  D4: 3
+  D5: 2
+  D6: 4
+重要性: 4
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。
+  充电: 未直接涉及。间接：政策强调需求侧响应，充电桩作为可控负荷可能受益，但正文未具体提及。
+  电力_储能_V2G_交易: 直接影响：政策明确充分发挥新型储能调节能力，建设共享储能电站，优化电力系统调节能力。这将推动储能规模化发展，为储能投资、运营提供政策支持。但未直接涉及V2G、虚拟电厂或电力交易。
+行动建议:
+- 'A 趁早: 评估并参与共享储能电站项目布局，利用政策对调节能力优化的支持获取规模化收益。'
+- 'B 研究: 持续跟踪需求侧响应机制细节，为充电业务间接参与系统调节储备能力。'
+didi_impact_one_liner: 政策聚焦储能调节能力优化，直接利好储能业务，充电与加油暂无明确影响。
+sanitized_from: 0_raw/policies/【新型电力系统行动方案解读 优化电力系统调节能力】-中国工程院院士饶宏(国家能源局发布)-99c9.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

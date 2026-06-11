@@ -1,0 +1,31 @@
+pid: P_2026_HA_d8f71740
+themes:
+- power_market
+- green_power_trading_theme
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 5
+  D4: 3
+  D5: 3
+  D6: 5
+重要性: 5
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及。间接：充电作为用户侧资源，未来可能通过聚合商参与电力市场，但正文未明确具体机制。
+  电力_储能_V2G_交易: 电力交易直接涉及：正文提出建设绿色电力市场、完善现货和中长期市场、建立容量市场，为电力交易提供新规则与机会。储能、V2G未直接涉及，但新型经营主体（可能包括储能、虚拟电厂）被鼓励参与市场，需关注后续细则。
+行动建议:
+- 趁早：研究并参与绿色电力市场交易，把握全国统一市场下的跨省跨区交易机会。
+- 研究：密切关注新型经营主体（储能、VPP、V2G）参与电力市场的具体规则，评估试点机会。
+- 趁早：内部评估现有充电/储能资产在辅助服务市场和容量市场中的潜在价值，提前与电网对接。
+didi_impact_one_liner: 全国统一电力市场体系加速建成，绿色电力交易和新型主体参与是核心机会，需提前布局规则研究与资源匹配。
+sanitized_from: 0_raw/policies/【国务院办公厅印发《关于完善全国统一电力市场体系的实施意见》】-河南省发展和改革委员会-d8f71740.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

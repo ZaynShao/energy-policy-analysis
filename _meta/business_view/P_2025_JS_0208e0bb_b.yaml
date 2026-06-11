@@ -1,0 +1,30 @@
+pid: P_2025_JS_0208e0bb_b
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 4
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接：设备更新涵盖交通运输领域，加油设施可能属于存量设备范畴，但正文未明确具体支持。
+  充电: 未直接涉及。间接：能源电力领域设备更新可能包括充电基础设施，但正文未明确。
+  电力_储能_V2G_交易: 未直接涉及。间接：能源电力领域设备更新可能涵盖储能设备，但正文未明确提及V2G、虚拟电厂或电力交易。
+行动建议:
+- A 趁早:与省级发改部门沟通，确认公司加油、充电、储能相关设备是否纳入本次设备更新贷款贴息及投资补助支持范围。
+- B 研究:趁早梳理公司存量设备（加油机、充电桩、储能系统）运行年限与技术状态，为后续申报设备更新项目做准备。
+- C 趁早:关注后续配套实施细则，特别是针对能源电力领域的具体支持清单和申报条件。
+didi_impact_one_liner: 政策重点支持设备更新贷款贴息与投资补助，但未直接涉及加油、充电及储能业务，建议公司主动对接省级政策窗口。
+sanitized_from: 0_raw/policies/【江苏省2025年加力扩围实施大规模设备更新和消费品以旧换新政策】-江苏省发展和改革委员会、江苏省财政厅-93bc.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
