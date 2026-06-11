@@ -1,0 +1,30 @@
+pid: P_2026_FJ_GOV_1745
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 4
+  D5: 5
+  D6: 4
+重要性: 3
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接上，汽车以旧换新补贴可能鼓励淘汰老旧燃油车，对加油量有潜在影响。
+  充电: 未直接涉及。间接上，若政策支持新能源汽车置换，可能带动充电需求。
+  电力_储能_V2G_交易: 未直接涉及。正文无相关条款。
+行动建议:
+- 趁早跟进福建省2026年汽车以旧换新补贴实施细则的完整版，评估具体补贴标准对加油业务量的间接影响。
+- 趁早研究政策中是否包含新能源汽车置换专项补贴，以评估对充电基础设施布局的潜在需求。
+- 趁早与当地商务部门沟通，了解政策执行细节，为加油站转型充电服务做好储备调研。
+didi_impact_one_liner: 福建省汽车以旧换新补贴政策尚未发布细则，对三业务直接影响未明确，需密切跟踪后续条款。
+sanitized_from: 0_raw/policies/福建省商务厅等9部门关于印发《福建省2026年汽车以旧换新补贴实施细则》的通知.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

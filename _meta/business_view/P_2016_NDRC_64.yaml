@@ -1,0 +1,29 @@
+pid: P_2016_NDRC_64
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 4
+  D4: 1
+  D5: 5
+  D6: 1
+重要性: 5
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及。政策设定成品油价格调控下限（40美元/桶），建立油价调控风险准备金，简化调价操作方式，并修订《石油价格管理办法》。风险准备金专项用于节能减排、提升油品质量及保障石油供应安全，可能影响加油业务的采购成本及价格调整节奏。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。间接：风险准备金用途包含'节能减排'，可能对储能、V2G等减排技术有间接资金支持可能性，但正文未明确机制或额度。
+行动建议:
+- A 趁早:评估成品油价格下限机制对网约车司机用车成本及平台补贴策略的持续影响，并跟踪风险准备金配套管理办法出台后的具体使用方向。
+- B 研究:关注未来风险准备金是否可能拓展至充电基础设施或V2G等减排领域，作为协同备选方案。
+didi_impact_one_liner: 成品油价格下限机制锁定国内油价不再随国际油价大幅下跌，影响滴滴加油业务的成本传递与司机关怀策略。
+sanitized_from: 0_raw/policies/国家发展改革委关于进一步完善成品油价格形成机制有关问题的通知(发改价格〔2016〕64号).md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

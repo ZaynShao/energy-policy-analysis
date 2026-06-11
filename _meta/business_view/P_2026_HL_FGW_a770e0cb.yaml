@@ -1,0 +1,21 @@
+pid: P_2026_HL_FGW_a770e0cb
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 4
+  D4: 3
+  D5: 2
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/国家发展改革委组织召开视频会议安排部署全国迎峰度夏能源保供工作__1.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

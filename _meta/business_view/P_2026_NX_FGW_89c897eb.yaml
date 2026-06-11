@@ -1,0 +1,29 @@
+pid: P_2026_NX_FGW_89c897eb
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 宁夏汽柴油最高零售价统一上调，92号汽油6.98元/升，0号柴油6.61元/升，自2026年2月24日24时起执行，直接影响加油业务定价合规与成本传导。
+  充电: 未直接涉及。间接：油价上调可能小幅促进充电替代需求，但非该政策直接作用。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 趁早：按公告上限调整全区加油站零售价，确保合规并监测客户价格敏感度。
+- 趁早：更新用户端价格展示及营销话术，应对油价上涨带来的短期订单波动。
+didi_impact_one_liner: 宁夏成品油零售价普涨，加油业务需立刻合规调价，充电替代效应微弱。
+sanitized_from: 0_raw/policies/宁夏成品油价格调整公告（2026年第03号）.md
+extracted_at: '2026-06-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
