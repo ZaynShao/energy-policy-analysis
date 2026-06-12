@@ -1,0 +1,29 @@
+pid: P_2026_JS_FGW_4cc6da7c
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 1
+  D4: 2
+  D5: 5
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 该政策直接涉及储能业务：南京市发改委批复了中城大有六合龙袍50MW/100MWh储能电站的送出工程核准申请，新建110kV输电线路，总投资425.31万元。这表明该储能电站项目即将进入送出工程建设阶段，对储能项目落地有直接促进作用。但未涉及V2G、虚拟电厂或电力交易机制。
+行动建议:
+- '趁早: 梳理南京及周边已核准或待核准的储能送出工程项目，评估公司参与类似送出工程建设的可行性，并主动对接属地发改、规划部门获取后续项目信息。'
+- '研究: 关注该储能电站（50MW/100MWh）后续调试、并网及运营动态，跟踪其调峰调频、容量市场收益情况，为公司同类储能项目投资决策提供参考。'
+didi_impact_one_liner: 南京发改委核准一50MW/100MWh储能电站送出工程，储能基础设施建设进展加速。
+sanitized_from: 0_raw/policies/中城大有六合龙袍50MW_100MWh储能电站项目送出工程获批.md
+extracted_at: '2026-06-12'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
