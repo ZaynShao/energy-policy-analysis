@@ -10458,6 +10458,11 @@
         "confidence": 1.0
       },
       {
+        "to": "P_2025_NM_GOV_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
         "to": "P_2026_HB_X_5",
         "rel": "references",
         "confidence": 0.72
@@ -10469,6 +10474,11 @@
       }
     ],
     "inbound": [
+      {
+        "from": "P_2025_NM_GOV_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
       {
         "from": "P_2026_HB_X_16",
         "rel": "cites_basis",
@@ -10503,6 +10513,11 @@
         "from": "P_2026_ZJ_GOV_149",
         "rel": "clarifies",
         "confidence": 0.86
+      },
+      {
+        "from": "P_2025_NM_GOV_5",
+        "rel": "references",
+        "confidence": 0.72
       },
       {
         "from": "P_2026_HB_X_16",
@@ -13686,6 +13701,107 @@
       },
       {
         "from": "P_2025_NEA_36",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
+  "P_2025_NM_GOV_5": {
+    "outbound": [
+      {
+        "to": "P_2025_HE_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_HB_X_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_XZ_X_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2025_HE_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_HB_X_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_XZ_X_5",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2026_HB_X_16",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_HB_X_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_ZJ_GOV_149",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_HB_X_16",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2026_HB_X_5",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2026_XZ_X_5",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2026_ZJ_GOV_149",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2025_HE_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_HB_X_16",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_HB_X_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_LN_02013fa8",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_XZ_X_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_ZJ_GOV_149",
         "rel": "references",
         "confidence": 0.72
       }
@@ -16936,6 +17052,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2025_NM_GOV_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2026_HB_X_5",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -16952,6 +17073,11 @@
       },
       {
         "to": "P_2025_MOFCOM_4_a",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "to": "P_2025_NM_GOV_5",
         "rel": "clarifies",
         "confidence": 0.86
       },
@@ -16977,6 +17103,11 @@
       },
       {
         "to": "P_2025_MOFCOM_4_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2025_NM_GOV_5",
         "rel": "references",
         "confidence": 0.72
       },
@@ -17262,6 +17393,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2025_NM_GOV_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2026_XZ_X_5",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -17273,6 +17409,11 @@
       },
       {
         "to": "P_2025_MOFCOM_4_a",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "to": "P_2025_NM_GOV_5",
         "rel": "clarifies",
         "confidence": 0.86
       },
@@ -17297,12 +17438,22 @@
         "confidence": 0.72
       },
       {
+        "to": "P_2025_NM_GOV_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
         "to": "P_2026_XZ_X_5",
         "rel": "references",
         "confidence": 0.72
       }
     ],
     "inbound": [
+      {
+        "from": "P_2025_NM_GOV_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
       {
         "from": "P_2026_HB_X_16",
         "rel": "cites_basis",
@@ -17335,6 +17486,11 @@
       },
       {
         "from": "P_2025_HE_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_NM_GOV_5",
         "rel": "references",
         "confidence": 0.72
       },
@@ -17867,6 +18023,11 @@
     "outbound": [
       {
         "to": "P_2025_HE_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2025_NM_GOV_5",
         "rel": "references",
         "confidence": 0.72
       },
@@ -19198,6 +19359,11 @@
         "confidence": 0.86
       },
       {
+        "to": "P_2025_NM_GOV_5",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
         "to": "P_2026_HB_X_5",
         "rel": "clarifies",
         "confidence": 0.86
@@ -19218,6 +19384,11 @@
         "confidence": 0.72
       },
       {
+        "to": "P_2025_NM_GOV_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
         "to": "P_2026_HB_X_5",
         "rel": "references",
         "confidence": 0.72
@@ -19233,6 +19404,11 @@
         "from": "P_2026_HB_X_7659689a",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2025_NM_GOV_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
       },
       {
         "from": "P_2026_HB_X_16",
@@ -19266,6 +19442,11 @@
       },
       {
         "from": "P_2025_HE_5",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_NM_GOV_5",
         "rel": "references",
         "confidence": 0.72
       },
@@ -19545,6 +19726,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2025_NM_GOV_5",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2026_HB_X_5",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -19561,6 +19747,11 @@
       },
       {
         "to": "P_2025_MOFCOM_4_a",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "to": "P_2025_NM_GOV_5",
         "rel": "clarifies",
         "confidence": 0.86
       },
@@ -19586,6 +19777,11 @@
       },
       {
         "to": "P_2025_MOFCOM_4_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2025_NM_GOV_5",
         "rel": "references",
         "confidence": 0.72
       },

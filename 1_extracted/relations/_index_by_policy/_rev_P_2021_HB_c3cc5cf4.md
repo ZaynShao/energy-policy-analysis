@@ -3,7 +3,7 @@ policy_id: P_2021_HB_c3cc5cf4
 title: 关于印发《武汉市新能源汽车充电基础设施建设运营管理暂行办法 ...
 inbound_edge_count: 2
 outbound_edge_count: 3
-last_updated: '2026-06-11T16:10:24+08:00'
+last_updated: '2026-06-13T02:01:11+08:00'
 ---
 
 > 政策原文:[[【关于印发《武汉市新能源汽车充电基础设施建设运营管理暂行办法 ...】-政府门户.fgw.wuhan.gov.cn-c3cc5cf4|关于印发《武汉市新能源汽车充电基础设施建设运营管理暂行办法 ...]]
