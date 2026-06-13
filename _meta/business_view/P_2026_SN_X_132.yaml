@@ -1,0 +1,21 @@
+pid: P_2026_SN_X_132
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/陕西省市场监督管理局关于转发市场监管总局 《婴幼儿辅助食品安全监管 “守护成长”提升行动工作方案》的通知.md
+extracted_at: '2026-06-13'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,29 @@
+pid: P_2026_NX_FGW_a6204ab1
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 2
+  D5: 4
+  D6: 2
+重要性: 4
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及。该办法主要针对电力市场不平衡资金管理，不涉及充电基础设施运营或电价标准。
+  电力_储能_V2G_交易: 未直接涉及。通知及正文节选未提供管理办法具体条款；标题及已判主题（power_market）表明该办法影响电力市场结算规则，但缺少明确机制描述，无法判断对储能、V2G、虚拟电厂或电力交易的具体直接影响。
+行动建议:
+- 'A 趁早: 待宁夏发改委正式发布管理办法全文后，立即组织法务与业务团队评估对充电站、储能及V2G项目在宁夏参与电力市场时的不平衡资金分摊影响。'
+- 'B 研究: 基于现有宁夏电力市场结算规则，预判不平衡资金分摊机制可能对聚合商或用户侧主体的成本影响，提前准备应对策略。'
+didi_impact_one_liner: 该政策为宁夏电力市场管理修订征求意见，因附件未公开，目前对滴滴加油、充电、储能及V2G业务暂无直接可识别的影响，需关注正式文件。
+sanitized_from: 0_raw/policies/自治区发展改革委关于征求《宁夏电力市场不平衡资金管理办法（修订稿）》意见建议的通知（已结束）.md
+extracted_at: '2026-06-13'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
