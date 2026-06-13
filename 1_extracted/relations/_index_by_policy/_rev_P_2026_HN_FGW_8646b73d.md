@@ -3,7 +3,7 @@ policy_id: P_2026_HN_FGW_8646b73d
 title: 关于调整成品油价格的通知(2026年6月4日)
 inbound_edge_count: 3
 outbound_edge_count: 1
-last_updated: '2026-06-13T02:01:11+08:00'
+last_updated: '2026-06-14T02:01:41+08:00'
 ---
 
 > 政策原文:[[关于调整成品油价格的通知(2026年6月4日)|关于调整成品油价格的通知(2026年6月4日)]]
