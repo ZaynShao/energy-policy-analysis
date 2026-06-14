@@ -1,0 +1,22 @@
+pid: P_2026_SC_20
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 3
+  D4: 3
+  D5: 3
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/人力资源社会保障部 工业和信息化部 财政部 住房城乡建设部 交通运输部 国家卫生健康委应急管理部 市场监管总局
+  全国总工会关于印发工伤预防五年行动计划（2026.md
+extracted_at: '2026-06-14'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
