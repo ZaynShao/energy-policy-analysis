@@ -3,7 +3,7 @@ policy_id: P_2026_FJ_X_3
 title: 福建省市场监管局
 inbound_edge_count: 3
 outbound_edge_count: 0
-last_updated: '2026-06-14T02:01:41+08:00'
+last_updated: '2026-06-15T02:01:36+08:00'
 ---
 
 > 政策原文:[[福建省市场监管局|福建省市场监管局]]

@@ -3352,6 +3352,16 @@
       }
     ]
   },
+  "P_2023_HA_714f16d4": {
+    "outbound": [
+      {
+        "to": "P_2026_SC_52",
+        "rel": "aligns_with",
+        "confidence": 0.6
+      }
+    ],
+    "inbound": []
+  },
   "P_2023_HA_d3dbf5b3": {
     "outbound": [],
     "inbound": [
@@ -5307,6 +5317,16 @@
         "confidence": 0.95
       }
     ]
+  },
+  "P_2024_GD_c45bd924": {
+    "outbound": [
+      {
+        "to": "P_2026_SC_52",
+        "rel": "aligns_with",
+        "confidence": 0.7
+      }
+    ],
+    "inbound": []
   },
   "P_2024_GD_d62c53cf": {
     "outbound": [
@@ -17850,6 +17870,11 @@
   "P_2026_HN_1c02e10e": {
     "outbound": [
       {
+        "to": "P_2026_OTHER_X_52",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
         "to": "P_2026_SC_FGW_99",
         "rel": "aligns_with",
         "confidence": 0.9
@@ -18652,6 +18677,27 @@
       }
     ]
   },
+  "P_2026_OTHER_X_52": {
+    "outbound": [
+      {
+        "to": "P_2026_SC_52",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2026_HN_1c02e10e",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
+        "from": "P_2026_SC_52",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
   "P_2026_QH_ab4dcbb6": {
     "outbound": [
       {
@@ -18751,6 +18797,32 @@
         "from": "P_2026_BJ_8d4a952a",
         "rel": "aligns_with",
         "confidence": 0.95
+      }
+    ]
+  },
+  "P_2026_SC_52": {
+    "outbound": [
+      {
+        "to": "P_2026_OTHER_X_52",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2023_HA_714f16d4",
+        "rel": "aligns_with",
+        "confidence": 0.6
+      },
+      {
+        "from": "P_2024_GD_c45bd924",
+        "rel": "aligns_with",
+        "confidence": 0.7
+      },
+      {
+        "from": "P_2026_OTHER_X_52",
+        "rel": "references",
+        "confidence": 0.72
       }
     ]
   },
