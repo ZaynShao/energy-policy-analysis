@@ -6,7 +6,7 @@ title: 关于贯彻落实进一步深化燃煤发电上网电价市场化改革�
 official_number: 黑发改规〔2021〕3号
 issuer:
 - 黑龙江省发展和改革委员会
-date: '2021-10-15'
+date: '2021-10-25'
 region:
   level: 省
   code: '230000'
@@ -19,6 +19,9 @@ provenance:
   audit_run: audit_2026-05-06
   candidate_priority: 3
   src_count: 1
+  date_fixed_at: '2026-06-15T16:28:25+08:00'
+  date_fixed_method: body_chinese_date
+  date_fixed_from: '2021-10-15'
 confidence: medium
 ---
 
@@ -91,3 +94,4 @@ confidence: medium
 
 -
 扫一扫在手机打开当前页
+
