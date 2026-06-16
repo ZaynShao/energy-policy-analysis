@@ -1,0 +1,21 @@
+pid: P_1998_SC_227944ce
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 3
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 1
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/国家市场监督管理总局令（第127号）市场监管总局关于修改《商品条码管理办法》的决定商品条码管理办法.md
+extracted_at: '2026-06-16'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
