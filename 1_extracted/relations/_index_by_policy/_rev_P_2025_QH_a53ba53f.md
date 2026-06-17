@@ -3,7 +3,7 @@ policy_id: P_2025_QH_a53ba53f
 title: 2025年3月电力市场化交易电量情况
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-06-17T02:01:35+08:00'
+last_updated: '2026-06-18T02:00:09+08:00'
 ---
 
 > 政策原文:[[【2025年3月电力市场化交易电量情况】-青海省发展和改革委员会-a53ba53f|2025年3月电力市场化交易电量情况]]

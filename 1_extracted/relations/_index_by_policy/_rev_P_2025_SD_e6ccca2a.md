@@ -3,7 +3,7 @@ policy_id: P_2025_SD_e6ccca2a
 title: 山东深化电力市场化改革，明确新能源入市时间表
 inbound_edge_count: 4
 outbound_edge_count: 1
-last_updated: '2026-06-17T02:01:35+08:00'
+last_updated: '2026-06-18T02:00:09+08:00'
 ---
 
 > 政策原文:[[【山东深化电力市场化改革，明确新能源入市时间表】-山东省能源局-e6ccca2a|山东深化电力市场化改革，明确新能源入市时间表]]
