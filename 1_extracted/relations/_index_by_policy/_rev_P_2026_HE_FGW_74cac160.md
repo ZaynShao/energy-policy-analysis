@@ -3,7 +3,7 @@ policy_id: P_2026_HE_FGW_74cac160
 title: 关于调整成品油价格的公告（2026年第9号）
 inbound_edge_count: 0
 outbound_edge_count: 2
-last_updated: '2026-06-18T02:00:09+08:00'
+last_updated: '2026-06-19T02:00:09+08:00'
 ---
 
 > 政策原文:[[关于调整成品油价格的公告（2026年第9号）|关于调整成品油价格的公告（2026年第9号）]]
