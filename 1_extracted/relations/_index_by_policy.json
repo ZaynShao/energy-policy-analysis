@@ -3869,7 +3869,13 @@
     ]
   },
   "P_2023_NDRC_a523a75f": {
-    "outbound": [],
+    "outbound": [
+      {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
     "inbound": [
       {
         "from": "P_2023_NDRC_0915531d",
@@ -3892,6 +3898,11 @@
         "confidence": 0.9
       },
       {
+        "from": "P_2026_SC_FGW_1283",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "from": "P_2024_FJ_4c5c6902",
         "rel": "clarifies",
         "confidence": 0.86
@@ -3905,6 +3916,11 @@
         "from": "P_2025_MIIT_60",
         "rel": "clarifies",
         "confidence": 0.86
+      },
+      {
+        "from": "P_2026_SC_FGW_1283",
+        "rel": "derives_from",
+        "confidence": 0.95
       },
       {
         "from": "P_2023_NX_94608c71",
@@ -3938,6 +3954,11 @@
       },
       {
         "from": "P_2025_SH_5_c",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SC_FGW_1283",
         "rel": "references",
         "confidence": 0.72
       }
@@ -4238,6 +4259,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2022_NX_0d7f402e",
         "rel": "references",
         "confidence": 0.72
@@ -4249,6 +4275,11 @@
       },
       {
         "to": "P_2023_NDRC_a523a75f",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
         "rel": "references",
         "confidence": 0.72
       }
@@ -4860,6 +4891,11 @@
         "to": "P_2025_SC_cc687c4e",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "aligns_with",
+        "confidence": 0.95
       }
     ],
     "inbound": []
@@ -4912,7 +4948,17 @@
         "confidence": 0.86
       },
       {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
         "to": "P_2023_NDRC_a523a75f",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
         "rel": "references",
         "confidence": 0.72
       }
@@ -5058,6 +5104,11 @@
   },
   "P_2024_GD_060777c1": {
     "outbound": [
+      {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
       {
         "to": "P_2026_SD_03271ffc",
         "rel": "aligns_with",
@@ -8630,7 +8681,13 @@
     "inbound": []
   },
   "P_2024_XJ_31441a14": {
-    "outbound": [],
+    "outbound": [
+      {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      }
+    ],
     "inbound": [
       {
         "from": "P_2024_FJ_89cec6cc",
@@ -9519,6 +9576,11 @@
         "to": "P_2026_GZ_FGW_c69603a0",
         "rel": "aligns_with",
         "confidence": 0.9
+      },
+      {
+        "to": "P_2026_GZ_FGW_c9e6d4c7",
+        "rel": "aligns_with",
+        "confidence": 0.95
       }
     ],
     "inbound": []
@@ -9627,6 +9689,11 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_LN_FGW_30755c2d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_SH_875645c5",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -9655,6 +9722,11 @@
         "to": "P_2026_GZ_FGW_c69603a0",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_GZ_FGW_c9e6d4c7",
+        "rel": "aligns_with",
+        "confidence": 1.0
       }
     ],
     "inbound": []
@@ -10079,6 +10151,11 @@
         "to": "P_2025_ZJ_9913d312",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "aligns_with",
+        "confidence": 0.85
       }
     ],
     "inbound": [
@@ -10595,6 +10672,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2021_NDRC_9802552e",
         "rel": "references",
         "confidence": 0.72
@@ -10616,6 +10698,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
         "rel": "references",
         "confidence": 0.72
       }
@@ -10905,7 +10992,17 @@
         "confidence": 0.86
       },
       {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
         "to": "P_2023_NDRC_a523a75f",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
         "rel": "references",
         "confidence": 0.72
       }
@@ -11415,6 +11512,16 @@
       }
     ]
   },
+  "P_2025_JX_493b9f65": {
+    "outbound": [
+      {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ],
+    "inbound": []
+  },
   "P_2025_JX_4e08a81b": {
     "outbound": [],
     "inbound": [
@@ -11693,7 +11800,17 @@
         "confidence": 0.86
       },
       {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
         "to": "P_2023_NDRC_a523a75f",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
         "rel": "references",
         "confidence": 0.72
       }
@@ -14167,6 +14284,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2023_NDRC_a523a75f",
         "rel": "references",
         "confidence": 0.72
@@ -14178,6 +14300,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
         "rel": "references",
         "confidence": 0.72
       }
@@ -14843,6 +14970,11 @@
         "to": "P_2024_SH_28",
         "rel": "references",
         "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1283",
+        "rel": "references",
+        "confidence": 0.72
       }
     ],
     "inbound": []
@@ -15459,6 +15591,11 @@
     "outbound": [
       {
         "to": "P_2026_HI_FGW_2a789bab",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "to": "P_2026_NX_FGW_36aa4747",
         "rel": "aligns_with",
         "confidence": 0.95
       },
@@ -16346,6 +16483,11 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_LN_FGW_30755c2d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_LN_FGW_5a543023",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -16392,7 +16534,17 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_LN_FGW_30755c2d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_LN_FGW_5a543023",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "to": "P_2026_NX_FGW_36aa4747",
         "rel": "aligns_with",
         "confidence": 0.95
       },
@@ -16438,6 +16590,11 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_LN_FGW_30755c2d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_LN_FGW_5a543023",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -16468,6 +16625,37 @@
         "from": "P_2025_GD_badbf18f",
         "rel": "aligns_with",
         "confidence": 0.95
+      }
+    ]
+  },
+  "P_2026_GZ_FGW_c9e6d4c7": {
+    "outbound": [
+      {
+        "to": "P_2026_HN_FGW_8646b73d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "to": "P_2026_LN_FGW_30755c2d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "to": "P_2026_LN_FGW_5a543023",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2025_GD_1e47cd63",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2025_GD_badbf18f",
+        "rel": "aligns_with",
+        "confidence": 1.0
       }
     ]
   },
@@ -17807,6 +17995,11 @@
   "P_2026_HE_FGW_74cac160": {
     "outbound": [
       {
+        "to": "P_2026_NX_FGW_36aa4747",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_SH_875645c5",
         "rel": "aligns_with",
         "confidence": 0.9
@@ -17949,6 +18142,11 @@
       },
       {
         "from": "P_2026_GZ_FGW_c69603a0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_c9e6d4c7",
         "rel": "aligns_with",
         "confidence": 0.95
       }
@@ -18150,6 +18348,42 @@
     ],
     "inbound": []
   },
+  "P_2026_LN_FGW_30755c2d": {
+    "outbound": [
+      {
+        "to": "P_2026_NX_FGW_89c897eb",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2025_GD_b7cfd44d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_4dcad36e",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_bfde16b0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_c69603a0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_c9e6d4c7",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ]
+  },
   "P_2026_LN_FGW_5a543023": {
     "outbound": [],
     "inbound": [
@@ -18165,6 +18399,11 @@
       },
       {
         "from": "P_2026_GZ_FGW_c69603a0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_c9e6d4c7",
         "rel": "aligns_with",
         "confidence": 0.95
       }
@@ -18657,6 +18896,32 @@
       }
     ]
   },
+  "P_2026_NX_FGW_36aa4747": {
+    "outbound": [
+      {
+        "to": "P_2026_ZJ_FGW_f31b45fe",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2026_BJ_99ffa774",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_bfde16b0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_HE_FGW_74cac160",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ]
+  },
   "P_2026_NX_FGW_87": {
     "outbound": [],
     "inbound": [
@@ -18682,6 +18947,11 @@
       },
       {
         "from": "P_2026_GZ_FGW_bfde16b0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_LN_FGW_30755c2d",
         "rel": "aligns_with",
         "confidence": 0.95
       }
@@ -18882,6 +19152,122 @@
       },
       {
         "from": "P_2026_NDRC_622",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
+  "P_2026_SC_FGW_1283": {
+    "outbound": [
+      {
+        "to": "P_2023_NDRC_a523a75f",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2023_NDRC_a523a75f",
+        "rel": "derives_from",
+        "confidence": 0.95
+      },
+      {
+        "to": "P_2023_NDRC_a523a75f",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2024_FJ_1f0dea35",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2024_GD_060777c1",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2024_XJ_31441a14",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_GZ_98d4b413",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
+        "from": "P_2025_JX_493b9f65",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2023_NX_94608c71",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_HE_79c43f8b",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_SC_cc687c4e",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2024_FJ_4c5c6902",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2025_HI_FGW_899",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2025_MIIT_60",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2023_NDRC_a523a75f",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2023_NX_94608c71",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2024_FJ_4c5c6902",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_HE_79c43f8b",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_HI_FGW_899",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_MIIT_60",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_SC_cc687c4e",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_SH_5_c",
         "rel": "references",
         "confidence": 0.72
       }
@@ -19901,6 +20287,11 @@
       },
       {
         "from": "P_2026_HI_FGW_2a789bab",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_FGW_36aa4747",
         "rel": "aligns_with",
         "confidence": 0.95
       },
