@@ -1,0 +1,29 @@
+pid: P_2026_GZ_FGW_c9e6d4c7
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 4
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 成品油价格下调（89#汽油每吨下调515元，0#柴油每吨下调495元），加油站须在不超过政府制定的最高批发、零售价格前提下确定实际售价，并严格执行国家价格政策、规范经营行为，接受市场监管
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- '趁早: 调整贵州省内加油站零售价格系统及价签，确保在6月18日24时起执行新的最高限价'
+- '研究: 趁早核查价格联动及补贴政策细则，评估本次调价对采购成本及终端销量的间接影响'
+didi_impact_one_liner: 贵州成品油价格下调，加油业务需在18日24时前完成价格切换并确保合规经营，其他业务暂未受影响。
+sanitized_from: 0_raw/policies/2026年6月18日24时起贵州成品油价格调整.md
+extracted_at: '2026-06-19'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

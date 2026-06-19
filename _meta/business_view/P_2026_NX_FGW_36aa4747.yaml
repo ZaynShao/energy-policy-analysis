@@ -1,0 +1,29 @@
+pid: P_2026_NX_FGW_36aa4747
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 汽柴油最高零售价格调整，具体价格已公布，自2026年4月21日24时起执行。
+  充电: 未直接涉及。间接观察：油价调整可能影响用户对充电与加油的选择偏好，但正文未提供任何具体关联机制或数据。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 'A 趁早: 根据最新价格表，更新加油站零售价标签、结算系统及对外公示信息，确保合规执行。'
+- 'B 研究: 趁早评估油价变动对充电业务相对经济性的潜在影响，用于后续市场策略参考。'
+didi_impact_one_liner: 宁夏成品油零售价格调整，直接影响加油业务价格体系，充电及电力业务未直接涉及。
+sanitized_from: 0_raw/policies/宁夏成品油价格调整公告（2026年第07号）.md
+extracted_at: '2026-06-19'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
