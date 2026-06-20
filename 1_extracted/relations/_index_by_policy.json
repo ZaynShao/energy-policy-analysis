@@ -9689,6 +9689,11 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_HN_FGW_027c0ac2",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_LN_FGW_30755c2d",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -16478,6 +16483,11 @@
   "P_2026_GZ_FGW_4dcad36e": {
     "outbound": [
       {
+        "to": "P_2026_HN_FGW_027c0ac2",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_HN_FGW_8646b73d",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -16528,6 +16538,11 @@
   },
   "P_2026_GZ_FGW_bfde16b0": {
     "outbound": [
+      {
+        "to": "P_2026_HN_FGW_027c0ac2",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
       {
         "to": "P_2026_HN_FGW_8646b73d",
         "rel": "aligns_with",
@@ -16585,6 +16600,11 @@
   "P_2026_GZ_FGW_c69603a0": {
     "outbound": [
       {
+        "to": "P_2026_HN_FGW_027c0ac2",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_HN_FGW_8646b73d",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -16630,6 +16650,11 @@
   },
   "P_2026_GZ_FGW_c9e6d4c7": {
     "outbound": [
+      {
+        "to": "P_2026_HN_FGW_027c0ac2",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
       {
         "to": "P_2026_HN_FGW_8646b73d",
         "rel": "aligns_with",
@@ -18118,6 +18143,42 @@
         "from": "P_2024_CQ_1023dd1b",
         "rel": "aligns_with",
         "confidence": 0.85
+      }
+    ]
+  },
+  "P_2026_HN_FGW_027c0ac2": {
+    "outbound": [
+      {
+        "to": "P_2026_SH_875645c5",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2025_GD_b7cfd44d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_4dcad36e",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_bfde16b0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_c69603a0",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_GZ_FGW_c9e6d4c7",
+        "rel": "aligns_with",
+        "confidence": 0.95
       }
     ]
   },
@@ -19710,6 +19771,11 @@
         "from": "P_2026_HE_FGW_74cac160",
         "rel": "aligns_with",
         "confidence": 0.9
+      },
+      {
+        "from": "P_2026_HN_FGW_027c0ac2",
+        "rel": "aligns_with",
+        "confidence": 0.95
       },
       {
         "from": "P_2026_HN_FGW_8646b73d",
