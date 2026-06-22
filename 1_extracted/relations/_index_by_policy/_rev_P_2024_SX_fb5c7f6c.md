@@ -3,7 +3,7 @@ policy_id: P_2024_SX_fb5c7f6c
 title: 发展改革委令-山西省发改委门户网站
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-06-21T02:00:35+08:00'
+last_updated: '2026-06-23T02:00:10+08:00'
 ---
 
 > 政策原文:[[【发展改革委令-山西省发改委门户网站】-山西省发展和改革委员会-fb5c7f6c|发展改革委令-山西省发改委门户网站]]

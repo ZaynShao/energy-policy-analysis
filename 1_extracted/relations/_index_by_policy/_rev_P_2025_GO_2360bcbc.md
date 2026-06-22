@@ -3,7 +3,7 @@ policy_id: P_2025_GO_2360bcbc
 title: 南方电网首个交流V2G车桩网协同体系落地海口
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-06-21T02:00:35+08:00'
+last_updated: '2026-06-23T02:00:10+08:00'
 ---
 
 > 政策原文:[[【南方电网首个交流V2G车桩网协同体系落地海口】-未知机构-2360bcbc|南方电网首个交流V2G车桩网协同体系落地海口]]
