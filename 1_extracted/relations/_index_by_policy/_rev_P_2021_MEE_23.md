@@ -3,7 +3,7 @@ policy_id: P_2021_MEE_23
 title: 2030年前碳达峰行动方案
 inbound_edge_count: 8
 outbound_edge_count: 0
-last_updated: '2026-06-23T02:00:09+08:00'
+last_updated: '2026-06-24T02:00:57+08:00'
 ---
 
 > 政策原文:[[【2030年前碳达峰行动方案(国发〔2021〕23号)】-国务院-9f86|2030年前碳达峰行动方案]]

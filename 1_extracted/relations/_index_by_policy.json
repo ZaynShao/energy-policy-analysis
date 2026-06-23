@@ -18800,6 +18800,16 @@
       }
     ]
   },
+  "P_2026_NDRC_698": {
+    "outbound": [
+      {
+        "to": "P_2026_SD_0401ca27",
+        "rel": "aligns_with",
+        "confidence": 0.8
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_NDRC_abc95ba1": {
     "outbound": [],
     "inbound": [
@@ -19500,6 +19510,11 @@
         "from": "P_2025_HN_ad769c90",
         "rel": "aligns_with",
         "confidence": 0.7
+      },
+      {
+        "from": "P_2026_NDRC_698",
+        "rel": "aligns_with",
+        "confidence": 0.8
       }
     ]
   },
