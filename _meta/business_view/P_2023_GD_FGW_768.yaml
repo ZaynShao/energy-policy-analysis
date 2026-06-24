@@ -1,0 +1,21 @@
+pid: P_2023_GD_FGW_768
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 1
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/广东省发展改革委关于省内进口液化天然气接收站气化服务价格有关问题的通知2024-01-12.md
+extracted_at: '2026-06-24'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

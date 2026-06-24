@@ -1,0 +1,21 @@
+pid: P_2026_HN_FGW_de4f70ff
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于湖南省重点用能单位能耗在线监测系统双碳功能升级与适配改造服务单位遴选结果的公告.md
+extracted_at: '2026-06-24'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

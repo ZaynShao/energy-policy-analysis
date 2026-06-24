@@ -1,0 +1,31 @@
+pid: P_2026_NX_FGW_8
+themes:
+- equipment_renewal_theme
+- charging_infra
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 5
+  D5: 4
+  D6: 4
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+- 壁垒
+影响分析:
+  加油: 未直接涉及。间接看，方案明确淘汰老旧柴油货车、更新新能源巡游出租车及物流配送车辆，将抑制燃油消费，对加油业务构成结构性替代压力。
+  充电: 直接涉及。方案明确2026年新增500个公共充电枪，并鼓励社会资本在物流园区等场景建设大功率快充站或换电站，为充电业务带来明确市场增量。
+  电力_储能_V2G_交易: 未直接涉及。正文未提及储能、虚拟电厂、V2G或电力交易相关机制。
+行动建议:
+- 'A 趁早: 着手对接银川市交通运输局及社会资本，参与公共充电枪、大功率快充站及换电站的建设与运营投标，抢占政策窗口期。'
+- 'B 趁早: 分析加油站点网络在新能源替代加速背景下的流量与盈利变化，提前评估存量站点转型为综合能源服务站（含充电）的可行性。'
+didi_impact_one_liner: 政策加速燃油车淘汰并明确充电设施建设目标，直接利好充电业务，同时加速加油业务的结构性萎缩。
+sanitized_from: 0_raw/policies/银川市人民政府办公室关于印发《银川市推进货车  巡游出租车新能源替代工作方案（试行）》的通知.md
+extracted_at: '2026-06-24'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
