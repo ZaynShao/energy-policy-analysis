@@ -3,7 +3,7 @@ policy_id: P_2023_MOFCOM_0603e88a
 title: 成品油流通管理办法(征求意见稿)
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-06-24T02:00:57+08:00'
+last_updated: '2026-06-25T02:00:54+08:00'
 ---
 
 > 政策原文:[[【成品油流通管理办法(征求意见稿)】-商务部-2d80|成品油流通管理办法(征求意见稿)]]

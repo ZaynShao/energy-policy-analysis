@@ -3,7 +3,7 @@ policy_id: P_2023_NDRC_08223fec
 title: 绿色低碳先进技术示范工程实施方案
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-06-24T02:00:57+08:00'
+last_updated: '2026-06-25T02:00:54+08:00'
 ---
 
 > 政策原文:[[【绿色低碳先进技术示范工程实施方案】-国家发展改革委等十部门-5f08|绿色低碳先进技术示范工程实施方案]]
