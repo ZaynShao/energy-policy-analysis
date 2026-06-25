@@ -3,7 +3,7 @@ policy_id: P_2022_STA_0729ac2b
 title: 国家税务总局关于取消增值税扣税凭证认证确认期限等增值税征管
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-06-25T02:00:54+08:00'
+last_updated: '2026-06-26T02:00:44+08:00'
 ---
 
 > 政策原文:[[【国家税务总局关于取消增值税扣税凭证认证确认期限等增值税征管】-政府门户.fgk.chinatax.gov.cn-0729ac2b|国家税务总局关于取消增值税扣税凭证认证确认期限等增值税征管]]
