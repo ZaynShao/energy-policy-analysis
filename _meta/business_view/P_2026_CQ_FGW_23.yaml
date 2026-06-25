@@ -1,19 +1,19 @@
-pid: P_2026_HN_FGW_169
+pid: P_2026_CQ_FGW_23
 themes: []
 primary_theme: ''
 comprehensive: false
 scores:
-  D1: 0
-  D2: 0
-  D3: 2
+  D1: 1
+  D2: 1
+  D3: 1
   D4: 1
   D5: 1
   D6: 1
-重要性: 0
+重要性: 1
 行动分类: D
 价值标签:
 - 趋势
-sanitized_from: 0_raw/policies/关于发布湖南省工业能源工程建设项目招标投标第二期信用评价结果的公告.md
+sanitized_from: 0_raw/policies/重庆市发展和改革委员会关于比选《重庆市内发外购电力项目布局优化方案》等3个项目前期研究承担单位的公告.md
 extracted_at: '2026-06-25'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: deepseek-v4-flash

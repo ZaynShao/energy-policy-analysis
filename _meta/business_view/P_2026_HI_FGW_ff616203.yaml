@@ -1,0 +1,29 @@
+pid: P_2026_HI_FGW_ff616203
+themes:
+- charging_infra
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 2
+  D3: 1
+  D4: 2
+  D5: 3
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签:
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 直接影响：海口市2026年继续推进充换电基础设施联合验收与补贴发放工作，明确要求充电场站接入省级平台并符合验收条件，企业需配合文件检查和现场验收，方可获得建设与运营补贴。
+  电力_储能_V2G_交易: 未直接涉及（间接观察：充电基础设施验收可能涉及配电容量等电力配套，但正文未提及储能、V2G或电力交易具体机制）
+行动建议:
+- 趁早梳理海口市现有及在建充电场站的合规情况，确保接入省级平台并备齐验收申报材料（如验收申请表、核查报告等），避免影响补贴申领。
+- 研究本次采购的验收服务内容与地方验收标准，提前对标《海南省电动汽车充电基础设施验收暂行办法》等技术文件，优化场站设备布置与标识。
+didi_impact_one_liner: 海口市持续推进充换电基础设施验收与补贴发放，规范充电场站运营。
+sanitized_from: 0_raw/policies/海口市发展和改革委员会关于海口市2026年充换电基础设施....md
+extracted_at: '2026-06-25'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
