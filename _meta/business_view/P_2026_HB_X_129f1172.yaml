@@ -1,0 +1,30 @@
+pid: P_2026_HB_X_129f1172
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 3
+  D3: 2
+  D4: 2
+  D5: 3
+  D6: 2
+重要性: 4
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 加油业务直接受本细则影响：需落实《成品油流通管理办法》及实施细则，重点包括批发仓储经营企业备案流程、‘全国石油市场管理应用’平台数据报送、零售经营许可及企业年检等合规要求，同时强化加油站等重点场所安全生产隐患排查整治。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 趁早组织内部合规专班，逐条对照《成品油流通管理办法》及本省实施细则，完成备案与数据报送流程的全面自查与整改。
+- 趁早更新加油站安全生产制度与应急预案，结合全国‘安全生产月’要求，开展一次全覆盖风险隐患排查。
+- 研究合规培训体系，将本次省级培训中提到的审批经验与站外加注做法纳入内部操作手册，提升一线合规能力。
+didi_impact_one_liner: 湖北省通过培训会推动成品油流通管理办法细则落地，重点强化加油业务合规与安全生产，未涉及充电及储能等业务。
+sanitized_from: 0_raw/policies/全省成品油流通管理办法实施细则暨成品油领域安全生产培训在武汉召开2026-06-24.md
+extracted_at: '2026-06-26'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
