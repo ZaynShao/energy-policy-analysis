@@ -3,7 +3,7 @@ policy_id: P_2026_SX_6f26eb5b
 title: 山西省发展和改革委员会
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-06-26T02:00:44+08:00'
+last_updated: '2026-06-27T02:00:59+08:00'
 ---
 
 > 政策原文:[[【山西省发展和改革委员会】-山西省发展和改革委员会-6f26eb5b|山西省发展和改革委员会]]

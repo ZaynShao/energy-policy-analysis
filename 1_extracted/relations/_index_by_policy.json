@@ -17393,6 +17393,21 @@
       }
     ]
   },
+  "P_2026_HB_X_129f1172": {
+    "outbound": [
+      {
+        "to": "P_2026_XZ_X_5",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "to": "P_2026_ZJ_GOV_149",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_HB_X_16": {
     "outbound": [
       {
@@ -20318,6 +20333,11 @@
         "confidence": 0.95
       },
       {
+        "from": "P_2026_HB_X_129f1172",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "from": "P_2026_HB_X_7659689a",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -20753,6 +20773,11 @@
         "from": "P_2026_HB_X_0659f86f",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_HB_X_129f1172",
+        "rel": "aligns_with",
+        "confidence": 0.9
       },
       {
         "from": "P_2026_HB_X_16",
