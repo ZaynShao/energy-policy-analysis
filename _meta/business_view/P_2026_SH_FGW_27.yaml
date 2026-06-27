@@ -1,19 +1,19 @@
-pid: P_2026_JS_FGW_7
+pid: P_2026_SH_FGW_27
 themes: []
 primary_theme: ''
 comprehensive: false
 scores:
-  D1: 1
-  D2: 1
+  D1: 0
+  D2: 0
   D3: 1
   D4: 1
-  D5: 2
+  D5: 1
   D6: 1
-重要性: 1
+重要性: 0
 行动分类: D
 价值标签:
 - 趋势
-sanitized_from: 0_raw/policies/关于公布南京市分布式光伏接入电网可开放容量信息的通知.md
+sanitized_from: 0_raw/policies/关于本市7-8月非居民用户天然气销售基准价格暂不调整的通知.md
 extracted_at: '2026-06-27'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: deepseek-v4-flash

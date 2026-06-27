@@ -1,0 +1,21 @@
+pid: P_2026_GD_FGW_16
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 3
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 3
+重要性: 2
+行动分类: A
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/广州市发展和改革委员会关于组织开展氢能产业发展资金2026年第一批燃料电池汽车示范运营补贴申报工作的通知.md
+extracted_at: '2026-06-27'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
