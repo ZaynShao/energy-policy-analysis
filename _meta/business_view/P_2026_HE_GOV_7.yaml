@@ -1,0 +1,21 @@
+pid: P_2026_HE_GOV_7
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于《河北省工业设计扩能提质实施方案（2026—2030年）》公平竞争审查征求意见的公告.md
+extracted_at: '2026-06-30'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

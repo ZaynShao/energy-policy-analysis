@@ -1,0 +1,21 @@
+pid: P_2026_CQ_X_13d381a5
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 3
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/市场监管总局会同中央网信办、国家铁路局 约谈7家涉火车票销售第三方平台.md
+extracted_at: '2026-06-30'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
