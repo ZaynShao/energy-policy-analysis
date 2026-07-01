@@ -1,0 +1,21 @@
+pid: P_2026_FJ_X_b14abb77
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 5
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: C
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/福州市市场监管局2026年下半年重点领域违法行为有奖举报清单.md
+extracted_at: '2026-07-01'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
