@@ -1,0 +1,21 @@
+pid: P_2026_JS_GOV_017dc0de
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 0
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/市发展改革委关于调整市区非居民用管道天然气销售价格的通知.md
+extracted_at: '2026-07-03'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
