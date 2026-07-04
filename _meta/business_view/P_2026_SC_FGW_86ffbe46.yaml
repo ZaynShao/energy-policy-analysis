@@ -1,0 +1,29 @@
+pid: P_2026_SC_FGW_86ffbe46
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接影响：本通知明确四川省三个价区汽、柴油最高零售价格相应调整，成品油零售企业可在不超过最高零售价格前提下自主制定具体零售价格。同时，批发及民营供应价格也相应调整。企业需在规定时间内执行新价格，并确保合规。
+  充电: 未直接涉及。间接观察：降低成品油价格可能短期内减少燃油车使用成本，对充电需求产生一定替代效应，但本通知未涉及充电业务具体政策或市场影响。
+  电力_储能_V2G_交易: 未直接涉及。间接观察：本通知未提及电力、储能、V2G或电力交易相关内容，无直接业务影响。
+行动建议:
+- A 趁早：根据通知附件和调整时间（2026年7月3日24时），更新加油站零售标价和批发系统，确保价格合规，避免因延迟执行导致价格违规风险。
+- B 研究：趁早评估成品油价格下调对公司加油业务利润及与充电业务竞争格局的短期影响，为后续定价策略提供依据。
+didi_impact_one_liner: 四川成品油最高零售价降低，加油业务需按时调价合规执行，充电及电力业务未直接涉及。
+sanitized_from: 0_raw/policies/关于降低成品油价格的通知(川发改价格〔2026〕265号).md
+extracted_at: '2026-07-04'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

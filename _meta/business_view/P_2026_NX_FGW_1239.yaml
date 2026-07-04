@@ -1,0 +1,21 @@
+pid: P_2026_NX_FGW_1239
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 2
+  D5: 2
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/自治区发展改革委关于我区电解铝企业2025年度用电执行阶梯电价政策有关事项的通知.md
+extracted_at: '2026-07-04'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

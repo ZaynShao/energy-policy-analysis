@@ -1,0 +1,21 @@
+pid: P_2026_OTHER_X_0e9ad217
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 3
+  D4: 4
+  D5: 5
+  D6: 1
+重要性: 1
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/财政部 税务总局 工业和信息化部关于调整节能汽车、新能源汽车车船税优惠政策的公告.md
+extracted_at: '2026-07-04'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

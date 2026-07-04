@@ -1,0 +1,30 @@
+pid: P_2026_NM_FGW_54cb2fef
+themes:
+- distribution_grid_opening
+- green_power_trading_theme
+primary_theme: distribution_grid_opening
+comprehensive: false
+scores:
+  D1: 4
+  D2: 3
+  D3: 2
+  D4: 2
+  D5: 3
+  D6: 4
+重要性: 3
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及（间接：正文提及“源网荷储协同”，可能为储能参与园区增量配电网提供场景，但未明确具体机制、准入或补贴；未涉及V2G、虚拟电厂或电力交易）
+行动建议:
+- 趁早：关注和林格尔新区增量配电网及绿电直连模式进展，评估源网荷储协同中储能、分布式资源聚合商的潜在参与机会
+- 研究：测算该园区模式对区域内增量配电网投资收益及绿电消纳成本的影响，提前布局算电协同相关业务策略
+didi_impact_one_liner: 和林格尔绿电园区方案以“绿电直连+增量配电网”推动算电协同，间接为储能参与源网荷储协同提供场景，但充电、V2G、电力交易暂未直接涉及。
+sanitized_from: 0_raw/policies/自治区能源局印发《和林格尔绿电园区电力基础 设施方案（1.0版....md
+extracted_at: '2026-07-04'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
