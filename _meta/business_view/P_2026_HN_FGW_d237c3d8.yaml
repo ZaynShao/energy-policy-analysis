@@ -1,0 +1,29 @@
+pid: P_2026_HN_FGW_d237c3d8
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 汽、柴油零售价格每吨分别下调950元和915元，实行最高价格管理，企业可在不超过最高零售价前提下自主定价；批发价格等额调整并规定了零售企业及民营批发企业的扣减标准。
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- 'A 趁早: 根据最新批发价差调整湖南地区加油站的零售定价策略，确保不超最高零售价同时维持合理利润空间。'
+- 'B 研究: 密切跟踪本次调价后湖南成品油市场供需及价格异常报告机制，评估对运营成本的短期影响。'
+didi_impact_one_liner: 湖南省成品油零售价大幅下调将直接降低滴滴出行旗下加油业务的采购成本，但需严格遵循最高零售价及批发扣差合规要求。
+sanitized_from: 0_raw/policies/关于调整成品油价格的通知(2026年7月3日).md
+extracted_at: '2026-07-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

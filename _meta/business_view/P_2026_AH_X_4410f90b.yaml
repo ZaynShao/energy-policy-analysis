@@ -1,0 +1,21 @@
+pid: P_2026_AH_X_4410f90b
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【利企便民】六安市餐饮等行业使用瓶装液化石油气需遵守哪些规定？.md
+extracted_at: '2026-07-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

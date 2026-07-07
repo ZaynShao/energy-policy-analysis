@@ -1,0 +1,29 @@
+pid: P_2026_HN_FGW_378
+themes:
+- charging_infra
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 壁垒
+影响分析:
+  加油: 未直接涉及
+  充电: 直接利好。政策明确对民营企业在省内投资额5000万元以上的充换电基础设施新建或改扩建项目，以及高速公路服务区项目，由省发改委统一备案，简化流程、提升效率，鼓励投资。
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- A 趁早：梳理湖南省内在建或拟建的充换电项目，对投资额接近或超过5000万元的项目，按打捆申报要求准备备案材料，争取省发改委统一备案红利。
+- B 研究：详细了解省发改委备案的具体流程、材料清单及打捆申报规则，优化内部项目立项和审批节奏，确保政策期内充分受益。
+didi_impact_one_liner: 湖南明确充换电项目备案权限上收至省发改委，5000万以上及高速项目打捆申报，简化审批、鼓励民资投入充电建设。
+sanitized_from: 0_raw/policies/湖南省发展和改革委员会关于明确充换电基础设施新建或改扩建投资项目备案管理有关事项的通知.md
+extracted_at: '2026-07-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

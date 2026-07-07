@@ -1,0 +1,22 @@
+pid: P_2026_SC_44d8c7d4
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 3
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/国家药品监督管理局 中华人民共和国公安部 中华人民共和国国家卫生健康委员会 国家市场监督管理总局 国家医疗保障局
+  国家中医药管理局 国家疾病预防控制局公告（20.md
+extracted_at: '2026-07-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
