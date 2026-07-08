@@ -3,7 +3,7 @@ policy_id: P_2026_HB_GOV_6426f7ea
 title: '@武汉新能源车主，7月1日起充电有变'
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-07-08T02:01:02+08:00'
+last_updated: '2026-07-09T02:00:30+08:00'
 ---
 
 > 政策原文:[[@武汉新能源车主，7月1日起充电有变|@武汉新能源车主，7月1日起充电有变]]
