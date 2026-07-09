@@ -3,7 +3,7 @@ policy_id: P_2022_NDRC_03213b6e_a
 title: 十四五新型储能发展实施方案
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-07-09T02:00:30+08:00'
+last_updated: '2026-07-10T02:00:17+08:00'
 ---
 
 > 政策原文:[[【十四五新型储能发展实施方案】-国家发展改革委 国家能源局-935b|十四五新型储能发展实施方案]]

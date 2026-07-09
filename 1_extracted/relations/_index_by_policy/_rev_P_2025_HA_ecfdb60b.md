@@ -3,7 +3,7 @@ policy_id: P_2025_HA_ecfdb60b
 title: 对省政协十三届三次会议第1330265号提案的答复
 inbound_edge_count: 0
 outbound_edge_count: 2
-last_updated: '2026-07-09T02:00:30+08:00'
+last_updated: '2026-07-10T02:00:17+08:00'
 ---
 
 > 政策原文:[[【对省政协十三届三次会议第1330265号提案的答复】-河南省发展和改革委员会-ecfdb60b|对省政协十三届三次会议第1330265号提案的答复]]

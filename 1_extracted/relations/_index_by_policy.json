@@ -3382,6 +3382,22 @@
     ],
     "inbound": []
   },
+  "P_2023_HA_X_17": {
+    "outbound": [
+      {
+        "to": "P_2026_HA_X_17",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2026_HA_X_17",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
   "P_2023_HA_d3dbf5b3": {
     "outbound": [],
     "inbound": [
@@ -17156,6 +17172,22 @@
       },
       {
         "from": "P_2026_LN_FGW_7",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
+  "P_2026_HA_X_17": {
+    "outbound": [
+      {
+        "to": "P_2023_HA_X_17",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2023_HA_X_17",
         "rel": "references",
         "confidence": 0.72
       }
