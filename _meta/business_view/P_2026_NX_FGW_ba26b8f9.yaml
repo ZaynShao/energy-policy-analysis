@@ -1,0 +1,29 @@
+pid: P_2026_NX_FGW_ba26b8f9
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 宁夏成品油最高零售价格根据国家发改委公告调整，自2026年5月21日24时起执行新价格表，直接涉及加油站零售定价与合规执行义务。
+  充电: 未直接涉及。间接看，油价调整可能影响用户对加油/充电的相对成本比较，但正文未提供任何充电政策或机制。
+  电力_储能_V2G_交易: 未直接涉及。正文仅调整成品油价格，无储能、V2G、虚拟电厂或电力交易相关条款。
+行动建议:
+- 'A 趁早: 更新加油站点价格标签、销售系统和结算数据，确保自5月21日24时起按新公布的最高零售价格执行，避免违规风险。'
+- 'B 研究: 监控本次油价调整对加油业务量及利润的短期波动影响，并评估其与充电业务替代效应的变化趋势。'
+didi_impact_one_liner: 宁夏成品油最高零售价格调整，直接影响加油业务合规定价；充电与电力业务未直接涉及。
+sanitized_from: 0_raw/policies/宁夏成品油价格调整公告（2026年第09号）.md
+extracted_at: '2026-07-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

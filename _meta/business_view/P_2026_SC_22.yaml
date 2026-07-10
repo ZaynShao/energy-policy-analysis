@@ -1,0 +1,30 @@
+pid: P_2026_SC_22
+themes:
+- vpp_theme
+- energy_storage_theme
+primary_theme: vpp_theme
+comprehensive: true
+scores:
+  D1: 5
+  D2: 4
+  D3: 5
+  D4: 4
+  D5: 3
+  D6: 5
+重要性: 5
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。政策核心为能源结构调整和非化石能源替代，未提及成品油消费或加油业务。
+  充电: 未直接涉及。正文未提及充电设施或电动汽车，但可间接观察：新能源消纳与虚拟电厂发展可能为充电负荷聚合提供基础。
+  电力_储能_V2G_交易: 正文明确推动新型储能规模化发展（含长时储能）和加快虚拟电厂建设，储能与虚拟电厂业务直接受益；V2G与电力交易未直接涉及，但虚拟电厂发展为后续V2G资源接入系统调节提供潜在平台。
+行动建议:
+- 'A 趁早: 趁早申报并建设新型储能项目，优先布局长时储能技术路线，抢占规模化发展首批政策红利。'
+- 'B 研究: 研究将现有充电、储能资产接入虚拟电厂聚合平台的技术方案，储备可调节负荷资源，为未来参与系统调节做准备。'
+didi_impact_one_liner: 国家“十五五”碳达峰方案明确推动新型储能规模化发展和虚拟电厂建设，为公司储能与需求侧聚合业务创造直接政策窗口。
+sanitized_from: 0_raw/policies/国务院关于印发《“十五五”碳达峰行动方案》的通知.md
+extracted_at: '2026-07-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
