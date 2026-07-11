@@ -3,7 +3,7 @@ policy_id: P_2026_ZJ_FGW_8c0e425c
 title: 浙江省成品油价格调整05-08
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-07-11T02:01:36+08:00'
+last_updated: '2026-07-12T02:01:16+08:00'
 ---
 
 > 政策原文:[[浙江省成品油价格调整05-08|浙江省成品油价格调整05-08]]
