@@ -1,0 +1,29 @@
+pid: P_2026_SC_FGW_7e9a7bb7
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 4
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 直接影响：四川电力市场结算细则V1.0被优化调整，自2026年7月起执行（部分内容自6月起），涉及电力交易结算规则的完善与省间现货交易规则衔接，将直接影响公司电力交易业务的结算流程、费用核算及市场参与方式。
+行动建议:
+- 趁早：组织电力交易团队研读《四川电力市场结算细则V1.0》修订内容，对齐新结算规则对电力交易、储能、V2G等业务的影响
+- 研究：评估结算规则调整对现有电力交易策略及收益模型的影响，提前准备系统改造与合同条款修订方案
+didi_impact_one_liner: 四川电力市场结算细则V1.0优化调整，电力交易结算规则面临修订，需提前适配执行时间表。
+sanitized_from: 0_raw/policies/关于调整优化《四川电力市场结算细则V1.0》有关内容的通知(川发改价格函〔2026〕291号).md
+extracted_at: '2026-07-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

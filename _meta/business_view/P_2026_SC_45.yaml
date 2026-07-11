@@ -1,0 +1,31 @@
+pid: P_2026_SC_45
+themes:
+- energy_storage_theme
+- distribution_grid_opening
+primary_theme: energy_storage_theme
+comprehensive: true
+scores:
+  D1: 5
+  D2: 3
+  D3: 4
+  D4: 3
+  D5: 3
+  D6: 3
+重要性: 4
+行动分类: D
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。正文仅宏观提及‘推动石油消费达峰’，未涉及成品油零售、加油站运营或节能降碳具体措施。
+  充电: 未直接涉及。正文未直接提及充电基础设施、充电桩或电动汽车充电业务。间接观察：配电网智慧升级有助于充电设施接入，但正文未明确。
+  电力_储能_V2G_交易: 储能（直接受益）：正文要求‘大力发展新型储能，探索长时储能应用’。电力交易（直接影响）：‘增加省间新能源互济交易规模’，拓展交易机会。V2G/虚拟电厂：未直接涉及，但‘源网荷储一体化’为V2G等提供间接场景。
+行动建议:
+- 'A 趁早: 加速新型储能项目（含长时储能）的规划与建设，抢占政策窗口期。'
+- 'B 研究: 趁早研究省间新能源互济交易规则，布局跨区绿电交易能力。'
+- 'C 趁早: 优化配电网规划，提升对分布式新能源和源网荷储一体化项目的承载能力。'
+didi_impact_one_liner: 本计划直接利好新型储能和跨省电力交易，但加油/充电业务未直接涉及，需关注配电网升级间接机会。
+sanitized_from: 0_raw/policies/国家能源局关于印发《能源领域节能降碳行动计划（2026—2028年）》的通知.md
+extracted_at: '2026-07-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
