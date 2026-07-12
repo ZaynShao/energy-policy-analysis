@@ -1,0 +1,21 @@
+pid: P_2026_AH_X_1017f44a
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/市直机关工委命名市市场监管局机关第二党支部为市直机关“四强”党支部.md
+extracted_at: '2026-07-12'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
