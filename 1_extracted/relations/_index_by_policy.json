@@ -4363,6 +4363,16 @@
     ],
     "inbound": []
   },
+  "P_2023_SD_82423871": {
+    "outbound": [
+      {
+        "to": "P_2026_SX_GOV_f336f309",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      }
+    ],
+    "inbound": []
+  },
   "P_2023_SD_ab7afa77": {
     "outbound": [
       {
@@ -4379,6 +4389,16 @@
         "to": "P_2023_NDRC_1b2358a4",
         "rel": "references",
         "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
+  "P_2023_SD_b51963fe": {
+    "outbound": [
+      {
+        "to": "P_2026_SX_GOV_f336f309",
+        "rel": "aligns_with",
+        "confidence": 0.85
       }
     ],
     "inbound": []
@@ -7117,6 +7137,11 @@
   "P_2024_NDRC_06275d0d": {
     "outbound": [
       {
+        "to": "P_2026_SX_GOV_f336f309",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
         "to": "P_2026_ZJ_GOV_1409",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -8118,6 +8143,16 @@
         "confidence": 0.95
       }
     ]
+  },
+  "P_2024_SD_d62a7386": {
+    "outbound": [
+      {
+        "to": "P_2026_SX_GOV_f336f309",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      }
+    ],
+    "inbound": []
   },
   "P_2024_SH_090255c2": {
     "outbound": [
@@ -20575,6 +20610,37 @@
       }
     ]
   },
+  "P_2026_SX_GOV_f336f309": {
+    "outbound": [
+      {
+        "to": "P_2026_ZJ_GOV_1409",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2023_SD_82423871",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
+        "from": "P_2023_SD_b51963fe",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
+        "from": "P_2024_NDRC_06275d0d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2024_SD_d62a7386",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      }
+    ]
+  },
   "P_2026_SX_b696f814": {
     "outbound": [
       {
@@ -21083,6 +21149,11 @@
     "inbound": [
       {
         "from": "P_2024_NDRC_06275d0d",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_SX_GOV_f336f309",
         "rel": "aligns_with",
         "confidence": 0.95
       }

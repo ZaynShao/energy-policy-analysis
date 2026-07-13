@@ -3,7 +3,7 @@ policy_id: P_2024_JS_0ad28ad7
 title: 省发展改革委转发《国家发展改革委关于第三监管周期省级电网输配 ...
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-07-13T02:00:15+08:00'
+last_updated: '2026-07-14T02:00:50+08:00'
 ---
 
 > 政策原文:[[【省发展改革委转发《国家发展改革委关于第三监管周期省级电网输配 ...】-政府门户.fgw.nanjing.gov.cn-0ad28ad7|省发展改革委转发《国家发展改革委关于第三监管周期省级电网输配 ...]]
