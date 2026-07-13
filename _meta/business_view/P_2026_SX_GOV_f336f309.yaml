@@ -1,0 +1,30 @@
+pid: P_2026_SX_GOV_f336f309
+themes:
+- carbon_market_theme
+primary_theme: carbon_market_theme
+comprehensive: false
+scores:
+  D1: 3
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 3
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 未直接涉及。间接观察：碳市场政策可能通过影响成品油消费企业的碳成本，间接传导至加油业务，但正文未明确提及加油业务的具体影响路径。
+  充电: 未直接涉及。正文未提及充电基础设施、电动汽车或充电相关碳管理要求。
+  电力_储能_V2G_交易: 未直接涉及。正文仅涉及发电企业的碳配额管理和交易，未涉及储能、V2G、虚拟电厂或电力交易业务。间接观察：碳账户平台和气候投融资可能为未来储能及V2G项目提供资金支持，但无直接业务影响。
+行动建议:
+- A 趁早：安排团队跟踪太原市碳账户平台及气候投融资项目库的后续细则，评估碳资产管理工具能否为未来储能/V2G项目提供数据支撑或融资通道。
+- B 研究：趁早研究产品碳足迹管理体系试点（如美锦能源氢能领域）的核算方法，若公司未来涉足充电或储能业务，可提前储备碳足迹核算能力。
+didi_impact_one_liner: 太原碳达峰试点聚焦发电及工业碳配额交易与碳足迹管理，未直接涉及公司加油、充电、储能及电力交易业务，但碳账户平台和气候投融资可能间接创造未来项目机会。
+sanitized_from: 0_raw/policies/以技_捕碳_以绿兴城 太原着力建设国家碳达峰....md
+extracted_at: '2026-07-13'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
+archive: low_score
