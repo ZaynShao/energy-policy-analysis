@@ -19173,6 +19173,21 @@
       }
     ]
   },
+  "P_2026_NDRC_1077": {
+    "outbound": [
+      {
+        "to": "P_2026_NDRC_884",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_884",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_NDRC_550": {
     "outbound": [
       {
@@ -19315,6 +19330,11 @@
       }
     ],
     "inbound": [
+      {
+        "from": "P_2026_NDRC_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
       {
         "from": "P_2026_SC_884",
         "rel": "references",
@@ -19861,6 +19881,11 @@
       }
     ],
     "inbound": [
+      {
+        "from": "P_2026_NDRC_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
       {
         "from": "P_2026_NDRC_884",
         "rel": "references",
