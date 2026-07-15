@@ -1,0 +1,21 @@
+pid: P_2026_AH_X_65dbc2d9
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 2
+  D2: 2
+  D3: 1
+  D4: 2
+  D5: 5
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/市市场监管局关于规范停车场、充电桩等扫码缴费页面广告的合规提示.md
+extracted_at: '2026-07-15'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
