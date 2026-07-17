@@ -20504,9 +20504,34 @@
       }
     ]
   },
+  "P_2026_SH_FGW_139": {
+    "outbound": [
+      {
+        "to": "P_2026_SH_FGW_14",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_SH_FGW_14",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_SH_FGW_14": {
     "outbound": [],
     "inbound": [
+      {
+        "from": "P_2026_SH_FGW_139",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_SH_FGW_139",
+        "rel": "references",
+        "confidence": 0.72
+      },
       {
         "from": "P_2026_SH_FGW_7",
         "rel": "references",
