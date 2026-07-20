@@ -3,7 +3,7 @@ policy_id: P_2020_NDRC_06306aac
 title: 电力中长期交易基本规则(暂行)
 inbound_edge_count: 0
 outbound_edge_count: 2
-last_updated: '2026-07-18T02:33:15+08:00'
+last_updated: '2026-07-21T02:00:56+08:00'
 ---
 
 > 政策原文:[[【电力中长期交易基本规则(暂行)】-国家发展和改革委员会、国家能源局-eaa5|电力中长期交易基本规则(暂行)]]
