@@ -1,0 +1,29 @@
+pid: P_2026_SC_FGW_f3181a1a
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接影响：明确调整了汽柴油最高零售价格和批发价格，并规定企业可在不超过最高价前提下自主定价，同时要求加强价格监管和打击违法行为。需及时调整加油站零售价格以合规。
+  充电: 未直接涉及。间接观察：成品油价格调整可能影响燃油车与电动车的相对使用成本，但政策正文未涉及充电业务。
+  电力_储能_V2G_交易: 未直接涉及。政策仅针对成品油价格，不涉及电力、储能、V2G或电力交易。
+行动建议:
+- 趁早：依据本次调整的最高零售价格基准，同步更新加油站的标识、系统定价及结算流程，确保自2026年7月17日24时起合规执行。
+- 趁早：加强内部价格合规审查，特别是批发环节的协商定价和民营供应差价（不低于400元）要求，防止因价格违规引发监管处罚。
+didi_impact_one_liner: 四川省成品油价格调整直接影响加油业务的价格合规与定价策略，需按时执行新的最高零售价且注意批发差价监管。
+sanitized_from: 0_raw/policies/关于调整成品油价格的通知（川发改价格〔2026〕295号）.md
+extracted_at: '2026-07-20'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

@@ -1,0 +1,29 @@
+pid: P_2026_HN_FGW_e3325faf
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及汽、柴油价格上调（每吨分别上调300元和290元），继续实行最高零售价格管理，企业可在不超过最高价的前提下自主制定零售价；批发价格同步调整，配送扣减标准明确。
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 未直接涉及
+行动建议:
+- 趁早根据省发改委调价通知，在不超过最高零售价范围内调整下属加油站的汽柴油零售挂牌价，并同步更新批发结算与配送扣减机制。
+- 趁早配合中石化、中石油省级公司的调运衔接要求，确保调价过渡期加油站库存平稳，同时启动价格监测日报机制，及时向主管部门反馈异常波动。
+didi_impact_one_liner: 本次成品油价格上调（汽柴油每吨分别涨300元、290元）直接约束加油业务定价上限，加油企业须在最高限价框架内快速制定并执行新的零售及批发价格。
+sanitized_from: 0_raw/policies/关于调整成品油价格的通知(2026年7月17日).md
+extracted_at: '2026-07-20'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
