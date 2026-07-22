@@ -1,0 +1,29 @@
+pid: P_2026_SH_FGW_140
+themes:
+- green_power_trading_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 1
+  D4: 3
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: C
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。间接观察：绿电直连推广可能降低传统燃油车用能需求，但非政策直接内容。
+  充电: 未直接涉及。间接观察：绿电直连可为充电站提供绿电直供机会，但正文未明确提及充电业务。
+  电力_储能_V2G_交易: 未直接涉及。政策聚焦绿电直连的物理直供模式，未涉及储能、V2G、电力交易等机制。
+行动建议:
+- 趁早研究上海绿电直连试点申报条件和用户准入要求，评估自身负荷是否具备接入资格。
+- 趁早与具备周边新能源资源的园区或发电企业对接，探索存量负荷绿电直连合作机会。
+didi_impact_one_liner: 上海市推进绿电直连试点，优先支持算力、氢氨醇等产业，未直接涉及充电、储能或电力交易，但可能间接影响用户绿色用能路径。
+sanitized_from: 0_raw/policies/关于印发《上海市绿电直连有序发展工作方案》的通知.md
+extracted_at: '2026-07-22'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
