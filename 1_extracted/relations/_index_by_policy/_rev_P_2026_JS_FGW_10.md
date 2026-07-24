@@ -3,7 +3,7 @@ policy_id: P_2026_JS_FGW_10
 title: 江苏省成品油价格调整公告（2026年第9号）
 inbound_edge_count: 2
 outbound_edge_count: 0
-last_updated: '2026-07-24T02:00:12+08:00'
+last_updated: '2026-07-25T02:00:45+08:00'
 ---
 
 > 政策原文:[[江苏省成品油价格调整公告（2026年第9号）|江苏省成品油价格调整公告（2026年第9号）]]

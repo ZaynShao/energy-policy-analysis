@@ -6288,6 +6288,11 @@
   "P_2024_JS_0ad28ad7": {
     "outbound": [
       {
+        "to": "P_2026_GS_FGW_1077",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2023_NDRC_076a418d",
         "rel": "references",
         "confidence": 0.72
@@ -16539,6 +16544,37 @@
       }
     ]
   },
+  "P_2026_GS_FGW_1077": {
+    "outbound": [
+      {
+        "to": "P_2026_NDRC_1077",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2024_JS_0ad28ad7",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_NDRC_1077",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_NDRC_1067",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_NDRC_1077",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
   "P_2026_GS_FGW_74": {
     "outbound": [],
     "inbound": [
@@ -19324,8 +19360,33 @@
       }
     ]
   },
+  "P_2026_NDRC_1067": {
+    "outbound": [
+      {
+        "to": "P_2026_GS_FGW_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_NDRC_1077",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_NDRC_1077": {
     "outbound": [
+      {
+        "to": "P_2026_GS_FGW_1077",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_GS_FGW_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
       {
         "to": "P_2026_NDRC_884",
         "rel": "references",
@@ -19337,7 +19398,18 @@
         "confidence": 0.72
       }
     ],
-    "inbound": []
+    "inbound": [
+      {
+        "from": "P_2026_GS_FGW_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_NDRC_1067",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
   },
   "P_2026_NDRC_550": {
     "outbound": [
