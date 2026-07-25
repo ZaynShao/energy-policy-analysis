@@ -3,7 +3,7 @@ policy_id: P_2026_SX_FGW_10
 title: 关于调整我省成品油零售价格的公告
 inbound_edge_count: 3
 outbound_edge_count: 1
-last_updated: '2026-07-25T02:00:45+08:00'
+last_updated: '2026-07-26T02:00:46+08:00'
 ---
 
 > 政策原文:[[关于调整我省成品油零售价格的公告|关于调整我省成品油零售价格的公告]]

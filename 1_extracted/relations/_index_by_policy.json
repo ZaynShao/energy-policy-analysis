@@ -14804,7 +14804,13 @@
     ]
   },
   "P_2025_SH_1352a528": {
-    "outbound": [],
+    "outbound": [
+      {
+        "to": "P_2026_SH_FGW_97",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      }
+    ],
     "inbound": [
       {
         "from": "P_2022_JL_11114fee",
@@ -19657,7 +19663,13 @@
     ]
   },
   "P_2026_NX_0320e07e": {
-    "outbound": [],
+    "outbound": [
+      {
+        "to": "P_2026_SH_FGW_97",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      }
+    ],
     "inbound": [
       {
         "from": "P_2024_FJ_5",
@@ -20918,6 +20930,21 @@
       }
     ],
     "inbound": []
+  },
+  "P_2026_SH_FGW_97": {
+    "outbound": [],
+    "inbound": [
+      {
+        "from": "P_2025_SH_1352a528",
+        "rel": "aligns_with",
+        "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_0320e07e",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      }
+    ]
   },
   "P_2026_SN_ab3d416b": {
     "outbound": [],
