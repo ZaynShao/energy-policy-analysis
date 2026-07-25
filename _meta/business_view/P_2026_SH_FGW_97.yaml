@@ -1,0 +1,29 @@
+pid: P_2026_SH_FGW_97
+themes:
+- charging_infra
+primary_theme: charging_infra
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 3
+  D5: 3
+  D6: 4
+重要性: 4
+行动分类: C
+价值标签:
+- 壁垒
+影响分析:
+  加油: 未直接涉及。间接观察：共享充电和统建统营小区可能进一步替代燃油车私人加油需求，但正文未提及加油业务直接影响。
+  充电: 直接影响。该公示明确了2026年度上海市共享充电小区和“统建统营”小区项目的建设计划，包括项目清单和评审结果，是充电基础设施布局的落地文件。
+  电力_储能_V2G_交易: 未直接涉及。正文仅涉及充电设施建设，未提及储能、V2G、虚拟电厂或电力交易相关内容。
+行动建议:
+- A 趁早：对照公示的项目建设计划清单，筛选与自身充电业务布局相关的小区，启动对接物业和业主委员会的洽谈，争取进入或合作建设。
+- B 研究：趁早分析“统建统营”模式的运营条款和市级平台数据接入要求，为后续参与统一运营做准备。
+didi_impact_one_liner: 上海市明确2026年度共享充电及统建统营小区项目计划，为充电基础设施落地提供操作指引。
+sanitized_from: 0_raw/policies/2026年度上海市电动汽车共享充电小区及“统建统营”小区项目建设计划公示.md
+extracted_at: '2026-07-25'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
