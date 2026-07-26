@@ -1,0 +1,21 @@
+pid: P_2026_QH_X_a5d3fad2
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/○  市场监管总局与南非贸工部签署规则标准“软联通”合作文件.md
+extracted_at: '2026-07-26'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
