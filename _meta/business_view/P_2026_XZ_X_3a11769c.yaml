@@ -1,0 +1,21 @@
+pid: P_2026_XZ_X_3a11769c
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 3
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 1
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/市场监管总局 民政部关于印发《殡葬领域明码标价规定（试行）》的通知.md
+extracted_at: '2026-07-29'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
