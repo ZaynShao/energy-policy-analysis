@@ -3,7 +3,7 @@ policy_id: P_2024_NEA_76
 title: 电力市场注册基本规则
 inbound_edge_count: 7
 outbound_edge_count: 1
-last_updated: '2026-07-30T02:00:48+08:00'
+last_updated: '2026-07-31T02:00:16+08:00'
 ---
 
 > 政策原文:[[【电力市场注册基本规则(国能发监管规〔2024〕76号)】-国家能源局-7b68|电力市场注册基本规则]]
