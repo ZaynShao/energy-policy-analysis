@@ -3,7 +3,7 @@ policy_id: P_2026_YN_FGW_194
 title: 批复同意！昆明将建1个风电场项目
 inbound_edge_count: 6
 outbound_edge_count: 0
-last_updated: '2026-08-01T02:00:15+08:00'
+last_updated: '2026-08-02T02:02:02+08:00'
 ---
 
 > 政策原文:[[批复同意！昆明将建1个风电场项目|批复同意！昆明将建1个风电场项目]]
