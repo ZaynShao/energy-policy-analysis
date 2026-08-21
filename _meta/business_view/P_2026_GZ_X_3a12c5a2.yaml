@@ -1,0 +1,21 @@
+pid: P_2026_GZ_X_3a12c5a2
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/贵州省市场监管局关于所属事业单位2026年公开招聘工作人员考察及有关事宜的公告（第一批）.md
+extracted_at: '2026-08-14'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

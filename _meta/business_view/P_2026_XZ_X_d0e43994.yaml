@@ -1,0 +1,29 @@
+pid: P_2026_XZ_X_d0e43994
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 3
+  D5: 5
+  D6: 2
+重要性: 4
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及:西藏印发成品油流通管理实施细则,聚焦成品油流通秩序与合规管理,加油站运营主体需关注区内成品油批发、零售环节的准入与经营管理要求,合规成本可能上升。
+  充电: 未直接涉及:本细则主题为成品油流通管理,正文未提及充电设施或充电业务。间接看,成品油零售网点合规趋严可能促使部分站点审视综合能源布局,但非本文件直接要求。
+  电力_储能_V2G_交易: 未直接涉及:正文未涉及电力、储能、V2G、虚拟电厂或电力交易机制。清单式提及不属于本文件范围,不构成直接业务影响。
+行动建议:
+- 趁早:对照西藏成品油流通管理实施细则,核查加油站在西藏区域内的证照、购销台账及油品来源合规性,避免流通环节违规风险。
+- 研究:评估成品油流通合规收紧对西藏加油站点运营成本与区域布局的间接影响,暂不扩展到充电、储能等未涉业务。
+didi_impact_one_liner: 西藏成品油流通细则落地,加油业务合规压力上升,充电与储能未直接涉及。
+sanitized_from: 0_raw/policies/西藏自治区商务厅等9部门关于印发《西藏自治区成品油流通管理....md
+extracted_at: '2026-08-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

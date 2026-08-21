@@ -1,0 +1,21 @@
+pid: P_2026_SH_FGW_137
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 3
+  D5: 4
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于印发上海市2026年陆上风电、光伏电站开发建设方案的通知.md
+extracted_at: '2026-08-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

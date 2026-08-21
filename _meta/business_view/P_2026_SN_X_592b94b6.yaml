@@ -1,0 +1,21 @@
+pid: P_2026_SN_X_592b94b6
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 4
+  D6: 3
+重要性: 1
+行动分类: C
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/省市场监管局出台指导意见 支持OPC业态创业发展.md
+extracted_at: '2026-08-18'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

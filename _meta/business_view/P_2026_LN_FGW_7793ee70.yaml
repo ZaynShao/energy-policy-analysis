@@ -1,0 +1,30 @@
+pid: P_2026_LN_FGW_7793ee70
+themes:
+- green_power_trading_theme
+primary_theme: green_power_trading_theme
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 3
+  D5: 4
+  D6: 4
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。
+  充电: 未直接涉及。间接观察：多用户绿电直连可能影响绿电供给结构与用电成本，但正文未提及充电设施或充电业务，具体影响无法判断。
+  电力_储能_V2G_交易: 政策主题为多用户绿电直连建设，属于绿电交易领域，但正文节选仅为公开征求意见公告，未给出具体建设机制、交易规则或参与条件，因此具体业务影响尚不明确。
+行动建议:
+- 趁早跟踪辽宁省发改委后续发布的正式实施方案，评估绿电直连对自备电厂或大用户绿电采购模式的潜在影响。
+- 趁早梳理现有电力交易与绿电相关业务布局，为可能的多用户直连政策试点做好能力储备。
+- 研究多用户绿电直连与我司储能、电力交易业务的潜在协同点，但在政策细则明确前不做重投入。
+didi_impact_one_liner: 辽宁拟推多用户绿电直连，绿电交易领域迎来省级新动向，但细则未出，业务影响尚待观察。
+sanitized_from: 0_raw/policies/关于对《辽宁省推动多用户绿电直连建设实施方案（征求意见稿）》公开征求意....md
+extracted_at: '2026-08-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

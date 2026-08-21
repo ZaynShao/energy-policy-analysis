@@ -1,0 +1,21 @@
+pid: P_2026_SX_GOV_b245edef
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 3
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/山西省能源局下发通知 第二批能源领域首台（....md
+extracted_at: '2026-08-20'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

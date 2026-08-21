@@ -1,0 +1,30 @@
+pid: P_2026_NX_FGW_04c3dbce
+themes:
+- energy_storage_theme
+primary_theme: energy_storage_theme
+comprehensive: false
+scores:
+  D1: 4
+  D2: 2
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 3
+重要性: 3
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 直接涉及：宁夏发改委拟组织新型储能产业人才培训，明确面向储能企业安全运维人员和交易人员，培训内容包括电化学储能电站安全生产运维、消防与应急处置，以及新型储能参与电力现货、辅助服务、容量市场的交易策略。V2G未直接涉及。
+行动建议:
+- 趁早对接属地发改部门，确认储能场站和交易岗位人员名单并完成报名，避免错过6月25日截止时限
+- 趁早安排运维与交易骨干参加全脱产培训，结合培训内容提前梳理储能电站安全运维和电力交易策略的现状短板，准备参训后的内部分享
+- 趁早跟踪后续培训通知，将培训中涉及的储能电力市场交易策略与自身业务场景结合，形成可落地的交易能力储备方案
+didi_impact_one_liner: 宁夏启动储能人才专项培训，直接利好储能运维与电力交易能力建设，加油和充电业务未直接涉及。
+sanitized_from: 0_raw/policies/自治区发展改革委关于开展宁夏储能产业人才培训工作的通知.md
+extracted_at: '2026-08-06'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

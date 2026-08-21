@@ -1,0 +1,30 @@
+pid: P_2026_SC_FGW_196
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及
+  电力_储能_V2G_交易: 直接涉及电力辅助服务市场费用分摊规则，明确未参与电能量交易的上网电量、跨省区留川电量等不纳入调频、备用辅助服务费用分摊范围；调试电量按规定分摊，已缴系统运行费的外送电量不重复收取。未直接涉及储能、V2G、虚拟电厂或电力交易机会。
+行动建议:
+- 趁早梳理本单位上网电量及市场化属性，核对辅助服务费用分摊口径是否符合新规
+- 趁早与四川电力交易中心衔接结算时间节点，确保8月底前完成相关费用结算
+- 研究辅助服务成本传导对电力用户侧的影响，评估中长期购电策略的潜在调整空间
+didi_impact_one_liner: 辅助服务费用分摊边界趋严，未参与电能量交易及跨省留川电量获豁免，结算时限明确至8月底。
+sanitized_from: 0_raw/policies/关于进一步明确电力辅助服务市场费用分摊有关事宜的通知（川发改价格函〔2026〕332号）.md
+extracted_at: '2026-08-18'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

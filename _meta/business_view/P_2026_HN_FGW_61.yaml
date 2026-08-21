@@ -1,0 +1,21 @@
+pid: P_2026_HN_FGW_61
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/湖南省发展和改革委员会关于核准长郴成品油管道与长赣铁路湘江新区交叉段管道迁改工程项目的批复.md
+extracted_at: '2026-08-16'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

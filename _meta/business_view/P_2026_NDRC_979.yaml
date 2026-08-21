@@ -1,0 +1,21 @@
+pid: P_2026_NDRC_979
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 4
+  D4: 3
+  D5: 2
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于印发《煤炭工业发展“十五五”规划》的通知(发改能源〔2026〕979号).md
+extracted_at: '2026-08-14'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

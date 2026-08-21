@@ -1,0 +1,29 @@
+pid: P_2026_HN_FGW_460
+themes:
+- power_market
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 4
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 2
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及
+  充电: 未直接涉及；间接看，输配电价调整会传导至充电设施用电成本，可能影响充电服务价格竞争力，但正文未明确提及充电业务。
+  电力_储能_V2G_交易: 未直接涉及；间接看，输配电价是电力用户购电成本的一部分，可能影响储能、虚拟电厂等参与电力交易的整体成本收益，但正文未明确提及相关机制。
+行动建议:
+- 'A 趁早: 测算湖南省第四监管周期各电压等级输配电价对现有电力用户侧成本的影响，重新审视用电成本结构。'
+- 'B 研究: 跟踪后续输配电价表及实施细则，结合自身负荷特性评估电价变化对充电、储能等业务盈利模型的潜在影响。'
+didi_impact_one_liner: 湖南输配电价周期调整开启，直接影响电力用户购电成本，加油未涉，充电与储能交易暂未明确，宜先测成本后谋策略。
+sanitized_from: 0_raw/policies/湖南省发展和改革委员会关于省电网第四监管周期输配电价及有关事项的通知.md
+extracted_at: '2026-08-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

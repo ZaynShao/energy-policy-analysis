@@ -1,0 +1,29 @@
+pid: P_2026_LN_X_5
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 4
+  D3: 2
+  D4: 2
+  D5: 4
+  D6: 2
+重要性: 4
+行动分类: D
+价值标签:
+- 合规
+影响分析:
+  加油: 依据标题，本政策为辽宁省成品油流通管理实施细则（征求意见稿），直接规范成品油流通环节，加油业务属直接相关领域；但正文节选未提供具体条款，具体合规要求及影响需待正式文本明确。
+  充电: 未直接涉及。间接看，成品油流通监管趋严可能促使综合能源站同步重视合规，但正文未涉及充电业务。
+  电力_储能_V2G_交易: 未直接涉及。正文未出现储能、V2G、虚拟电厂或电力交易相关条款。
+行动建议:
+- A 趁早跟踪辽宁省该细则的征求意见及正式发布动态，评估对加油站运营合规的直接与延伸影响。
+- B 趁早研究并参与本次公开征求意见，结合企业成品油流通业务实际反馈意见，提前准备合规预案。
+didi_impact_one_liner: 辽宁省拟细化成品油流通管理，加油业务合规关注度上升，充电与电力业务未见直接条款。
+sanitized_from: 0_raw/policies/关于《辽宁省成品油流通管理实施细则（征求意见稿）》公开征求意....md
+extracted_at: '2026-08-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

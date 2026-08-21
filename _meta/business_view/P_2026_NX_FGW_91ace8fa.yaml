@@ -1,0 +1,29 @@
+pid: P_2026_NX_FGW_91ace8fa
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 正文明确银川市成品油价格下调，属于成品油零售价格调整，直接影响加油业务的终端挂牌价与客户结算价，需按监测数据同步调价。
+  充电: 未直接涉及。间接：成品油价格下调可能对新能源汽车充电需求形成轻微替代效应，但正文未提供任何量化依据。
+  电力_储能_V2G_交易: 未直接涉及。正文仅涉及成品油价格，与电力、储能、V2G、虚拟电厂或电力交易无关。
+行动建议:
+- 'A 趁早: 核对银川市发改委发布的成品油下调数据，确保所属加油站油价标签、系统价格与公示价格同步更新。'
+- 'B 研究: 跟踪本期降价幅度与周边市场价差，评估对本站加油量的短期影响，为后续价格策略储备判断。'
+didi_impact_one_liner: 银川成品油零售价下调，直接影响加油业务价格执行，充电及电力业务未受此政策直接涉及。
+sanitized_from: 0_raw/policies/2026年8月14日银川市成品油价格下调.md
+extracted_at: '2026-08-18'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
