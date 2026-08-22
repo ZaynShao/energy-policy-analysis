@@ -1,0 +1,21 @@
+pid: P_2026_ZJ_GOV_a74dab70
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/重庆市万州区生态环境局受理建设项目环评信息公告（辐射类）（重庆万州李家坪风电场110千伏送出工程）2026-08-21.md
+extracted_at: '2026-08-22'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
