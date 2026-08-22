@@ -3,7 +3,7 @@ policy_id: P_2025_MOFCOM_4_a
 title: 成品油流通管理办法
 inbound_edge_count: 19
 outbound_edge_count: 0
-last_updated: '2026-08-22T02:08:23+08:00'
+last_updated: '2026-08-23T02:00:49+08:00'
 ---
 
 > 政策原文:[[【成品油流通管理办法(商务部令2025年第4号)】-中华人民共和国商务部-9197|成品油流通管理办法]]

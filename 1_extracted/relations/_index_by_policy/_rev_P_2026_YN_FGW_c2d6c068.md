@@ -3,7 +3,7 @@ policy_id: P_2026_YN_FGW_c2d6c068
 title: 关于印发《云南省促进绿色电力消纳的若干措施》的通知
 inbound_edge_count: 3
 outbound_edge_count: 0
-last_updated: '2026-08-22T02:08:23+08:00'
+last_updated: '2026-08-23T02:00:49+08:00'
 ---
 
 > 政策原文:[[关于印发《云南省促进绿色电力消纳的若干措施》的通知|关于印发《云南省促进绿色电力消纳的若干措施》的通知]]

@@ -3,7 +3,7 @@ policy_id: P_2026_GZ_FGW_510c192c
 title: 2026年8月14日24时起贵州成品油价格调整
 inbound_edge_count: 0
 outbound_edge_count: 5
-last_updated: '2026-08-22T02:08:23+08:00'
+last_updated: '2026-08-23T02:00:49+08:00'
 ---
 
 > 政策原文:[[2026年8月14日24时起贵州成品油价格调整|2026年8月14日24时起贵州成品油价格调整]]
