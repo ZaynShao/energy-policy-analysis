@@ -3,7 +3,7 @@ policy_id: P_2024_BJ_8d88dcd3
 title: 本市设备更新与消费品以旧换新“扩围提标”
 inbound_edge_count: 0
 outbound_edge_count: 5
-last_updated: '2026-08-24T02:00:13+08:00'
+last_updated: '2026-08-25T02:00:13+08:00'
 ---
 
 > 政策原文:[[【本市设备更新与消费品以旧换新“扩围提标”】-北京市发展和改革委员会-8d88dcd3|本市设备更新与消费品以旧换新“扩围提标”]]
