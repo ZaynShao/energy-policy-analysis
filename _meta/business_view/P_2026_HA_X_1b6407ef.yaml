@@ -1,19 +1,19 @@
-pid: P_2026_GZ_X_40
+pid: P_2026_HA_X_1b6407ef
 themes: []
 primary_theme: ''
 comprehensive: false
 scores:
-  D1: 0
+  D1: 1
   D2: 1
   D3: 2
-  D4: 1
-  D5: 1
-  D6: 1
+  D4: 5
+  D5: 5
+  D6: 2
 重要性: 1
-行动分类: D
+行动分类: B
 价值标签:
 - 趋势
-sanitized_from: 0_raw/policies/省市场监管局关于注销遵义钛业股份有限公司等6家企业工业产品生产许可证的公告.md
+sanitized_from: 0_raw/policies/市场监管总局等八部门联合部署2026年度 检验检测机构“双随机、一公开”监督抽查2026-08-24.md
 extracted_at: '2026-08-25'
 extracted_by: scripts/l2_themescore/run_2b.py
 extracted_model: deepseek-v4-flash
