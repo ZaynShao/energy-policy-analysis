@@ -3,7 +3,7 @@ policy_id: P_2026_HE_FGW_e7d59005
 title: 河北：推进绿电直连，满足企业绿色用能需求
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-08-25T02:00:13+08:00'
+last_updated: '2026-08-26T02:00:13+08:00'
 ---
 
 > 政策原文:[[河北：推进绿电直连，满足企业绿色用能需求|河北：推进绿电直连，满足企业绿色用能需求]]

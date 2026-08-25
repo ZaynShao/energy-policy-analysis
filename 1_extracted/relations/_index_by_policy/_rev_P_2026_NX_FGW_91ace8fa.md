@@ -3,7 +3,7 @@ policy_id: P_2026_NX_FGW_91ace8fa
 title: 2026年8月14日银川市成品油价格下调
 inbound_edge_count: 8
 outbound_edge_count: 0
-last_updated: '2026-08-25T02:00:13+08:00'
+last_updated: '2026-08-26T02:00:13+08:00'
 ---
 
 > 政策原文:[[2026年8月14日银川市成品油价格下调|2026年8月14日银川市成品油价格下调]]
