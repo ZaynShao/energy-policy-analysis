@@ -1,0 +1,30 @@
+pid: P_2026_HL_FGW_55a128d4
+themes:
+- distribution_grid_opening
+primary_theme: distribution_grid_opening
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 2
+  D4: 5
+  D5: 4
+  D6: 3
+重要性: 2
+行动分类: A
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。
+  充电: 未直接涉及；间接：分布式光伏可开放容量反映配电网承载力，可能间接影响充电设施所在配电网的可开放负荷空间，但正文未涉及充电设施建设或运营。
+  电力_储能_V2G_交易: 直接影响分布式光伏接入电网的可开放容量与并网空间；未直接涉及储能、VPP、V2G、电力交易。正文仅涉及分布式光伏接入及承载力评估公告机制。
+行动建议:
+- A 趁早：对照黑龙江省2026年三季度分布式光伏可开放容量公告，复核在建或拟建分布式光伏项目的并网条件，优先在容量充足区域推进。
+- B 趁早：建立季度跟踪机制，跟进省发改委与省电力公司定期发布的承载力评估结果，滚动调整分布式光伏开发时序与并网策略。
+didi_impact_one_liner: 黑龙江公告分布式光伏电网可开放容量，直接影响分布式光伏并网空间；加油、充电及储能/V2G/电力交易无直接条款。
+sanitized_from: 0_raw/policies/黑龙江省发展和改革委员会关于2026年第三季度分布式光伏电网可开放容量的公告.md
+extracted_at: '2026-08-27'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
+archive: low_score
