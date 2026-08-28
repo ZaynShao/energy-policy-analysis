@@ -3,7 +3,7 @@ policy_id: P_2025_SN_fad607e4
 title: 我省圆满完成年度充电基础设施建设目标
 inbound_edge_count: 1
 outbound_edge_count: 1
-last_updated: '2026-08-28T02:01:10+08:00'
+last_updated: '2026-08-29T02:00:17+08:00'
 ---
 
 > 政策原文:[[【我省圆满完成年度充电基础设施建设目标】-陕西省发展和改革委员会-fad607e4|我省圆满完成年度充电基础设施建设目标]]
