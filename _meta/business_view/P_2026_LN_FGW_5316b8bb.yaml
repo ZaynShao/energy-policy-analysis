@@ -1,0 +1,29 @@
+pid: P_2026_LN_FGW_5316b8bb
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 2
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 辽宁省成品油零售价格将按公告于2026年8月28日24时起调整，直接影响加油业务的零售价格执行与合规对标。
+  充电: 未直接涉及。
+  电力_储能_V2G_交易: 未直接涉及。
+行动建议:
+- 趁早:核对并同步辽宁省成品油最新零售价格，确保2026年8月28日24时起所有加油站点调价执行准确、无合规偏差。
+- 趁早:检查加油站点价格公示与结算系统，确保调价时点切换一致，避免因价格更新滞后引发客诉或监管风险。
+didi_impact_one_liner: 辽宁成品油价格于2026年8月28日24时调整，加油业务需按时点合规切换价格。
+sanitized_from: 0_raw/policies/辽宁省成品油价格调整公告（2026年8月28日24时起执行）.md
+extracted_at: '2026-08-29'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

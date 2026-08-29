@@ -1,0 +1,21 @@
+pid: P_2026_MEE_03ed6de7
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 3
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/生态环境部川气东送二线天然气管道工程川渝鄂段（三阶段）项目环境影响评价文件拟进行审查公示.md
+extracted_at: '2026-08-29'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
