@@ -3,7 +3,7 @@ policy_id: P_2026_BJ_FGW_6c31c1e9
 title: （失效）本市成品油价格调整
 inbound_edge_count: 0
 outbound_edge_count: 6
-last_updated: '2026-08-29T02:00:17+08:00'
+last_updated: '2026-08-30T02:01:23+08:00'
 ---
 
 > 政策原文:[[（失效）本市成品油价格调整|（失效）本市成品油价格调整]]

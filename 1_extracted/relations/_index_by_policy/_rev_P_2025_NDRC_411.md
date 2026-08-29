@@ -3,7 +3,7 @@ policy_id: P_2025_NDRC_411
 title: 电力辅助服务市场基本规则
 inbound_edge_count: 0
 outbound_edge_count: 3
-last_updated: '2026-08-29T02:00:17+08:00'
+last_updated: '2026-08-30T02:01:23+08:00'
 ---
 
 > 政策原文:[[【电力辅助服务市场基本规则(发改能源规〔2025〕411号)】-国家发展改革委、国家能源局-61fd|电力辅助服务市场基本规则]]

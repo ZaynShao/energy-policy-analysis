@@ -3,7 +3,7 @@ policy_id: P_2025_SN_5f4dd35d
 title: 陕西省发展和改革委员会
 inbound_edge_count: 0
 outbound_edge_count: 2
-last_updated: '2026-08-29T02:00:17+08:00'
+last_updated: '2026-08-30T02:01:23+08:00'
 ---
 
 > 政策原文:[[【陕西省发展和改革委员会】-陕西省发展和改革委员会-5f4dd35d|陕西省发展和改革委员会]]
