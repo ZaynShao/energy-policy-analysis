@@ -3,7 +3,7 @@ policy_id: P_2023_QH_d184b5cf
 title: 2023年6月份电力市场化交易电量情况
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-08-30T02:01:23+08:00'
+last_updated: '2026-08-31T02:01:23+08:00'
 ---
 
 > 政策原文:[[【2023年6月份电力市场化交易电量情况】-青海省发展和改革委员会-d184b5cf|2023年6月份电力市场化交易电量情况]]
