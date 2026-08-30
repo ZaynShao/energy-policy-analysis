@@ -1,0 +1,29 @@
+pid: P_2026_SH_GOV_2e815e2d
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及：上海成品油零售价格上调，92号汽油升至8.05元/升、95号汽油8.56元/升、0号柴油7.74元/升，加满一箱92号汽油多花费约15元，直接影响加油业务零售价格与消费者加油成本。
+  充电: 未直接涉及。间接：油价上调可能使部分车主转向公共充电或新能源出行，但正文未提供充电相关业务或量化影响。
+  电力_储能_V2G_交易: 未直接涉及。正文仅涉及成品油价格调整，未出现储能、V2G、虚拟电厂、电力交易等机制或业务安排。
+行动建议:
+- 趁早：评估本轮油价上调对加油业务销量、客户结构和利润的短期影响，并据此调整零售运营或营销策略。
+- 研究：跟踪油价持续上行是否推动新能源车使用率提升，评估对充电业务潜在需求的间接影响，作为前瞻性参考。
+didi_impact_one_liner: 上海成品油价上调，直接影响加油业务成本与价格，充电及电力储能业务未直接涉及。
+sanitized_from: 0_raw/policies/282026.08最新上海成品油价明天零点起上调市发展改革委刚刚发布本市油价调整的通知：8月29日零时起，92号汽油将上调为8.05元_升，95号汽油上调为8..md
+extracted_at: '2026-08-30'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

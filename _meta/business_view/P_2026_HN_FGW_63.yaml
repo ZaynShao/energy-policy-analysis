@@ -1,0 +1,21 @@
+pid: P_2026_HN_FGW_63
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 5
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/湖南省发展和改革委员会关于核准新田县大坪塘镇白杜村、大冲村、石溪村、大坪塘村、知市坪村石溪光伏发电项目110千伏送出工程项目的批复.md
+extracted_at: '2026-08-30'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,30 @@
+pid: P_2026_HN_FGW_def26ce0
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 5
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及：汽、柴油零售仍实行最高价格管理，每吨分别上调375元和360元；非标准品按品质比率相应调整，零售企业可在不超过最高零售价前提下自主定价；最高批发价格等额调整，并对零售企业、民营批发企业设有不同的配送扣减标准；价格自2026年8月28日24时起执行。
+  充电: 未直接涉及。间接：本通知仅调整成品油价格，未涉及充电价格或充电设施业务。
+  电力_储能_V2G_交易: 未直接涉及。间接：本通知不涉及电力、储能、V2G、虚拟电厂或电力交易相关机制。
+行动建议:
+- A 趁早：按新最高零售价格调整加油站销售价格与价格标签，确保8月28日24时准时执行。
+- B 趁早：复核批发环节配送扣减标准，与合同约定配送方式衔接，避免供应价格与零售价格倒挂。
+- C 研究：根据本次价格调整后的市场价差，评估加油站零售策略与库存调度安排。
+didi_impact_one_liner: 湖南成品油零售、批发价格全面上调375元/吨、360元/吨，8月28日24时执行。
+sanitized_from: 0_raw/policies/关于调整成品油价格的通知(2026年8月28日).md
+extracted_at: '2026-08-30'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

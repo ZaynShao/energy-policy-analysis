@@ -1,0 +1,22 @@
+pid: P_2026_JS_GOV_288ad3d4
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 2
+  D2: 1
+  D3: 1
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 合规
+sanitized_from: 0_raw/policies/成品油零售经营许可事项变更公告（2026年第22号.md
+extracted_at: '2026-08-30'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

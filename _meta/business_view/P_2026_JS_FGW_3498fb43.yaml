@@ -1,0 +1,21 @@
+pid: P_2026_JS_FGW_3498fb43
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 1
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/深圳市发展和改革委员会关于开展2026碳达峰碳中和论坛暨深圳国家低碳城论坛绿色低碳发展成果案例征集工作的通知2026-08-24.md
+extracted_at: '2026-08-30'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
