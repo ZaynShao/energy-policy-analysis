@@ -28,7 +28,15 @@ files:
 
 # ⚠️ 退役/污染登记(2026-05-31):源文档「策略-L3月报需求原型.md」已退役挖去 → 00背景资料/_retired/。
 # 其派生 factcheck_rules + report_blueprint 标 TAINTED,待 ④消费/L3 依新需求重生。
-# 乡村污染(误抬为与三业务并列的第4类目)已从 decision_framework + 八步采集法 清除;report_blueprint 的乡村随整体重生处理。
+# 乡村污染(误抬为与三业务并列的第4类目)登记于此,**其余文件一律不再出现该词**——
+# 2026-05-31 首轮从 decision_framework + 八步采集法 清除,但只删了枚举、留下了说明句;
+# 2026-08-31 复查发现说明句本身仍在把该词送进模型上下文,且 report_blueprint 的
+# biz_impact_keys 与 SCHEMA.md 的影响分析字段一直没动,下游 policy-qa 照此写了四条业务线枚举,
+# planner 一直照选,检索恒空而模型把空结果读成「库里没有」。本轮全部清除:
+#   报表蓝图 report_blueprint.yaml(biz_impact_keys/legal/banned)、SCHEMA.md 影响分析字段、
+#   decision_framework.yaml 的 note 与说明注释、八步采集法 §采集 agent 提示词;
+#   monorepo 侧见 PR #996(枚举收敛成一处 + 守卫测试 + 新增 policy-qa CI gate)。
+# 教训:否定句降低不了概率,删枚举才行。要留历史就留在本文件,别留在会被 load 的框架文件里。
 retired_tainted:
   retired_source: 00 背景资料/_retired/策略-L3月报需求原型.md
   reason: 月报需求原型为退役材料(用户 2026-05-31 确认),曾未察觉仍在影响派生

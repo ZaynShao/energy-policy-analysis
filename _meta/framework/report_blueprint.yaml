@@ -1,5 +1,5 @@
 # ⚠️ TAINTED(2026-05-31):本文件由已退役源文档「策略-L3月报需求原型.md」结构化而来
-#    (该原型已挖去归档 00背景资料/_retired/)。内容为历史月报需求,可能过时;biz_impact_keys 仍含乡村污染。
+#    (该原型已挖去归档 00背景资料/_retired/)。内容为历史月报需求,可能过时。
 #    勿用作权威;待 ④消费/L3 实现时依新需求重新厘定再生。见 pipeline BACKLOG B9。
 # report_blueprint.yaml — L3 月报蓝图 + 业务表述规范(agent 可 load)
 # 来源: 00 背景资料/策略-L3月报需求原型.md §3/§4/§7/§8 (2026-04-27,从 2026-03 月报 v1→v6 提炼)
@@ -10,7 +10,7 @@ generated_at: 2026-05-31
 
 scope:
   target: 公司决策层(对内,不用品牌名)
-  businesses: 三大业务 = 加油 / 充电 / 电力(含储能·V2G·电力交易);乡村=关注方向(非业务线)
+  businesses: 三大业务 = 加油 / 充电 / 电力(含储能·V2G·电力交易)
   freq: 每月 1 次(覆盖该月 1-31 日)
   formats: [Word docx(正式可批注), HTML 单文件(邮件/移动端)]
   out_of_scope: [季度/年度综述, 单业务深度报告(属另一类L3产出), 实时推送]
@@ -34,9 +34,8 @@ banned_chapters: [数据健康度小卡, 数据出处与方法论附录, 工具�
 business_expression:       # §4.1 唯一合法表述
   legal:
     - "公司三大业务 = 加油 / 充电 / 电力(含储能·V2G·电力交易)"
-    - "乡村能源(关注方向,非业务线)单独展示,不计入业务计数"
-  biz_impact_keys: [加油, 充电, 电力_储能_V2G_交易, 乡村]   # Agent 输出 4 key,前3统一标签,第4独立小节
-  banned: ["四大业务", "五条业务线", "六大业务", 把乡村作为业务线]
+  biz_impact_keys: [加油, 充电, 电力_储能_V2G_交易]   # 与 l2_themescore/program_gate.py IMPACT_KEYS 一致;L2 只写这三个键
+  banned: ["四大业务", "五条业务线", "六大业务"]
 
 action_display:            # §4.2 L3 显示用 4 级行动语言(注:与 scoring.yaml action_class 定义不同!)
   A: {label: "[趁早行动]", trigger: ⭐5+业务命中, color: "#C62828"}
