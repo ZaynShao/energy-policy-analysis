@@ -3,7 +3,7 @@ policy_id: P_2026_HN_X_2
 title: 省市场监管局政府信息主动公开事项目录
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-09-01T02:00:14+08:00'
+last_updated: '2026-09-02T02:00:57+08:00'
 ---
 
 > 政策原文:[[省市场监管局政府信息主动公开事项目录|省市场监管局政府信息主动公开事项目录]]
