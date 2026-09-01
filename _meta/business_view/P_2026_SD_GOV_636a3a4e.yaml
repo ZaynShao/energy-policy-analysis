@@ -1,0 +1,31 @@
+pid: P_2026_SD_GOV_636a3a4e
+themes:
+- power_market
+- green_power_trading_theme
+primary_theme: power_market
+comprehensive: false
+scores:
+  D1: 4
+  D2: 5
+  D3: 2
+  D4: 5
+  D5: 5
+  D6: 2
+重要性: 4
+行动分类: B
+价值标签:
+- 机会
+影响分析:
+  加油: 未直接涉及。
+  充电: 未直接涉及。间接看，商业综合体等转供电主体电价规范化可能影响其内部充电设施的用电成本，但正文未明确提及充电业务。
+  电力_储能_V2G_交易: 未直接涉及。正文提及绿电绿证交易被纳入非电网直供环节规范范围，但无具体机制，间接可能影响转供电场景下的绿电交易成本传导。
+行动建议:
+- A 趁早:梳理公司在山东涉及非电网直供的用电项目，评估新计价方式和12%损耗上限对运营成本的影响。
+- B 趁早:与转供电主体核对2026年10月1日后的电价结算方式，确保符合后付费或预付费两种模式的选择要求。
+- C 研究:关注绿电绿证交易在非电网直供环节的后续细则，评估对转供电终端绿电采购的潜在影响。
+didi_impact_one_liner: 山东规范工商业转供电电价，明确计价方式与12%损耗上限，转供电成本更透明，需关注对物业/商业综合体内用能成本的影响。
+sanitized_from: 0_raw/policies/山东规范工商业非电网直供环节电价.md
+extracted_at: '2026-09-01'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true

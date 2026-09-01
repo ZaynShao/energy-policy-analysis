@@ -1,0 +1,29 @@
+pid: P_2026_NX_FGW_05b26359
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 4
+  D2: 5
+  D3: 1
+  D4: 5
+  D5: 4
+  D6: 1
+重要性: 4
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 直接涉及：银川市成品油价格上调，加油业务终端销售价格随之上调；正文未明确涨价幅度、调价周期或具体合规要求，仅提供价格监测信息。
+  充电: 未直接涉及。间接：成品油价格上涨可能相对提升新能源汽车使用经济性，对充电需求形成温和利好，但正文未提供任何充电相关数据或机制。
+  电力_储能_V2G_交易: 未直接涉及。正文仅涉及成品油价格，未提及电力、储能、虚拟电厂、V2G或电力交易相关内容。
+行动建议:
+- 趁早关注成品油价格上调对加油业务成本与终端定价的传导，评估库存成本及毛利率影响。
+- 趁早研究成品油涨价对充电替代效应的间接影响，结合本地市场数据决定是否调整充电营销策略。
+didi_impact_one_liner: 银川成品油上调直接牵动加油业务价格与成本，对充电仅构成未实证的间接替代利好，电力业务不受影响。
+sanitized_from: 0_raw/policies/2026年8月28日银川市成品油价格上调.md
+extracted_at: '2026-09-01'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: true
