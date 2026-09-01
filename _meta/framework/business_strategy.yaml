@@ -1,0 +1,357 @@
+# business_strategy.yaml — 公司业务战略画像(agent 可 load;**可替换**)
+#
+# 用途:政策链路各环节判断「这条政策与公司业务是否相关、有多相关」的依据。
+#      L2 打分、L3 月刊、policy-qa 问答,凡涉及业务符合度,都应 load 本文件,
+#      而不是各自在提示词里手写一份业务口径——手写副本走散的代价见 index.yaml
+#      retired_tainted(2026-08-31 那次:四份手写口径三套词表,枚举里还留着退役类目)。
+#
+# **这是一个可配置项。** 战略会变;换战略 = 换本文件,不改代码:
+#   1. 新画像写成同 schema 的新文件,profile_id 用新的,supersedes 指向被替换者
+#   2. 旧文件 status 改 superseded,留在库里(可追溯历史打分是按哪版战略打的)
+#   3. 消费方按 status: active 取件;同时 active 多于一份 = 配置错误,加载器应报错
+#   见 services/policy-pipeline/docs/ 与 services/policy-qa/docs/ 的加载器说明。
+
+schema_version: 1
+profile_id: 2026-energy-strategy
+status: active                    # active | superseded | draft
+effective_from: 2026-08-31
+supersedes: null                  # 首版
+generated_at: 2026-08-31
+
+source:
+  kind: internal_course_transcript
+  title: 桔子学苑【能源直播间】2026年能源战略解码
+  captured_at: 2026-08-31
+  doc: 00 背景资料/2026能源战略解码/          # 四份提要,每条结论带 [mm:ss]
+  segments: [总解码 18.6min, 加油业务 24.6min, 充电业务 24.5min, 电力业务 20.7min]
+  caveat: |
+    ASR 本地转写。数字、人名、内部项目名不可直信,凡进入成品必须回原片核对。
+    提要里的「0 次提及」是**证据为空**,不是**否定证据**——本文件用
+    evidence: absent 与 low 区分这两件事,消费方不得把 absent 当 low 用。
+
+# ── 证据强度约定 ──────────────────────────────────────────────────
+# stated   逐字稿直接讲到该事项
+# inferred 由讲明的业务动作反推,该事项本身逐字稿未点名 —— 采信时应降权
+# absent   逐字稿完全未提及 —— **不构成"不相关"的依据**,只说明本材料无从判断
+evidence_levels: [stated, inferred, absent]
+
+# ══════════════════════════════════════════════════════════════════
+businesses:
+
+  - id: fuel
+    zh: 加油
+    weight_2026: 守成                # 全篇仅约 2.5 分钟,主讲人自称"high level"
+    headline: 一安全,两增长          # 安全合规 + 流量拓展 + 下沉市场
+    quantitative_targets: []          # 明确无定量目标
+    model: |
+      轻资产平台/聚合:平台不持有、不建设、不运营加油站,对接的全是既有商户
+      (KA 大型连锁 + 民营油站,存量以民营为主)。准入方式多种,接入与结算形态
+      有拉单、推单、B扫C、扫码、第三方渠道准入;KA 侧有代保管卡、挂账、
+      第三方合作+支付接口、电子券。
+    decision_variables:               # 改这些数,就改这条线的决策
+      - 批发价 / 炼厂装车价(利润来自折扣空间,不是零售挂牌价)
+      - 商户合规成本(安全、财税法)
+      - KA 总部的对外合作与支付接口开放口径
+      - 下沉城市的展业可行性
+    scope_stated:
+      - 客群描述为「路上行驶的车辆」「拐入油站的过路车」;存量燃油车向三四线迁移
+      - 增长点二为下沉市场,主讲人承认是历史欠账(过往试过没坚持)
+    scope_absent:                     # ⚠️ 材料空白,不是业务边界
+      - 油品品种(汽油/柴油):四段合计 0 次。**现行「汽油为主」口径的出处不在本材料**
+      - 车型(乘用车/重卡/商用车/货车):四段合计 0 次
+      - 牌照与经营资质、危化品、环保、油库储运、建站用地:均 0 次
+
+  - id: charging
+    zh: 充电
+    weight_2026: 战略重心            # 全篇权重最高,唯一给出双定量目标的业务
+    headline: 直连增长 + 私家车(2C)运营升级
+    quantitative_targets:
+      - {metric: 年对年增长, value: ">40%", confidence: 数字待核, cite: "[08:19]"}
+      - {metric: 份额, value: "35%", confidence: 数字待核, cite: "[08:22]"}
+      - {metric: 供给侧转移窗口期, value: "2-3 年", confidence: 数字待核, cite: "[09:09]"}
+    model: |
+      连接/运营第三方商户场站的平台模式 + 特许模式为主(中等置信,依商户语言推断:
+      平衡商户收益、联合商户治理、定点招商、按标准做流量分发)。另有「重资产」分支,
+      2025 年中已出清,2026 打法里未出现。业务的组织单位是**城市**。
+    decision_variables:
+      - 建桩节奏与选址(城市级网络覆盖)
+      - 充电服务费定价空间(各城市价格比;商户收益 vs 用户价格的平衡)
+      - 场站侧电价结构(峰谷、需量、大工业电价适用)
+      - 大功率/超充升级的成本与合规门槛
+      - 行业标准与评级话语权(内部标准与外部国标/地标/团标竞合)
+    scope_stated:
+      - 车辆类型只有三类,全是乘用车:网约车(历史基本盘)、营运车、私家车(2026 重心)
+      - 私家车 2C 运营被排为「今年最重要的战略,也没有之一」
+      - 讲的全是**公共充电场站**;「快」作为体验维度被重点讲,对标闪充做大功率升级
+    scope_absent:
+      - 重卡/商用车/货车/干线/港口:四段合计 0 次(不是「占比小」,是未提及)
+      - 目的地充电业态、私桩/居住区/随车配桩:0 次
+      - 高速/服务区:0 次
+      - 县域/农村场景:四段合计 0 次
+      - 光储充放 / V2G / 换电:0 次,归电力线(见 not_business_lines)
+
+  - id: power
+    zh: 电力
+    weight_2026: 建能力               # 长赛道、早期;主题是建能力不是要规模,明确要"给予耐心"
+    headline: 售电与电力交易,现货是主战场
+    quantitative_targets: []          # 无定量目标;仅定性"上一个台阶"
+    model: |
+      自营售电主体、按省逐省展业(推断:通篇第一人称售电公司口径,且方向是它代理别人
+      入市;牌照/持牌/资质三词 0 次,未直接确认)。一级切分是**能力**——
+      交易与算法 / 供应链 / 销售 / 团队。虚拟电厂与储能是「供应链」项下的抓手,
+      **不是与电力交易并列的版块**。
+    internal_split:                   # 若必须二分,逐字稿支持的是按客户场景
+      by: 客户场景
+      values: [充电场景, 工商业场景]
+      not_by: 品种(储能/虚拟电厂 vs 电力交易)—— 与逐字稿不符,会系统性高估储能类政策
+    decision_variables:
+      - 目标省的现货规则与结算机制(决定"这个省进不进")
+      - 中长期与现货的比例及偏差/反向考核上限(决定持仓结构)
+      - 售电公司利润上限 / 收益分成 / 让利退还规定
+      - 火电长协的签约与履约规则(供应链第一块,控风险最重要的能力)
+      - 分布式新能源入市与聚合商准入门槛
+    province_filter:                  # 同一份文件落在这些省,相关性显著更高
+      entered: [湖南, 陕西]
+      target_2026: [江苏, 浙江, 福建, 四川, 重庆, 湖北, 湖南, 陕西, 南网五省]
+      confidence: 数字待核
+    portfolio_status:
+      电力现货: {status: 主战场, note: 自称"最核心的一个主战场"}
+      中长期长协: {status: 在做}
+      虚拟电厂聚合入市: {status: 在建能力, note: 约 40 秒篇幅,从属于供应链}
+      储能: {status: hold, note: "因政策性峰谷价差要停而暂停,仅存量项目试点"}
+      省间/输电权/电力期货: {status: 在看}
+      居民侧售电: {status: 在看}
+      海外: {status: 初步调研}
+    scope_stated:
+      - 充电是这条线的**负荷底盘、上游议价筹码与消纳出口**(基础量 200 亿度电/年,数字待核)
+      - 电力现货市场的成长被当作这条业务成立的**唯一外部前提**
+    scope_absent:
+      - V2G / 车网互动:0 次
+      - 绿电 / 绿证 / 碳交易:0 次
+      - 需求响应 / 辅助服务 / 容量市场:0 次
+      - 「充电站/充电桩」二词 0 次 —— 原文一律说「充电场景」「负荷」「商户」
+
+# ══════════════════════════════════════════════════════════════════
+# 明确不是业务线的东西。列在这里是为了**不必在提示词里写禁令**——
+# 消费方渲染提示词时只渲染 businesses,本节只用于人工审阅与加载器校验。
+not_business_lines:
+  - id: intl
+    zh: 国际化(墨西哥充电)
+    why: 是充电业务的地理延伸,不是独立类目;且国内政策库对墨西哥本地法规无覆盖能力
+  - id: swap
+    zh: 换电
+    why: 2025 回顾中出现一次(大湾区 200+ 站,数字待核),2026 章节完全未再提;存量相关、增量不相关
+
+# ══════════════════════════════════════════════════════════════════
+# 通用判据。这几条比下面的信号清单更耐用——信号会过时,判据不会。
+relevance_rules:
+  core_test: |
+    一条政策是否「业务相关」,取决于它**是否改变本文件 decision_variables 里的任何一个数**。
+    改变了 = 相关;只是与公司的判断同向、不改变任何在做的动作 = 不相关。
+  high_form: |
+    带**具体省份/城市** + 带**可代入模型的数值**(价格上限、分成比例、考核比例、补偿标准、
+    准入门槛、生效日期)的**实施细则**。
+  low_form: |
+    全国性宏观框架、目标宣示、规划纲要、行业发展意见——不改变任何在做的动作。
+  early_signal: |
+    征求意见稿、规则修订预告、前置吹风**不因未生效而降权**。电力线明确把
+    「至少希望能提前知道」写进交易团队职责,「早」本身就是价值。
+  absent_is_not_low: |
+    本文件 scope_absent 记的是**材料空白**。遇到落在空白维度上的政策,
+    应标为「需人工裁定」,**不得自动判低相关**。
+
+# ══════════════════════════════════════════════════════════════════
+# 政策相关性信号。weight 是先验档位,evidence 是这条判断的依据强度。
+# 消费方渲染紧凑版提示词时,取 weight ∈ {high, suppress} 即可——
+# high 提召回,suppress 压误判,medium 主要供人工复核。
+signals:
+
+  # ── 加油 ────────────────────────────────────────────────────
+  - {id: F01, business: fuel, weight: high, evidence: stated,
+     what: 成品油批发/仓储经营资质管理办法修订、地方炼厂产能与开工政策,
+     changes: 直接改批发价与炼厂装车价,而折扣空间是利润的唯一来源}
+  - {id: F02, business: fuel, weight: high, evidence: stated,
+     what: 山东等主产地地炼的消费税稽查、发票与票据管理政策,
+     changes: 传导到装车价与商户成本;平台已把财税法合规纳入供给全流程}
+  - {id: F03, business: fuel, weight: high, evidence: stated,
+     what: 加油站行业监管收紧(经营许可、计量、安全生产、价格行为检查),
+     changes: 命中今年第一关键词「业务安全」;已成立合规专项与商户合规预警}
+  - {id: F04, business: fuel, weight: high, evidence: stated,
+     what: 平台补贴/价格行为/反不正当竞争/低价倾销认定类规则,
+     changes: 决定价格梯度、价格约束规则与补贴策略线上化能否落地}
+  - {id: F05, business: fuel, weight: high, evidence: stated,
+     what: 预付卡/加油卡/电子券/第三方支付监管规则,
+     changes: 代保管卡、挂账、第三方支付接口、电子券是 KA 突破的全部载体}
+  - {id: F06, business: fuel, weight: high, evidence: stated,
+     what: 大型连锁总部层面的对外合作/渠道准入/支付接口开放规定,
+     changes: 直接决定 KA 供给突破成败;已有 KA 总部发通知禁止合作的先例}
+  - {id: F07, business: fuel, weight: high, evidence: stated,
+     what: 个人信息保护与用户信息跨主体共享要求,
+     changes: 主讲人点名「用户信息问题」是电子券 KA 模式的卡点}
+  - {id: F08, business: fuel, weight: medium, evidence: stated,
+     what: 下沉市场/县域成品油经营与网点布局政策,
+     changes: 下沉城市试点展业是「两增长」之一,且已列为开放平台优先支撑对象}
+  - {id: F09, business: fuel, weight: medium, evidence: inferred,
+     what: 原油进口配额、国家储备投放、价格干预、炼油产能置换、成品油出口配额,
+     changes: 影响成本波动幅度与折扣空间大小,但不改变任何一条打法}
+  - {id: F10, business: fuel, weight: suppress, evidence: stated,
+     what: 成品油零售价格调整公告(调价窗口),
+     changes: 决策锚点是批发价与折扣空间;不改变批发-零售价差的调价公告不触发任何动作}
+  - {id: F11, business: fuel, weight: suppress, evidence: stated,
+     what: 加油站建设、用地审批、油罐环保验收,
+     changes: 平台不自营不建站不持有场站,合作对象全是既有商户}
+
+  # ── 充电 ────────────────────────────────────────────────────
+  - {id: C01, business: charging, weight: high, evidence: inferred,
+     what: 省/市级充电基础设施建设行动方案(建桩目标、建设与运营补贴、示范站认定),
+     changes: 决定网络覆盖达成路径、选址与建设节奏、各城市破局排序}
+  - {id: C02, business: charging, weight: high, evidence: inferred,
+     what: 充电服务费价格管理(明码标价、服务费上限、备案公示、价格监管),
+     changes: 直接冲击各城市价格比监控与「商户收益 vs 用户价格」的平衡空间}
+  - {id: C03, business: charging, weight: high, evidence: inferred,
+     what: 充电设施电价政策(大工业电价、分时峰谷、需量/容量电费减免、转供电治理),
+     changes: 决定商户侧收益结构,进而决定整站能量调度方案与存量升级能否算得过账}
+  - {id: C04, business: charging, weight: high, evidence: inferred,
+     what: 大功率/超充推广与技术要求(超充城市行动、单枪功率与配电容量指引、液冷桩标准),
+     changes: 决定「快」这条线被外部倒逼的升级节奏、成本与合规门槛}
+  - {id: C05, business: charging, weight: high, evidence: inferred,
+     what: 充电设施服务质量、运营规范与星级/等级评价标准(国标、地标、团标),
+     changes: 与内部正在制定的标准直接竞合;影响按标准做流量分发的合法性}
+  - {id: C06, business: charging, weight: high, evidence: inferred,
+     what: 充电聚合平台/互联互通监管(平台责任界定、监管平台强制数据接入、结算与开票规范),
+     changes: 直接触及「连接商户」的主体模式;聚合竞品转直连已引发格局迁移}
+  - {id: C07, business: charging, weight: high, evidence: stated,
+     what: 城市充电设施特许经营/专营授权、国资主导的城市充电平台类政策,
+     changes: 决定特许模式的可复制性,以及国央企下场后的地盘划分方式}
+  - {id: C08, business: charging, weight: high, evidence: stated,
+     what: 行业协会主导的排名、白皮书、行业发布与统计口径规则,
+     changes: 关系「行业第一品牌」的 PR 阵营与排名话语权;主讲人点名要联合行业协会}
+  - {id: C09, business: charging, weight: medium, evidence: inferred,
+     what: 新能源乘用车消费政策(购置税减免、以旧换新、牌照/路权),
+     changes: 影响「私家车份额会越来越高」这一核心战略假设的兑现速度}
+  - {id: C10, business: charging, weight: medium, evidence: inferred,
+     what: 居住区/私人充电桩配建与私桩共享政策,
+     changes: 反向变量——私桩普及越快,私家车对公共充电的需求越低}
+  - {id: C11, business: charging, weight: medium, evidence: inferred,
+     what: 网约车行业监管(合规化、运力总量调控、聚合平台新规),
+     changes: 影响存量 2B 网约车/营运车充电基本盘的规模与稳定性}
+  - {id: C12, business: charging, weight: medium, evidence: inferred,
+     what: 充电场站建设经营的合规要件(消防验收、场所与临时用地、规划备案、安全生产检查),
+     changes: 影响「纳入更多好站」的入网速度与存量站改造可行性}
+  - {id: C13, business: charging, weight: suppress, evidence: stated,
+     what: 电动自行车充电设施/充电器安全技术要求,
+     changes: 业务对象是电动汽车公共充电,两轮车不在任何一条打法里}
+  - {id: C14, business: charging, weight: suppress, evidence: stated,
+     what: 换电站建设与换电模式推广政策,
+     changes: 换电 2026 章节完全未提;存量相关、增量不相关}
+
+  # ── 电力 ────────────────────────────────────────────────────
+  - {id: P01, business: power, weight: high, evidence: stated,
+     what: 某省电力现货市场运行规则/结算试运行细则/日前与实时价格形成与结算机制,
+     changes: 现货是自称主战场,价差预测模型直接吃这套规则;同时改交易模型与选省判断}
+  - {id: P02, business: power, weight: high, evidence: stated,
+     what: 某省中长期与现货比例的考核规则(比例上限、偏差考核、反向考核),
+     changes: 决定持仓结构与被考核风险;交易团队的核心动作就是定这个比例}
+  - {id: P03, business: power, weight: high, evidence: stated,
+     what: 某省售电公司利润上限/收益分成/让利退还用户的规定,
+     changes: 选省三条主基调之一,直接决定该省开不开、能赚多少}
+  - {id: P04, business: power, weight: high, evidence: stated,
+     what: 分布式新能源全面入市、强制通过聚合商入市的细则(聚合商准入门槛、代理与分成),
+     changes: 虚拟电厂那条抓手的全部收入来源}
+  - {id: P05, business: power, weight: high, evidence: stated,
+     what: 取消/调整固定峰谷分时电价、改由市场供需定价的省级文件,
+     changes: 电改第一条;**同时是储能被 hold 的直接原因,是储能重启与否的开关**}
+  - {id: P06, business: power, weight: high, evidence: stated,
+     what: 新型储能价格与收益机制(容量补偿、独立储能参与现货、主动调度的收益规则),
+     changes: 唯一能让一个已暂停项目重启的政策类型}
+  - {id: P07, business: power, weight: high, evidence: stated,
+     what: 煤电容量电价、煤电保底/支撑电源定位、电煤长协签约与履约规则,
+     changes: 火电长协是供应链第一块、控风险最重要的能力,签约规则直接改成本底盘}
+  - {id: P08, business: power, weight: high, evidence: stated,
+     what: 新能源上网电价市场化改革(机制电价/差价合约)及省级执行细则,
+     changes: 决定风光入市后的电价波动结构与代理新能源入市的定价空间}
+  - {id: P09, business: power, weight: high, evidence: stated,
+     what: 目标省的年度电力市场交易实施方案/零售市场管理办法/售电公司信用与保证金要求,
+     changes: 展业地图按省画,某省规则一变直接影响开不开、怎么开}
+  - {id: P10, business: power, weight: high, evidence: inferred,
+     what: 充电设施用电价格政策(场站峰谷分时、需量电费减免、大工业电价适用范围),
+     changes: 改充电这块负荷的成本结构与销售话术;充电场景是销售第一块、整条线的负荷底盘}
+  - {id: P11, business: power, weight: high, evidence: stated,
+     what: 目标省电力市场规则的提前量信号(征求意见稿、修订预告、发改委与能源局吹风),
+     changes: 交易团队职责明写「解读行业政策和交易规则」并与政府关系团队联动}
+  - {id: P12, business: power, weight: medium, evidence: stated,
+     what: 省间/区域电力交易、输电权交易、电力期货等金融化品种的落地规则,
+     changes: 点名为关键方向、但明确只是在看;真落地会新增交易品种与跨省套利空间}
+  - {id: P13, business: power, weight: medium, evidence: stated,
+     what: 售电市场准入与退出、市场主体注册与清退规则,
+     changes: 影响「未来两年大量售电公司被洗牌出清」的节奏、竞争格局与并购机会}
+  - {id: P14, business: power, weight: suppress, evidence: stated,
+     what: 新型电力系统建设的宏观框架、指导意见、能源发展规划纲要,
+     changes: 与趋势判断同向,但选省、交易比例、上游签约都不依赖它}
+  - {id: P15, business: power, weight: suppress, evidence: stated,
+     what: 碳达峰碳中和目标宣示、碳市场/CCER 类文件,
+     changes: 3060 全篇只当背景讲约 7 秒,绿电绿证碳交易 0 次}
+
+  # ── 跨业务 ──────────────────────────────────────────────────
+  - {id: X01, business: cross, weight: high, evidence: stated,
+     what: 推动「油转电」的政策(燃油车限行限购、新能源购置税与路权、网约车与营运车电动化要求),
+     changes: 加油/充电的权重分配建立在「头部城市油转电明显、下沉城市仍以油车为主」之上;
+             该判断被政策改写,加油下沉的成立性与充电的高线增长节奏同时变}
+  - {id: X02, business: cross, weight: medium, evidence: stated,
+     what: 数据安全、个人信息保护、算法与 AI 应用合规,
+     changes: 主讲人自认数据体系与安全体系「今天其实也是不 ready 的」,同时要做 AI 预测模型}
+  - {id: X03, business: cross, weight: suppress, evidence: absent,
+     what: 氢能、核电、跨境电力互联等其它能源品类,
+     changes: 四段均未提及}
+
+# ══════════════════════════════════════════════════════════════════
+# 材料覆盖不到、需要人工裁定的地方。**消费方遇到这些维度不得自动判低相关。**
+open_questions:
+  - id: Q1
+    topic: 油品品种与车型(汽油/柴油/重卡/商用车)
+    status: 材料空白(四段合计 0 次)
+    note: |
+      现行「汽油为主,柴油/重卡只作宏观背景」的口径出处不在本材料。
+      在找到出处或由业务方重新确认之前,柴油/重卡类政策应标「需人工裁定」,
+      **不得自动降权**——证据为空不等于业务无关。
+  - id: Q2
+    topic: 县域/农村场景在充电业务中的位置
+    status: 材料空白(四段合计 0 次);充电的组织单位是城市
+    note: |
+      既有兜底规则是「涉该场景的充电政策影响并入充电」。本材料既不支持也不证伪。
+      提示反向风险:既然该维度在 2026 战略里零权重,把这类政策并入充电打分
+      可能**系统性高估**其相关度。建议保留兜底但不声称有业务材料支撑。
+  - id: Q3
+    topic: 高速/服务区充电
+    status: 材料空白(0 次)
+    note: 2026 打法以城市为单位组织,高速场景未出现。属口径盲区,建议人工复核而非自动降权。
+  - id: Q4
+    topic: 电力业务是否自己持牌
+    status: 未明说(牌照/持牌/资质 0 次)
+    note: 通篇第一人称售电公司口径且它代理别人入市,推断为自营按省展业,但无直接确认。
+  - id: Q5
+    topic: V2G / 车网互动
+    status: 电力段 0 次、充电段 0 次
+    note: |
+      现行口径把 V2G 列进电力业务线。本课程四段无任何依据。
+      若公司确有 V2G 布局,证据须另找,不能引本材料背书。
+
+# ══════════════════════════════════════════════════════════════════
+# 与其它框架文件的关系(供加载器与人工审阅核对)
+consistency:
+  impact_keys:                      # 必须与 l2_themescore/program_gate.py IMPACT_KEYS 一致
+    fuel: 加油
+    charging: 充电
+    power: 电力_储能_V2G_交易
+  known_conflicts:
+    - with: _meta/framework/scoring.yaml
+      issue: |
+        scoring.yaml 的 business_blocks 是四个并列版块
+        (fuel / charging / storage_vpp / power_trading),把电力拆成储能VPP 与电力交易两块。
+        本文件依逐字稿判定电力是**一条**业务线,储能与虚拟电厂是其抓手且储能处于 hold。
+        照四版块给权重会系统性高估储能类政策。**尚未裁决,以人工确认为准。**
+    - with: _meta/framework/decision_framework.yaml
+      issue: |
+        decision_framework 源自 2026-04-10 的「滴滴能源-政策分析背景」,businesses 为三条,
+        与本文件一致;但它**全仓无代码引用**,是死文件。若本文件上线,
+        应明确二者主从:decision_framework 记业务定义,本文件记战略与相关性判据。
