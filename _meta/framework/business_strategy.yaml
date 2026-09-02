@@ -345,11 +345,17 @@ consistency:
     power: 电力_储能_V2G_交易
   known_conflicts:
     - with: _meta/framework/scoring.yaml
+      status: 已裁决(2026-09-02)——采用三板块,scoring.yaml 的 business_blocks 已同步为
+        fuel / charging / power。
       issue: |
-        scoring.yaml 的 business_blocks 是四个并列版块
+        原 scoring.yaml 的 business_blocks 是四个并列版块
         (fuel / charging / storage_vpp / power_trading),把电力拆成储能VPP 与电力交易两块。
         本文件依逐字稿判定电力是**一条**业务线,储能与虚拟电厂是其抓手且储能处于 hold。
-        照四版块给权重会系统性高估储能类政策。**尚未裁决,以人工确认为准。**
+        照四版块给权重会系统性高估储能类政策。
+      consequence: |
+        **既有 1546 篇全部是按四版块打的分,与此后新打的分不再同口径。**
+        叠加已有的「两模型两批次」问题(挂主题率 68% vs 24%),库里将出现三个不可比的队列。
+        重打分的范围待定,先量漏检率:scripts/_oneshot/measure_theme_recall.py。
     - with: _meta/framework/decision_framework.yaml
       issue: |
         decision_framework 源自 2026-04-10 的「滴滴能源-政策分析背景」,businesses 为三条,
