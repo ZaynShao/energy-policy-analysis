@@ -1,0 +1,21 @@
+pid: P_2026_SX_FGW_d97b32ce
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/【能源发展】山西盂县西烟镇风电场三期10万千瓦项目220kV送出线路工程项目通过核准批复.md
+extracted_at: '2026-09-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score

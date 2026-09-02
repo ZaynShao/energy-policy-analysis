@@ -1,0 +1,21 @@
+pid: P_2026_MOFCOM_451
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 4
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/商务部 工业和信息化部 市场监管总局关于印发《汽车行业境外竞争行为与合规建设指引》的通知.md
+extracted_at: '2026-09-02'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+gate_passed_deep: false
+archive: low_score
