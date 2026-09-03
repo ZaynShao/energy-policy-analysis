@@ -3,7 +3,7 @@ policy_id: P_2024_NEA_26
 title: 促进新型储能并网和调度运用
 inbound_edge_count: 8
 outbound_edge_count: 4
-last_updated: '2026-09-03T02:00:13+08:00'
+last_updated: '2026-09-04T02:00:13+08:00'
 ---
 
 > 政策原文:[[【促进新型储能并网和调度运用(国能发科技规〔2024〕26号)】-国家能源局-95ec|促进新型储能并网和调度运用]]

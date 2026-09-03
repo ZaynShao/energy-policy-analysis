@@ -3,7 +3,7 @@ policy_id: P_2026_JS_GOV_288ad3d4
 title: 成品油零售经营许可事项变更公告（2026年第22号
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-09-03T02:00:13+08:00'
+last_updated: '2026-09-04T02:00:13+08:00'
 ---
 
 > 政策原文:[[成品油零售经营许可事项变更公告（2026年第22号|成品油零售经营许可事项变更公告（2026年第22号]]
