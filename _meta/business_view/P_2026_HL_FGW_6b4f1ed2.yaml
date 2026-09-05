@@ -1,0 +1,21 @@
+pid: P_2026_HL_FGW_6b4f1ed2
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 2
+  D2: 3
+  D3: 5
+  D4: 4
+  D5: 4
+  D6: 1
+重要性: 3
+行动分类: B
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/李强签署国务院令 公布修订后的《电力安全事故应急处置和调查处理条例》.md
+extracted_at: '2026-09-05'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
