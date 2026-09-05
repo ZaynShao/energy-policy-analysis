@@ -3223,6 +3223,11 @@
         "confidence": 0.82
       },
       {
+        "to": "P_2026_JS_FGW_777",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2023_NDRC_076a418d",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -16947,6 +16952,11 @@
         "confidence": 0.72
       },
       {
+        "from": "P_2026_JS_FGW_777",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
         "from": "P_2026_NDRC_1067",
         "rel": "references",
         "confidence": 0.72
@@ -20098,6 +20108,37 @@
       }
     ]
   },
+  "P_2026_JS_FGW_777": {
+    "outbound": [
+      {
+        "to": "P_2026_GS_FGW_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_NDRC_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_1077",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SX_FGW_1077",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2023_GX_8da1cac9",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      }
+    ]
+  },
   "P_2026_JS_GOV_288ad3d4": {
     "outbound": [],
     "inbound": [
@@ -20921,6 +20962,11 @@
       },
       {
         "from": "P_2026_HN_FGW_460",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_JS_FGW_777",
         "rel": "references",
         "confidence": 0.72
       },
@@ -22262,6 +22308,11 @@
         "confidence": 0.72
       },
       {
+        "from": "P_2026_JS_FGW_777",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
         "from": "P_2026_NDRC_1067",
         "rel": "references",
         "confidence": 0.72
@@ -23483,6 +23534,11 @@
       },
       {
         "from": "P_2026_HN_FGW_460",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_JS_FGW_777",
         "rel": "references",
         "confidence": 0.72
       },
