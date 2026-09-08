@@ -1,0 +1,22 @@
+pid: P_2026_BJ_FGW_324962d4
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于对《市政府固定资产投资支持氢能基础设施建设的有关政策措施（征求意见稿）》公开征求意见的公告.md
+extracted_at: '2026-09-08'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
