@@ -5436,6 +5436,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "aligns_with",
+        "confidence": 0.6
+      },
+      {
         "to": "P_2024_GD_378cdbce",
         "rel": "references",
         "confidence": 0.72
@@ -9050,6 +9055,11 @@
         "to": "P_2025_QH_76788bb0",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_LN_FGW_3",
+        "rel": "aligns_with",
+        "confidence": 0.55
       }
     ],
     "inbound": [
@@ -10979,6 +10989,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2026_SC_FGW_1283",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -11005,6 +11020,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       },
@@ -11054,6 +11074,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2025_NDRC_357_a",
         "rel": "derives_from",
         "confidence": 1.0
@@ -11065,6 +11090,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       }
@@ -11953,7 +11983,17 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_3",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      },
+      {
         "to": "P_2025_NDRC_357_a",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "cites_basis",
         "confidence": 0.9
       },
@@ -11964,6 +12004,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       }
@@ -12030,6 +12075,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       }
@@ -13775,7 +13825,13 @@
     ]
   },
   "P_2025_NDRC_357_a": {
-    "outbound": [],
+    "outbound": [
+      {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
     "inbound": [
       {
         "from": "P_2025_HE_79c43f8b",
@@ -13804,6 +13860,11 @@
       },
       {
         "from": "P_2025_SN_cea944a1",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_LN_FGW_357",
         "rel": "cites_basis",
         "confidence": 0.9
       },
@@ -13846,6 +13907,11 @@
         "from": "P_2025_SN_cea944a1",
         "rel": "derives_from",
         "confidence": 1.0
+      },
+      {
+        "from": "P_2026_LN_FGW_357",
+        "rel": "derives_from",
+        "confidence": 0.98
       },
       {
         "from": "P_2026_SD_03271ffc",
@@ -13894,6 +13960,11 @@
       },
       {
         "from": "P_2026_AH_d8c28a5c",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       },
@@ -14522,12 +14593,22 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2023_NX_3df3969b",
         "rel": "clarifies",
         "confidence": 0.86
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "clarifies",
         "confidence": 0.86
       },
@@ -14543,6 +14624,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       }
@@ -14752,6 +14838,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2026_SC_FGW_1283",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -14768,6 +14859,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       },
@@ -15403,6 +15499,11 @@
         "to": "P_2025_NDRC_357_a",
         "rel": "references",
         "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "references",
+        "confidence": 0.72
       }
     ],
     "inbound": [
@@ -15627,6 +15728,11 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2025_NDRC_357_a",
         "rel": "derives_from",
         "confidence": 1.0
@@ -15643,6 +15749,11 @@
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       }
@@ -15915,6 +16026,11 @@
         "to": "P_2025_NDRC_357_a",
         "rel": "references",
         "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "references",
+        "confidence": 0.72
       }
     ],
     "inbound": []
@@ -16148,6 +16264,11 @@
         "to": "P_2026_NX_FGW_3ab205f5",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_NX_FGW_3ce218b5",
+        "rel": "aligns_with",
+        "confidence": 0.78
       },
       {
         "to": "P_2026_NX_FGW_8700e64b",
@@ -16629,12 +16750,22 @@
         "confidence": 0.9
       },
       {
+        "from": "P_2026_LN_FGW_3",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "from": "P_2026_GD_5c0cf20a",
         "rel": "references",
         "confidence": 0.72
       },
       {
         "from": "P_2026_HA_X_4",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_LN_FGW_3",
         "rel": "references",
         "confidence": 0.72
       },
@@ -19370,6 +19501,11 @@
   "P_2026_HI_FGW_2a789bab": {
     "outbound": [
       {
+        "to": "P_2026_NX_FGW_3ce218b5",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2026_NX_FGW_ba26b8f9",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -20255,6 +20391,32 @@
     ],
     "inbound": []
   },
+  "P_2026_LN_FGW_3": {
+    "outbound": [
+      {
+        "to": "P_2026_FJ_X_3",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_FJ_X_3",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2025_BJ_2865590a",
+        "rel": "aligns_with",
+        "confidence": 0.55
+      },
+      {
+        "from": "P_2025_JX_b32efb76",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      }
+    ]
+  },
   "P_2026_LN_FGW_30755c2d": {
     "outbound": [
       {
@@ -20313,6 +20475,127 @@
         "from": "P_2026_GZ_FGW_c9e6d4c7",
         "rel": "aligns_with",
         "confidence": 0.95
+      }
+    ]
+  },
+  "P_2026_LN_FGW_357": {
+    "outbound": [
+      {
+        "to": "P_2025_NDRC_357_a",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2025_NDRC_357_a",
+        "rel": "derives_from",
+        "confidence": 0.98
+      },
+      {
+        "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2024_GD_FGW_4",
+        "rel": "aligns_with",
+        "confidence": 0.6
+      },
+      {
+        "from": "P_2025_HE_79c43f8b",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_HE_9a2d5057",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_JX_b32efb76",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_NX_6eea1796",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_SC_cc687c4e",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_SN_cea944a1",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_SD_03271ffc",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_NX_6eea1796",
+        "rel": "clarifies",
+        "confidence": 0.86
+      },
+      {
+        "from": "P_2025_HE_79c43f8b",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_HE_9a2d5057",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_JX_b32efb76",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_JX_d7975d50",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_NX_6eea1796",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_SC_cc687c4e",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_SH_407",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2025_SN_cea944a1",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_AH_d8c28a5c",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SD_03271ffc",
+        "rel": "references",
+        "confidence": 0.72
       }
     ]
   },
@@ -21760,6 +22043,42 @@
       }
     ]
   },
+  "P_2026_NX_FGW_3ce218b5": {
+    "outbound": [
+      {
+        "to": "P_2026_SC_FGW_31d5e2d9",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_8bb7f430",
+        "rel": "aligns_with",
+        "confidence": 0.7
+      },
+      {
+        "to": "P_2026_SC_FGW_b19620de",
+        "rel": "aligns_with",
+        "confidence": 0.78
+      },
+      {
+        "to": "P_2026_ZJ_FGW_f31b45fe",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2026_BJ_FGW_6c31c1e9",
+        "rel": "aligns_with",
+        "confidence": 0.78
+      },
+      {
+        "from": "P_2026_HI_FGW_2a789bab",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      }
+    ]
+  },
   "P_2026_NX_FGW_8": {
     "outbound": [],
     "inbound": [
@@ -22608,6 +22927,11 @@
         "confidence": 0.95
       },
       {
+        "from": "P_2026_NX_FGW_3ce218b5",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
         "from": "P_2026_NX_FGW_8700e64b",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -22690,6 +23014,11 @@
         "confidence": 0.95
       },
       {
+        "from": "P_2026_NX_FGW_3ce218b5",
+        "rel": "aligns_with",
+        "confidence": 0.7
+      },
+      {
         "from": "P_2026_NX_FGW_8700e64b",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -22765,6 +23094,11 @@
         "from": "P_2026_NX_FGW_3ab205f5",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_FGW_3ce218b5",
+        "rel": "aligns_with",
+        "confidence": 0.78
       }
     ]
   },
@@ -22857,12 +23191,22 @@
         "confidence": 0.9
       },
       {
+        "to": "P_2026_LN_FGW_357",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "to": "P_2025_NDRC_357_a",
         "rel": "derives_from",
         "confidence": 1.0
       },
       {
         "to": "P_2025_NDRC_357_a",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_LN_FGW_357",
         "rel": "references",
         "confidence": 0.72
       }
@@ -24212,6 +24556,11 @@
         "from": "P_2026_NX_FGW_36aa4747",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_FGW_3ce218b5",
+        "rel": "aligns_with",
+        "confidence": 0.75
       },
       {
         "from": "P_2026_NX_FGW_8700e64b",
