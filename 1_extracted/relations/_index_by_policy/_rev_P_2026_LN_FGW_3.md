@@ -3,7 +3,7 @@ policy_id: P_2026_LN_FGW_3
 title: 关于印发《辽宁省虚拟电厂接入技术管理规范》的通知
 inbound_edge_count: 2
 outbound_edge_count: 2
-last_updated: '2026-09-11T02:01:48+08:00'
+last_updated: '2026-09-13T02:01:56+08:00'
 ---
 
 > 政策原文:[[关于印发《辽宁省虚拟电厂接入技术管理规范》的通知|关于印发《辽宁省虚拟电厂接入技术管理规范》的通知]]

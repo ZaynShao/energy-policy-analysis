@@ -3,7 +3,7 @@ policy_id: P_2026_HI_FGW_2a789bab
 title: 海南省成品油价格按机制调整
 inbound_edge_count: 1
 outbound_edge_count: 4
-last_updated: '2026-09-11T02:01:48+08:00'
+last_updated: '2026-09-13T02:01:56+08:00'
 ---
 
 > 政策原文:[[海南省成品油价格按机制调整|海南省成品油价格按机制调整]]
