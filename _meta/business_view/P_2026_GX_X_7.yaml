@@ -1,0 +1,22 @@
+pid: P_2026_GX_X_7
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 2
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/自治区市场监管局 自治区人力资源社会保障厅 自治区总工会关于公布第一届全国计量和检验检测职业技能大赛广西选拔赛获奖名单的通知.md
+extracted_at: '2026-09-14'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
