@@ -16277,6 +16277,11 @@
   "P_2026_BJ_FGW_6c31c1e9": {
     "outbound": [
       {
+        "to": "P_2026_NX_FGW_1db9eeb7",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      },
+      {
         "to": "P_2026_NX_FGW_3ab205f5",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -19552,6 +19557,11 @@
   "P_2026_HI_FGW_2a789bab": {
     "outbound": [
       {
+        "to": "P_2026_NX_FGW_1db9eeb7",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      },
+      {
         "to": "P_2026_NX_FGW_3ce218b5",
         "rel": "aligns_with",
         "confidence": 0.9
@@ -22148,6 +22158,37 @@
       }
     ]
   },
+  "P_2026_NX_FGW_1db9eeb7": {
+    "outbound": [
+      {
+        "to": "P_2026_SC_FGW_31d5e2d9",
+        "rel": "aligns_with",
+        "confidence": 0.68
+      },
+      {
+        "to": "P_2026_SC_FGW_8bb7f430",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_ZJ_FGW_f31b45fe",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2026_BJ_FGW_6c31c1e9",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      },
+      {
+        "from": "P_2026_HI_FGW_2a789bab",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      }
+    ]
+  },
   "P_2026_NX_FGW_35": {
     "outbound": [
       {
@@ -23135,6 +23176,11 @@
     ],
     "inbound": [
       {
+        "from": "P_2026_NX_FGW_1db9eeb7",
+        "rel": "aligns_with",
+        "confidence": 0.68
+      },
+      {
         "from": "P_2026_NX_FGW_36aa4747",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -23265,6 +23311,11 @@
         "from": "P_2026_HN_FGW_d32cfeea",
         "rel": "aligns_with",
         "confidence": 0.82
+      },
+      {
+        "from": "P_2026_NX_FGW_1db9eeb7",
+        "rel": "aligns_with",
+        "confidence": 0.9
       },
       {
         "from": "P_2026_NX_FGW_36aa4747",
@@ -24839,6 +24890,11 @@
         "from": "P_2026_HI_FGW_2a789bab",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_FGW_1db9eeb7",
+        "rel": "aligns_with",
+        "confidence": 0.9
       },
       {
         "from": "P_2026_NX_FGW_36aa4747",
