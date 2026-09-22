@@ -14944,6 +14944,11 @@
         "to": "P_2026_GX_64d2bf01",
         "rel": "aligns_with",
         "confidence": 0.9
+      },
+      {
+        "to": "P_2026_LN_FGW_521",
+        "rel": "aligns_with",
+        "confidence": 0.62
       }
     ],
     "inbound": [
@@ -20789,6 +20794,16 @@
         "from": "P_2026_SD_03271ffc",
         "rel": "references",
         "confidence": 0.72
+      }
+    ]
+  },
+  "P_2026_LN_FGW_521": {
+    "outbound": [],
+    "inbound": [
+      {
+        "from": "P_2025_SD_4bcf1389",
+        "rel": "aligns_with",
+        "confidence": 0.62
       }
     ]
   },
