@@ -1,0 +1,21 @@
+pid: P_2026_XJ_X_1afc21c8
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 4
+  D2: 4
+  D3: 2
+  D4: 5
+  D5: 4
+  D6: 3
+重要性: 4
+行动分类: A
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于印发《新疆维吾尔自治区2026年汽车以旧换新补贴实施细则》的通知.md
+extracted_at: '2026-09-23'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
