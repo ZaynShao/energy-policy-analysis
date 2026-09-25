@@ -1,0 +1,23 @@
+pid: P_2026_GD_FGW_f6272862
+themes:
+- equipment_renewal_theme
+primary_theme: equipment_renewal_theme
+comprehensive: false
+scores:
+  D1: 2
+  D2: 2
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 2
+重要性: 2
+行动分类: C
+价值标签:
+- 机会
+sanitized_from: 0_raw/policies/广州市发展和改革委员会转发广东省能源局关于征集节能降碳改造需求的通知.md
+extracted_at: '2026-09-25'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
