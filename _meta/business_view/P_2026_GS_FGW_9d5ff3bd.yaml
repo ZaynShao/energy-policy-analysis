@@ -1,0 +1,23 @@
+pid: P_2026_GS_FGW_9d5ff3bd
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 3
+  D2: 2
+  D3: 2
+  D4: 4
+  D5: 3
+  D6: 1
+重要性: 2
+行动分类: C
+价值标签:
+- 合规
+sanitized_from: 0_raw/policies/兰州市人民政府办公室关于印发《兰州市油气供应...2026-09-16.md
+extracted_at: '2026-10-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
