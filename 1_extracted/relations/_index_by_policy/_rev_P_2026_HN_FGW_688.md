@@ -3,7 +3,7 @@ policy_id: P_2026_HN_FGW_688
 title: 关于推动多用户绿电直连发展有关事项的通知
 inbound_edge_count: 5
 outbound_edge_count: 6
-last_updated: '2026-10-08T02:01:56+08:00'
+last_updated: '2026-10-10T02:00:15+08:00'
 ---
 
 > 政策原文:[[关于推动多用户绿电直连发展有关事项的通知|关于推动多用户绿电直连发展有关事项的通知]]
