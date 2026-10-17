@@ -3,7 +3,7 @@ policy_id: P_2026_NDRC_695
 title: 2026年6月4日国内成品油价格调整
 inbound_edge_count: 5
 outbound_edge_count: 0
-last_updated: '2026-10-17T02:01:31+08:00'
+last_updated: '2026-10-18T02:01:09+08:00'
 ---
 
 > 政策原文:[[2026年6月4日国内成品油价格调整|2026年6月4日国内成品油价格调整]]
