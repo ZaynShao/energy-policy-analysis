@@ -1,0 +1,22 @@
+pid: P_2026_BJ_FGW_837
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于海淀区六郎庄项目HD00-1010-0002、0003、0004地块F3其他类多功能用地项目（A1号酒店楼等22项、B1-1号酒店楼等8项、C1号酒店楼等1.md
+extracted_at: '2026-10-17'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
