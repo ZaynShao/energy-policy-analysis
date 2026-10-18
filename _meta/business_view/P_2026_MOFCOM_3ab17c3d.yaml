@@ -1,0 +1,22 @@
+pid: P_2026_MOFCOM_3ab17c3d
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 4
+  D4: 1
+  D5: 2
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/近日，商务部、工业和信息化部、市场监管总局发布《汽车行业境外竞争行为与合规建设指引》（以下简称《汽车指引》）。商务部对外投资和经济合作司负责人对《汽车指引》进行.md
+extracted_at: '2026-10-18'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
