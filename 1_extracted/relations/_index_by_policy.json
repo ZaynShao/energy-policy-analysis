@@ -14939,6 +14939,11 @@
     "inbound": [
       {
         "from": "P_2026_NX_FGW_35",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_NX_FGW_35",
         "rel": "references",
         "confidence": 0.72
       }
@@ -23107,6 +23112,11 @@
   },
   "P_2026_NX_FGW_35": {
     "outbound": [
+      {
+        "to": "P_2025_NX_f985ec97",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
       {
         "to": "P_2025_NX_f985ec97",
         "rel": "references",
