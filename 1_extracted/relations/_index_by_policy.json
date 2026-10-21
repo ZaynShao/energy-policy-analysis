@@ -9567,6 +9567,11 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_SH_FGW_42",
+        "rel": "aligns_with",
+        "confidence": 0.92
+      },
+      {
         "to": "P_2025_NDRC_136",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -10237,6 +10242,11 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_SH_FGW_42",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
         "to": "P_2015_NDRC_3d821d6e",
         "rel": "cites_basis",
         "confidence": 0.9
@@ -10681,6 +10691,11 @@
         "to": "P_2025_NM_f00c4428",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_SH_FGW_42",
+        "rel": "aligns_with",
+        "confidence": 0.9
       },
       {
         "to": "P_2025_NDRC_136",
@@ -11351,6 +11366,11 @@
         "to": "P_2025_NM_f00c4428",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_SH_FGW_42",
+        "rel": "aligns_with",
+        "confidence": 0.93
       },
       {
         "to": "P_2025_NDRC_136",
@@ -13058,6 +13078,11 @@
         "confidence": 0.9
       },
       {
+        "from": "P_2026_SH_FGW_196",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "from": "P_2026_SC_FGW_184",
         "rel": "clarifies",
         "confidence": 0.86
@@ -13119,6 +13144,11 @@
       },
       {
         "from": "P_2026_SH_FGW_140",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_196",
         "rel": "references",
         "confidence": 0.72
       }
@@ -13217,6 +13247,11 @@
         "from": "P_2026_SH_FGW_140",
         "rel": "references",
         "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_196",
+        "rel": "references",
+        "confidence": 0.72
       }
     ]
   },
@@ -13281,6 +13316,11 @@
       },
       {
         "from": "P_2026_GX_64d2bf01",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2026_SH_FGW_42",
         "rel": "cites_basis",
         "confidence": 0.9
       },
@@ -13355,6 +13395,11 @@
         "confidence": 1.0
       },
       {
+        "from": "P_2026_SH_FGW_42",
+        "rel": "derives_from",
+        "confidence": 0.98
+      },
+      {
         "from": "P_2025_BJ_4",
         "rel": "references",
         "confidence": 0.72
@@ -13426,6 +13471,11 @@
       },
       {
         "from": "P_2026_GX_64d2bf01",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_42",
         "rel": "references",
         "confidence": 0.72
       }
@@ -15200,6 +15250,11 @@
         "to": "P_2025_ZJ_FGW_136",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_SH_FGW_42",
+        "rel": "aligns_with",
+        "confidence": 0.85
       }
     ],
     "inbound": [
@@ -15236,6 +15291,11 @@
         "to": "P_2025_ZJ_FGW_136",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "to": "P_2026_SH_FGW_42",
+        "rel": "aligns_with",
+        "confidence": 0.78
       }
     ],
     "inbound": [
@@ -16174,6 +16234,11 @@
         "confidence": 0.9
       },
       {
+        "from": "P_2026_SH_FGW_42",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "from": "P_2025_NM_f00c4428",
         "rel": "clarifies",
         "confidence": 0.86
@@ -16255,6 +16320,11 @@
       },
       {
         "from": "P_2026_GX_64d2bf01",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_42",
         "rel": "references",
         "confidence": 0.72
       }
@@ -16610,6 +16680,11 @@
         "confidence": 0.9
       },
       {
+        "from": "P_2026_SH_FGW_42",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
         "from": "P_2025_NM_f00c4428",
         "rel": "clarifies",
         "confidence": 0.86
@@ -16696,6 +16771,11 @@
       },
       {
         "from": "P_2026_GX_64d2bf01",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_42",
         "rel": "references",
         "confidence": 0.72
       }
@@ -20570,6 +20650,11 @@
         "from": "P_2026_SH_FGW_140",
         "rel": "references",
         "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_196",
+        "rel": "references",
+        "confidence": 0.72
       }
     ]
   },
@@ -22424,6 +22509,11 @@
         "from": "P_2026_SH_FGW_140",
         "rel": "references",
         "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_196",
+        "rel": "references",
+        "confidence": 0.72
       }
     ]
   },
@@ -22615,6 +22705,11 @@
       },
       {
         "from": "P_2026_SH_FGW_140",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_196",
         "rel": "references",
         "confidence": 0.72
       }
@@ -23049,6 +23144,11 @@
       },
       {
         "from": "P_2026_SH_FGW_140",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "from": "P_2026_SH_FGW_196",
         "rel": "references",
         "confidence": 0.72
       }
@@ -25082,6 +25182,127 @@
         "from": "P_2026_GO_53b1ddc3",
         "rel": "aligns_with",
         "confidence": 0.9
+      },
+      {
+        "from": "P_2026_SH_FGW_196",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
+  "P_2026_SH_FGW_196": {
+    "outbound": [
+      {
+        "to": "P_2025_NDRC_0f4f2da4",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2025_NDRC_0f4f2da4",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2025_NDRC_1192",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_HN_FGW_688",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_NDRC_688",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_NEA_688",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_NX_FGW_1192",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SH_FGW_140",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
+  "P_2026_SH_FGW_42": {
+    "outbound": [
+      {
+        "to": "P_2025_NDRC_136",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2025_ZJ_FGW_136",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2026_BJ_FGW_136",
+        "rel": "cites_basis",
+        "confidence": 0.9
+      },
+      {
+        "to": "P_2025_NDRC_136",
+        "rel": "derives_from",
+        "confidence": 0.98
+      },
+      {
+        "to": "P_2025_NDRC_136",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2025_ZJ_FGW_136",
+        "rel": "references",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_BJ_FGW_136",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2025_CQ_a9a5497c",
+        "rel": "aligns_with",
+        "confidence": 0.92
+      },
+      {
+        "from": "P_2025_GX_583085e4",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
+        "from": "P_2025_HA_57f372bd",
+        "rel": "aligns_with",
+        "confidence": 0.9
+      },
+      {
+        "from": "P_2025_HI_924d5bb2",
+        "rel": "aligns_with",
+        "confidence": 0.93
+      },
+      {
+        "from": "P_2025_SD_b9d7cf01",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
+        "from": "P_2025_SD_e6ccca2a",
+        "rel": "aligns_with",
+        "confidence": 0.78
       }
     ]
   },
