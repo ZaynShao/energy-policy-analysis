@@ -3,7 +3,7 @@ policy_id: P_2026_JS_GOV_e55d3459
 title: 关于2025年度成品油零售企业年检情况的公告
 inbound_edge_count: 1
 outbound_edge_count: 1
-last_updated: '2026-10-22T02:00:46+08:00'
+last_updated: '2026-10-24T02:00:26+08:00'
 ---
 
 > 政策原文:[[关于2025年度成品油零售企业年检情况的公告|关于2025年度成品油零售企业年检情况的公告]]
