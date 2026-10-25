@@ -16861,6 +16861,16 @@
     ],
     "inbound": []
   },
+  "P_2026_BJ_FGW_768": {
+    "outbound": [],
+    "inbound": [
+      {
+        "from": "P_2026_YN_FGW_768",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
+  },
   "P_2026_CQ_0130f748": {
     "outbound": [
       {
@@ -26117,6 +26127,16 @@
       },
       {
         "to": "P_2026_YN_FGW_194",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
+  "P_2026_YN_FGW_768": {
+    "outbound": [
+      {
+        "to": "P_2026_BJ_FGW_768",
         "rel": "references",
         "confidence": 0.72
       }

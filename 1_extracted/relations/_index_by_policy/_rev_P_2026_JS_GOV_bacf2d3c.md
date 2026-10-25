@@ -3,7 +3,7 @@ policy_id: P_2026_JS_GOV_bacf2d3c
 title: 成品油零售经营许可事项变更公告（2026年第29号
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-10-25T02:00:36+08:00'
+last_updated: '2026-10-26T02:00:18+08:00'
 ---
 
 > 政策原文:[[成品油零售经营许可事项变更公告（2026年第29号|成品油零售经营许可事项变更公告（2026年第29号]]
