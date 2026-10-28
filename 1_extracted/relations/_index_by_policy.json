@@ -21043,6 +21043,11 @@
   "P_2026_JS_FGW_50": {
     "outbound": [
       {
+        "to": "P_2026_NX_FGW_b15f8388",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      },
+      {
         "to": "P_2026_NX_FGW_ff0db085",
         "rel": "aligns_with",
         "confidence": 0.9
@@ -21730,6 +21735,11 @@
   },
   "P_2026_LN_FGW_7": {
     "outbound": [
+      {
+        "to": "P_2026_NX_FGW_b15f8388",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
       {
         "to": "P_2025_HL_54f37818",
         "rel": "cites_basis",
@@ -23292,6 +23302,41 @@
       }
     ]
   },
+  "P_2026_NX_FGW_37dbb655": {
+    "outbound": [
+      {
+        "to": "P_2026_SC_FGW_4bde07ec",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
+        "to": "P_2026_SC_FGW_86ffbe46",
+        "rel": "aligns_with",
+        "confidence": 0.63
+      },
+      {
+        "to": "P_2026_SC_FGW_8bb7f430",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_b19620de",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SC_FGW_f3181a1a",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_SX_FGW_10",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_NX_FGW_3ab205f5": {
     "outbound": [
       {
@@ -23566,6 +23611,27 @@
       }
     ],
     "inbound": []
+  },
+  "P_2026_NX_FGW_b15f8388": {
+    "outbound": [
+      {
+        "to": "P_2026_TJ_FGW_f200c0e4",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2026_JS_FGW_50",
+        "rel": "aligns_with",
+        "confidence": 0.75
+      },
+      {
+        "from": "P_2026_LN_FGW_7",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      }
+    ]
   },
   "P_2026_NX_FGW_ba26b8f9": {
     "outbound": [
@@ -24360,6 +24426,11 @@
         "confidence": 0.78
       },
       {
+        "from": "P_2026_NX_FGW_37dbb655",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      },
+      {
         "from": "P_2026_NX_FGW_3ab205f5",
         "rel": "aligns_with",
         "confidence": 0.9
@@ -24436,6 +24507,11 @@
         "confidence": 0.95
       },
       {
+        "from": "P_2026_NX_FGW_37dbb655",
+        "rel": "aligns_with",
+        "confidence": 0.63
+      },
+      {
         "from": "P_2026_NX_FGW_3ab205f5",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -24475,6 +24551,11 @@
         "from": "P_2026_NX_FGW_36aa4747",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_FGW_37dbb655",
+        "rel": "aligns_with",
+        "confidence": 0.72
       },
       {
         "from": "P_2026_NX_FGW_3ab205f5",
@@ -24559,6 +24640,11 @@
     ],
     "inbound": [
       {
+        "from": "P_2026_NX_FGW_37dbb655",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
         "from": "P_2026_NX_FGW_3ab205f5",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -24633,6 +24719,11 @@
         "from": "P_2026_HN_FGW_def26ce0",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_FGW_37dbb655",
+        "rel": "aligns_with",
+        "confidence": 0.72
       },
       {
         "from": "P_2026_NX_FGW_3ab205f5",
@@ -25486,6 +25577,11 @@
         "confidence": 0.95
       },
       {
+        "from": "P_2026_NX_FGW_37dbb655",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
         "from": "P_2026_NX_FGW_3ab205f5",
         "rel": "aligns_with",
         "confidence": 0.95
@@ -25732,6 +25828,11 @@
         "from": "P_2026_JS_FGW_7",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_NX_FGW_b15f8388",
+        "rel": "aligns_with",
+        "confidence": 0.75
       },
       {
         "from": "P_2026_NX_FGW_ff0db085",

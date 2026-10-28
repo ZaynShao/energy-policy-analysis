@@ -3,7 +3,7 @@ policy_id: P_2026_HN_FGW_853
 title: 关于常态化开展绿电直连项目申报的通知
 inbound_edge_count: 3
 outbound_edge_count: 1
-last_updated: '2026-10-26T02:00:18+08:00'
+last_updated: '2026-10-29T02:01:21+08:00'
 ---
 
 > 政策原文:[[关于常态化开展绿电直连项目申报的通知|关于常态化开展绿电直连项目申报的通知]]
