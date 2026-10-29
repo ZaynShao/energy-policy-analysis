@@ -11439,6 +11439,11 @@
         "confidence": 0.95
       },
       {
+        "to": "P_2026_HL_FGW_fb1accb1",
+        "rel": "aligns_with",
+        "confidence": 0.93
+      },
+      {
         "to": "P_2026_JS_FGW_50",
         "rel": "aligns_with",
         "confidence": 0.85
@@ -20311,6 +20316,27 @@
       }
     ]
   },
+  "P_2026_HL_FGW_fb1accb1": {
+    "outbound": [
+      {
+        "to": "P_2026_JS_FGW_50",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
+        "to": "P_2026_TJ_FGW_f200c0e4",
+        "rel": "aligns_with",
+        "confidence": 0.85
+      }
+    ],
+    "inbound": [
+      {
+        "from": "P_2025_HI_9b2f7fea",
+        "rel": "aligns_with",
+        "confidence": 0.93
+      }
+    ]
+  },
   "P_2026_HL_X_5": {
     "outbound": [
       {
@@ -21063,6 +21089,11 @@
         "from": "P_2025_HI_9b2f7fea",
         "rel": "aligns_with",
         "confidence": 0.85
+      },
+      {
+        "from": "P_2026_HL_FGW_fb1accb1",
+        "rel": "aligns_with",
+        "confidence": 0.72
       }
     ]
   },
@@ -25818,6 +25849,11 @@
         "from": "P_2026_HL_FGW_55a128d4",
         "rel": "aligns_with",
         "confidence": 0.9
+      },
+      {
+        "from": "P_2026_HL_FGW_fb1accb1",
+        "rel": "aligns_with",
+        "confidence": 0.85
       },
       {
         "from": "P_2026_JS_FGW_50",
