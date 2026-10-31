@@ -1,0 +1,30 @@
+pid: P_2026_NX_FGW_f7f7ecf7
+themes:
+- petroleum_retail_compliance
+primary_theme: petroleum_retail_compliance
+comprehensive: false
+scores:
+  D1: 3
+  D2: 3
+  D3: 1
+  D4: 5
+  D5: 4
+  D6: 1
+重要性: 3
+行动分类: B
+价值标签:
+- 合规
+影响分析:
+  加油: 正文只有标题和附件（.wps），没有披露调价幅度、生效时点、批发价或炼厂装车价信息，因此我无法判断折扣空间是否发生变化；对油品批发进货成本和商户合规成本均无直接影响。间接观察：市级零售调价公告通常与区域价差窗口相关，但本条正文没有写到这一点，也无从核实
+  充电: 未直接涉及。正文没有提到充电、场站电价或服务费定价的内容
+  电力_储能_V2G_交易: 未直接涉及。正文没有提到现货规则、中长期持仓、售电分成，也没有出现储能、VPP、V2G 或聚合商的相关机制
+行动建议:
+- A 趁早:请银川区域加油业务负责人获取正文附件（《2026年10月29日银川市成品油上调.wps》），提取调价幅度和执行时点，补入区域零售价与批发价差台账，作为折扣空间测算的输入
+- B 研究:对该类市级发改价格监测公告建立固定抓取与归档机制（正文常以附件承载数字），避免因正文空白造成区域价格信号缺失
+didi_impact_one_liner: 这是一条银川市成品油零售调价的程序性公告，正文与附件都没有披露具体数字。它对加油业务只是区域零售价信号，对充电和电力业务没有影响。
+sanitized_from: 0_raw/policies/2026年10月29日银川市成品油价格上调.md
+extracted_at: '2026-10-31'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: true
