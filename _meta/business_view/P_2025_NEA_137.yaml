@@ -1,0 +1,22 @@
+pid: P_2025_NEA_137
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 4
+  D4: 2
+  D5: 1
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/国家能源局综合司关于下达2025年能源领域行业标准制修订计划及外文版翻译计划的通知.md
+extracted_at: '2026-11-07'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
