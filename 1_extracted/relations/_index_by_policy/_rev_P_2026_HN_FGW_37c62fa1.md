@@ -3,7 +3,7 @@ policy_id: P_2026_HN_FGW_37c62fa1
 title: 湖南省虚拟电厂参与电力市场交易实施方案（试行）
 inbound_edge_count: 2
 outbound_edge_count: 0
-last_updated: '2026-11-07T02:00:16+08:00'
+last_updated: '2026-11-10T02:05:27+08:00'
 ---
 
 > 政策原文:[[湖南省虚拟电厂参与电力市场交易实施方案（试行）|湖南省虚拟电厂参与电力市场交易实施方案（试行）]]
