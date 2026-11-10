@@ -3,7 +3,7 @@ policy_id: P_2025_NEA_7
 title: 国家能源局关于七起电网公平开放违规问题的通报
 inbound_edge_count: 19
 outbound_edge_count: 5
-last_updated: '2026-11-10T02:05:27+08:00'
+last_updated: '2026-11-11T02:03:16+08:00'
 ---
 
 > 政策原文:[[国家能源局关于七起电网公平开放违规问题的通报|国家能源局关于七起电网公平开放违规问题的通报]]

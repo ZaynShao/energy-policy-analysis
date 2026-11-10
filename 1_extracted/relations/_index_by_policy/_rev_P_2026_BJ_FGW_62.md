@@ -3,7 +3,7 @@ policy_id: P_2026_BJ_FGW_62
 title: 关于延庆白河抽水蓄能电站项目核准的批复
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-11-10T02:05:27+08:00'
+last_updated: '2026-11-11T02:03:16+08:00'
 ---
 
 > 政策原文:[[关于延庆白河抽水蓄能电站项目核准的批复|关于延庆白河抽水蓄能电站项目核准的批复]]

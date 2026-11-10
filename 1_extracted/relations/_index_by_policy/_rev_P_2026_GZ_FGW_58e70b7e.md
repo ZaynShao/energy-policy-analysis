@@ -3,7 +3,7 @@ policy_id: P_2026_GZ_FGW_58e70b7e
 title: 2026年10月29日24时起贵州成品油价格调整
 inbound_edge_count: 0
 outbound_edge_count: 4
-last_updated: '2026-11-10T02:05:27+08:00'
+last_updated: '2026-11-11T02:03:16+08:00'
 ---
 
 > 政策原文:[[2026年10月29日24时起贵州成品油价格调整|2026年10月29日24时起贵州成品油价格调整]]

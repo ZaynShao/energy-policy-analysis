@@ -3,7 +3,7 @@ policy_id: P_2024_OTHER_NYJ_1044_a
 title: 国家能源局综合司关于启用国家绿证核发交易系统的公告
 inbound_edge_count: 10
 outbound_edge_count: 4
-last_updated: '2026-11-10T02:05:27+08:00'
+last_updated: '2026-11-11T02:03:16+08:00'
 ---
 
 > 政策原文:[[国家能源局综合司关于启用国家绿证核发交易系统的公告|国家能源局综合司关于启用国家绿证核发交易系统的公告]]
