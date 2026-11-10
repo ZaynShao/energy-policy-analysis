@@ -1,0 +1,22 @@
+pid: P_2026_SC_cbe7d98b
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 3
+  D4: 3
+  D5: 3
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/中华人民共和国应急管理部令（第23号）社会消防技术服务管理规定.md
+extracted_at: '2026-11-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score

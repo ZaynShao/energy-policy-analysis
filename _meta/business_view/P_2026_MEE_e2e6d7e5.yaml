@@ -1,0 +1,22 @@
+pid: P_2026_MEE_e2e6d7e5
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 0
+  D5: 0
+  D6: 0
+重要性: 0
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/生态环境部关于2026年9月20日建设项目环境影响评价文件受理情况的公示（核与辐射）.md
+extracted_at: '2026-11-10'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
