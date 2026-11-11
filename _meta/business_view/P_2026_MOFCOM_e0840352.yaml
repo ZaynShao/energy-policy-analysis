@@ -1,0 +1,22 @@
+pid: P_2026_MOFCOM_e0840352
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 1
+  D3: 4
+  D4: 4
+  D5: 2
+  D6: 1
+重要性: 1
+行动分类: C
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/中华人民共和国商务部令二〇二六年第4号 关于继续暂停对韩华海洋株式会社5家美国相关子公司实施反制措施2个月的决定.md
+extracted_at: '2026-11-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score

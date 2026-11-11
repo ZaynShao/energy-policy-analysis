@@ -1,0 +1,22 @@
+pid: P_2026_FJ_FGW_ca0c7018
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 2
+  D3: 2
+  D4: 3
+  D5: 2
+  D6: 1
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于110千伏北黄Ⅰ路等24条电力线路保护区划定公示件.md
+extracted_at: '2026-11-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score

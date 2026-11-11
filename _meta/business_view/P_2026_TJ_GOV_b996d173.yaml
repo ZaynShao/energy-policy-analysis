@@ -1,0 +1,22 @@
+pid: P_2026_TJ_GOV_b996d173
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 2
+  D4: 2
+  D5: 3
+  D6: 2
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/《天津市“十五五”公共机构节能降碳工作方案》印发实施.md
+extracted_at: '2026-11-11'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
