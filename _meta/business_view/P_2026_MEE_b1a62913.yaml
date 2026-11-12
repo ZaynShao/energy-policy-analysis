@@ -1,0 +1,22 @@
+pid: P_2026_MEE_b1a62913
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 0
+  D2: 0
+  D3: 4
+  D4: 1
+  D5: 1
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/生态环境部关于新疆全荣骆驼包煤业有限公司塔城白杨河矿区骆驼包北矿井及选煤厂新建项目（150万吨_年）等5个项目生态环境影响评价文件的拟审查公示.md
+extracted_at: '2026-11-12'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score

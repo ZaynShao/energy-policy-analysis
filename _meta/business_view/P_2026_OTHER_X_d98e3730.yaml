@@ -1,0 +1,22 @@
+pid: P_2026_OTHER_X_d98e3730
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 1
+  D2: 1
+  D3: 3
+  D4: 2
+  D5: 3
+  D6: 1
+重要性: 1
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/交通运输部 农业农村部 国家邮政局关于印发《“四好农村路”与城乡交通运输一体化全国示范县创建管理办法》的通知.md
+extracted_at: '2026-11-12'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score
