@@ -3,7 +3,7 @@ policy_id: P_2026_NX_FGW_f7f7ecf7
 title: 2026年10月29日银川市成品油价格上调
 inbound_edge_count: 6
 outbound_edge_count: 0
-last_updated: '2026-11-13T02:01:58+08:00'
+last_updated: '2026-11-14T02:02:20+08:00'
 ---
 
 > 政策原文:[[2026年10月29日银川市成品油价格上调|2026年10月29日银川市成品油价格上调]]

@@ -3,7 +3,7 @@ policy_id: P_2025_NEA_63798ccc
 title: 国家能源局关于电力市场典型违规问题的通报
 inbound_edge_count: 0
 outbound_edge_count: 1
-last_updated: '2026-11-13T02:01:57+08:00'
+last_updated: '2026-11-14T02:02:20+08:00'
 ---
 
 > 政策原文:[[国家能源局关于电力市场典型违规问题的通报|国家能源局关于电力市场典型违规问题的通报]]

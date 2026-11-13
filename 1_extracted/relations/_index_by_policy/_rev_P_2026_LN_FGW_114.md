@@ -3,7 +3,7 @@ policy_id: P_2026_LN_FGW_114
 title: 关于建立发电侧可靠容量补偿机制的通知
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-11-13T02:01:58+08:00'
+last_updated: '2026-11-14T02:02:20+08:00'
 ---
 
 > 政策原文:[[关于建立发电侧可靠容量补偿机制的通知|关于建立发电侧可靠容量补偿机制的通知]]

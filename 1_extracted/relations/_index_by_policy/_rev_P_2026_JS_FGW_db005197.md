@@ -3,7 +3,7 @@ policy_id: P_2026_JS_FGW_db005197
 title: 江苏省成品油价格调整公告（2026年第19号）
 inbound_edge_count: 0
 outbound_edge_count: 2
-last_updated: '2026-11-13T02:01:58+08:00'
+last_updated: '2026-11-14T02:02:20+08:00'
 ---
 
 > 政策原文:[[江苏省成品油价格调整公告（2026年第19号）|江苏省成品油价格调整公告（2026年第19号）]]
