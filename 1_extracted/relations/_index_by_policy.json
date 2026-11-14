@@ -23237,6 +23237,16 @@
     ],
     "inbound": []
   },
+  "P_2026_HN_FGW_dc2c59ff": {
+    "outbound": [
+      {
+        "to": "P_2026_SH_875645c5",
+        "rel": "aligns_with",
+        "confidence": 0.82
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_HN_FGW_def26ce0": {
     "outbound": [
       {
@@ -25673,6 +25683,16 @@
       }
     ]
   },
+  "P_2026_NDRC_1565": {
+    "outbound": [
+      {
+        "to": "P_2026_NDRC_1593",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ],
+    "inbound": []
+  },
   "P_2026_NDRC_1593": {
     "outbound": [
       {
@@ -25706,7 +25726,13 @@
         "confidence": 0.72
       }
     ],
-    "inbound": []
+    "inbound": [
+      {
+        "from": "P_2026_NDRC_1565",
+        "rel": "references",
+        "confidence": 0.72
+      }
+    ]
   },
   "P_2026_NDRC_520": {
     "outbound": [
@@ -29595,6 +29621,11 @@
         "from": "P_2026_HN_FGW_d237c3d8",
         "rel": "aligns_with",
         "confidence": 0.95
+      },
+      {
+        "from": "P_2026_HN_FGW_dc2c59ff",
+        "rel": "aligns_with",
+        "confidence": 0.82
       },
       {
         "from": "P_2026_SC_FGW_31d5e2d9",
