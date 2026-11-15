@@ -3,7 +3,7 @@ policy_id: P_2026_NX_FGW_ba26b8f9
 title: 宁夏成品油价格调整公告（2026年第09号）
 inbound_edge_count: 3
 outbound_edge_count: 5
-last_updated: '2026-11-15T02:01:06+08:00'
+last_updated: '2026-11-16T02:00:20+08:00'
 ---
 
 > 政策原文:[[宁夏成品油价格调整公告（2026年第09号）|宁夏成品油价格调整公告（2026年第09号）]]
