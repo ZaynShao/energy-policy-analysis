@@ -1,0 +1,22 @@
+pid: P_2026_NDRC_1303
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 2
+  D2: 2
+  D3: 4
+  D4: 3
+  D5: 3
+  D6: 2
+重要性: 2
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/关于重要工业品低价无序竞争成本核算有关事项的通知(发改价格〔2026〕1303号).md
+extracted_at: '2026-11-15'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
+archive: low_score

@@ -1,0 +1,21 @@
+pid: P_2025_FJ_X_d73fd5dc
+themes: []
+primary_theme: ''
+comprehensive: false
+scores:
+  D1: 2
+  D2: 2
+  D3: 5
+  D4: 3
+  D5: 3
+  D6: 2
+重要性: 3
+行动分类: D
+价值标签:
+- 趋势
+sanitized_from: 0_raw/policies/中华人民共和国危险化学品安全法.md
+extracted_at: '2026-11-15'
+extracted_by: scripts/l2_themescore/run_2b.py
+extracted_model: deepseek-v4-flash
+extracted_strategy: 2026-energy-strategy
+gate_passed_deep: false
