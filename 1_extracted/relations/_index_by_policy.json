@@ -10213,6 +10213,16 @@
     ],
     "inbound": []
   },
+  "P_2025_GD_1": {
+    "outbound": [
+      {
+        "to": "P_2026_SH_FGW_b0a82740",
+        "rel": "aligns_with",
+        "confidence": 0.78
+      }
+    ],
+    "inbound": []
+  },
   "P_2025_GD_145": {
     "outbound": [
       {
@@ -23240,6 +23250,11 @@
   "P_2026_HN_FGW_dc2c59ff": {
     "outbound": [
       {
+        "to": "P_2026_NX_FGW_5c6541e7",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      },
+      {
         "to": "P_2026_SH_875645c5",
         "rel": "aligns_with",
         "confidence": 0.82
@@ -27516,6 +27531,16 @@
       }
     ]
   },
+  "P_2026_NX_FGW_5c6541e7": {
+    "outbound": [],
+    "inbound": [
+      {
+        "from": "P_2026_HN_FGW_dc2c59ff",
+        "rel": "aligns_with",
+        "confidence": 0.72
+      }
+    ]
+  },
   "P_2026_NX_FGW_68b61979": {
     "outbound": [
       {
@@ -30043,6 +30068,16 @@
         "from": "P_2026_NX_0320e07e",
         "rel": "aligns_with",
         "confidence": 0.85
+      }
+    ]
+  },
+  "P_2026_SH_FGW_b0a82740": {
+    "outbound": [],
+    "inbound": [
+      {
+        "from": "P_2025_GD_1",
+        "rel": "aligns_with",
+        "confidence": 0.78
       }
     ]
   },
