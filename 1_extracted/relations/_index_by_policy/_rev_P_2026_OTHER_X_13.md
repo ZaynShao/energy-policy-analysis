@@ -3,7 +3,7 @@ policy_id: P_2026_OTHER_X_13
 title: 财政部印发《会计改革与发展“十五五”规划》
 inbound_edge_count: 1
 outbound_edge_count: 1
-last_updated: '2026-11-18T02:01:14+08:00'
+last_updated: '2026-11-19T02:01:27+08:00'
 ---
 
 > 政策原文:[[财政部印发《会计改革与发展“十五五”规划》|财政部印发《会计改革与发展“十五五”规划》]]

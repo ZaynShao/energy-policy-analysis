@@ -3,7 +3,7 @@ policy_id: P_2026_NX_FGW_5c6541e7
 title: 2026年11月12日银川市下调成品油价格
 inbound_edge_count: 1
 outbound_edge_count: 0
-last_updated: '2026-11-18T02:01:14+08:00'
+last_updated: '2026-11-19T02:01:27+08:00'
 ---
 
 > 政策原文:[[2026年11月12日银川市下调成品油价格|2026年11月12日银川市下调成品油价格]]
